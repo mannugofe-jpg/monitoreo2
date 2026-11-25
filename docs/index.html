@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Agenda institucional</title>
+<style>
+  :root{
+    --fondo:#fbfbf9; --panel:#fff; --borde:#e4e2dc; --texto:#1b1a17;
+    --suave:#6d6a62; --acento:#9a3412; --nuevo:#166534; --mod:#9a6b00;
+    --canc:#9f1239; --chip:#f1efe9;
+    color-scheme: light;
+  }
+  @media (prefers-color-scheme: dark){
+    :root{
+      --fondo:#141412; --panel:#1d1d1a; --borde:#32312c; --texto:#edeae2;
+      --suave:#9c9890; --acento:#f0916a; --nuevo:#6ee7a8; --mod:#f3c969;
+      --canc:#fda4af; --chip:#2a2924;
+      color-scheme: dark;
+    }
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--fondo);color:var(--texto);
+    font:16px/1.5 ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+  header{padding:22px 18px 14px;border-bottom:1px solid var(--borde);
+    position:sticky;top:0;background:var(--fondo);z-index:5}
+  h1{margin:0 0 2px;font-size:19px;letter-spacing:-.01em}
+  .meta{font-size:12.5px;color:var(--suave)}
+  .filtros{display:flex;flex-wrap:wrap;gap:8px;margin-top:12px}
+  input,select,button{font:inherit;font-size:14px;padding:7px 10px;
+    border:1px solid var(--borde);border-radius:8px;
+    background:var(--panel);color:var(--texto)}
+  input[type=search]{flex:1 1 220px;min-width:0}
+  button{cursor:pointer}
+  button[aria-pressed=true]{border-color:var(--acento);color:var(--acento)}
+  main{max-width:900px;margin:0 auto;padding:0 18px 60px}
+  .dia{margin-top:26px}
+  .dia h2{position:sticky;top:0;margin:0 0 8px;padding:8px 0;font-size:14px;
+    text-transform:uppercase;letter-spacing:.07em;color:var(--suave);
+    background:var(--fondo);border-bottom:1px solid var(--borde)}
+  .acto{display:grid;grid-template-columns:62px 1fr;gap:12px;padding:12px 0;
+    border-bottom:1px solid var(--borde)}
+  .hora{font-variant-numeric:tabular-nums;font-weight:600;font-size:14px;
+    color:var(--acento);padding-top:1px}
+  .sinhora{color:var(--suave);font-weight:400}
+  .titulo{margin:0 0 3px}
+  .quien{font-size:13.5px;color:var(--suave)}
+  .quien b{color:var(--texto);font-weight:600}
+  .lugar{font-size:13.5px;color:var(--suave);margin-top:2px}
+  .notas{font-size:12.5px;color:var(--suave);margin-top:4px;font-style:italic}
+  .chips{margin-top:6px;display:flex;gap:6px;flex-wrap:wrap;align-items:center}
+  .chip{font-size:11px;letter-spacing:.04em;text-transform:uppercase;
+    padding:2px 7px;border-radius:999px;background:var(--chip);color:var(--suave)}
+  .chip.nuevo{color:var(--nuevo)} .chip.modificado{color:var(--mod)}
+  .chip.cancelado{color:var(--canc)}
+  .chip.tema{color:var(--acento)}
+  .cancelado .titulo{text-decoration:line-through;opacity:.65}
+  a{color:inherit}
+  .vacio{padding:50px 0;text-align:center;color:var(--suave)}
+</style>
+</head>
+<body>
+<header>
+  <h1>Agenda institucional</h1>
+  <div class="meta" id="meta">Cargando…</div>
+  <div class="filtros">
+    <input type="search" id="q" placeholder="Buscar acto, persona o lugar…">
+    <select id="organismo"><option value="">Todos los organismos</option></select>
+    <select id="persona"><option value="">Todas las personas</option></select>
+    <select id="tema"><option value="">Todos los temas</option></select>
+    <button id="soloRelevantes" aria-pressed="true">Solo lo que vigilo</button>
+    <button id="soloCambios" aria-pressed="false">Solo cambios</button>
+    <button id="verCancelados" aria-pressed="false">Ver cancelados</button>
+  </div>
+</header>
+<main id="lista"><div class="vacio">Cargando…</div></main>
+
+<script>
+const DIAS = ["domingo","lunes","martes","miércoles","jueves","viernes","sábado"];
+const MESES = ["enero","febrero","marzo","abril","mayo","junio","julio",
+  "agosto","septiembre","octubre","noviembre","diciembre"];
+let ACTOS = [], estado = {q:"", organismo:"", persona:"", tema:"", relevantes:true, cambios:false, cancelados:false};
+
+function fechaLarga(iso){
+  const d = new Date(iso + "T12:00:00");
+  return DIAS[d.getDay()] + " " + d.getDate() + " de " + MESES[d.getMonth()];
+}
+function esc(s){ return (s||"").replace(/[&<>"]/g, c =>
+  ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c])); }
+
+async function cargar(){
+  try{
+    const r = await fetch("datos/actos.json?v=" + Date.now());
+    const d = await r.json();
+    ACTOS = d.actos || [];
+    const fecha = new Date(d.generado);
+    document.getElementById("meta").textContent =
+      d.total + " actos. Última revisión " + fecha.toLocaleString("es-ES");
+    poblarFiltros();
+    pintar();
+  }catch(e){
+    document.getElementById("lista").innerHTML =
+      '<div class="vacio">Todavía no hay datos. Lanza el recolector.</div>';
+    document.getElementById("meta").textContent = "Sin datos";
+  }
+}
+
+function poblarFiltros(){
+  const unicos = (campo) => [...new Set(ACTOS.map(a => a[campo]).filter(Boolean))].sort();
+  const temas = [...new Set(ACTOS.flatMap(a => a.temas || []))].sort();
+  const selTema = document.getElementById("tema");
+  temas.forEach(v => {
+    const o = document.createElement("option"); o.value = v; o.textContent = v;
+    selTema.appendChild(o);
+  });
+  for (const [id, campo] of [["organismo","organismo"],["persona","persona"]]){
+    const sel = document.getElementById(id);
+    unicos(campo).forEach(v => {
+      const o = document.createElement("option"); o.value = v; o.textContent = v;
+      sel.appendChild(o);
+    });
+  }
+}
+
+function filtrar(){
+  const hoy = new Date().toISOString().slice(0,10);
+  return ACTOS.filter(a => {
+    if (a.fecha < hoy && !estado.q) return false;
+    if (a.estado === "cancelado" && !estado.cancelados) return false;
+    if (estado.cambios && !["nuevo","modificado"].includes(a.estado)) return false;
+    if (estado.relevantes && a.relevante === false) return false;
+    if (estado.tema && !(a.temas || []).includes(estado.tema)) return false;
+    if (estado.organismo && a.organismo !== estado.organismo) return false;
+    if (estado.persona && a.persona !== estado.persona) return false;
+    if (estado.q){
+      const texto = [a.titulo,a.persona,a.cargo,a.lugar,a.organismo].join(" ").toLowerCase();
+      if (!texto.includes(estado.q.toLowerCase())) return false;
+    }
+    return true;
+  });
+}
+
+function pintar(){
+  const datos = filtrar();
+  const lista = document.getElementById("lista");
+  if (!datos.length){
+    lista.innerHTML = '<div class="vacio">Nada que mostrar con estos filtros.</div>';
+    return;
+  }
+  const porDia = {};
+  datos.forEach(a => (porDia[a.fecha] = porDia[a.fecha] || []).push(a));
+  lista.innerHTML = Object.keys(porDia).sort().map(fecha => `
+    <section class="dia">
+      <h2>${fechaLarga(fecha)}</h2>
+      ${porDia[fecha].map(fila).join("")}
+    </section>`).join("");
+}
+
+function fila(a){
+  const chips = [];
+  if (a.estado !== "vigente") chips.push(`<span class="chip ${a.estado}">${a.estado}</span>`);
+  chips.push(`<span class="chip">${esc(a.organismo)}</span>`);
+  (a.temas || []).forEach(t => chips.push(`<span class="chip tema">${esc(t)}</span>`));
+  return `
+  <article class="acto ${a.estado}">
+    <div class="hora ${a.hora ? "" : "sinhora"}">${a.hora || "—"}</div>
+    <div>
+      <p class="titulo">${esc(a.titulo)}</p>
+      <div class="quien"><b>${esc(a.persona)}</b>${a.cargo ? ", " + esc(a.cargo) : ""}</div>
+      ${a.lugar ? `<div class="lugar">↳ ${esc(a.lugar)}</div>` : ""}
+      ${a.notas && a.notas.length ? `<div class="notas">${esc(a.notas.join(" · "))}</div>` : ""}
+      <div class="chips">${chips.join("")}
+        <a class="chip" href="${esc(a.url)}" target="_blank" rel="noopener">fuente</a>
+      </div>
+    </div>
+  </article>`;
+}
+
+document.getElementById("q").addEventListener("input", e => { estado.q = e.target.value; pintar(); });
+document.getElementById("organismo").addEventListener("change", e => { estado.organismo = e.target.value; pintar(); });
+document.getElementById("persona").addEventListener("change", e => { estado.persona = e.target.value; pintar(); });
+document.getElementById("tema").addEventListener("change", e => { estado.tema = e.target.value; pintar(); });
+for (const [id, campo] of [["soloRelevantes","relevantes"],["soloCambios","cambios"],["verCancelados","cancelados"]]){
+  document.getElementById(id).addEventListener("click", e => {
+    estado[campo] = !estado[campo];
+    e.target.setAttribute("aria-pressed", String(estado[campo]));
+    pintar();
+  });
+}
+cargar();
+</script>
+</body>
+</html>

@@ -1,0 +1,164 @@
+# Qué se vigila y dónde.
+#
+# "temas" define grupos de palabras clave con sus variantes en castellano y
+# catalán. Cada fuente declara qué temas y qué personas le interesan. Un acto
+# se marca relevante si casa con alguna persona vigilada o con algún tema.
+# Si una fuente no declara ni temas ni personas, todo lo suyo es relevante.
+
+temas:
+  agua:
+    - agua
+    - aigua
+    - aigu
+    - pluvial
+    - clavegueram
+    - sanejament
+    - saneamiento
+    - potable
+    - hidric
+    - hidrica
+    - hidrico
+    - sequia
+    - sequera
+    - abastament
+    - abastecimiento
+    - depuradora
+    - dessaladora
+    - desaladora
+    - ACA
+    - transvasament
+    - trasvase
+  residuos:
+    - residu
+    - residus
+    - residuo
+    - residuos
+    - incinerador
+    - incineradora
+    - abocador
+    - vertedero
+    - economia circular
+  reciclaje:
+    - recicla
+    - reciclatge
+    - reciclaje
+    - envas
+    - envase
+    - retorn d envasos
+  energia:
+    - energia
+    - energetic
+    - energetica
+    - electric
+    - renovable
+    - fotovoltaic
+    - eolic
+    - eolica
+    - nuclear
+    - xarxa electrica
+    - red electrica
+  plenos:
+    - ple municipal
+    - pleno
+    - plenari
+    - plenario
+    - ple del
+    - ple de la
+    - ple ordinari
+    - ple extraordinari
+    - pleno del
+    - pleno municipal
+    - sessio plenaria
+    - sesion plenaria
+    - comissio
+    - comision informativa
+    - junta de portaveus
+  rueda_prensa:
+    - roda de premsa
+    - rueda de prensa
+    - compareixenca
+    - comparecencia
+    - convocatoria de premsa
+    - convocatoria de prensa
+
+fuentes:
+  - clave: moncloa
+    nombre: Agenda del Gobierno de España
+    organismo: Gobierno de España
+    url: https://www.lamoncloa.gob.es/gobierno/agenda/paginas/agenda.aspx
+    activa: true
+    personas:
+      - Pedro Sánchez
+      - Yolanda Díaz
+      - Carlos Cuerpo
+      - Pablo Bustinduy
+      - Sara Aagesen
+    temas: []
+
+  - clave: generalitat
+    nombre: Agenda del Govern de Catalunya
+    organismo: Generalitat de Catalunya
+    url: https://govern.cat/gov/agenda
+    activa: false
+    personas:
+      - Salvador Illa
+      - Sílvia Paneque
+    temas: [plenos]
+
+  - clave: acn
+    nombre: Previsions de l'ACN
+    organismo: Agència Catalana de Notícies
+    url: https://www.acn.cat/previsions
+    activa: true
+    personas: []
+    temas: [agua, residuos, reciclaje, energia, plenos, rueda_prensa]
+
+  - clave: diba
+    nombre: Agenda de la Diputació de Barcelona
+    organismo: Diputació de Barcelona
+    url: https://www.diba.cat/ca/web/el-diari/agenda/
+    activa: false
+    personas: []
+    temas: [agua, residuos, reciclaje, energia, plenos]
+
+  - clave: ajbcn
+    nombre: Convocatòries de premsa de l'Ajuntament de Barcelona
+    organismo: Ajuntament de Barcelona
+    url: https://ajuntament.barcelona.cat/premsa/category/properes-convocatories/
+    activa: true
+    personas: []
+    temas: []          # vacío a propósito, interesa toda convocatoria
+
+  - clave: asamblea_madrid
+    nombre: Agenda parlamentaria de la Asamblea de Madrid
+    organismo: Asamblea de Madrid
+    url: https://www.asambleamadrid.es/actividad/agenda-parlamentaria
+    activa: false
+    personas: []
+    temas: [agua, residuos, energia, plenos]
+
+  - clave: congreso
+    nombre: Agenda del Congreso de los Diputados
+    organismo: Congreso de los Diputados
+    url: https://www.congreso.es/es/agenda
+    activa: false
+    personas: []
+    temas: [agua, residuos, energia]
+
+  - clave: pp
+    nombre: Agenda del Partido Popular
+    organismo: Partido Popular
+    url: https://www.pp.es/actualidad/agenda/
+    activa: false
+    personas:
+      - Alberto Núñez Feijóo
+    temas: [agua, residuos, energia]
+
+  - clave: vox
+    nombre: Próximos actos de VOX
+    organismo: VOX
+    url: https://www.voxespana.es/proximos-actos
+    activa: false
+    personas:
+      - Santiago Abascal
+    temas: []
