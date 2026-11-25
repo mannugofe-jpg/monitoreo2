@@ -130,7 +130,7 @@ def inspeccionar(url: str) -> None:
     html = r.text
     SALIDA.mkdir(exist_ok=True)
     destino = SALIDA / (nombre_archivo(url) + ".html")
-    destino.write_text(html, encoding="utf-8")
+    destino.write_bytes(r.content)
 
     sopa = BeautifulSoup(html, "lxml")
     for basura in sopa(["script", "style"]):
