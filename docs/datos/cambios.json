@@ -1,1 +1,502 @@
-[]
+[
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T11:40:13+00:00",
+  "id": "0b03bfef5bc4",
+  "fuente": "moncloa",
+  "fecha": "2026-11-24",
+  "hora": "09:00",
+  "persona": "Pedro Sánchez",
+  "titulo": "Es entrevistado en el programa 'Las mañanas de RNE'."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T11:40:13+00:00",
+  "id": "2c29cfc9bb41",
+  "fuente": "moncloa",
+  "fecha": "2026-11-24",
+  "hora": "10:00",
+  "persona": "Pedro Sánchez",
+  "titulo": "Preside la reunión del Consejo de Ministros, que se celebra en el Complejo de la Moncloa."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T11:40:13+00:00",
+  "id": "0e48882312a9",
+  "fuente": "moncloa",
+  "fecha": "2026-11-24",
+  "hora": "10:45",
+  "persona": "Pedro Sánchez",
+  "titulo": "Preside el el acto de entrega de la Encomienda de la Orden del Mérito Civil a Nevenka Fernández, en el Complejo de la Moncloa."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T11:40:13+00:00",
+  "id": "154aec481fc2",
+  "fuente": "moncloa",
+  "fecha": "2026-11-24",
+  "hora": "17:00",
+  "persona": "José Manuel Albares",
+  "titulo": "Se reúne con el alcalde de La Línea de la Concepción (Cádiz), José Juan Franco Rodríguez, en la sede del Ayuntamiento."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T11:40:13+00:00",
+  "id": "c50cddfc684e",
+  "fuente": "moncloa",
+  "fecha": "2026-11-24",
+  "hora": "10:00",
+  "persona": "Margarita Robles",
+  "titulo": "Acompaña a S.M. el Rey, que visita el Centro de Inteligencia y Targeting Aeroespacial y el Mando del Espacio, en la Base Aérea de Torrejón (Madrid)."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T11:40:13+00:00",
+  "id": "0031bbc711ce",
+  "fuente": "moncloa",
+  "fecha": "2026-11-24",
+  "hora": "19:00",
+  "persona": "Margarita Robles",
+  "titulo": "Mantiene una reunión con el jefe de Estado Mayor de la Armada, almirante general Antonio Piñeiro Sánchez, en la sede del Ministerio."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T11:40:13+00:00",
+  "id": "66158107faa6",
+  "fuente": "moncloa",
+  "fecha": "2026-11-24",
+  "hora": "21:30",
+  "persona": "Arcadi España",
+  "titulo": "Es entrevistado en el programa 'La última hora', de La Séptima."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T11:40:13+00:00",
+  "id": "85b852c36166",
+  "fuente": "moncloa",
+  "fecha": "2026-11-24",
+  "hora": "08:00",
+  "persona": "Ángel Víctor Torres",
+  "titulo": "Preside la Comisión Interministerial de Inmigración, en el Complejo de la Moncloa."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T11:40:13+00:00",
+  "id": "9dcd77f9fe33",
+  "fuente": "moncloa",
+  "fecha": "2026-11-24",
+  "hora": "12:30",
+  "persona": "Isabel Rodríguez",
+  "titulo": "Se reúne con la CEO del proyecto Hydnum Steel, Eva Maneiro, en la sede de Llorente y Cuenca, en Madrid."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T11:40:13+00:00",
+  "id": "3ab39a51af3f",
+  "fuente": "moncloa",
+  "fecha": "2026-11-24",
+  "hora": "13:30",
+  "persona": "Pablo Bustinduy",
+  "titulo": "Es entrevistado en el programa 'Al Rojo Vivo', de La Sexta."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T11:40:13+00:00",
+  "id": "ea5e383131bf",
+  "fuente": "moncloa",
+  "fecha": "2026-11-24",
+  "hora": "13:30",
+  "persona": "Ana Redondo",
+  "titulo": "Asiste al pleno del Consejo para la Eliminación de la Discriminación Racial o Étnica (CEDRE), en la sede del Ministerio."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T11:40:13+00:00",
+  "id": "73b274b72529",
+  "fuente": "moncloa",
+  "fecha": "2026-11-25",
+  "hora": "09:00",
+  "persona": "Pedro Sánchez",
+  "titulo": "Es entrevistado en el programa 'La hora de La 1', de TVE."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T11:40:13+00:00",
+  "id": "5729cec3fbfa",
+  "fuente": "moncloa",
+  "fecha": "2026-11-25",
+  "hora": "10:00",
+  "persona": "Carlos Cuerpo",
+  "titulo": "Participa en el acto por el Día Internacional de la Eliminación de la Violencia contra la Mujer, en la subdelegación del Gobierno en Toledo."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T11:40:13+00:00",
+  "id": "ca67be4fa30f",
+  "fuente": "moncloa",
+  "fecha": "2026-11-25",
+  "hora": "19:00",
+  "persona": "Carlos Cuerpo",
+  "titulo": "Preside la entrega de la medalla de oro de la Asociación de técnicos comerciales y economistas del Estado 2026, en la sede del Ministerio de Economía, Comercio y Empresa."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T11:40:13+00:00",
+  "id": "d4422bc2d249",
+  "fuente": "moncloa",
+  "fecha": "2026-11-25",
+  "hora": "18:00",
+  "persona": "José Manuel Albares",
+  "titulo": "Participa en el XI Foro Regional de la Unión por el Mediterráneo (UpM), que se celebra en el Palau de Pedralbes de Barcelona."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T11:40:13+00:00",
+  "id": "b08d12351d2f",
+  "fuente": "moncloa",
+  "fecha": "2026-11-25",
+  "hora": "18:10",
+  "persona": "José Manuel Albares",
+  "titulo": "Recibe a los representantes de los países participantes en el XI Foro Regional de la Unión por el Mediterráneo (UpM), en el Palau de Pedralbes de Barcelona."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T11:40:13+00:00",
+  "id": "d3a7399d3f77",
+  "fuente": "moncloa",
+  "fecha": "2026-11-25",
+  "hora": "18:30",
+  "persona": "José Manuel Albares",
+  "titulo": "Interviene en el segmento de apertura del XI Foro Regional de la Unión por el Mediterráneo (UpM), en el Palau de Pedralbes de Barcelona."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T11:40:13+00:00",
+  "id": "84fd4ed8b90a",
+  "fuente": "moncloa",
+  "fecha": "2026-11-25",
+  "hora": "20:45",
+  "persona": "José Manuel Albares",
+  "titulo": "Participa en la cena de trabajo del XI Foro Regional de la Unión por el Mediterráneo (UpM), en el Palau de Pedralbes de Barcelona."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T11:40:13+00:00",
+  "id": "d96087f26feb",
+  "fuente": "moncloa",
+  "fecha": "2026-11-25",
+  "hora": "11:00",
+  "persona": "Margarita Robles",
+  "titulo": "Acompaña a SS.MM. los Reyes, que visitan la exposición 'Mariana de Austria', junto al presidente federal de la República de Austria, Alexander Van der Bellen, y su esposa Doris Schmidauer, en el Museo Nacional del Prado, en Madrid."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T11:40:13+00:00",
+  "id": "2dece17db232",
+  "fuente": "moncloa",
+  "fecha": "2026-11-25",
+  "hora": "12:45",
+  "persona": "Margarita Robles",
+  "titulo": "Asiste al encuentro de SS.MM. los Reyes con el presidente federal de la República de Austria, Alexander Van der Bellen, en el Palacio de La Zarzuela."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T11:40:13+00:00",
+  "id": "4accc8e75746",
+  "fuente": "moncloa",
+  "fecha": "2026-11-25",
+  "hora": "08:30",
+  "persona": "Jordi Hereu",
+  "titulo": "Es entrevistado en el programa 'Cafè d'idees', de La 2 Cat y Ràdio 4."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T11:40:13+00:00",
+  "id": "d9a65aae6535",
+  "fuente": "moncloa",
+  "fecha": "2026-11-25",
+  "hora": "10:00",
+  "persona": "Luis Planas",
+  "titulo": "Visita la Sociedad Agraria de Transformación (SAT) Daliber, pionera en agricultura ecológica, en Dalías (Almería)."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T11:40:13+00:00",
+  "id": "54463b6617db",
+  "fuente": "moncloa",
+  "fecha": "2026-11-25",
+  "hora": "11:00",
+  "persona": "Luis Planas",
+  "titulo": "Visita un invernadero de pimientos, en Dalías (Almería)."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T11:40:13+00:00",
+  "id": "af1a761fcd0a",
+  "fuente": "moncloa",
+  "fecha": "2026-11-25",
+  "hora": "12:00",
+  "persona": "Luis Planas",
+  "titulo": "Visita la planta desalobradora de la Balsa del Sapo, en Las Norias de Daza, en El Ejido (Almería)."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T11:40:13+00:00",
+  "id": "117c73d6fe57",
+  "fuente": "moncloa",
+  "fecha": "2026-11-25",
+  "hora": "12:30",
+  "persona": "Isabel Rodríguez",
+  "titulo": "Es entrevistada en 'Cadena SER Ciudad Real'."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T11:40:13+00:00",
+  "id": "33d4c62e5d3e",
+  "fuente": "moncloa",
+  "fecha": "2026-11-25",
+  "hora": "13:00",
+  "persona": "Isabel Rodríguez",
+  "titulo": "Es entrevistada en 'Onda Cero Ciudad Real'."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T11:40:13+00:00",
+  "id": "8b894bcdb49c",
+  "fuente": "moncloa",
+  "fecha": "2026-11-25",
+  "hora": "12:00",
+  "persona": "Ana Redondo",
+  "titulo": "Interviene en el acto conmemorativo por el Día Internacional de la Eliminación de la Violencia contra la Mujer, en Teatros Luchana, en Madrid."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T11:40:13+00:00",
+  "id": "7810f7b135e9",
+  "fuente": "acn",
+  "fecha": "2026-11-25",
+  "hora": "04:00",
+  "persona": "",
+  "titulo": "L'ACN fa un repàs de l'evolució demogràfica de Catalunya durant l'etapa Sánchez"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T11:40:13+00:00",
+  "id": "b132a7150604",
+  "fuente": "acn",
+  "fecha": "2026-11-25",
+  "hora": "04:00",
+  "persona": "",
+  "titulo": "L'ACN visita els treballs per permetre l'entrada d'aigua del mar als desguassos de la xarxa de reg del delta de l'Ebre en el marc de la lluita contra la plaga del caragol maçana"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T11:40:13+00:00",
+  "id": "fb24d2e1f785",
+  "fuente": "acn",
+  "fecha": "2026-11-25",
+  "hora": "04:30",
+  "persona": "",
+  "titulo": "L'ACN parla amb el candidat d'Alhora al 29-N sobre el seu programa i les seves expectatives"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T11:40:13+00:00",
+  "id": "cde4559d0b93",
+  "fuente": "acn",
+  "fecha": "2026-11-25",
+  "hora": "04:30",
+  "persona": "",
+  "titulo": "L'ACN parla amb el candidat de Democràcia 21 per Barcelona al 29-N sobre el seu programa i les seves expectatives"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T11:40:13+00:00",
+  "id": "652860be8785",
+  "fuente": "acn",
+  "fecha": "2026-11-25",
+  "hora": "05:00",
+  "persona": "",
+  "titulo": "L'ACN analitza els lemes i els cartells electorals dels principals partits que e spresenten al 29-N"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T11:40:13+00:00",
+  "id": "23395db31646",
+  "fuente": "acn",
+  "fecha": "2026-11-25",
+  "hora": "05:00",
+  "persona": "",
+  "titulo": "L'ACN avança les estrenes cinematogràfiques i en plataformes de la setmana"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T11:40:13+00:00",
+  "id": "ec883214d579",
+  "fuente": "acn",
+  "fecha": "2026-11-25",
+  "hora": "09:45",
+  "persona": "",
+  "titulo": "L’ICAB presenta les dades d’actuacions d’ofici en VIGE i violència masclista dels primers deu mesos del 2026"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T11:40:13+00:00",
+  "id": "91e83d6d192d",
+  "fuente": "acn",
+  "fecha": "2026-11-25",
+  "hora": "10:00",
+  "persona": "",
+  "titulo": "El Teatre Lliure presenta 'EPITAP', de Xavier Bobés Solà"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T11:40:13+00:00",
+  "id": "439d49c26263",
+  "fuente": "acn",
+  "fecha": "2026-11-25",
+  "hora": "10:00",
+  "persona": "",
+  "titulo": "L’Observatori DESCA presenta el primer informe amb dades que demostren la discriminació de la “prioritat nacional” en habitatge"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T11:40:13+00:00",
+  "id": "c8d5db525989",
+  "fuente": "acn",
+  "fecha": "2026-11-25",
+  "hora": "11:00",
+  "persona": "",
+  "titulo": "L’IEC presenta les incorporacions al DIEC del 2026"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T11:40:13+00:00",
+  "id": "cee9e1e2420b",
+  "fuente": "acn",
+  "fecha": "2026-11-25",
+  "hora": "11:00",
+  "persona": "",
+  "titulo": "Atenció als mitjans de CCOO pel 25-N"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T11:40:13+00:00",
+  "id": "db5b2697d606",
+  "fuente": "acn",
+  "fecha": "2026-11-25",
+  "hora": "11:00",
+  "persona": "",
+  "titulo": "La Villarroel presenta l'obra 'El niu'"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T11:40:13+00:00",
+  "id": "f9f438c872c1",
+  "fuente": "acn",
+  "fecha": "2026-11-25",
+  "hora": "11:00",
+  "persona": "",
+  "titulo": "El CCCB presenta l’exposició 'L’era atòmica'"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T11:40:13+00:00",
+  "id": "eec32ff743af",
+  "fuente": "acn",
+  "fecha": "2026-11-25",
+  "hora": "11:00",
+  "persona": "",
+  "titulo": "El president de Junts, Carles Puigdemont, ofereix una roda de premsa a Brussel·les després de l’aplicació definitiva de l’amnistia"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T11:40:13+00:00",
+  "id": "e1453ad7118f",
+  "fuente": "acn",
+  "fecha": "2026-11-25",
+  "hora": "11:30",
+  "persona": "",
+  "titulo": "El Departament d'Agricultura organitza un tast a cegues d'olis per a periodistes i informa de les novetats de la tercera edició dels Premis Nacionals als Millors Olis d’Oliva Verge Extra de Catalunya"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T11:40:13+00:00",
+  "id": "92df2ce554fa",
+  "fuente": "acn",
+  "fecha": "2026-11-25",
+  "hora": "12:00",
+  "persona": "",
+  "titulo": "Acte institucional del 25-N"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T11:40:13+00:00",
+  "id": "107c5311730b",
+  "fuente": "acn",
+  "fecha": "2026-11-25",
+  "hora": "12:15",
+  "persona": "",
+  "titulo": "El president del PPC, Alejandro Fernández, visita Esplugues de Llobregat i fa declaracions"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T11:40:13+00:00",
+  "id": "49a6734c5705",
+  "fuente": "acn",
+  "fecha": "2026-11-25",
+  "hora": "12:30",
+  "persona": "",
+  "titulo": "Presentació dels resultats de l'aplicació Linguatec-IA"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T11:40:13+00:00",
+  "id": "1cb3e62c2a26",
+  "fuente": "acn",
+  "fecha": "2026-11-25",
+  "hora": "12:50",
+  "persona": "",
+  "titulo": "PSC, Junts, ERC, Comuns i CUP convoquen una roda de premsa amb el col·lectiu de Dones Juristes amb motiu del 25-N"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T11:40:13+00:00",
+  "id": "59dbb7cb4bd8",
+  "fuente": "acn",
+  "fecha": "2026-11-25",
+  "hora": "18:30",
+  "persona": "",
+  "titulo": "Manifestació pel 25-N"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T11:40:13+00:00",
+  "id": "0a7716dcdecd",
+  "fuente": "ajbcn",
+  "fecha": "2026-11-25",
+  "hora": "18:30",
+  "persona": "",
+  "titulo": "Jordi Valls participa en l’entrega del Premi Fundació Habitatge Social"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T11:40:13+00:00",
+  "id": "9f7b981b72a2",
+  "fuente": "ajbcn",
+  "fecha": "2026-11-26",
+  "hora": "13:00",
+  "persona": "",
+  "titulo": "Jaume Collboni rep els guanyadors i guanyadores dels Premis Ondas 2026"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T11:40:13+00:00",
+  "id": "1a318fb81b62",
+  "fuente": "ajbcn",
+  "fecha": "2026-11-26",
+  "hora": "18:00",
+  "persona": "",
+  "titulo": "Barcelona encén els llums de Nadal 2026"
+ }
+]
