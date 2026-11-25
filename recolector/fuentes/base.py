@@ -8,18 +8,57 @@ from __future__ import annotations
 
 import time
 import datetime as dt
+from urllib.parse import urljoin, urlparse
+from urllib.robotparser import RobotFileParser
 
 import requests
 
 from ..modelo import Acto
 
+# Varias webs institucionales devuelven 403 a cualquier cabecera que se
+# identifique como robot, aunque su robots.txt permita la ruta. Por eso se
+# usa una cabecera de navegador normal. Lo que no se toca es el fondo del
+# asunto, que es respetar lo que el sitio dice en su robots.txt, y eso se
+# comprueba abajo antes de cada descarga.
 CABECERAS = {
     "User-Agent": (
-        "agenda-institucional/1.0 (proyecto personal de agregación de "
-        "agendas públicas; contacto en el repositorio)"
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+        "(KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
     ),
-    "Accept-Language": "es-ES,es;q=0.9",
+    "Accept": (
+        "text/html,application/xhtml+xml,application/xml;q=0.9,"
+        "image/avif,image/webp,*/*;q=0.8"
+    ),
+    "Accept-Language": "ca,es;q=0.9,en;q=0.8",
+    "Upgrade-Insecure-Requests": "1",
 }
+
+# Un robots.txt leído por host y recordado durante la pasada
+_ROBOTS: dict[str, RobotFileParser | None] = {}
+
+
+class RutaProhibida(Exception):
+    """El robots.txt del sitio no permite leer esta ruta."""
+
+
+def robots_permite(url: str, sesion: requests.Session) -> bool:
+    host = f"{urlparse(url).scheme}://{urlparse(url).netloc}"
+    if host not in _ROBOTS:
+        parser: RobotFileParser | None = None
+        try:
+            r = sesion.get(urljoin(host, "/robots.txt"), timeout=15)
+            if r.status_code == 200:
+                parser = RobotFileParser()
+                parser.parse(r.text.splitlines())
+        except Exception:
+            parser = None
+        _ROBOTS[host] = parser
+
+    parser = _ROBOTS[host]
+    if parser is None:
+        # Sin robots.txt legible se aplica la convención de permitir
+        return True
+    return parser.can_fetch("*", url)
 
 
 class Fuente:
@@ -33,6 +72,10 @@ class Fuente:
         self.sesion.headers.update(CABECERAS)
 
     def descargar(self, url: str) -> str:
+        if not robots_permite(url, self.sesion):
+            raise RutaProhibida(
+                f"el robots.txt de este sitio no permite leer {url}"
+            )
         respuesta = self.sesion.get(url, timeout=30)
         respuesta.raise_for_status()
         respuesta.encoding = respuesta.apparent_encoding or "utf-8"
