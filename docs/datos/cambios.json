@@ -1,6 +1,736 @@
 [
  {
   "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "1bea1a423fdc",
+  "fuente": "generalitat",
+  "fecha": "2026-11-25",
+  "hora": "09:15",
+  "persona": "Salvador Illa",
+  "titulo": "Recepció als participants al Fòrum Internacional de Traductors de Literatura Catalana."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "2587ab7a0e0e",
+  "fuente": "generalitat",
+  "fecha": "2026-11-25",
+  "hora": "12:00",
+  "persona": "Salvador Illa",
+  "titulo": "Acte amb motiu del Dia Internacional per a l'eliminació de la violència vers les dones."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "628e14357277",
+  "fuente": "generalitat",
+  "fecha": "2026-11-25",
+  "hora": "09:00",
+  "persona": "Raúl Moreno Montaña",
+  "titulo": "El conseller Moreno fa una visita territorial al Vallès Oriental."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "4235e449e3a9",
+  "fuente": "generalitat",
+  "fecha": "2026-11-25",
+  "hora": "09:00",
+  "persona": "Albert Dalmau",
+  "titulo": "El conseller Dalmau visita l'Agroparc d'Ametller Origen a Gelida."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "fa9791e8a760",
+  "fuente": "generalitat",
+  "fecha": "2026-11-25",
+  "hora": "09:00",
+  "persona": "Sílvia Paneque i Sureda",
+  "titulo": "La consellera Paneque inaugura la Fira d'Ocupació TreballemGi."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "78dc127b3242",
+  "fuente": "generalitat",
+  "fecha": "2026-11-25",
+  "hora": "09:50",
+  "persona": "Eva Menor Cantador",
+  "titulo": "La consellera Eva Menor és entrevistada a Televisió de Catalunya."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "5aa4f2f2cf9e",
+  "fuente": "generalitat",
+  "fecha": "2026-11-25",
+  "hora": "10:00",
+  "persona": "Òscar Ordeig i Molist",
+  "titulo": "El conseller Ordeig inaugura la Jornada tècnica PRO-FEM 2026."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "ee4d90e24215",
+  "fuente": "generalitat",
+  "fecha": "2026-11-25",
+  "hora": "10:00",
+  "persona": "Alícia Romero",
+  "titulo": "La consellera Romero fa una visita institucional al Pla d'Urgell i la Segarra."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "05f175627b81",
+  "fuente": "generalitat",
+  "fecha": "2026-11-25",
+  "hora": "10:00",
+  "persona": "Jaume Duch",
+  "titulo": "El conseller Duch fa una visita institucional a les instal·lacions de l'empresa SIRT."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "0d219adbc67c",
+  "fuente": "generalitat",
+  "fecha": "2026-11-25",
+  "hora": "10:30",
+  "persona": "Eva Menor Cantador",
+  "titulo": "La consellera Eva Menor és entrevistada a RAC1."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "f72c5fcd9147",
+  "fuente": "generalitat",
+  "fecha": "2026-11-25",
+  "hora": "10:30",
+  "persona": "Sònia Hernández",
+  "titulo": "La consellera Hernández visita l'exposició 'Vectors. Art digital per pensar el futur'."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "918b025c7038",
+  "fuente": "generalitat",
+  "fecha": "2026-11-25",
+  "hora": "11:30",
+  "persona": "Òscar Ordeig i Molist",
+  "titulo": "El conseller Ordeig assisteix a la Jornada de Joves Relleus 2026."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "630e1bb4e402",
+  "fuente": "generalitat",
+  "fecha": "2026-11-25",
+  "hora": "11:30",
+  "persona": "Núria Montserrat",
+  "titulo": "La consellera Montserrat presideix la Comissió de seguiment del Pla d'enfortiment de la llengua catalana."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "086ff0f933f2",
+  "fuente": "generalitat",
+  "fecha": "2026-11-25",
+  "hora": "11:45",
+  "persona": "Sílvia Paneque i Sureda",
+  "titulo": "La consellera Paneque visita la planta tèxtil de la Fundació Formació i Treball."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "ed20a5313083",
+  "fuente": "generalitat",
+  "fecha": "2026-11-25",
+  "hora": "12:00",
+  "persona": "Raúl Moreno Montaña",
+  "titulo": "El conseller Moreno és entrevistat a Ràdio Teletaxi."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "dd2e9c9d71e3",
+  "fuente": "generalitat",
+  "fecha": "2026-11-25",
+  "hora": "13:00",
+  "persona": "Jaume Duch",
+  "titulo": "El conseller Duch es reuneix amb la presidenta de TALEA Capital Partners, Rosa Cañadas."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "bec82b5a8ef9",
+  "fuente": "generalitat",
+  "fecha": "2026-11-25",
+  "hora": "16:00",
+  "persona": "Ramon Espadaler",
+  "titulo": "El conseller Espadaler es reuneix amb la presidenta del Tribunal d'Instància de Barcelona, Cristina Ferrando."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "9e47fbdbcb99",
+  "fuente": "generalitat",
+  "fecha": "2026-11-25",
+  "hora": "16:00",
+  "persona": "Sílvia Paneque",
+  "titulo": "La consellera Paneque visita les obres d'una nova passarel·la sobre la C-17 a Parets del Vallès."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "76a9d0d9a265",
+  "fuente": "generalitat",
+  "fecha": "2026-11-25",
+  "hora": "16:45",
+  "persona": "Òscar Ordeig i Molist",
+  "titulo": "El conseller Ordeig inaugura la jornada tècnica ASOPROVAC."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "8aa856aaab4a",
+  "fuente": "generalitat",
+  "fecha": "2026-11-25",
+  "hora": "17:30",
+  "persona": "Sònia Hernández",
+  "titulo": "La consellera Hernández visita l'exposició 'L'era Atòmica'."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "e429d3535fdf",
+  "fuente": "generalitat",
+  "fecha": "2026-11-25",
+  "hora": "18:00",
+  "persona": "Jaume Duch",
+  "titulo": "El conseller Duch assisteix a la cimera ministerial de la Unió per la Mediterrània (UpM)."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "90180c90888d",
+  "fuente": "generalitat",
+  "fecha": "2026-11-25",
+  "hora": "18:00",
+  "persona": "Eva Menor Cantador",
+  "titulo": "La consellera Menor assisteix a la manifestació commemorativa del 25N."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "1900260b6123",
+  "fuente": "generalitat",
+  "fecha": "2026-11-25",
+  "hora": "18:30",
+  "persona": "Sílvia Paneque",
+  "titulo": "La consellera Paneque participa en la segona edició del Premi Fundació Habitatge Social."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "b4c57ee1bd5d",
+  "fuente": "generalitat",
+  "fecha": "2026-11-25",
+  "hora": "19:30",
+  "persona": "Albert Dalmau",
+  "titulo": "El conseller Dalmau clou la primera jornada del XXV Congrés de Directius CEDE."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "42cf3cf752d3",
+  "fuente": "generalitat",
+  "fecha": "2026-11-25",
+  "hora": "19:30",
+  "persona": "Eva Menor Cantador",
+  "titulo": "La consellera Menor assisteix a la presentació de la pel·lícula 'Sucia'."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "5df05bc92fdf",
+  "fuente": "pp",
+  "fecha": "2026-11-24",
+  "hora": "09:00",
+  "persona": "Borja Sémper",
+  "titulo": "El portavoz nacional y de campaña y vicesecretario de Cultura y Deporte, Borja Sémper, es entrevistado en ‘Las Mañanas de RNE’."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "5fc043d9635e",
+  "fuente": "pp",
+  "fecha": "2026-11-24",
+  "hora": "09:00",
+  "persona": "Paloma Martín",
+  "titulo": "La coordinadora de Vivienda del PP, Paloma Martín, participa en el debate electoral a cuatro sobre vivienda en el programa “Herrera en COPE”."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "21a6e3fac104",
+  "fuente": "pp",
+  "fecha": "2026-11-24",
+  "hora": "09:30",
+  "persona": "Álvaro Queipo",
+  "titulo": "El presidente del PP de Asturias y portavoz parlamentario, Álvaro Queipo, participa en la Junta de Portavoces de la JGPA"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "a6416994f169",
+  "fuente": "pp",
+  "fecha": "2026-11-24",
+  "hora": "09:30",
+  "persona": "Sergio Sayas",
+  "titulo": "El presidente del PP de Navarra, Sergio Sayas, realiza una entrevista al Navarra.com El presidente del PP de Navarra, Sergio Sayas, realiza una entrevista al Navarra.com"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "4ab965b14775",
+  "fuente": "pp",
+  "fecha": "2026-11-24",
+  "hora": "10:00",
+  "persona": "Paco Núñez",
+  "titulo": "El presidente del PP-CLM, Paco Núñez, mantiene un encuentro con los responsables de la Asociación de Empresa Familiar de CLM."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "61aebafb09de",
+  "fuente": "pp",
+  "fecha": "2026-11-24",
+  "hora": "10:25",
+  "persona": "Jaime de los Santos",
+  "titulo": "El Vicesecretario Nacional del PP de Igualdad y Educación, Jaime de los Santos; y la candidata al Congreso de los Diputados, Ángela Pumariega; atienden a los medios, antes de participar en un desayuno informativo con representantes de la comunidad educativa asturiana."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "b4bb79753cb1",
+  "fuente": "pp",
+  "fecha": "2026-11-24",
+  "hora": "10:30",
+  "persona": "",
+  "titulo": "Sayas acompaña en la declaración a medios de la coalición UPN-PP."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "d8b443dd93da",
+  "fuente": "pp",
+  "fecha": "2026-11-24",
+  "hora": "11:00",
+  "persona": "",
+  "titulo": "Cuca Gamarra participa en un acto con la Red Vecinal contra la Violencia de Género."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "dcac1893d257",
+  "fuente": "pp",
+  "fecha": "2026-11-24",
+  "hora": "11:00",
+  "persona": "",
+  "titulo": "Queipo participa. junto al candidato al Senado, Silverio Argüelles; y diputados autonómicos en el acto institucional con motivo al Día Internacional de la Eliminación de la Violencia contra las Mujeres"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "c7f1d58f352d",
+  "fuente": "pp",
+  "fecha": "2026-11-24",
+  "hora": "12:00",
+  "persona": "Alma Ezcurra",
+  "titulo": "La vicesecretaria de Coordinación Sectorial, Alma Ezcurra, atiende a los medios, junto al presidente del PP de Aragón, Jorge Azcón; y el cabeza de lista al Congreso por Teruel, Alberto Herrero."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "15dbd95ea0aa",
+  "fuente": "pp",
+  "fecha": "2026-11-24",
+  "hora": "12:00",
+  "persona": "",
+  "titulo": "Cuca Gamarra asiste al acto institucional con motivo del Día Internacional de la Eliminación de la Violencia contra la Mujer."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "f181e222a576",
+  "fuente": "pp",
+  "fecha": "2026-11-24",
+  "hora": "12:00",
+  "persona": "Alberto Nadal",
+  "titulo": "El vicesecretario de Economía y Desarrollo Sostenible del Partido Popular, Alberto Nadal, visita a la planta de biogás en Valderrobres, junto al presidente de Nuevas Generaciones, Ignacio Dancausa."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "79d02dd516e3",
+  "fuente": "pp",
+  "fecha": "2026-11-24",
+  "hora": "12:00",
+  "persona": "",
+  "titulo": "Paco Núñez asiste al acto institucional con motivo del 25-N."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "1aa0bb64da59",
+  "fuente": "pp",
+  "fecha": "2026-11-24",
+  "hora": "12:15",
+  "persona": "Elías Bendodo",
+  "titulo": "El vicesecretario de Política Autonómica, Municipal y Análisis Electoral, Elías Bendodo, interviene junto al presidente de la ciudad autónoma de Ceuta, Juan Jesús Vivas."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "783aae21b033",
+  "fuente": "pp",
+  "fecha": "2026-11-24",
+  "hora": "12:15",
+  "persona": "Alicia García",
+  "titulo": "La portavoz del PP en el Senado, Alicia García, junto al alcalde y presidente del PP de Salamanca, Carlos García Carbayo, hará declaraciones a los medios."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "3d55410ad67a",
+  "fuente": "pp",
+  "fecha": "2026-11-24",
+  "hora": "12:15",
+  "persona": "Alejandro Fernández",
+  "titulo": "El presidente del Partido Popular de Cataluña, Alejandro Fernández, atenderá a los medios de comunicación en la plaza del Ayuntamiento de Esplugues de Llobregat."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "3eee7489fc8a",
+  "fuente": "pp",
+  "fecha": "2026-11-24",
+  "hora": "12:30",
+  "persona": "",
+  "titulo": "Alicia García y Carlos García Carbayo intervienen en un acto con mujeres en el que también intervendrán mujeres que representan al sector primario y al tercer sector y en el que estarán presentes los candidatos del PP al Congreso y al Senado por Salamanca."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "d02adcd232d0",
+  "fuente": "pp",
+  "fecha": "2026-11-24",
+  "hora": "12:30",
+  "persona": "",
+  "titulo": "Paco Núñez mantiene un encuentro con empresarios del calzado de la localidad."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "8e5e77ccd1c0",
+  "fuente": "pp",
+  "fecha": "2026-11-24",
+  "hora": "12:45",
+  "persona": "",
+  "titulo": "Presidente del Partido Popular de Castilla y León, Alfonso Fernández Mañueco, clausurará mañana en Palencia, un acto electoral con alcaldesas y mujeres portavoces. En ese acto también intervendrán la Presidenta provincial del PP, Ángeles Armiséns y la cabeza de lista al Congreso Milagros Marcos"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "b798a70ea572",
+  "fuente": "pp",
+  "fecha": "2026-11-24",
+  "hora": "13:00",
+  "persona": "Ignacio Dancausa",
+  "titulo": "El presidente de Nuevas Generaciones, Ignacio Dancausa, realiza una entrevista en Radio Matarraña."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "6705a2870a7d",
+  "fuente": "pp",
+  "fecha": "2026-11-24",
+  "hora": "13:00",
+  "persona": "",
+  "titulo": "Sergio Sayas ofrece declaraciones sobre la A15."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "696dadf45c5d",
+  "fuente": "pp",
+  "fecha": "2026-11-24",
+  "hora": "13:30",
+  "persona": "Dolors Montserrat",
+  "titulo": "La vicepresidenta del Grupo PPE en el Parlamento Europeo, Dolors Montserrat, ofrece una rueda de prensa tras la aprobación en la Eurocámara del paquete farmacéutico europeo, del que ha sido ponente."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "5dbf9b5394bd",
+  "fuente": "pp",
+  "fecha": "2026-11-24",
+  "hora": "16:15",
+  "persona": "",
+  "titulo": "Paco Núñez, junto al alcalde de la ciudad, José Julián Gregorio; mantienen un coloquio con empresarios de la ciudad. Al inicio atenderán a los medios de comunicación."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "0abbd697219e",
+  "fuente": "pp",
+  "fecha": "2026-11-24",
+  "hora": "16:30",
+  "persona": "",
+  "titulo": "Jaime de los Santos es entrevistado en Herrera en COPE, de COPE Asturias"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "3916cb027c08",
+  "fuente": "pp",
+  "fecha": "2026-11-24",
+  "hora": "16:30",
+  "persona": "Alberto Nadal",
+  "titulo": "El vicesecretario de Economía y Desarrollo Sostenible del Partido Popular, Alberto Nadal, interviene en un acto con empresarios, autónomos y PYMES, junto al presidente de Nuevas Generaciones, Ignacio Dancausa."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "dda841ae9381",
+  "fuente": "pp",
+  "fecha": "2026-11-24",
+  "hora": "16:45",
+  "persona": "",
+  "titulo": "Jaime de los Santos se reúne con representantes de la Asociación para la Prevención, Reinserción y Atención a la Mujer Prostituida (APRAMP)."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "538fcc8cf351",
+  "fuente": "pp",
+  "fecha": "2026-11-24",
+  "hora": "17:00",
+  "persona": "Juan Bravo",
+  "titulo": "El vicesecretario de Hacienda, Vivienda e Infraestructuras, Juan Bravo, participa en el encuentro-coloquio con jóvenes “Lideremos”."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "7da844560dea",
+  "fuente": "pp",
+  "fecha": "2026-11-24",
+  "hora": "17:00",
+  "persona": "",
+  "titulo": "Sergio Sayas acude a la carpa informativa de la coalición UPNPP."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "aca3fb7cd6d6",
+  "fuente": "pp",
+  "fecha": "2026-11-24",
+  "hora": "17:20",
+  "persona": "Ester Muñoz",
+  "titulo": "La portavoz de campaña del PP y del Grupo Parlamentario Popular en el Congreso, Ester Muñoz, realiza un paseo por la ciudad junto al expresidente del Gobierno, José María Aznar; y al presidente de la gestora de León, Juan Carlos Suárez-Quiñones."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "6e51c001708f",
+  "fuente": "pp",
+  "fecha": "2026-11-24",
+  "hora": "18:00",
+  "persona": "",
+  "titulo": "Paco Núñez será entrevistado en El Archivo de Talavera."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "e7cf4ac80889",
+  "fuente": "pp",
+  "fecha": "2026-11-24",
+  "hora": "18:15",
+  "persona": "Sofía Acedo",
+  "titulo": "La coordinadora de Igualdad del PP, Sofía Acedo, ofrece declaraciones a los medios acompañada por Jaime de los Santos, antes de asistir junto a una delegación de diputados y senadores a la Manifestación del 25N con motivo del Día Internacional de la Eliminación de la Violencia contra la Mujer, convocada por el Movimiento Feminista de Madrid y el Foro de Madrid."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "68acfd4df68e",
+  "fuente": "pp",
+  "fecha": "2026-11-24",
+  "hora": "18:30",
+  "persona": "Alfonso Fernández Mañueco",
+  "titulo": "Alicia García interviene en un mitin con el presidente del PP de Castilla y León, Alfonso Fernández Mañueco; el presidente del PP de Ávila y candidato al Senado, Carlos García; y el candidato del PP al Congreso, Héctor Palencia."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "2892d8041dce",
+  "fuente": "pp",
+  "fecha": "2026-11-24",
+  "hora": "18:30",
+  "persona": "",
+  "titulo": "Mañueco viajará a Ávila para clausurar un acto electoral junto al Presidente provincial, Carlos García y los cadidatos al Senado y al Congreso, Alicia García y Héctor Palencia."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "3dbfa4353168",
+  "fuente": "pp",
+  "fecha": "2026-11-24",
+  "hora": "18:35",
+  "persona": "",
+  "titulo": "Ester Muñoz interviene en un acto público del PP, José María Aznar y Juan Carlos Suárez-Quiñones."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "9430addf5913",
+  "fuente": "pp",
+  "fecha": "2026-11-24",
+  "hora": "18:45",
+  "persona": "Alfonso Rueda",
+  "titulo": "El presidente del PPdeG, Alfonso Rueda, realiza un paseo por el municipio. Posteriormente, mantendrá un encuentro con representantes de la Asociación de Jubilados y Pensionistas de Barbadás."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "556ab8781606",
+  "fuente": "pp",
+  "fecha": "2026-11-24",
+  "hora": "19:00",
+  "persona": "Miguel Tellado",
+  "titulo": "El secretario general del Partido Popular, Miguel Tellado, participa en un acto de campaña en Sevilla, junto al vicesecretario de Hacienda, Vivienda e Infraestructuras Juan Bravo."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "81c350dc1819",
+  "fuente": "pp",
+  "fecha": "2026-11-24",
+  "hora": "19:00",
+  "persona": "",
+  "titulo": "El presidente del PP de Aragón, participa en un mitin, junto a la candidata al Congreso por Zaragoza, Rocío Dívar."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "aa78e2ea91ee",
+  "fuente": "pp",
+  "fecha": "2026-11-24",
+  "hora": "19:00",
+  "persona": "Javier De Andrés",
+  "titulo": "El presidente del PP del País Vasco, Javier De Andrés, participa en la ofrenda floral y concentración que organiza la Asociación Víctimas del Terrorismo junto con la Asociación Plataforma de Apoyo a las Víctimas del Terrorismo (APAVT), en recuerdo de las víctimas del terrorismo."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "de60563edb2c",
+  "fuente": "pp",
+  "fecha": "2026-11-24",
+  "hora": "19:30",
+  "persona": "Alberto Núñez Feijóo",
+  "titulo": "El presidente del Partido Popular y candidato a la Presidencia del Gobierno, Alberto Núñez Feijóo; y la presidenta de la Comunidad de Madrid y del PP regional, Isabel Díaz Ayuso; clausuran un mitin, en el que también intervendrán la candidata número 2 al Congreso por Madrid, Cayetana Álvarez de Toledo; y el alcalde de la capital, José Luis MartínezAlmeida."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "d78cf48fedc3",
+  "fuente": "pp",
+  "fecha": "2026-11-24",
+  "hora": "20:00",
+  "persona": "",
+  "titulo": "Carmen Fúnez interviene en el mitin del PP junto al presidente provincial del partido Miguel Ángel Valverde; y el alcalde del municipio, Leopoldo Sierra."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "f54ab38a4839",
+  "fuente": "pp",
+  "fecha": "2026-11-24",
+  "hora": "20:00",
+  "persona": "Alfredo Canteli",
+  "titulo": "Álvaro Queipo, los candidatos al Congreso, Ángela Pumariega Mario Arias; y el alcalde de Oviedo, Alfredo Canteli, participan en un acto público"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "7503c095ac6a",
+  "fuente": "pp",
+  "fecha": "2026-11-24",
+  "hora": "20:30",
+  "persona": "Patricia Navarro",
+  "titulo": "Elías Bendodo, junto a la presidenta del PP de Málaga, Patricia Navarro; y el candidato al Senado y alcalde del municipio, Francisco Salado; participan en un acto público."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "6cb27656c9a9",
+  "fuente": "pp",
+  "fecha": "2026-11-24",
+  "hora": "20:30",
+  "persona": "",
+  "titulo": "Cuca Gamarra participa una reunión con afiliados y simpatizantes de la comarca junto al presidente del PP de La Rioja, Gonzalo Capellán."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "cf03a7860346",
+  "fuente": "pp",
+  "fecha": "2026-11-24",
+  "hora": "20:30",
+  "persona": "Alfonso Rueda",
+  "titulo": "El presidente del PPdeG, Alfonso Rueda, participa en un mitin."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "fcf0ad6f50b9",
+  "fuente": "pp",
+  "fecha": "2026-11-24",
+  "hora": "20:30",
+  "persona": "Fernando López Miras",
+  "titulo": "El presidente del Partido Popular de la Región de Murcia, Fernando López Miras; el secretario general del PP de la Región, José Miguel Luengo; la candidata al Congreso, Miriam Guardiola; y el candidato al Senado, Antonio Luengo participan en un mitin electoral en San Javier"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "c20b19fd3211",
+  "fuente": "pp",
+  "fecha": "2026-11-24",
+  "hora": "21:00",
+  "persona": "",
+  "titulo": "Juan Bravo mantiene un encuentro con miembros de Nuevas Generaciones de la provincia."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "1500dda9126d",
+  "fuente": "pp",
+  "fecha": "2026-11-24",
+  "hora": "21:00",
+  "persona": "",
+  "titulo": "Cuca Gamarra participa en el debate a cuatro de La 7 de La Rioja."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:22:15+00:00",
+  "id": "fb042fc8f822",
+  "fuente": "pp",
+  "fecha": "2026-11-24",
+  "hora": "21:15",
+  "persona": "Cuca Gamarra",
+  "titulo": "La vicesecretaria de Regeneración Institucional, Cuca Gamarra, atiende a los medios antes de su reunión sectorial con mujeres por el Día Internacional de la Eliminación de la Violencia contra la Mujer."
+ },
+ {
+  "tipo": "alta",
   "momento": "2026-11-25T11:40:13+00:00",
   "id": "0b03bfef5bc4",
   "fuente": "moncloa",

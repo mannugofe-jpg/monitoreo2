@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-25T12:13:44+00:00",
- "total": 50,
+ "generado": "2026-11-25T12:22:15+00:00",
+ "total": 123,
  "actos": [
   {
    "fuente": "moncloa",
@@ -21,7 +21,45 @@
    "id": "85b852c36166",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:13:44+00:00"
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "Borja Sémper",
+   "cargo": "El portavoz nacional y de campaña y vicesecretario de Cultura y Deporte",
+   "fecha": "2026-11-24",
+   "titulo": "El portavoz nacional y de campaña y vicesecretario de Cultura y Deporte, Borja Sémper, es entrevistado en ‘Las Mañanas de RNE’.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "09:00",
+   "lugar": null,
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "5df05bc92fdf",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "Paloma Martín",
+   "cargo": "La coordinadora de Vivienda del PP",
+   "fecha": "2026-11-24",
+   "titulo": "La coordinadora de Vivienda del PP, Paloma Martín, participa en el debate electoral a cuatro sobre vivienda en el programa “Herrera en COPE”.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "09:00",
+   "lugar": null,
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "5fc043d9635e",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
   },
   {
    "fuente": "moncloa",
@@ -42,7 +80,45 @@
    "id": "0b03bfef5bc4",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:13:44+00:00"
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "Álvaro Queipo",
+   "cargo": "El presidente del PP de Asturias y portavoz parlamentario",
+   "fecha": "2026-11-24",
+   "titulo": "El presidente del PP de Asturias y portavoz parlamentario, Álvaro Queipo, participa en la Junta de Portavoces de la JGPA",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "09:30",
+   "lugar": "Oviedo",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "21a6e3fac104",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "Sergio Sayas",
+   "cargo": "El presidente del PP de Navarra",
+   "fecha": "2026-11-24",
+   "titulo": "El presidente del PP de Navarra, Sergio Sayas, realiza una entrevista al Navarra.com El presidente del PP de Navarra, Sergio Sayas, realiza una entrevista al Navarra.com",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "09:30",
+   "lugar": "Pamplona",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "a6416994f169",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
   },
   {
    "fuente": "moncloa",
@@ -63,7 +139,26 @@
    "id": "2c29cfc9bb41",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:13:44+00:00"
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "Paco Núñez",
+   "cargo": "El presidente del PP-CLM",
+   "fecha": "2026-11-24",
+   "titulo": "El presidente del PP-CLM, Paco Núñez, mantiene un encuentro con los responsables de la Asociación de Empresa Familiar de CLM.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "10:00",
+   "lugar": "Toledo",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "4ab965b14775",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
   },
   {
    "fuente": "moncloa",
@@ -82,7 +177,45 @@
    "id": "c50cddfc684e",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:13:44+00:00"
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "Jaime de los Santos",
+   "cargo": "El Vicesecretario Nacional del PP de Igualdad y Educación",
+   "fecha": "2026-11-24",
+   "titulo": "El Vicesecretario Nacional del PP de Igualdad y Educación, Jaime de los Santos; y la candidata al Congreso de los Diputados, Ángela Pumariega; atienden a los medios, antes de participar en un desayuno informativo con representantes de la comunidad educativa asturiana.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "10:25",
+   "lugar": "Oviedo",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "61aebafb09de",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "Sayas acompaña en la declaración a medios de la coalición UPN-PP.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "10:30",
+   "lugar": "Pamplona",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "b4bb79753cb1",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
   },
   {
    "fuente": "moncloa",
@@ -105,7 +238,216 @@
    "id": "0e48882312a9",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:13:44+00:00"
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "Queipo participa. junto al candidato al Senado, Silverio Argüelles; y diputados autonómicos en el acto institucional con motivo al Día Internacional de la Eliminación de la Violencia contra las Mujeres",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "11:00",
+   "lugar": "Llanera",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "dcac1893d257",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "Cuca Gamarra participa en un acto con la Red Vecinal contra la Violencia de Género.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "11:00",
+   "lugar": "Logroño",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "d8b443dd93da",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "Paco Núñez asiste al acto institucional con motivo del 25-N.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "12:00",
+   "lugar": "Fuensalida",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "79d02dd516e3",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "Cuca Gamarra asiste al acto institucional con motivo del Día Internacional de la Eliminación de la Violencia contra la Mujer.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "12:00",
+   "lugar": "Logroño",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "15dbd95ea0aa",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "Alma Ezcurra",
+   "cargo": "La vicesecretaria de Coordinación Sectorial",
+   "fecha": "2026-11-24",
+   "titulo": "La vicesecretaria de Coordinación Sectorial, Alma Ezcurra, atiende a los medios, junto al presidente del PP de Aragón, Jorge Azcón; y el cabeza de lista al Congreso por Teruel, Alberto Herrero.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "12:00",
+   "lugar": "Teruel",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "c7f1d58f352d",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "Alberto Nadal",
+   "cargo": "El vicesecretario de Economía y Desarrollo Sostenible del Partido Popular",
+   "fecha": "2026-11-24",
+   "titulo": "El vicesecretario de Economía y Desarrollo Sostenible del Partido Popular, Alberto Nadal, visita a la planta de biogás en Valderrobres, junto al presidente de Nuevas Generaciones, Ignacio Dancausa.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "12:00",
+   "lugar": "Valderrobres",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "f181e222a576",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "Elías Bendodo",
+   "cargo": "El vicesecretario de Política Autonómica, Municipal y Análisis Electoral",
+   "fecha": "2026-11-24",
+   "titulo": "El vicesecretario de Política Autonómica, Municipal y Análisis Electoral, Elías Bendodo, interviene junto al presidente de la ciudad autónoma de Ceuta, Juan Jesús Vivas.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "12:15",
+   "lugar": "Ceuta",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "1aa0bb64da59",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "Alejandro Fernández",
+   "cargo": "El presidente del Partido Popular de Cataluña",
+   "fecha": "2026-11-24",
+   "titulo": "El presidente del Partido Popular de Cataluña, Alejandro Fernández, atenderá a los medios de comunicación en la plaza del Ayuntamiento de Esplugues de Llobregat.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "12:15",
+   "lugar": "Esplugues de Llobregat",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "3d55410ad67a",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "Alicia García",
+   "cargo": "La portavoz del PP en el Senado",
+   "fecha": "2026-11-24",
+   "titulo": "La portavoz del PP en el Senado, Alicia García, junto al alcalde y presidente del PP de Salamanca, Carlos García Carbayo, hará declaraciones a los medios.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "12:15",
+   "lugar": "Salamanca",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "783aae21b033",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "Paco Núñez mantiene un encuentro con empresarios del calzado de la localidad.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "12:30",
+   "lugar": "Fuensalida",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "d02adcd232d0",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "Alicia García y Carlos García Carbayo intervienen en un acto con mujeres en el que también intervendrán mujeres que representan al sector primario y al tercer sector y en el que estarán presentes los candidatos del PP al Congreso y al Senado por Salamanca.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "12:30",
+   "lugar": "Salamanca",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "3eee7489fc8a",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
   },
   {
    "fuente": "moncloa",
@@ -126,7 +468,64 @@
    "id": "9dcd77f9fe33",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:13:44+00:00"
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "Presidente del Partido Popular de Castilla y León, Alfonso Fernández Mañueco, clausurará mañana en Palencia, un acto electoral con alcaldesas y mujeres portavoces. En ese acto también intervendrán la Presidenta provincial del PP, Ángeles Armiséns y la cabeza de lista al Congreso Milagros Marcos",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "12:45",
+   "lugar": "Palencia",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "8e5e77ccd1c0",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "Sergio Sayas ofrece declaraciones sobre la A15.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "13:00",
+   "lugar": "Agreda",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "6705a2870a7d",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "Ignacio Dancausa",
+   "cargo": "El presidente de Nuevas Generaciones",
+   "fecha": "2026-11-24",
+   "titulo": "El presidente de Nuevas Generaciones, Ignacio Dancausa, realiza una entrevista en Radio Matarraña.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "13:00",
+   "lugar": "Valderrobres",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "b798a70ea572",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
   },
   {
    "fuente": "moncloa",
@@ -147,7 +546,26 @@
    "id": "3ab39a51af3f",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:13:44+00:00"
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "Dolors Montserrat",
+   "cargo": "La vicepresidenta del Grupo PPE en el Parlamento Europeo",
+   "fecha": "2026-11-24",
+   "titulo": "La vicepresidenta del Grupo PPE en el Parlamento Europeo, Dolors Montserrat, ofrece una rueda de prensa tras la aprobación en la Eurocámara del paquete farmacéutico europeo, del que ha sido ponente.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "13:30",
+   "lugar": "Estrasburgo",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "696dadf45c5d",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
   },
   {
    "fuente": "moncloa",
@@ -166,7 +584,121 @@
    "id": "ea5e383131bf",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:13:44+00:00"
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "Paco Núñez, junto al alcalde de la ciudad, José Julián Gregorio; mantienen un coloquio con empresarios de la ciudad. Al inicio atenderán a los medios de comunicación.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "16:15",
+   "lugar": "Talavera de la Reina",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "5dbf9b5394bd",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "Jaime de los Santos es entrevistado en Herrera en COPE, de COPE Asturias",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "16:30",
+   "lugar": null,
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "0abbd697219e",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "Alberto Nadal",
+   "cargo": "El vicesecretario de Economía y Desarrollo Sostenible del Partido Popular",
+   "fecha": "2026-11-24",
+   "titulo": "El vicesecretario de Economía y Desarrollo Sostenible del Partido Popular, Alberto Nadal, interviene en un acto con empresarios, autónomos y PYMES, junto al presidente de Nuevas Generaciones, Ignacio Dancausa.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "16:30",
+   "lugar": "Valderrobres",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "3916cb027c08",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "Jaime de los Santos se reúne con representantes de la Asociación para la Prevención, Reinserción y Atención a la Mujer Prostituida (APRAMP).",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "16:45",
+   "lugar": "Madrid",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "dda841ae9381",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "Sergio Sayas acude a la carpa informativa de la coalición UPNPP.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "17:00",
+   "lugar": "Pamplona",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "7da844560dea",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "Juan Bravo",
+   "cargo": "El vicesecretario de Hacienda, Vivienda e Infraestructuras",
+   "fecha": "2026-11-24",
+   "titulo": "El vicesecretario de Hacienda, Vivienda e Infraestructuras, Juan Bravo, participa en el encuentro-coloquio con jóvenes “Lideremos”.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "17:00",
+   "lugar": "Sevilla",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "538fcc8cf351",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
   },
   {
    "fuente": "moncloa",
@@ -185,7 +717,197 @@
    "id": "154aec481fc2",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:13:44+00:00"
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "Ester Muñoz",
+   "cargo": "La portavoz de campaña del PP y del Grupo Parlamentario Popular en el Congreso",
+   "fecha": "2026-11-24",
+   "titulo": "La portavoz de campaña del PP y del Grupo Parlamentario Popular en el Congreso, Ester Muñoz, realiza un paseo por la ciudad junto al expresidente del Gobierno, José María Aznar; y al presidente de la gestora de León, Juan Carlos Suárez-Quiñones.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "17:20",
+   "lugar": "León",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "aca3fb7cd6d6",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "Paco Núñez será entrevistado en El Archivo de Talavera.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "18:00",
+   "lugar": null,
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "6e51c001708f",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "Sofía Acedo",
+   "cargo": "La coordinadora de Igualdad del PP",
+   "fecha": "2026-11-24",
+   "titulo": "La coordinadora de Igualdad del PP, Sofía Acedo, ofrece declaraciones a los medios acompañada por Jaime de los Santos, antes de asistir junto a una delegación de diputados y senadores a la Manifestación del 25N con motivo del Día Internacional de la Eliminación de la Violencia contra la Mujer, convocada por el Movimiento Feminista de Madrid y el Foro de Madrid.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "18:15",
+   "lugar": "Madrid",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "e7cf4ac80889",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "Mañueco viajará a Ávila para clausurar un acto electoral junto al Presidente provincial, Carlos García y los cadidatos al Senado y al Congreso, Alicia García y Héctor Palencia.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "18:30",
+   "lugar": "Ávila",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "2892d8041dce",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "Alfonso Fernández Mañueco",
+   "cargo": "el presidente del PP de Castilla y León",
+   "fecha": "2026-11-24",
+   "titulo": "Alicia García interviene en un mitin con el presidente del PP de Castilla y León, Alfonso Fernández Mañueco; el presidente del PP de Ávila y candidato al Senado, Carlos García; y el candidato del PP al Congreso, Héctor Palencia.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "18:30",
+   "lugar": "Ávila",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "68acfd4df68e",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "Ester Muñoz interviene en un acto público del PP, José María Aznar y Juan Carlos Suárez-Quiñones.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "18:35",
+   "lugar": "León",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "3dbfa4353168",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "Alfonso Rueda",
+   "cargo": "El presidente del PPdeG",
+   "fecha": "2026-11-24",
+   "titulo": "El presidente del PPdeG, Alfonso Rueda, realiza un paseo por el municipio. Posteriormente, mantendrá un encuentro con representantes de la Asociación de Jubilados y Pensionistas de Barbadás.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "18:45",
+   "lugar": "Bardabás",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "9430addf5913",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "Miguel Tellado",
+   "cargo": "El secretario general del Partido Popular",
+   "fecha": "2026-11-24",
+   "titulo": "El secretario general del Partido Popular, Miguel Tellado, participa en un acto de campaña en Sevilla, junto al vicesecretario de Hacienda, Vivienda e Infraestructuras Juan Bravo.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "19:00",
+   "lugar": "San Juan de Aznalfarache",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "556ab8781606",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "Javier De Andrés",
+   "cargo": "El presidente del PP del País Vasco",
+   "fecha": "2026-11-24",
+   "titulo": "El presidente del PP del País Vasco, Javier De Andrés, participa en la ofrenda floral y concentración que organiza la Asociación Víctimas del Terrorismo junto con la Asociación Plataforma de Apoyo a las Víctimas del Terrorismo (APAVT), en recuerdo de las víctimas del terrorismo.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "19:00",
+   "lugar": "San Sebastián",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "aa78e2ea91ee",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "El presidente del PP de Aragón, participa en un mitin, junto a la candidata al Congreso por Zaragoza, Rocío Dívar.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "19:00",
+   "lugar": "Utebo",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "81c350dc1819",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
   },
   {
    "fuente": "moncloa",
@@ -206,7 +928,199 @@
    "id": "0031bbc711ce",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:13:44+00:00"
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "Alberto Núñez Feijóo",
+   "cargo": "El presidente del Partido Popular y candidato a la Presidencia del Gobierno",
+   "fecha": "2026-11-24",
+   "titulo": "El presidente del Partido Popular y candidato a la Presidencia del Gobierno, Alberto Núñez Feijóo; y la presidenta de la Comunidad de Madrid y del PP regional, Isabel Díaz Ayuso; clausuran un mitin, en el que también intervendrán la candidata número 2 al Congreso por Madrid, Cayetana Álvarez de Toledo; y el alcalde de la capital, José Luis MartínezAlmeida.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "19:30",
+   "lugar": "Madrid",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [
+    "Alberto Núñez Feijóo"
+   ],
+   "relevante": true,
+   "id": "de60563edb2c",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "Carmen Fúnez interviene en el mitin del PP junto al presidente provincial del partido Miguel Ángel Valverde; y el alcalde del municipio, Leopoldo Sierra.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "20:00",
+   "lugar": "Daimiel",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "d78cf48fedc3",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "Alfredo Canteli",
+   "cargo": "el alcalde de Oviedo",
+   "fecha": "2026-11-24",
+   "titulo": "Álvaro Queipo, los candidatos al Congreso, Ángela Pumariega Mario Arias; y el alcalde de Oviedo, Alfredo Canteli, participan en un acto público",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "20:00",
+   "lugar": "Oviedo",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "f54ab38a4839",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "Patricia Navarro",
+   "cargo": "la presidenta del PP de Málaga",
+   "fecha": "2026-11-24",
+   "titulo": "Elías Bendodo, junto a la presidenta del PP de Málaga, Patricia Navarro; y el candidato al Senado y alcalde del municipio, Francisco Salado; participan en un acto público.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "20:30",
+   "lugar": "Rincón de la Victoria",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "7503c095ac6a",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "Fernando López Miras",
+   "cargo": "El presidente del Partido Popular de la Región de Murcia",
+   "fecha": "2026-11-24",
+   "titulo": "El presidente del Partido Popular de la Región de Murcia, Fernando López Miras; el secretario general del PP de la Región, José Miguel Luengo; la candidata al Congreso, Miriam Guardiola; y el candidato al Senado, Antonio Luengo participan en un mitin electoral en San Javier",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "20:30",
+   "lugar": "San Javier",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "fcf0ad6f50b9",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "Cuca Gamarra participa una reunión con afiliados y simpatizantes de la comarca junto al presidente del PP de La Rioja, Gonzalo Capellán.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "20:30",
+   "lugar": "Santo Domingo de la Calzada",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "6cb27656c9a9",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "Alfonso Rueda",
+   "cargo": "El presidente del PPdeG",
+   "fecha": "2026-11-24",
+   "titulo": "El presidente del PPdeG, Alfonso Rueda, participa en un mitin.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "20:30",
+   "lugar": "Verín",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "cf03a7860346",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "Cuca Gamarra participa en el debate a cuatro de La 7 de La Rioja.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "21:00",
+   "lugar": null,
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "1500dda9126d",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "Juan Bravo mantiene un encuentro con miembros de Nuevas Generaciones de la provincia.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "21:00",
+   "lugar": "Mariena del Aljarafe",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "c20b19fd3211",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "Cuca Gamarra",
+   "cargo": "La vicesecretaria de Regeneración Institucional",
+   "fecha": "2026-11-24",
+   "titulo": "La vicesecretaria de Regeneración Institucional, Cuca Gamarra, atiende a los medios antes de su reunión sectorial con mujeres por el Día Internacional de la Eliminación de la Violencia contra la Mujer.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "21:15",
+   "lugar": "Logroño",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "fb042fc8f822",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
   },
   {
    "fuente": "moncloa",
@@ -225,7 +1139,7 @@
    "id": "66158107faa6",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:13:44+00:00"
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
   },
   {
    "fuente": "acn",
@@ -244,7 +1158,7 @@
    "id": "7810f7b135e9",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:13:44+00:00"
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
   },
   {
    "fuente": "acn",
@@ -265,7 +1179,7 @@
    "id": "b132a7150604",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:13:44+00:00"
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
   },
   {
    "fuente": "acn",
@@ -284,7 +1198,7 @@
    "id": "fb24d2e1f785",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:13:44+00:00"
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
   },
   {
    "fuente": "acn",
@@ -303,7 +1217,7 @@
    "id": "cde4559d0b93",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:13:44+00:00"
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
   },
   {
    "fuente": "acn",
@@ -322,7 +1236,7 @@
    "id": "652860be8785",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:13:44+00:00"
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
   },
   {
    "fuente": "acn",
@@ -341,7 +1255,7 @@
    "id": "23395db31646",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:13:44+00:00"
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
   },
   {
    "fuente": "moncloa",
@@ -360,7 +1274,7 @@
    "id": "4accc8e75746",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:13:44+00:00"
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
   },
   {
    "fuente": "moncloa",
@@ -381,7 +1295,95 @@
    "id": "73b274b72529",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:13:44+00:00"
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "generalitat",
+   "organismo": "Generalitat de Catalunya",
+   "persona": "Raúl Moreno Montaña",
+   "cargo": "El conseller de Drets Socials i Inclusió",
+   "fecha": "2026-11-25",
+   "titulo": "El conseller Moreno fa una visita territorial al Vallès Oriental.",
+   "url": "https://govern.cat/gov/agenda",
+   "hora": "09:00",
+   "lugar": null,
+   "notas": [
+    "El conseller de Drets Socials i Inclusió, Raúl Moreno Montaña, farà una visita institucional a l'Ajuntament de Sant Celoni i visitarà la Residència Sauleda, a Sant Antoni de Vilamajor. L'acompanyarà la directora dels Serveis Territorials de Drets Socials i Inclusió a Barcelona, Carme Esquirol Jiméne"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "628e14357277",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "generalitat",
+   "organismo": "Generalitat de Catalunya",
+   "persona": "Albert Dalmau",
+   "cargo": "El conseller de la Presidència",
+   "fecha": "2026-11-25",
+   "titulo": "El conseller Dalmau visita l'Agroparc d'Ametller Origen a Gelida.",
+   "url": "https://govern.cat/gov/agenda",
+   "hora": "09:00",
+   "lugar": "Can Castany - La Ferreria., Gelida",
+   "notas": [
+    "El conseller de la Presidència, Albert Dalmau, visitarà les instal·lacions de l'Agroparc d'Ametller Origen i es reunirà amb els seus representants. Posteriorment, farà una visita institucional al l'Ajuntament de Gelida."
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "4235e449e3a9",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "generalitat",
+   "organismo": "Generalitat de Catalunya",
+   "persona": "Sílvia Paneque i Sureda",
+   "cargo": "La consellera de Territori, Habitatge i Transició Ecològica",
+   "fecha": "2026-11-25",
+   "titulo": "La consellera Paneque inaugura la Fira d'Ocupació TreballemGi.",
+   "url": "https://govern.cat/gov/agenda",
+   "hora": "09:00",
+   "lugar": "Palau Firal (pg. de la Devesa, 34-36)., Girona",
+   "notas": [
+    "La consellera de Territori, Habitatge i Transició Ecològica, Sílvia Paneque i Sureda, inaugurarà la Fira d'Ocupació TreballemGi. El delegat del Govern a Girona, Xavier Guitart, i la directora general d'Equitat en els Treballs i Corresponsabilitat, Saray Espejo Benito, hi aniran."
+   ],
+   "temas": [],
+   "personas_vigiladas": [
+    "Sílvia Paneque"
+   ],
+   "relevante": true,
+   "id": "fa9791e8a760",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "generalitat",
+   "organismo": "Generalitat de Catalunya",
+   "persona": "Salvador Illa",
+   "cargo": "El president de la Generalitat",
+   "fecha": "2026-11-25",
+   "titulo": "Recepció als participants al Fòrum Internacional de Traductors de Literatura Catalana.",
+   "url": "https://govern.cat/gov/agenda",
+   "hora": "09:15",
+   "lugar": "Palau de la Generalitat (Entrada per c. Sant Sever)., Barcelona",
+   "notas": [
+    "El president de la Generalitat, Salvador Illa, acompanyat de la consellera de Cultura, Sónia Hernández, i del conseller de Política Lingüística, Francesc Xavier Vila, rebrà els participants al Fòrum Internacional de Traductors de Literatura Catalana que organitza l'Institut Ramon Llull. L'esdevenime"
+   ],
+   "temas": [],
+   "personas_vigiladas": [
+    "Salvador Illa"
+   ],
+   "relevante": true,
+   "id": "1bea1a423fdc",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
   },
   {
    "fuente": "acn",
@@ -400,7 +1402,49 @@
    "id": "ec883214d579",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:13:44+00:00"
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "generalitat",
+   "organismo": "Generalitat de Catalunya",
+   "persona": "Eva Menor Cantador",
+   "cargo": "La consellera d'Igualtat i Feminisme",
+   "fecha": "2026-11-25",
+   "titulo": "La consellera Eva Menor és entrevistada a Televisió de Catalunya.",
+   "url": "https://govern.cat/gov/agenda",
+   "hora": "09:50",
+   "lugar": "Barcelona",
+   "notas": [
+    "La consellera d'Igualtat i Feminisme, Eva Menor Cantador, serà entrevistada al programa 'Els matins' de Televisió de Catalunya"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "78dc127b3242",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "generalitat",
+   "organismo": "Generalitat de Catalunya",
+   "persona": "Alícia Romero",
+   "cargo": "La consellera d'Economia i Finances",
+   "fecha": "2026-11-25",
+   "titulo": "La consellera Romero fa una visita institucional al Pla d'Urgell i la Segarra.",
+   "url": "https://govern.cat/gov/agenda",
+   "hora": "10:00",
+   "lugar": null,
+   "notas": [
+    "La consellera d'Economia i Finances, Alícia Romero, farà una visita institucional al Pla d'Urgell i la Segarra. La delegada del Govern a Lleida, Núria Gil, acompanyarà la consellera."
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "ee4d90e24215",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
   },
   {
    "fuente": "acn",
@@ -419,7 +1463,7 @@
    "id": "91e83d6d192d",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:13:44+00:00"
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
   },
   {
    "fuente": "acn",
@@ -438,7 +1482,7 @@
    "id": "439d49c26263",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:13:44+00:00"
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
   },
   {
    "fuente": "moncloa",
@@ -459,7 +1503,49 @@
    "id": "d9a65aae6535",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:13:44+00:00"
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "generalitat",
+   "organismo": "Generalitat de Catalunya",
+   "persona": "Jaume Duch",
+   "cargo": "El conseller d'Unió Europea i Acció Exterior",
+   "fecha": "2026-11-25",
+   "titulo": "El conseller Duch fa una visita institucional a les instal·lacions de l'empresa SIRT.",
+   "url": "https://govern.cat/gov/agenda",
+   "hora": "10:00",
+   "lugar": "Instal·lacions de SIRT (c. de Pere IV, 78, 8-1)., Barcelona",
+   "notas": [
+    "El conseller d'Unió Europea i Acció Exterior, Jaume Duch, farà una visita institucional a les instal·lacions de l'empresa SIRT, on es reunirà amb el president executiu del Grup SIRT, David Garriga; la directora de Relacions Institucionals, Edurne Monge, i el director d'Innovació i Desenvolupament de"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "05f175627b81",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "generalitat",
+   "organismo": "Generalitat de Catalunya",
+   "persona": "Òscar Ordeig i Molist",
+   "cargo": "El conseller d'Agricultura, Ramaderia, Pesca i Alimentació",
+   "fecha": "2026-11-25",
+   "titulo": "El conseller Ordeig inaugura la Jornada tècnica PRO-FEM 2026.",
+   "url": "https://govern.cat/gov/agenda",
+   "hora": "10:00",
+   "lugar": "La Llotja (av. de Tortosa, 6)., Lleida",
+   "notas": [
+    "El conseller d'Agricultura, Ramaderia, Pesca i Alimentació, Òscar Ordeig i Molist, inaugurarà la Jornada tècnica PRO-FEM 2026."
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "5aa4f2f2cf9e",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
   },
   {
    "fuente": "moncloa",
@@ -482,7 +1568,49 @@
    "id": "5729cec3fbfa",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:13:44+00:00"
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "generalitat",
+   "organismo": "Generalitat de Catalunya",
+   "persona": "Eva Menor Cantador",
+   "cargo": "La consellera d'Igualtat i Feminisme",
+   "fecha": "2026-11-25",
+   "titulo": "La consellera Eva Menor és entrevistada a RAC1.",
+   "url": "https://govern.cat/gov/agenda",
+   "hora": "10:30",
+   "lugar": "Barcelona",
+   "notas": [
+    "La consellera d'Igualtat i Feminisme, Eva Menor Cantador, serà entrevistada al programa 'El món a RAC1'"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "0d219adbc67c",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "generalitat",
+   "organismo": "Generalitat de Catalunya",
+   "persona": "Sònia Hernández",
+   "cargo": "La consellera de Cultura",
+   "fecha": "2026-11-25",
+   "titulo": "La consellera Hernández visita l'exposició 'Vectors. Art digital per pensar el futur'.",
+   "url": "https://govern.cat/gov/agenda",
+   "hora": "10:30",
+   "lugar": "Museu del Disseny de Barcelona - DHub Barcelona (pl. de les Glòries Catalanes, 38)., Barcelona",
+   "notas": [
+    "La consellera de Cultura, Sònia Hernández, assistirà a la inauguració de l'exposició V ectors. Art digital per pensar el futur , en el marc de la Biennal d'Arts Digitals de Barcelona."
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "f72c5fcd9147",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
   },
   {
    "fuente": "acn",
@@ -501,7 +1629,7 @@
    "id": "c8d5db525989",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:13:44+00:00"
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
   },
   {
    "fuente": "acn",
@@ -520,7 +1648,7 @@
    "id": "cee9e1e2420b",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:13:44+00:00"
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
   },
   {
    "fuente": "acn",
@@ -539,7 +1667,7 @@
    "id": "db5b2697d606",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:13:44+00:00"
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
   },
   {
    "fuente": "acn",
@@ -558,7 +1686,7 @@
    "id": "f9f438c872c1",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:13:44+00:00"
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
   },
   {
    "fuente": "acn",
@@ -579,7 +1707,7 @@
    "id": "eec32ff743af",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:13:44+00:00"
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
   },
   {
    "fuente": "moncloa",
@@ -600,7 +1728,7 @@
    "id": "54463b6617db",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:13:44+00:00"
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
   },
   {
    "fuente": "moncloa",
@@ -619,7 +1747,51 @@
    "id": "d96087f26feb",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:13:44+00:00"
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "generalitat",
+   "organismo": "Generalitat de Catalunya",
+   "persona": "Núria Montserrat",
+   "cargo": "La consellera de Recerca i Universitats",
+   "fecha": "2026-11-25",
+   "titulo": "La consellera Montserrat presideix la Comissió de seguiment del Pla d'enfortiment de la llengua catalana.",
+   "url": "https://govern.cat/gov/agenda",
+   "hora": "11:30",
+   "lugar": "Departament de Recerca i Universitats (Via Laietana, 2)., Barcelona",
+   "notas": [
+    "La consellera de Recerca i Universitats, Núria Montserrat, presidirà la Comissió de seguiment del Pla d'enfortiment de la llengua catalana."
+   ],
+   "temas": [
+    "plenos"
+   ],
+   "personas_vigiladas": [],
+   "relevante": true,
+   "id": "630e1bb4e402",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "generalitat",
+   "organismo": "Generalitat de Catalunya",
+   "persona": "Òscar Ordeig i Molist",
+   "cargo": "El conseller d'Agricultura, Ramaderia, Pesca i Alimentació",
+   "fecha": "2026-11-25",
+   "titulo": "El conseller Ordeig assisteix a la Jornada de Joves Relleus 2026.",
+   "url": "https://govern.cat/gov/agenda",
+   "hora": "11:30",
+   "lugar": "Escola Agrària de Tàrrega (av. Tarragona, s/n)., Tàrrega",
+   "notas": [
+    "El conseller d'Agricultura, Ramaderia, Pesca i Alimentació, Òscar Ordeig i Molist, assistirà a la Jornada de Joves Relleus 2026."
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "918b025c7038",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
   },
   {
    "fuente": "acn",
@@ -638,7 +1810,30 @@
    "id": "e1453ad7118f",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:13:44+00:00"
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "generalitat",
+   "organismo": "Generalitat de Catalunya",
+   "persona": "Sílvia Paneque i Sureda",
+   "cargo": "La consellera de Territori, Habitatge i Transició Ecològica",
+   "fecha": "2026-11-25",
+   "titulo": "La consellera Paneque visita la planta tèxtil de la Fundació Formació i Treball.",
+   "url": "https://govern.cat/gov/agenda",
+   "hora": "11:45",
+   "lugar": "Polígon Industrial Molí de la Potassa (c. Jonqueres, s/n)., Sabadell",
+   "notas": [
+    "La consellera de Territori, Habitatge i Transició Ecològica, Sílvia Paneque i Sureda, visitarà la planta tèxtil de la Fundació Formació i Treball."
+   ],
+   "temas": [],
+   "personas_vigiladas": [
+    "Sílvia Paneque"
+   ],
+   "relevante": true,
+   "id": "086ff0f933f2",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
   },
   {
    "fuente": "acn",
@@ -657,7 +1852,28 @@
    "id": "92df2ce554fa",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:13:44+00:00"
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "generalitat",
+   "organismo": "Generalitat de Catalunya",
+   "persona": "Raúl Moreno Montaña",
+   "cargo": "El conseller de Drets Socials i Inclusió",
+   "fecha": "2026-11-25",
+   "titulo": "El conseller Moreno és entrevistat a Ràdio Teletaxi.",
+   "url": "https://govern.cat/gov/agenda",
+   "hora": "12:00",
+   "lugar": "Estudis de Ràdio Teletaxi (c. de Sant Carles, 40)., Santa Coloma de Gramenet",
+   "notas": [
+    "El conseller de Drets Socials i Inclusió, Raúl Moreno Montaña, serà entrevistat a Ràdio Teletaxi."
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "ed20a5313083",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
   },
   {
    "fuente": "moncloa",
@@ -678,7 +1894,30 @@
    "id": "af1a761fcd0a",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:13:44+00:00"
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "generalitat",
+   "organismo": "Generalitat de Catalunya",
+   "persona": "Salvador Illa",
+   "cargo": "El president de la Generalitat",
+   "fecha": "2026-11-25",
+   "titulo": "Acte amb motiu del Dia Internacional per a l'eliminació de la violència vers les dones.",
+   "url": "https://govern.cat/gov/agenda",
+   "hora": "12:00",
+   "lugar": "Plaça Sant Jaume., Barcelona",
+   "notas": [
+    "El president de la Generalitat, Salvador Illa, acompanyat de la consellera d'Igualtat i Feminisme, Eva Menor, i d'altres membres del Govern, encapçalarà l'acte institucional de commemoració del Dia Internacional per a l'eliminació de la violència vers les dones, organitzat conjuntament per la Genera"
+   ],
+   "temas": [],
+   "personas_vigiladas": [
+    "Salvador Illa"
+   ],
+   "relevante": true,
+   "id": "2587ab7a0e0e",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
   },
   {
    "fuente": "moncloa",
@@ -699,7 +1938,7 @@
    "id": "8b894bcdb49c",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:13:44+00:00"
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
   },
   {
    "fuente": "acn",
@@ -718,7 +1957,7 @@
    "id": "107c5311730b",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:13:44+00:00"
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
   },
   {
    "fuente": "moncloa",
@@ -737,7 +1976,7 @@
    "id": "117c73d6fe57",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:13:44+00:00"
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
   },
   {
    "fuente": "acn",
@@ -756,7 +1995,7 @@
    "id": "49a6734c5705",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:13:44+00:00"
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
   },
   {
    "fuente": "moncloa",
@@ -775,7 +2014,7 @@
    "id": "2dece17db232",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:13:44+00:00"
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
   },
   {
    "fuente": "acn",
@@ -796,7 +2035,7 @@
    "id": "1cb3e62c2a26",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:13:44+00:00"
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
   },
   {
    "fuente": "moncloa",
@@ -815,7 +2054,114 @@
    "id": "33d4c62e5d3e",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:13:44+00:00"
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "generalitat",
+   "organismo": "Generalitat de Catalunya",
+   "persona": "Jaume Duch",
+   "cargo": "El conseller d'Unió Europea i Acció Exterior",
+   "fecha": "2026-11-25",
+   "titulo": "El conseller Duch es reuneix amb la presidenta de TALEA Capital Partners, Rosa Cañadas.",
+   "url": "https://govern.cat/gov/agenda",
+   "hora": "13:00",
+   "lugar": "C. de la Pietat, 2., Barcelona",
+   "notas": [
+    "El conseller d'Unió Europea i Acció Exterior, Jaume Duch, es reunirà amb la presidenta de TALEA Capital Partners, Rosa Cañadas."
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "dd2e9c9d71e3",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "generalitat",
+   "organismo": "Generalitat de Catalunya",
+   "persona": "Ramon Espadaler",
+   "cargo": "El conseller de Justícia i Qualitat Democràtica",
+   "fecha": "2026-11-25",
+   "titulo": "El conseller Espadaler es reuneix amb la presidenta del Tribunal d'Instància de Barcelona, Cristina Ferrando.",
+   "url": "https://govern.cat/gov/agenda",
+   "hora": "16:00",
+   "lugar": "Departament de Justícia i Qualitat Democràtica. Districte Administratiu (c. Foc, 57)., Barcelona",
+   "notas": [
+    "El conseller de Justícia i Qualitat Democràtica, Ramon Espadaler, acompanyat de la secretària general, Maite Casado, es reunirà amb la presidenta del Tribunal d'Instància de Barcelona, Cristina Ferrando."
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "bec82b5a8ef9",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "generalitat",
+   "organismo": "Generalitat de Catalunya",
+   "persona": "Sílvia Paneque",
+   "cargo": "La consellera de Territori, Habitatge i Transició Ecològica",
+   "fecha": "2026-11-25",
+   "titulo": "La consellera Paneque visita les obres d'una nova passarel·la sobre la C-17 a Parets del Vallès.",
+   "url": "https://govern.cat/gov/agenda",
+   "hora": "16:00",
+   "lugar": "Rotonda costat Parets del Vallès de l'enllaç entre la C-35 i C-17., Parets del Vallès",
+   "notas": [
+    "La consellera de Territori, Habitatge i Transició Ecològica, Sílvia Paneque, visitarà les obres d'una nova passarel·la per a vianants i ciclistes sobre la C-17."
+   ],
+   "temas": [],
+   "personas_vigiladas": [
+    "Sílvia Paneque"
+   ],
+   "relevante": true,
+   "id": "9e47fbdbcb99",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "generalitat",
+   "organismo": "Generalitat de Catalunya",
+   "persona": "Òscar Ordeig i Molist",
+   "cargo": "El conseller d'Agricultura, Ramaderia, Pesca i Alimentació",
+   "fecha": "2026-11-25",
+   "titulo": "El conseller Ordeig inaugura la jornada tècnica ASOPROVAC.",
+   "url": "https://govern.cat/gov/agenda",
+   "hora": "16:45",
+   "lugar": "Palau de Congressos de la Llotja de Lleida (av. de Tortosa, 4)., Lleida",
+   "notas": [
+    "El conseller d'Agricultura, Ramaderia, Pesca i Alimentació, Òscar Ordeig i Molist, inaugurarà la jornada tècnica ASOPROVAC."
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "76a9d0d9a265",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "generalitat",
+   "organismo": "Generalitat de Catalunya",
+   "persona": "Sònia Hernández",
+   "cargo": "La consellera de Cultura",
+   "fecha": "2026-11-25",
+   "titulo": "La consellera Hernández visita l'exposició 'L'era Atòmica'.",
+   "url": "https://govern.cat/gov/agenda",
+   "hora": "17:30",
+   "lugar": "Centre de Cultura Contemporània de Barcelona - CCCB (c. Montalegre, 5)., Barcelona",
+   "notas": [
+    "La consellera de Cultura, Sònia Hernández, farà una visita institucional a l'exposició L'era Atòmica , que explora com l'art i la cultura han representat els descobriments sobre l'àtom i la radioactivitat, així com l'impacte que l'energia nuclear encara té en el present i el futur del planeta."
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "8aa856aaab4a",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
   },
   {
    "fuente": "moncloa",
@@ -834,7 +2180,49 @@
    "id": "d4422bc2d249",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:13:44+00:00"
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "generalitat",
+   "organismo": "Generalitat de Catalunya",
+   "persona": "Jaume Duch",
+   "cargo": "El conseller d'Unió Europea i Acció Exterior",
+   "fecha": "2026-11-25",
+   "titulo": "El conseller Duch assisteix a la cimera ministerial de la Unió per la Mediterrània (UpM).",
+   "url": "https://govern.cat/gov/agenda",
+   "hora": "18:00",
+   "lugar": "Palau de Pedralbes (av. Diagonal, 686)., Barcelona",
+   "notas": [
+    "El conseller d'Unió Europea i Acció Exterior, Jaume Duch, assistirà a la cimera ministerial de la Unió per la Mediterrània (UpM)."
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "e429d3535fdf",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "generalitat",
+   "organismo": "Generalitat de Catalunya",
+   "persona": "Eva Menor Cantador",
+   "cargo": "La consellera d'Igualtat i Feminisme",
+   "fecha": "2026-11-25",
+   "titulo": "La consellera Menor assisteix a la manifestació commemorativa del 25N.",
+   "url": "https://govern.cat/gov/agenda",
+   "hora": "18:00",
+   "lugar": "Pl. Universitat., Barcelona",
+   "notas": [
+    "La consellera d'Igualtat i Feminisme, Eva Menor Cantador, assistirà a la manifestació commemorativa del 25N. L'acompanyarà la secretària d'Igualtat de Drets i No-discriminació del departament d'Igualtat i Feminisme, Gina Pol Borràs."
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "90180c90888d",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
   },
   {
    "fuente": "moncloa",
@@ -853,7 +2241,7 @@
    "id": "b08d12351d2f",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:13:44+00:00"
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
   },
   {
    "fuente": "acn",
@@ -872,7 +2260,30 @@
    "id": "59dbb7cb4bd8",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:13:44+00:00"
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "generalitat",
+   "organismo": "Generalitat de Catalunya",
+   "persona": "Sílvia Paneque",
+   "cargo": "La consellera de Territori, Habitatge i Transició Ecològica",
+   "fecha": "2026-11-25",
+   "titulo": "La consellera Paneque participa en la segona edició del Premi Fundació Habitatge Social.",
+   "url": "https://govern.cat/gov/agenda",
+   "hora": "18:30",
+   "lugar": "Casa del Mar de Barcelona (c. d'Albareda, 1-13)., Barcelona",
+   "notas": [
+    "La consellera de Territori, Habitatge i Transició Ecològica, Sílvia Paneque, participarà en la segona edició del Premi Fundació Habitatge Social, un guardó que posa el focus en aquells projectes que entenen l'habitatge com molt més que un sostre: una llar des d'on recuperar l'estabilitat, construir "
+   ],
+   "temas": [],
+   "personas_vigiladas": [
+    "Sílvia Paneque"
+   ],
+   "relevante": true,
+   "id": "1900260b6123",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
   },
   {
    "fuente": "moncloa",
@@ -893,7 +2304,7 @@
    "id": "d3a7399d3f77",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:13:44+00:00"
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
   },
   {
    "fuente": "ajbcn",
@@ -914,7 +2325,7 @@
    "id": "0a7716dcdecd",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:13:44+00:00"
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
   },
   {
    "fuente": "moncloa",
@@ -935,7 +2346,49 @@
    "id": "ca67be4fa30f",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:13:44+00:00"
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "generalitat",
+   "organismo": "Generalitat de Catalunya",
+   "persona": "Albert Dalmau",
+   "cargo": "El conseller de la Presidència",
+   "fecha": "2026-11-25",
+   "titulo": "El conseller Dalmau clou la primera jornada del XXV Congrés de Directius CEDE.",
+   "url": "https://govern.cat/gov/agenda",
+   "hora": "19:30",
+   "lugar": "Av. de Francesc Ferrer i Guàrdia, 6-8., Barcelona",
+   "notas": [
+    "El conseller de la Presidència, Albert Dalmau, participarà en l'acte de cloenda de la primera jornada del XXV Congrés de Directius CEDE."
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "b4c57ee1bd5d",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+  },
+  {
+   "fuente": "generalitat",
+   "organismo": "Generalitat de Catalunya",
+   "persona": "Eva Menor Cantador",
+   "cargo": "La consellera d'Igualtat i Feminisme",
+   "fecha": "2026-11-25",
+   "titulo": "La consellera Menor assisteix a la presentació de la pel·lícula 'Sucia'.",
+   "url": "https://govern.cat/gov/agenda",
+   "hora": "19:30",
+   "lugar": "Cinesa Diagonal (c. de Santa Fe de Nou Mèxic, s/n)., Barcelona",
+   "notas": [
+    "La consellera d'Igualtat i Feminisme, Eva Menor Cantador, assistirà a la presentació de la pel·lícula Sucia, un documental que aborda les conseqüències de les violències sexuals a partir de l'experiència personal de l'actriu i dramaturga Bàrbara Mestanza."
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "42cf3cf752d3",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:22:15+00:00",
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
   },
   {
    "fuente": "moncloa",
@@ -954,7 +2407,7 @@
    "id": "84fd4ed8b90a",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:13:44+00:00"
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
   },
   {
    "fuente": "ajbcn",
@@ -975,7 +2428,7 @@
    "id": "9f7b981b72a2",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:13:44+00:00"
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
   },
   {
    "fuente": "ajbcn",
@@ -996,7 +2449,7 @@
    "id": "1a318fb81b62",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:13:44+00:00"
+   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
   }
  ]
 }
