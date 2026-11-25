@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-25T13:09:03+00:00",
- "total": 243,
+ "generado": "2026-11-25T13:13:46+00:00",
+ "total": 359,
  "actos": [
   {
    "fuente": "diba",
@@ -22,7 +22,7 @@
    "id": "de4ef439bc6d",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -44,7 +44,7 @@
    "id": "f24addf25b87",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -66,7 +66,7 @@
    "id": "d2505004daec",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -88,7 +88,7 @@
    "id": "c9a94dc71e62",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -110,7 +110,7 @@
    "id": "0cece7835a17",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -132,7 +132,7 @@
    "id": "e1306ad193e2",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -156,7 +156,7 @@
    "id": "025e5bf01922",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -178,7 +178,7 @@
    "id": "2a30a89ce029",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -200,7 +200,7 @@
    "id": "12f8ce7026ff",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -222,7 +222,7 @@
    "id": "0034abe840ca",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -244,7 +244,7 @@
    "id": "32d57858875d",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "parlament",
@@ -263,7 +263,7 @@
    "id": "eb5e27bf532e",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -285,7 +285,7 @@
    "id": "a24c17a61c63",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "parlament",
@@ -308,7 +308,7 @@
    "id": "9b550e659e24",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -330,7 +330,7 @@
    "id": "553141ae54aa",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -351,7 +351,51 @@
    "id": "1eaeb9bd5d60",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "El Colegio Notarial de Cataluña da a conocer el inventario de la herencia del arquitecto Antoni Gaudí, que pasa a ser público al cumplirse los 100 años de su muerte",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/",
+   "hora": "07:00",
+   "lugar": "Barcelona",
+   "notas": [
+    "CULTURA Y TENDENCIAS",
+    "HERENCIA GAUDÍ"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "eed5f6d2a7d3",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "La Comisión Interministerial de Inmigración se reúne con la participación del presidente de Canarias, Fernando Clavijo, para analizar la situación en las islas. Palacio de la Moncloa",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/",
+   "hora": "08:00",
+   "lugar": "Madrid",
+   "notas": [
+    "SOCIEDAD",
+    "INMIGRACIÓN CANARIAS"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "a8b8fd9bf1bc",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "moncloa",
@@ -372,7 +416,7 @@
    "id": "85b852c36166",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "pp",
@@ -391,7 +435,7 @@
    "id": "5df05bc92fdf",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "pp",
@@ -410,7 +454,7 @@
    "id": "5fc043d9635e",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "moncloa",
@@ -431,7 +475,51 @@
    "id": "0b03bfef5bc4",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "La Fundación HelpAge International España presenta la guía 'Violencia de género contra mujeres mayores' en una jornada que inaugura la directora general del Imserso, María Teresa Sancho. Sede del Imserso",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/",
+   "hora": "09:00",
+   "lugar": "Madrid",
+   "notas": [
+    "SOCIEDAD",
+    "VIOLENCIA MACHISTA"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "ea71076972c8",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "Acto en el Senado por el Día Internacional de la eliminación de la Violencia contra la Mujer. Senado",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/",
+   "hora": "09:00",
+   "lugar": "Madrid",
+   "notas": [
+    "SOCIEDAD",
+    "VIOLENCIA MACHISTA"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "f1a584b48578",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -453,7 +541,97 @@
    "id": "0e8c9539f194",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "El exsubsecretario de la Conselleria de Justicia de la Comunitat Valenciana Ricardo García está citado a declarar como investigado por la filtración cortada de una llamada entre la Agencia Estatal de Meteorología (Aemet) y Emergencias de la Generalitat el día de la dana de octubre de 2024. Juzgado de Instrucción 6",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/",
+   "hora": "09:15",
+   "lugar": "Llíria (Valencia)",
+   "notas": [
+    "JUSTICIA Y SEGURIDAD",
+    "DANA JUSTICIA"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "2d6c078ca78a",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "Reunión del Consejo de Ministros. Rueda de prensa posterior",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/",
+   "hora": "09:30",
+   "lugar": "Madrid",
+   "notas": [
+    "POLÍTICA",
+    "CONSEJO MINISTROS"
+   ],
+   "temas": [
+    "rueda_prensa"
+   ],
+   "personas_vigiladas": [],
+   "relevante": true,
+   "id": "a6aa40537549",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "El Consejo de Ministro aprueba la prórroga del impuesto a la banca",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/",
+   "hora": "09:30",
+   "lugar": "Madrid",
+   "notas": [
+    "ECONOMÍA",
+    "IMPUESTO BANCA"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "086794a44943",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "El Consejo de Ministros aprueba tres decretos para bajar las ratios en las aulas de 0 a 3 años, en segundo ciclo de Infantil y en Bachillerato, frenar la FP 'online' y exigir nuevos requisitos a los centros privados. Moncloa",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/",
+   "hora": "09:30",
+   "lugar": "Madrid",
+   "notas": [
+    "SOCIEDAD",
+    "GOBIERNO EDUCACIÓN"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "cbd924b2659e",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "pp",
@@ -472,7 +650,7 @@
    "id": "21a6e3fac104",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "pp",
@@ -491,7 +669,7 @@
    "id": "a6416994f169",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "parlament",
@@ -510,7 +688,53 @@
    "id": "a4e2a675cd84",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "Las jornadas TIIM (Turismo & Industria Musical) analizan las dinámicas del turismo musical y su importancia en el desarrollo social, cultural y económico. Roig Arena",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/",
+   "hora": "09:30",
+   "lugar": "València",
+   "notas": [
+    "CULTURA Y TENDENCIAS",
+    "TURISMO MUSICAL"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "08e881700276",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "Apertura del primer congreso en España dedicado específicamente al vehículo eléctrico y conectado, AUCON. Mobiliity City",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/",
+   "hora": "09:30",
+   "lugar": "Zaragoza",
+   "notas": [
+    "ECONOMÍA",
+    "VEHÍCULO ELÉCTRICO"
+   ],
+   "temas": [
+    "energia"
+   ],
+   "personas_vigiladas": [],
+   "relevante": true,
+   "id": "c050c3a73bb9",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "moncloa",
@@ -531,7 +755,229 @@
    "id": "2c29cfc9bb41",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "El cabeza de lista de Vox al Congreso por Barcelona, Juan José Aizcorbe, participa en el ciclo de ruedas de prensa con los candidatos catalanes que organiza EFE con motivo de las elecciones generales. EFE (C/ Bolivia, 56)",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/",
+   "hora": "10:00",
+   "lugar": "Barcelona",
+   "notas": [
+    "ELECCIONES CAMPAÑA",
+    "ELECCIONES VOX"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "d4c6cb0f8dcd",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "Arranca el juicio en la Audiencia de Barcelona a un religioso que se encargaba de la enfermería de la escuela Jesuites de Casp, acusado de abusar sexualmente y hacer tocamientos a dos menores. Audiencia",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/",
+   "hora": "10:00",
+   "lugar": "Barcelona",
+   "notas": [
+    "JUSTICIA Y SEGURIDAD",
+    "VIOLENCIA SEXUAL"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "1a595fa00e9f",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "El coordinador general de IU, Antonio Maíllo, participa en un desayuno informativo con los medios de comunicación. Restaurante Los Chopos. C/María la Judía",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/",
+   "hora": "10:00",
+   "lugar": "Córdoba",
+   "notas": [
+    "ELECCIONES CAMPAÑA",
+    "ELECCIONES FRENTE AMPLIO"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "d8d0386aeb37",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "El juez que investiga la ayuda pública recibida por Air Europa ha citado este martes como testigos al presidente de Correos, Pedro Saura; al director del Departamento de Asuntos Económicos del Gobierno, Manuel de la Rocha; al presidente de la Comisión Nacional del Mercado de Valores (CNMV), Carlos San Basilio; y al cofundador de Podemos Íñigo Errejón, entre otros. Audiencia Nacional",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/",
+   "hora": "10:00",
+   "lugar": "Madrid",
+   "notas": [
+    "ECONOMÍA",
+    "AIR EUROPA"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "2da4c9d2a402",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "La Fundación Alternativas organiza un encuentro informativo con la secretaria de Estado de Vivienda y Agenda Urbana, Leire Iglesias. C/ Don Ramón de la Cruz, 39",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/",
+   "hora": "10:00",
+   "lugar": "Madrid",
+   "notas": [
+    "ECONOMÍA",
+    "CRISIS VIVIENDA"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "f6eb24a103b0",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "La Audiencia Nacional celebra la cuarta jornada del juicio a 17 acusados de una rama del caso 3 % por supuestas irregularidades en adjudicaciones públicas de la Generalitat de Cataluña a un cártel de empresas para proyectos de infraestructuras con las declaraciones de testigos. C/ Génova",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/",
+   "hora": "10:00",
+   "lugar": "Madrid",
+   "notas": [
+    "JUSTICIA Y SEGURIDAD",
+    "CASO 3 %"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "d36bdf123ba8",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "La sección cuarta de la Audiencia Provincial de Madrid juzga a cuatro acusados de llevarse un botín de 33.000 euros, 15.000 francos suizos y 35 onzas de oro en el robo perpetrado en marzo de 2024 en un restaurante ecológico. Avenida Santiago de Compostela",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/",
+   "hora": "10:00",
+   "lugar": "Madrid",
+   "notas": [
+    "JUSTICIA Y SEGURIDAD",
+    "JUICIO ROBO"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "eb92b80c1920",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "La Fundación Más que ideas y la Asociación Española de Afectados de Cáncer de Pulmón (AEACaP) ponen en marcha el 2 Congreso sobre Cáncer de Pulmón. C/Méndez Álvaro, 30",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/",
+   "hora": "10:00",
+   "lugar": "Madrid",
+   "notas": [
+    "SOCIEDAD",
+    "CÁNCER PULMÓN"
+   ],
+   "temas": [
+    "agua"
+   ],
+   "personas_vigiladas": [],
+   "relevante": true,
+   "id": "86a190b5be52",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "Isabel Ordaz, Pere Ponce y Olivia Molina presentan junto a la directora Ainhoa Amestoy el espectáculo 'A puerta cerrada' de Jean-Paul Sartre. Teatros Canal",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/",
+   "hora": "10:00",
+   "lugar": "Madrid",
+   "notas": [
+    "CULTURA Y TENDENCIAS",
+    "TEATRO ESTRENO"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "f22f3e7040e0",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "La tercera edición del congreso Talent Land España reúne en Málaga a algunos de los principales creadores de contenido digital para debatir sobre el futuro de la inteligencia artificial. Palacio de Ferias y Congresos",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/",
+   "hora": "10:00",
+   "lugar": "Málaga",
+   "notas": [
+    "SOCIEDAD",
+    "INTELIGENCIA ARTIFICIAL"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "ab8412e832f5",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -553,7 +999,7 @@
    "id": "d20475d26b3b",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "pp",
@@ -572,7 +1018,29 @@
    "id": "4ab965b14775",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "La Universidad de Valladolid acoge el Congreso Internacional sobre el 475 aniversario de la Controversia de Valladolid, que a mediados del siglo VXI debatió sobre los derechos de los indígenas de América. Facultad de Derecho",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/",
+   "hora": "10:00",
+   "lugar": "Valladolid",
+   "notas": [
+    "CULTURA Y TENDENCIAS",
+    "CONTROVERSIA VALLADOLID"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "fd855f116b75",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "moncloa",
@@ -591,7 +1059,29 @@
    "id": "c50cddfc684e",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "El rey, acompañado de la ministra de Defensa, Margarita Robles, visita las instalaciones del Centro de Inteligencia y Targeting Aeroespacial (CINTAER) y del Mando del Espacio (MESPA) del Ejército del Aire y del Espacio en la Base Aérea de Torrejón",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/",
+   "hora": "10:15",
+   "lugar": "Torrejón de Ardoz (Madrid)",
+   "notas": [
+    "JUSTICIA Y SEGURIDAD",
+    "EJÉRCITO AIRE"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "f5f806ac6503",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "pp",
@@ -610,7 +1100,7 @@
    "id": "61aebafb09de",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -632,7 +1122,29 @@
    "id": "f847873e34e2",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "El juez que investiga el conocido como caso Leire interroga a Cintia Rocho, integrante presuntamente del clan de narcotráfico de los Rocho, quien sostuvo que el exmagistrado José Luis Sáenz de Tejada contactó con ella y le dijo que había que eliminar a Beatriz Biedma, instructora de la causa contra el hermano de Pedro Sánchez. C/García Gutiérrez s/n",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/",
+   "hora": "10:30",
+   "lugar": "Madrid",
+   "notas": [
+    "JUSTICIA Y SEGURIDAD",
+    "CASO LEIRE"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "e45af83b1840",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "pp",
@@ -651,7 +1163,29 @@
    "id": "b4bb79753cb1",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "El ministro del Interior, Fernando Grande Marlaska, mantiene un encuentro con la rectora de la Universidad de Cantabria y posteriormente (11:45) participa en un acto de campaña del PSOE. Plaza del Ayuntamiento",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/",
+   "hora": "10:30",
+   "lugar": "Santander",
+   "notas": [
+    "ELECCIONES CAMPAÑA",
+    "ELECCIONES PSOE"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "9949a2cf8ff2",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "parlament",
@@ -672,7 +1206,29 @@
    "id": "9af17d70f078",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "El presidente del Gobierno, Pedro Sánchez, preside el acto de entrega de la Encomienda de la Orden del Mérito Civil a la exconcejala de Ponferrada Nevenka Fernández, quien denunció el acoso sexual sufrido por el que fuera alcalde de esta localidad leonesa Ismael Álvarez",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/",
+   "hora": "10:45",
+   "lugar": "Madrid",
+   "notas": [
+    "POLÍTICA",
+    "VIOLENCIA MACHISTA"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "a94243e9f6f8",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "moncloa",
@@ -695,7 +1251,51 @@
    "id": "0e48882312a9",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "Ficomic presenta la 32 edición de Manga Barcelona, salón del cómic y la cultura japonesa. Centre d'Arts Santa Mònica",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/",
+   "hora": "11:00",
+   "lugar": "Barcelona",
+   "notas": [
+    "CULTURA Y TENDENCIAS",
+    "MANGA BARCELONA"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "dad7135248b3",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "El Disseny Hub Barcelona (DHub) acoge la presentación de la programación de la primera Bienal de Artes Digitales, que arranca este martes con la inauguración de la exposición 'Vectors'. DHub",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/",
+   "hora": "11:00",
+   "lugar": "Barcelona",
+   "notas": [
+    "CULTURA Y TENDENCIAS",
+    "ARTES DIGITALES"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "f1bf51d00036",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "pp",
@@ -714,7 +1314,7 @@
    "id": "dcac1893d257",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "pp",
@@ -733,7 +1333,163 @@
    "id": "d8b443dd93da",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "El INE publica el censo anual de población a 1 de enero de 2026",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/",
+   "hora": "11:00",
+   "lugar": "Madrid",
+   "notas": [
+    "SOCIEDAD",
+    "ESPAÑA POBLACIÓN"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "9e76864e0fa0",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "CaixaForum Madrid presenta la exposición 'Berlanga. Cine, vida y humor'. Paseo del Prado, 36",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/",
+   "hora": "11:00",
+   "lugar": "Madrid",
+   "notas": [
+    "CULTURA Y TENDENCIAS",
+    "EXPOSICIÓN BERLANGA"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "482c802bf5ff",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "La portavoz del PP en el Congreso, Ester Muñoz, participa en un acto electoral. Goikoplaza",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/",
+   "hora": "11:30",
+   "lugar": "Andoain (Gipuzkoa)",
+   "notas": [
+    "ELECCIONES CAMPAÑA",
+    "ELECCIONES PP"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "f0e340f7f184",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "El Espai Inmersa acoge la exposición del artista estadounidense Nathan Sawaya ‘Art of the Brick’, que reproduce famosas obras de arte y otros objetos mediante miles de piezas de Lego. C/ Llull, 119",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/",
+   "hora": "11:30",
+   "lugar": "Barcelona",
+   "notas": [
+    "CULTURA Y TENDENCIAS",
+    "ARTE LEGO"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "404a0ae281b6",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "La cabeza de lista del PNV al Congreso por Gipuzkoa, Maribel Vaquero, interviene en un acto electoral dedicado a la industria. Empresa Mancisidor",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/",
+   "hora": "11:30",
+   "lugar": "Elgoibar (Gipuzkoa)",
+   "notas": [
+    "ELECCIONES CAMPAÑA",
+    "ELECCIONES PNV"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "aef90c1bc8b1",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "El comité de la huelga indefinida de la educación pública madrileña convoca una marcha lenta de vehículos y bicicletas que terminará con una concentración en la Puerta del Sol",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/",
+   "hora": "11:30",
+   "lugar": "Madrid",
+   "notas": [
+    "SOCIEDAD",
+    "EDUCACIÓN HUELGA"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "f56f5807bc3f",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "Rueda de prensa del festival Mad Cool para comunicar las novedades de su próxima edición. Nômade Temple – Sala Monopol",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/",
+   "hora": "11:30",
+   "lugar": "Madrid",
+   "notas": [
+    "CULTURA Y TENDENCIAS",
+    "FESTIVAL MAD COOL"
+   ],
+   "temas": [
+    "rueda_prensa"
+   ],
+   "personas_vigiladas": [],
+   "relevante": true,
+   "id": "99e3707c7541",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "parlament",
@@ -754,7 +1510,53 @@
    "id": "ba0d99e37e9f",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "La candidata al Congreso por Frente Amplio, Verónica Barbero, participa en un acto electoral en el Mercado del Calvario y atiende a los medios de comunicación por la mañana; por la tarde (19:00) ofrece un mitin central junto a otros miembros de la coalición en El Tinglado. Rúa de Urzáiz, 183",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/",
+   "hora": "11:30",
+   "lugar": "Vigo (Pontevedra)",
+   "notas": [
+    "ELECCIONES CAMPAÑA",
+    "ELECCIONES FRENTE AMPLIO"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "43ccaa752122",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "Comparecencia conjunta del cardenal Joan Josep Omella, hasta ahora arzobispo de Barcelona, y su sucesor en el cargo, el hasta ahora obispo de Girona Octavi Fra Vilà. Carrer Bisbe, 5",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/",
+   "hora": "12:00",
+   "lugar": "Barcelona",
+   "notas": [
+    "SOCIEDAD",
+    "ARZOBISPADO BARCELONA"
+   ],
+   "temas": [
+    "rueda_prensa"
+   ],
+   "personas_vigiladas": [],
+   "relevante": true,
+   "id": "d47dd653700c",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "pp",
@@ -773,7 +1575,7 @@
    "id": "79d02dd516e3",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "pp",
@@ -792,7 +1594,51 @@
    "id": "15dbd95ea0aa",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "El Instituto Cervantes recibe el legado en la Caja de las Letras en memoria del poeta mexicano Jaime Sabines. C/ Alcalá, 49",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/",
+   "hora": "12:00",
+   "lugar": "Madrid",
+   "notas": [
+    "CULTURA Y TENDENCIAS",
+    "INSTITUTO CERVANTES"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "af300b21ab50",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "El Museo Nacional del Prado presenta 'Mariana de Austria'. Museo del Prado",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/",
+   "hora": "12:00",
+   "lugar": "Madrid",
+   "notas": [
+    "CULTURA Y TENDENCIAS",
+    "MUSEO DEL PRADO"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "915024ee263c",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "parlament",
@@ -811,7 +1657,7 @@
    "id": "37cea3143e1c",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "pp",
@@ -830,7 +1676,7 @@
    "id": "c7f1d58f352d",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "pp",
@@ -849,7 +1695,7 @@
    "id": "f181e222a576",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "pp",
@@ -868,7 +1714,7 @@
    "id": "1aa0bb64da59",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "pp",
@@ -887,7 +1733,7 @@
    "id": "3d55410ad67a",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "pp",
@@ -906,7 +1752,7 @@
    "id": "783aae21b033",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "parlament",
@@ -925,7 +1771,29 @@
    "id": "6d3955fe8c58",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "El presidente de ERC, Oriol Junqueras, atiende a los medios y se reúne con el secretario general de la UGT de Catalunya, Camil Ros, y otros responsables del sindicato. Rambla del Raval, 29",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/",
+   "hora": "12:30",
+   "lugar": "Barcelona",
+   "notas": [
+    "ELECCIONES CAMPAÑA",
+    "ELECCIONES ERC"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "8057dcf215be",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "pp",
@@ -944,7 +1812,29 @@
    "id": "d02adcd232d0",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "La ministra de Vivienda y Agenda Urbana, Isabel Rodríguez, se reúne con la CEO del proyecto Hydnum Steel, Eva Maneiro, en la sede de Llorente y Cuenca",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/",
+   "hora": "12:30",
+   "lugar": "Madrid",
+   "notas": [
+    "ECONOMÍA",
+    "SECTORES SIDERURGIA"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "d769dcacf7f3",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "pp",
@@ -963,7 +1853,7 @@
    "id": "3eee7489fc8a",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "moncloa",
@@ -984,7 +1874,7 @@
    "id": "9dcd77f9fe33",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "pp",
@@ -1003,7 +1893,7 @@
    "id": "8e5e77ccd1c0",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "pp",
@@ -1022,7 +1912,73 @@
    "id": "6705a2870a7d",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "El candidato de Frente Amplio por Madrid, Emilio Delgado, protagoniza el evento 'Ellas preguntan', organizado por Artículo 14. Calle Libertad, 15",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/",
+   "hora": "13:00",
+   "lugar": "Madrid",
+   "notas": [
+    "ELECCIONES CAMPAÑA",
+    "ELECCIONES FRENTE AMPLIO"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "07624e0bf1bd",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "La Sociedad Española de Medicina de Familia y Comunitaria (SemFyC) analiza en un encuentro la situación de las bajas por incapacidad temporal (IT). Travesía de Téllez, 4",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/",
+   "hora": "13:00",
+   "lugar": "Madrid",
+   "notas": [
+    "SOCIEDAD",
+    "BAJAS MÉDICAS"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "607b911a03f5",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "El expresidente del Gobierno, José María Aznar, y la diputada Cayetana Álvarez de Toledo inauguran el Máster en Acción Política y Gestión Pública de la Universidad Francisco de Vitoria, UFV, y el Instituto Atlántico de Gobierno, IADG. M-515, km 1",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/",
+   "hora": "13:00",
+   "lugar": "Pozuelo de Alarcón (Madrid)",
+   "notas": [
+    "POLÍTICA",
+    "PARTIDOS PP"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "b9e2542330c0",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "pp",
@@ -1041,7 +1997,7 @@
    "id": "b798a70ea572",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "moncloa",
@@ -1062,7 +2018,7 @@
    "id": "3ab39a51af3f",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "pp",
@@ -1081,7 +2037,31 @@
    "id": "696dadf45c5d",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "La ministra de Igualdad, Ana Redondo, asiste al pleno del Consejo para la Eliminación de la Discriminación Racial o Étnica (CEDRE) en la sede del Ministerio",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/",
+   "hora": "13:30",
+   "lugar": "Madrid",
+   "notas": [
+    "SOCIEDAD",
+    "DISCRIMINACIÓN RACIAL"
+   ],
+   "temas": [
+    "plenos"
+   ],
+   "personas_vigiladas": [],
+   "relevante": true,
+   "id": "dfdf54f96606",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "moncloa",
@@ -1100,7 +2080,73 @@
    "id": "ea5e383131bf",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "Segunda jornada del XI Foro Regional de la Unión por el Mediterráneo (UpM). Palau de Pedralbes",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/",
+   "hora": "14:30",
+   "lugar": "Barcelona",
+   "notas": [
+    "POLÍTICA",
+    "FORO EUROMEDITERRÁNEO"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "c856fb023056",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "El conseller de Agricultura de Cataluña, Òscar Ordeig, hace balance del primer año de gestión de la peste porcina africana. Gran Via, 612",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/",
+   "hora": "16:00",
+   "lugar": "Barcelona",
+   "notas": [
+    "ECONOMÍA",
+    "PESTE PORCINA"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "6b8a1c333496",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "El presidente del Gobierno y candidato socialista el 29N, Pedro Sánchez, participa en un acto electoral en el Palacio de los Deportes",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/",
+   "hora": "16:00",
+   "lugar": "Huesca",
+   "notas": [
+    "ELECCIONES CAMPAÑA",
+    "ELECCIONES PSOE"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "0fcbd389d2d4",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "pp",
@@ -1119,7 +2165,7 @@
    "id": "5dbf9b5394bd",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "pp",
@@ -1138,7 +2184,7 @@
    "id": "0abbd697219e",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "pp",
@@ -1157,7 +2203,7 @@
    "id": "3916cb027c08",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "pp",
@@ -1176,7 +2222,29 @@
    "id": "dda841ae9381",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "El ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel Albares, se reúne con el alcalde de La Línea de la Concepción (Cádiz), José Juan Franco Rodríguez, en la sede del Ayuntamiento",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/",
+   "hora": "17:00",
+   "lugar": "La Línea de la Concepción (Cádiz)",
+   "notas": [
+    "POLÍTICA",
+    "ESPAÑA GIBRALTAR"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "b4778b7dcf46",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "pp",
@@ -1195,7 +2263,7 @@
    "id": "7da844560dea",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "pp",
@@ -1214,7 +2282,29 @@
    "id": "538fcc8cf351",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "La vicepresidenta tercera y ministra para la Transición Ecológica y el Reto Demográfico, Sara Aagesen, participa en un acto electoral. Palacio Europa",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/",
+   "hora": "17:00",
+   "lugar": "Vitoria",
+   "notas": [
+    "ELECCIONES CAMPAÑA",
+    "ELECCIONES PSE-EE"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "fbf0a8a41969",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "moncloa",
@@ -1233,7 +2323,7 @@
    "id": "154aec481fc2",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "pp",
@@ -1252,7 +2342,7 @@
    "id": "aca3fb7cd6d6",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -1274,7 +2364,29 @@
    "id": "6d094330d02e",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "La reina Sofía recibe la medalla de la Universidad de Salamanca y entrega el Premio Reina Sofía de Poesía Iberoamericana. Escuelas Mayores de la Universidad de Salamanca",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/",
+   "hora": "17:45",
+   "lugar": "Salamanca",
+   "notas": [
+    "CULTURA Y TENDENCIAS",
+    "UNIVERSIDAD SALAMANCA"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "f774d62bef02",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "pp",
@@ -1293,7 +2405,7 @@
    "id": "6e51c001708f",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -1315,7 +2427,73 @@
    "id": "2aae6af2d2c2",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "El expresidente del Gobierno Mariano Rajoy participa en un acto de campaña en Córdoba. Hotel Mezquita Center. Bulevar Hernán Ruiz",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/",
+   "hora": "18:00",
+   "lugar": "Córdoba",
+   "notas": [
+    "ELECCIONES CAMPAÑA",
+    "ELECCIONES PP"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "055e5e4dbe0c",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "Entrega de los Premios Meninas 2026 de la Delegación del Gobierno, con motivo del Día Internacional contra la Violencia de Género. C/Mercaderes, 9",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/",
+   "hora": "18:00",
+   "lugar": "Logroño",
+   "notas": [
+    "SOCIEDAD",
+    "VIOLENCIA MACHISTA"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "5878c8083c7b",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "La Fundación Secretariado Gitano presenta el evento estatal de la campaña Grandes 2026 que muestra los efectos de la educación para el futuro de niñas y niños gitanos. Paseo de la Florida, 2",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/",
+   "hora": "18:00",
+   "lugar": "Madrid",
+   "notas": [
+    "SOCIEDAD",
+    "PUEBLO GITANO"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "9bbc42a5eee0",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "pp",
@@ -1334,7 +2512,29 @@
    "id": "e7cf4ac80889",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "Mitin en Alicante de Alberto Núñez Feijóo",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/",
+   "hora": "18:30",
+   "lugar": "Alicante",
+   "notas": [
+    "ELECCIONES CAMPAÑA",
+    "ELECCIONES PP"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "f7513fdb1357",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "pp",
@@ -1353,7 +2553,7 @@
    "id": "2892d8041dce",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "pp",
@@ -1372,7 +2572,7 @@
    "id": "68acfd4df68e",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "pp",
@@ -1391,7 +2591,7 @@
    "id": "3dbfa4353168",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "pp",
@@ -1410,7 +2610,117 @@
    "id": "9430addf5913",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "La ministra de Juventud e Infancia, Sira Rego, atiende a los periodistas antes de participar en un acto de campaña. C/Juan de Padilla",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/",
+   "hora": "18:45",
+   "lugar": "Burgos",
+   "notas": [
+    "ELECCIONES CAMPAÑA",
+    "ELECCIONES FRENTE AMPLIO"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "e8023fabaef5",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "El vicepresidente primero del Gobierno, Carlos Cuerpo y la ministra y candidata al Congreso, Elma Saiz, hacen declaraciones a los medios de comunicación. Plaza de las Recoletas",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/",
+   "hora": "18:45",
+   "lugar": "Pamplona",
+   "notas": [
+    "ELECCIONES CAMPAÑA",
+    "ELECCIONES PSN-PSOE"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "755729a41f63",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "Mitin electoral del PNV con las intervenciones del presidente del partido, Aitor Esteban, y el lehendakari, Imanol Pradales. Plaza Bideonera",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/",
+   "hora": "19:00",
+   "lugar": "Barakaldo (Bizkaia)",
+   "notas": [
+    "ELECCIONES CAMPAÑA",
+    "ELECCIONES PNV"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "d7d209795526",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "El presidente del Gobierno y candidato del PSOE a la reelección, Pedro Sánchez, interviene junto al presidente de la Generalitat de Cataluña, Salvador Illa, en un acto de campaña. Fira de Barcelona-Montjuïc",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/",
+   "hora": "19:00",
+   "lugar": "Barcelona",
+   "notas": [
+    "ELECCIONES CAMPAÑA",
+    "ELECCIONES PSOE"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "1412a8fa7ee7",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "Barcelona acoge la primera gala de premios 7 Caníbales, que este año han distinguido, entre otros, a Asador Etxebarri y al documental 'Gènesi'. C/Rosselló, 515",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/",
+   "hora": "19:00",
+   "lugar": "Barcelona",
+   "notas": [
+    "CULTURA Y TENDENCIAS",
+    "PREMIOS GASTRONOMÍA"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "387a07c57f50",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -1432,7 +2742,95 @@
    "id": "4f3a0b9b472b",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "La candidata de Podemos a la Presidencia del Gobierno, Irene Montero, protagoniza el acto 'Las políticas machistas matan. Frente al fascismo, más feminismo'. Centro cultural Meseta de Orcasitas",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/",
+   "hora": "19:00",
+   "lugar": "Madrid",
+   "notas": [
+    "ELECCIONES CAMPAÑA",
+    "ELECCIONES PODEMOS"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "4d0f9f41da0a",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "Acto de campaña de ERC en Manresa (Barcelona), con la intervención del presidente del partido, Oriol Junqueras. C/ Sabateria, 3",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/",
+   "hora": "19:00",
+   "lugar": "Manresa (Barcelona)",
+   "notas": [
+    "ELECCIONES CAMPAÑA",
+    "ELECCIONES ERC"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "8fcd4ae54fef",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "La Filmoteca de la Región de Murcia proyecta el estreno en España de 'La reina del jueves', un documental del cineasta Orlando R0ojas que repasa la trayectoria artística y personal de la bailarina cubana Rosario Suárez \"Charín\", que asiste a la sesión y dialogará con el público. Filmoteca regional",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/",
+   "hora": "19:00",
+   "lugar": "Murcia",
+   "notas": [
+    "CULTURA Y TENDENCIAS",
+    "CINE DANZA"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "1755183a183f",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "El ministro de Cultura y candidato de Comuns-Frente Amplio al Congreso, Ernest Urtasun, y la portavoz de Comuns Aina Vidal participan en un acto de campaña en Reus (Tarragona). C/ Romaní, 16",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/",
+   "hora": "19:00",
+   "lugar": "Reus (Tarragona)",
+   "notas": [
+    "ELECCIONES CAMPAÑA",
+    "ELECCIONES FRENTE AMPLIO"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "15733de54526",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "pp",
@@ -1451,7 +2849,7 @@
    "id": "556ab8781606",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "pp",
@@ -1470,7 +2868,7 @@
    "id": "aa78e2ea91ee",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "pp",
@@ -1489,7 +2887,7 @@
    "id": "81c350dc1819",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "moncloa",
@@ -1510,7 +2908,7 @@
    "id": "0031bbc711ce",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "pp",
@@ -1531,7 +2929,75 @@
    "id": "de60563edb2c",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "Junts per Catalunya celebra su acto final de campaña en Girona, con su cabeza de lista al Congreso por Barcelona, Miriam Nogueras, y, por videoconferencia, el expresident Carles Puigdemont. Auditorio de Girona",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/",
+   "hora": "20:00",
+   "lugar": "Barcelona",
+   "notas": [
+    "ELECCIONES CAMPAÑA",
+    "ELECCIONES JUNTS"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "03b2c09d8ecb",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "El cantante Paco Ibáñez ofrece un concierto con los temas más destacados de su trayectoria y en el que actuará junto a artistas como Joan Manuel Serrat, Maria del Mar Bonet o Amancio Prada. Gran Teatre del Liceu",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/",
+   "hora": "20:00",
+   "lugar": "Barcelona",
+   "notas": [
+    "CULTURA Y TENDENCIAS",
+    "PACO IBÁÑEZ"
+   ],
+   "temas": [
+    "agua"
+   ],
+   "personas_vigiladas": [],
+   "relevante": true,
+   "id": "8a29db15bea4",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "Primer Vertifest Magaluf, festival especializado en series de ficción de corta duración concebidas para ser vistas en teléfonos móviles. C/ Torrenova, 25",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/",
+   "hora": "20:00",
+   "lugar": "Calvià (Mallorca)",
+   "notas": [
+    "CULTURA Y TENDENCIAS",
+    "FESTIVAL SERIES"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "a02032161c7a",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "pp",
@@ -1550,7 +3016,7 @@
    "id": "d78cf48fedc3",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "pp",
@@ -1569,7 +3035,29 @@
    "id": "f54ab38a4839",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "El secretario general del PSOE de Canarias, Ángel Víctor Torres, participa en un acto electoral. Auditorio",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/",
+   "hora": "20:30",
+   "lugar": "Los Llanos de Aridane (La Palma)",
+   "notas": [
+    "ELECCIONES CAMPAÑA",
+    "ELECCIONES PSOE"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "9f10b0bbea97",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "pp",
@@ -1588,7 +3076,7 @@
    "id": "7503c095ac6a",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "pp",
@@ -1607,7 +3095,7 @@
    "id": "fcf0ad6f50b9",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "pp",
@@ -1626,7 +3114,7 @@
    "id": "6cb27656c9a9",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "parlament",
@@ -1645,7 +3133,7 @@
    "id": "84b3d7cc5a84",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "pp",
@@ -1664,7 +3152,7 @@
    "id": "cf03a7860346",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "pp",
@@ -1683,7 +3171,7 @@
    "id": "1500dda9126d",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "pp",
@@ -1702,7 +3190,7 @@
    "id": "c20b19fd3211",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "pp",
@@ -1721,7 +3209,7 @@
    "id": "fb042fc8f822",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "moncloa",
@@ -1740,7 +3228,75 @@
    "id": "66158107faa6",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "Debate cara a cara sobre vivienda en La Sexta, entre la candidata de Frente Amplio a la Moncloa, Ada Colau, y el cabeza de lista del PP al Congreso por Barcelona, Xavier García Albiol. La Sexta",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/",
+   "hora": "23:00",
+   "lugar": "Barcelona",
+   "notas": [
+    "ELECCIONES CAMPAÑA",
+    "ELECCIONES GENERALES"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "21dd9b3b747b",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "Ifema acoge la Semana Internacional de la Electrificación y la Descarbonización, que reúne a más de 750 empresas participantes. Ifema",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/",
+   "hora": null,
+   "lugar": "Madrid",
+   "notas": [
+    "ECONOMÍA",
+    "TRANSICIÓN ECOLÓGICA"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "33751a24cba1",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "El pleno del Parlament balaer debate las leyes que habilitarán a los consejos insulares de Mallorca y Menorca para establecer límites a la entrada de vehículos en ambas islas",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/",
+   "hora": null,
+   "lugar": "Palma",
+   "notas": [
+    "ECONOMÍA",
+    "TURISMO MASIFICACIÓN"
+   ],
+   "temas": [
+    "plenos"
+   ],
+   "personas_vigiladas": [],
+   "relevante": true,
+   "id": "6369ca0d6131",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "acn",
@@ -1759,7 +3315,7 @@
    "id": "7810f7b135e9",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "acn",
@@ -1780,7 +3336,7 @@
    "id": "b132a7150604",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "acn",
@@ -1799,7 +3355,7 @@
    "id": "fb24d2e1f785",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "acn",
@@ -1818,7 +3374,7 @@
    "id": "cde4559d0b93",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "acn",
@@ -1837,7 +3393,7 @@
    "id": "652860be8785",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "acn",
@@ -1856,7 +3412,7 @@
    "id": "23395db31646",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "moncloa",
@@ -1875,7 +3431,7 @@
    "id": "4accc8e75746",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "moncloa",
@@ -1896,7 +3452,7 @@
    "id": "73b274b72529",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "generalitat",
@@ -1917,7 +3473,29 @@
    "id": "628e14357277",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-25",
+   "titulo": "El presidente de PNV, Aitor Esteban, presenta a los candidatos del partido al Congreso por Bizkaia, Gipuzkoa y Álava, Idoia Sagastizabal, Maribel Vaquero y Gorka Urtaran, en un coloquio en Forum Europa. H.Ercilla",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/24/temas-del-dia-de-efe-espana-del-miercoles-25-de-noviembre-de-2026/",
+   "hora": "09:00",
+   "lugar": "Bilbao",
+   "notas": [
+    "ELECCIONES CAMPAÑA",
+    "ELECCIONES PNV"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "76561bf240a6",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "generalitat",
@@ -1938,7 +3516,51 @@
    "id": "4235e449e3a9",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-25",
+   "titulo": "El INE publica la estadística de las hipotecas firmadas en septiembre",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/24/temas-del-dia-de-efe-espana-del-miercoles-25-de-noviembre-de-2026/",
+   "hora": "09:00",
+   "lugar": "Madrid",
+   "notas": [
+    "ECONOMÍA",
+    "VIVIENDA HIPOTECAS"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "e5d557ab4ee6",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-25",
+   "titulo": "El XI Simposium del Observatorio de Catástrofes presenta el 'Barómetro de las Catástrofes en España 2025' y el 'Informe especial sobre Grandes Incendios Forestales en 2026'. De 09:00 a 14:30 horas en el Instituto de la Ingeniería de España. C/General Arrando 38",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/24/temas-del-dia-de-efe-espana-del-miercoles-25-de-noviembre-de-2026/",
+   "hora": "09:00",
+   "lugar": "Madrid",
+   "notas": [
+    "SOCIEDAD",
+    "BARÓMETRO CATÁSTROFES"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "64748c8ecf5c",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "generalitat",
@@ -1961,7 +3583,7 @@
    "id": "fa9791e8a760",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "generalitat",
@@ -1984,7 +3606,29 @@
    "id": "1bea1a423fdc",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-25",
+   "titulo": "La comisaria jefa de la Policía Autonómica, Marisol Conde, y el jefe de prensa de la exconsellera de Interior Salomé Pradas, Héctor González (11.30 h.), declaran como testigos ante la jueza que instruye la causa penal por la gestión de la dana de octubre de 2024. Juzgados",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/24/temas-del-dia-de-efe-espana-del-miercoles-25-de-noviembre-de-2026/",
+   "hora": "09:30",
+   "lugar": "Catarroja (Valencia)",
+   "notas": [
+    "JUSTICIA Y SEGURIDAD",
+    "DANA JUSTICIA"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "d7a1abbdbd9d",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -2008,7 +3652,7 @@
    "id": "dac502eb522d",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -2032,7 +3676,29 @@
    "id": "0c7903371277",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-25",
+   "titulo": "Fundación Naturgy y el Capítulo Español del Club de Roma organizan una nueva sesión de 'Conversaciones entre expertos' para analizar la reciente COP31 organizada en Antalya. Entre los participantes, la directora general de la Oficina Española de Cambio Climático, Elena Pita. Avenida de América, 38",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/24/temas-del-dia-de-efe-espana-del-miercoles-25-de-noviembre-de-2026/",
+   "hora": "09:30",
+   "lugar": "Madrid",
+   "notas": [
+    "SOCIEDAD",
+    "COP31 CLIMA"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "591980424503",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -2054,7 +3720,7 @@
    "id": "ddbdc7436c4f",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "acn",
@@ -2073,7 +3739,7 @@
    "id": "ec883214d579",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "generalitat",
@@ -2094,7 +3760,7 @@
    "id": "78dc127b3242",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "generalitat",
@@ -2115,7 +3781,7 @@
    "id": "ee4d90e24215",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "acn",
@@ -2134,7 +3800,7 @@
    "id": "91e83d6d192d",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "acn",
@@ -2153,7 +3819,29 @@
    "id": "439d49c26263",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-25",
+   "titulo": "El Consejo de Sabios de la Boqueria rinde homenaje al chef Toni Sala, de la Fonda Sala de Olost. Mercat de la Boqueria",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/24/temas-del-dia-de-efe-espana-del-miercoles-25-de-noviembre-de-2026/",
+   "hora": "10:00",
+   "lugar": "Barcelona",
+   "notas": [
+    "CULTURA Y TENDENCIAS",
+    "GASTRONOMÍA CATALANA"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "a9be5c3f120f",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "moncloa",
@@ -2174,7 +3862,7 @@
    "id": "d9a65aae6535",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "generalitat",
@@ -2195,7 +3883,7 @@
    "id": "05f175627b81",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "generalitat",
@@ -2216,7 +3904,29 @@
    "id": "5aa4f2f2cf9e",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-25",
+   "titulo": "La Audiencia Nacional celebra la quinta jornada del juicio a 17 acusados de una rama del caso 3 % por supuestas irregularidades en adjudicaciones públicas de la Generalitat de Cataluña a un cártel de empresas para proyectos de infraestructuras con las declaraciones de testigos. c/ Génova",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/24/temas-del-dia-de-efe-espana-del-miercoles-25-de-noviembre-de-2026/",
+   "hora": "10:00",
+   "lugar": "Madrid",
+   "notas": [
+    "JUSTICIA Y SEGURIDAD",
+    "CASO 3 %"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "5c3985d93b04",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "moncloa",
@@ -2239,7 +3949,29 @@
    "id": "5729cec3fbfa",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-25",
+   "titulo": "Indra presenta su nuevo plan estratégico, con intervenciones del presidente de Indra Group, Ángel Simón, y el CEO, Josep María Recasens, entre otros ejecutivos. Avenida de Bruselas, 33-35",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/24/temas-del-dia-de-efe-espana-del-miercoles-25-de-noviembre-de-2026/",
+   "hora": "10:30",
+   "lugar": "Alcobendas (Madrid)",
+   "notas": [
+    "ECONOMÍA",
+    "INDRA ESTRATEGIA"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "f24cb9da60be",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "generalitat",
@@ -2260,7 +3992,53 @@
    "id": "0d219adbc67c",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-25",
+   "titulo": "La presidenta de Redeia, Beatriz Corredor, inaugura el II Encuentro de Impacto, que reunirá a representantes de administraciones públicas, organizaciones sociales y ambientales y entidades para analizar la transformación de los territorios y la colaboración con ellos para contribuir a un desarrollo más sostenible. c/ Almagro, 5",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/24/temas-del-dia-de-efe-espana-del-miercoles-25-de-noviembre-de-2026/",
+   "hora": "10:30",
+   "lugar": "Madrid",
+   "notas": [
+    "ECONOMÍA",
+    "ENERGÍA SOSTENIBILIDAD"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "e5f001664fc1",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-25",
+   "titulo": "El diálogo con ChatGPT de una mujer en pura contradicción es parte del argumento de 'La punción' de la autora Esther F. Carrodeaguas, una obra que dirige Beatriz Jaén, que se estrena el 27 de noviembre en el Centro Dramático Nacional. Teatro Valle Inclán",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/24/temas-del-dia-de-efe-espana-del-miercoles-25-de-noviembre-de-2026/",
+   "hora": "10:30",
+   "lugar": "Madrid",
+   "notas": [
+    "CULTURA Y TENDENCIAS",
+    "TEATRO ESTRENO"
+   ],
+   "temas": [
+    "agua"
+   ],
+   "personas_vigiladas": [],
+   "relevante": true,
+   "id": "7bb2cc4a574a",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "generalitat",
@@ -2281,7 +4059,29 @@
    "id": "f72c5fcd9147",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-25",
+   "titulo": "La candidata del Coalición Canaria-Primero Canarias al Congreso por Santa Cruz de Tenerife Cristina Valido expone sus propuestas en un foro organizado por el periódico El Día. Auditorio de Tenerife",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/24/temas-del-dia-de-efe-espana-del-miercoles-25-de-noviembre-de-2026/",
+   "hora": "10:30",
+   "lugar": "Santa Cruz de Tenerife",
+   "notas": [
+    "ELECCIONES CAMPAÑA",
+    "ELECCIONES CC-PRIMERO CANARIAS"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "9ba741a9018e",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "acn",
@@ -2300,7 +4100,7 @@
    "id": "c8d5db525989",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "acn",
@@ -2319,7 +4119,7 @@
    "id": "cee9e1e2420b",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "acn",
@@ -2338,7 +4138,7 @@
    "id": "db5b2697d606",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "acn",
@@ -2357,7 +4157,53 @@
    "id": "f9f438c872c1",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-25",
+   "titulo": "El CCCB presenta la exposición 'La era atómica', que muestra cómo los descubrimientos científicos sobre el átomo han influido profundamente en el arte, la política y el pensamiento desde finales del siglo XIX. CCCB",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/24/temas-del-dia-de-efe-espana-del-miercoles-25-de-noviembre-de-2026/",
+   "hora": "11:00",
+   "lugar": "Barcelona",
+   "notas": [
+    "CULTURA Y TENDENCIAS",
+    "ARTE CIENCIA"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "28ce907bfd86",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-25",
+   "titulo": "El expresidente de la Generalitat Carles Puigdemont ofrece una rueda de prensa desde Bruselas para valorar la aplicación de la amnistía acordada por el Tribunal Supremo. Rue Froissart, 95",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/24/temas-del-dia-de-efe-espana-del-miercoles-25-de-noviembre-de-2026/",
+   "hora": "11:00",
+   "lugar": "Bruselas (Bélgica)",
+   "notas": [
+    "POLÍTICA",
+    "LEY AMNISTÍA"
+   ],
+   "temas": [
+    "rueda_prensa"
+   ],
+   "personas_vigiladas": [],
+   "relevante": true,
+   "id": "0b2dacb882d9",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "acn",
@@ -2378,7 +4224,7 @@
    "id": "eec32ff743af",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "moncloa",
@@ -2399,7 +4245,75 @@
    "id": "54463b6617db",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-25",
+   "titulo": "El INE publica el decil de salarios del empleo principal del año 2025, con datos de la encuesta de población activa (EPA)",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/24/temas-del-dia-de-efe-espana-del-miercoles-25-de-noviembre-de-2026/",
+   "hora": "11:00",
+   "lugar": "Madrid",
+   "notas": [
+    "ECONOMÍA",
+    "EMPLEO SALARIOS"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "23d885cfb607",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-25",
+   "titulo": "El presidente de la CEOE, Antonio Garamendi (13.15h), clausura la entrega de los XIII Premios Cepyme, en un acto que será inaugurado por la presidenta de la patronal de las pymes, Ángela de Miguel. Auditorio Banco Santander. Calle Juan Ignacio Luca de Tena 9-11",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/24/temas-del-dia-de-efe-espana-del-miercoles-25-de-noviembre-de-2026/",
+   "hora": "11:00",
+   "lugar": "Madrid",
+   "notas": [
+    "ECONOMÍA",
+    "EMPRESAS PYMES"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "84a0ea7eec88",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-25",
+   "titulo": "Rosendo Mercado, figura esencial del rock español, presenta en rueda de prensa sus memorias, 'Ni gozo ni calvario' (Espasa), un relato \"íntimo, honesto y sin filtros\" donde repasa más de cuatro décadas de trayectoria. Casa del Libro. Gran Vía, 29",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/24/temas-del-dia-de-efe-espana-del-miercoles-25-de-noviembre-de-2026/",
+   "hora": "11:00",
+   "lugar": "Madrid",
+   "notas": [
+    "CULTURA Y TENDENCIAS",
+    "ROSENDO MEMORIAS"
+   ],
+   "temas": [
+    "rueda_prensa"
+   ],
+   "personas_vigiladas": [],
+   "relevante": true,
+   "id": "c9776ed8afa3",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "moncloa",
@@ -2418,7 +4332,7 @@
    "id": "d96087f26feb",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "generalitat",
@@ -2441,7 +4355,7 @@
    "id": "630e1bb4e402",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "generalitat",
@@ -2462,7 +4376,7 @@
    "id": "918b025c7038",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "acn",
@@ -2481,7 +4395,51 @@
    "id": "e1453ad7118f",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-25",
+   "titulo": "Investigadores en cáncer abordarán el aumento de determinados tumores en adultos jóvenes menores de 50 años. FIBES Palacio de Congresos y Exposiciones",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/24/temas-del-dia-de-efe-espana-del-miercoles-25-de-noviembre-de-2026/",
+   "hora": "11:30",
+   "lugar": "Sevilla",
+   "notas": [
+    "SOCIEDAD",
+    "CÁNCER INVESTIGACIÓN"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "b101ab0d8c6d",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-25",
+   "titulo": "La Asociación Española de Asesores Fiscales (Aedaf) presenta el primer informe sobre la situación del estado de los derechos y garantías de los contribuyentes elaborado por el Observatorio Aedaf. ICAM. C/ Serrano, 9-11",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/24/temas-del-dia-de-efe-espana-del-miercoles-25-de-noviembre-de-2026/",
+   "hora": "11:45",
+   "lugar": "Madrid",
+   "notas": [
+    "ECONOMÍA",
+    "DERECHOS CONTRIBUYENTES"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "a6a6bcd9c9a3",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "generalitat",
@@ -2504,7 +4462,7 @@
    "id": "086ff0f933f2",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "acn",
@@ -2523,7 +4481,7 @@
    "id": "92df2ce554fa",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "generalitat",
@@ -2544,7 +4502,7 @@
    "id": "ed20a5313083",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "moncloa",
@@ -2565,7 +4523,73 @@
    "id": "af1a761fcd0a",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-25",
+   "titulo": "La ministra de Igualdad; Ana Redondo, preside el acto institucional con motivo del Día Internacional para la Eliminación de la Violencia contra las Mujeres en el que se entregan los XXIII reconocimientos con motivo de esta conmemoración. C/ Luchana, 38",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/24/temas-del-dia-de-efe-espana-del-miercoles-25-de-noviembre-de-2026/",
+   "hora": "12:00",
+   "lugar": "Madrid",
+   "notas": [
+    "SOCIEDAD",
+    "VIOLENCIA MACHISTA"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "97466bfd44a0",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-25",
+   "titulo": "La Fundación Conocimiento y Desarrollo (CYD) organiza un debate con representantes de los partidos políticos para conocer sus propuestas para el futuro de la universidad ante las próximas elecciones generales. Fundación Ortega-Marañón. C/Fortuny, 53",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/24/temas-del-dia-de-efe-espana-del-miercoles-25-de-noviembre-de-2026/",
+   "hora": "12:00",
+   "lugar": "Madrid",
+   "notas": [
+    "SOCIEDAD",
+    "ELECCIONES GENERALES"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "7475206e9c91",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-25",
+   "titulo": "Filmoteca Española inaugura la exposición ‘Escenas de fuego y llanto. El cine y la guerra civil española’. Filmoteca Española. C/ Magdalena, 10",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/24/temas-del-dia-de-efe-espana-del-miercoles-25-de-noviembre-de-2026/",
+   "hora": "12:00",
+   "lugar": "Madrid",
+   "notas": [
+    "CULTURA Y TENDENCIAS",
+    "FILMOTECA ESPAÑOLA"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "c873facc6bbb",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "generalitat",
@@ -2588,7 +4612,7 @@
    "id": "2587ab7a0e0e",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "moncloa",
@@ -2609,7 +4633,29 @@
    "id": "8b894bcdb49c",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-25",
+   "titulo": "El ministro de Hacienda y candidato socialista al Congreso por Valencia, Arcadi España, y el expresident de la Generalitat y embajador de España ante la OCDE, Ximo Puig, imparten la conferencia 'L'oportunitat valenciana, una conversa sobre finançament'. Centre Cultural La Nau, c/ de la Universitat, 2",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/24/temas-del-dia-de-efe-espana-del-miercoles-25-de-noviembre-de-2026/",
+   "hora": "12:00",
+   "lugar": "Valencia",
+   "notas": [
+    "ELECCIONES CAMPAÑA",
+    "ELECCIONES PSPV-PSOE"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "8fdbf8f86e5a",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "acn",
@@ -2628,7 +4674,7 @@
    "id": "107c5311730b",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "moncloa",
@@ -2647,7 +4693,7 @@
    "id": "117c73d6fe57",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -2669,7 +4715,51 @@
    "id": "5f7f025b593d",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-25",
+   "titulo": "La Presidenta del Tribunal Constitucional de Argelia, Leila Asloui, imparte una conferencia bajo el título 'El derecho a un medio ambiente sano y la protección de las personas en la Constitución argelina'. C/Domenico Scarlatti, 6",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/24/temas-del-dia-de-efe-espana-del-miercoles-25-de-noviembre-de-2026/",
+   "hora": "12:30",
+   "lugar": "Madrid",
+   "notas": [
+    "JUSTICIA Y SEGURIDAD",
+    "ARGELIA JUSTICIA"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "0ae421723b3f",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-25",
+   "titulo": "La Fundación Cajasol presenta el concierto solidario 'Así cante nuestra tierra en Navidad', en el que participarán, entre otros, Pastora Soler, Pedro el Granaíno y María Parrado. C/ Chicarreros, s/n",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/24/temas-del-dia-de-efe-espana-del-miercoles-25-de-noviembre-de-2026/",
+   "hora": "12:30",
+   "lugar": "Sevilla",
+   "notas": [
+    "CULTURA Y TENDENCIAS",
+    "NAVIDADES CAJASOL"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "e0c8b7de62bb",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "acn",
@@ -2688,7 +4778,7 @@
    "id": "49a6734c5705",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -2710,7 +4800,29 @@
    "id": "6825797e46d8",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-25",
+   "titulo": "Felipe VI mantiene un encuentro con el presidente austriaco Alexander Van der Bellen tras lo que los reyes ofrecerán un almuerzo en su honor y de su esposa. Palacio de la Zarzuela",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/24/temas-del-dia-de-efe-espana-del-miercoles-25-de-noviembre-de-2026/",
+   "hora": "12:45",
+   "lugar": "Madrid",
+   "notas": [
+    "POLÍTICA",
+    "ESPAÑA AUSTRIA"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "0b7c3478152b",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "moncloa",
@@ -2729,7 +4841,7 @@
    "id": "2dece17db232",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "acn",
@@ -2750,7 +4862,7 @@
    "id": "1cb3e62c2a26",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "parlament",
@@ -2769,7 +4881,7 @@
    "id": "48153664a196",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "moncloa",
@@ -2788,7 +4900,7 @@
    "id": "33d4c62e5d3e",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "generalitat",
@@ -2809,7 +4921,54 @@
    "id": "dd2e9c9d71e3",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-25",
+   "titulo": "Rueda de prensa en la Academia de Televisión con motivo de 'El debate 2026'. Plató A Content City",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/24/temas-del-dia-de-efe-espana-del-miercoles-25-de-noviembre-de-2026/",
+   "hora": "13:30",
+   "lugar": "Madrid",
+   "notas": [
+    "SOCIEDAD",
+    "ELECCIONES GENERALES"
+   ],
+   "temas": [
+    "agua",
+    "rueda_prensa"
+   ],
+   "personas_vigiladas": [],
+   "relevante": true,
+   "id": "e3ae575ed75c",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-25",
+   "titulo": "El ministro de la Presidencia, Justicia y Relaciones con las Cortes, Félix Bolaños, la candidata número 1 del PSRM al Congreso, María González Veracruz y el secretario general del PSRM, Francisco Lucas, ofrecen declaraciones a los medios de comunicación. Finca La Batalla",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/24/temas-del-dia-de-efe-espana-del-miercoles-25-de-noviembre-de-2026/",
+   "hora": "14:00",
+   "lugar": "Cartagena (Murcia)",
+   "notas": [
+    "ELECCIONES CAMPAÑA",
+    "ELECCIONES PSOE"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "34e48861fc53",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "generalitat",
@@ -2830,7 +4989,29 @@
    "id": "bec82b5a8ef9",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-25",
+   "titulo": "David Bustamante se presenta con el traje de 'El Zorro' hora antes del estreno del musical que protagoniza, basado en la novela de Isabel Allende y con música de los Gipsy Kings y John Cameron. Teatro La Latina",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/24/temas-del-dia-de-efe-espana-del-miercoles-25-de-noviembre-de-2026/",
+   "hora": "16:00",
+   "lugar": "Madrid",
+   "notas": [
+    "CULTURA Y TENDENCIAS",
+    "TEATRO ESTRENO"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "7067cf2d1612",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "generalitat",
@@ -2853,7 +5034,29 @@
    "id": "9e47fbdbcb99",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-25",
+   "titulo": "La candidatura electoral Compromís-Front Valencià reúne a Mónica Oltra, Àgueda Micó \"y otros referentes feministas\" de las candidaturas al Congreso y el Senado de la lista unitaria de las izquierdas en un acto de campaña con motivo del 25N, previo a la manifestación feminista convocada en València. C/ Guillem de Castro, 73",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/24/temas-del-dia-de-efe-espana-del-miercoles-25-de-noviembre-de-2026/",
+   "hora": "16:00",
+   "lugar": "València",
+   "notas": [
+    "ELECCIONES CAMPAÑA",
+    "ELECCIONES COMPROMÍS"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "39e0b1426728",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "generalitat",
@@ -2874,7 +5077,51 @@
    "id": "76a9d0d9a265",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-25",
+   "titulo": "Congreso del Colegio Profesional de la Criminología de Madrid en el que su vicedecano, Abel González, pronunciará la conferencia inaugural '¿Quién va a prevenir los delitos del futuro?. El papel de la criminología en la sociedad algorítmica'. Centro de Estudios Financieros. Paseo del General Martínez Campos, 5",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/24/temas-del-dia-de-efe-espana-del-miercoles-25-de-noviembre-de-2026/",
+   "hora": "17:00",
+   "lugar": "Madrid",
+   "notas": [
+    "JUSTICIA Y SEGURIDAD",
+    "CONGRESO CRIMINOLOGÍA"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "63ec4a5a950f",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-25",
+   "titulo": "Las candidatas del PNV a las Cortes Generales Maribel Vaquero, Idoia Sagastizabal y Saray Zarate graban un podcast con motivo de la celebración del 25N, tras la que acuden a la manifestación convocada en el centro de San Sebastián. Sede central del PNV de Gipuzkoa. Pinu Bidea, 20",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/24/temas-del-dia-de-efe-espana-del-miercoles-25-de-noviembre-de-2026/",
+   "hora": "17:00",
+   "lugar": "San Sebastián",
+   "notas": [
+    "ELECCIONES CAMPAÑA",
+    "ELECCIONES PNV"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "18cc7dfe665b",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "generalitat",
@@ -2895,7 +5142,7 @@
    "id": "8aa856aaab4a",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "moncloa",
@@ -2914,7 +5161,7 @@
    "id": "d4422bc2d249",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "generalitat",
@@ -2935,7 +5182,7 @@
    "id": "e429d3535fdf",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "generalitat",
@@ -2956,7 +5203,29 @@
    "id": "90180c90888d",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-25",
+   "titulo": "Puy du Fou presenta 'La Alegría de la Navidad', su espectáculo navideño. Puy du Fou",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/24/temas-del-dia-de-efe-espana-del-miercoles-25-de-noviembre-de-2026/",
+   "hora": "18:00",
+   "lugar": "Toledo",
+   "notas": [
+    "CULTURA Y TENDENCIAS",
+    "EMPRESAS OCIO"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "3cdc1efce34c",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "moncloa",
@@ -2975,7 +5244,29 @@
    "id": "b08d12351d2f",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-25",
+   "titulo": "Barcelona acoge una reunión de ministros de Asuntos Exteriores de la Unión por el Mediterráneo (UpM). Palau de Pedralbes",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/24/temas-del-dia-de-efe-espana-del-miercoles-25-de-noviembre-de-2026/",
+   "hora": "18:25",
+   "lugar": "Barcelona",
+   "notas": [
+    "POLÍTICA",
+    "FORO EUROMEDITERRÁNEO"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "8dd9a5822233",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "acn",
@@ -2994,7 +5285,7 @@
    "id": "59dbb7cb4bd8",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "generalitat",
@@ -3017,7 +5308,51 @@
    "id": "1900260b6123",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-25",
+   "titulo": "El expresidente del Gobierno, José María Aznar y la portavoz de campaña del PP y candidata al Congreso por León, Ester Muñoz, protagonizan un acto de campaña del partido en la capital leonesa. Teatro Nuevo Recreo Industrial",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/24/temas-del-dia-de-efe-espana-del-miercoles-25-de-noviembre-de-2026/",
+   "hora": "18:30",
+   "lugar": "León",
+   "notas": [
+    "ELECCIONES CAMPAÑA",
+    "ELECCIONES PP"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "ba5698a7f552",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-25",
+   "titulo": "El Foro de Madrid 25N y el Movimiento Feminista de Madrid han convocado una manifestación bajo el lema \"Paremos la barbarie\" para conmemorar el Día Internacional para la Eliminación de la Violencia contra la Mujer. Del cruce de la calle Alcalá con Gran Vía para finalizar en Plaza de España",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/24/temas-del-dia-de-efe-espana-del-miercoles-25-de-noviembre-de-2026/",
+   "hora": "18:30",
+   "lugar": "Madrid",
+   "notas": [
+    "SOCIEDAD",
+    "VIOLENCIA MACHISTA"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "020eb6b7ef96",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "moncloa",
@@ -3038,7 +5373,7 @@
    "id": "d3a7399d3f77",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "ajbcn",
@@ -3059,7 +5394,7 @@
    "id": "0a7716dcdecd",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "moncloa",
@@ -3080,7 +5415,7 @@
    "id": "ca67be4fa30f",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "parlament",
@@ -3099,7 +5434,95 @@
    "id": "78673ad02cee",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-25",
+   "titulo": "Acto de entrega de la IX Edición de los Premios Confilegal, al que asiste la fiscal general del Estado, Teresa Peramato, entre otras autoridades. Hotel Palace",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/24/temas-del-dia-de-efe-espana-del-miercoles-25-de-noviembre-de-2026/",
+   "hora": "19:00",
+   "lugar": "Madrid",
+   "notas": [
+    "JUSTICIA Y SEGURIDAD",
+    "JUSTICIA PREMIOS"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "26920b4d8a10",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-25",
+   "titulo": "La Comisión 8M ha convocado una manifestación bajo el lema 'Contra las violencias machistas: derechos y feminismo antifascista' para conmemorar el Día Internacional para la Eliminación de la Violencia contra la Mujer. Salida desde la fuente de Neptuno, pasando por Cibeles y con final en la Puerta del Sol. Declaraciones a medios a las 18:45 en la Plaza de Neptuno delante de la pancarta: Comisión 8M del movimiento feminista de Madrid, la Plataforma de Trabajadoras de la Red de Atención de Violencia de Género de Madrid, Menos Lectivas y Sindicato de Inquilinas",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/24/temas-del-dia-de-efe-espana-del-miercoles-25-de-noviembre-de-2026/",
+   "hora": "19:00",
+   "lugar": "Madrid",
+   "notas": [
+    "SOCIEDAD",
+    "VIOLENCIA MACHISTA"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "ff67fd0dbdb6",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-25",
+   "titulo": "Homenaje a las víctimas del terrorismo en la víspera de las XII Jornadas de Concienciación y Sensibilización Social, organizadas por la Asociación Plataforma de Apoyo a las Víctimas del Terrorismo (APAVT), junto con la Asociación Víctimas del Terrorismo (AVT). Alderdi Eder",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/24/temas-del-dia-de-efe-espana-del-miercoles-25-de-noviembre-de-2026/",
+   "hora": "19:00",
+   "lugar": "San Sebastián",
+   "notas": [
+    "JUSTICIA Y SEGURIDAD",
+    "VÍCTIMAS TERRORISMO"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "95f4891cff56",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-25",
+   "titulo": "Adelante Andalucía celebra en Isla Mágica (Sevilla) el acto de cierre de campaña de las elecciones generales del 29 de noviembre. Isla Mágica, Sevilla. Entrada por calle Juan Bautista Muñoz",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/24/temas-del-dia-de-efe-espana-del-miercoles-25-de-noviembre-de-2026/",
+   "hora": "19:00",
+   "lugar": "Sevilla",
+   "notas": [
+    "ELECCIONES CAMPAÑA",
+    "ELECCIONES ADELANTE ANDALUCÍA"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "206f5b409ad9",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "generalitat",
@@ -3120,7 +5543,7 @@
    "id": "b4c57ee1bd5d",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "generalitat",
@@ -3141,7 +5564,51 @@
    "id": "42cf3cf752d3",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-25",
+   "titulo": "El líder del PP, Alberto Núñez Feijóo, protagoniza un mitin en Madrid junto a la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, y el alcalde de la capital, José Luis Martínz Almeida. Caja Mágica",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/24/temas-del-dia-de-efe-espana-del-miercoles-25-de-noviembre-de-2026/",
+   "hora": "19:30",
+   "lugar": "Madrid",
+   "notas": [
+    "ELECCIONES CAMPAÑA",
+    "ELECCIONES PP"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "de41badfbc5a",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-25",
+   "titulo": "Manifestación por el Día Internacional para la Eliminación de las Violencias hacia las Mujeres. Plaza Circular",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/24/temas-del-dia-de-efe-espana-del-miercoles-25-de-noviembre-de-2026/",
+   "hora": "19:30",
+   "lugar": "Murcia",
+   "notas": [
+    "CULTURA Y TENDENCIAS",
+    "VIOLENCIA MACHISTA"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "46c06255da13",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "moncloa",
@@ -3160,7 +5627,118 @@
    "id": "84fd4ed8b90a",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-25",
+   "titulo": "Debate electoral entre los candidatos catalanes a las elecciones generales del 29 de noviembre, organizado por TV3 y moderado por la periodista Ariadna Oltra. TV3",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/24/temas-del-dia-de-efe-espana-del-miercoles-25-de-noviembre-de-2026/",
+   "hora": "22:00",
+   "lugar": "Sant Joan Despí (Barcelona)",
+   "notas": [
+    "ELECCIONES CAMPAÑA",
+    "ELECCIONES GENERALES"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "17fbe2517c88",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-25",
+   "titulo": "Último día para votar por correo",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/24/temas-del-dia-de-efe-espana-del-miercoles-25-de-noviembre-de-2026/",
+   "hora": null,
+   "lugar": null,
+   "notas": [
+    "ELECCIONES CAMPAÑA"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "74c509b18553",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-25",
+   "titulo": "La candidata de Frente Amplio a la Presidencia del Gobierno, Ada Colau, participa en la manifestación por el 25N en Madrid",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/24/temas-del-dia-de-efe-espana-del-miercoles-25-de-noviembre-de-2026/",
+   "hora": null,
+   "lugar": "Madrid",
+   "notas": [
+    "ELECCIONES CAMPAÑA",
+    "ELECCIONES FRENTE AMPLIO"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "1fc28302a065",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-25",
+   "titulo": "La Comisión Europea actualiza su boletín petrolero, que incluye la evolución del precio medio de la gasolina y el gasóleo durante la última semana en los 27 Estados miembros de la Unión Europea",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/24/temas-del-dia-de-efe-espana-del-miercoles-25-de-noviembre-de-2026/",
+   "hora": null,
+   "lugar": "Madrid",
+   "notas": [
+    "ECONOMÍA",
+    "CARBURANTES PRECIOS"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "ec0c6589c919",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
+  },
+  {
+   "fuente": "infobae_efe",
+   "organismo": "Agencia EFE",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-25",
+   "titulo": "Ifema acoge la Semana Internacional de la Electrificación y la Descarbonización, que reúne a más de 750 empresas participantes y cuenta con espacios de debate en torno a los grandes retos que plantea la transformación del modelo energético, entre ellos del Instituto Imdea, de Energía, con una jornada sobre IA o energía nuclear",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/24/temas-del-dia-de-efe-espana-del-miercoles-25-de-noviembre-de-2026/",
+   "hora": null,
+   "lugar": "Madrid",
+   "notas": [
+    "ECONOMÍA",
+    "TRANSICIÓN ECOLÓGICA"
+   ],
+   "temas": [
+    "energia"
+   ],
+   "personas_vigiladas": [],
+   "relevante": true,
+   "id": "e2ffd1d1cd2f",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T13:13:46+00:00",
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -3182,7 +5760,7 @@
    "id": "3664ee46c0f7",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -3203,7 +5781,7 @@
    "id": "3678b43a3285",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -3224,7 +5802,7 @@
    "id": "c3f2ee6bdb6a",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -3245,7 +5823,7 @@
    "id": "14e258d721ff",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -3266,7 +5844,7 @@
    "id": "1d78deb096cd",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -3287,7 +5865,7 @@
    "id": "8fec522e4f8b",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -3308,7 +5886,7 @@
    "id": "5696d81978e4",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "parlament",
@@ -3327,7 +5905,7 @@
    "id": "64eb6222ee37",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "parlament",
@@ -3346,7 +5924,7 @@
    "id": "41c431dae9b5",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -3369,7 +5947,7 @@
    "id": "5a96625b818e",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "ajbcn",
@@ -3390,7 +5968,7 @@
    "id": "9f7b981b72a2",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "ajbcn",
@@ -3411,7 +5989,7 @@
    "id": "1a318fb81b62",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -3433,7 +6011,7 @@
    "id": "b72d225a9d0c",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -3455,7 +6033,7 @@
    "id": "c06990f22683",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "parlament",
@@ -3474,7 +6052,7 @@
    "id": "a12319c92856",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -3496,7 +6074,7 @@
    "id": "a368143ae795",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -3518,7 +6096,7 @@
    "id": "e03e207464f5",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -3540,7 +6118,7 @@
    "id": "182249e105f6",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -3562,7 +6140,7 @@
    "id": "aa9b23e1663b",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -3584,7 +6162,7 @@
    "id": "d10898ae4c94",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -3606,7 +6184,7 @@
    "id": "53d3ca9fb256",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -3628,7 +6206,7 @@
    "id": "f3d81ddb91fa",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -3650,7 +6228,7 @@
    "id": "813d5c402f6f",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -3671,7 +6249,7 @@
    "id": "f0b2e6f241a9",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -3695,7 +6273,7 @@
    "id": "f3ebdeaee38b",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -3717,7 +6295,7 @@
    "id": "68c068fccc51",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -3738,7 +6316,7 @@
    "id": "61a0daa70aae",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -3760,7 +6338,7 @@
    "id": "4359adab284f",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -3782,7 +6360,7 @@
    "id": "5991f62ccf40",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -3804,7 +6382,7 @@
    "id": "ffe7e4b915fc",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -3825,7 +6403,7 @@
    "id": "280809ac516f",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -3848,7 +6426,7 @@
    "id": "346b617a046c",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -3870,7 +6448,7 @@
    "id": "0e394c9f0f73",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -3892,7 +6470,7 @@
    "id": "25f7f793ec0a",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -3914,7 +6492,7 @@
    "id": "45955f80c8fb",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -3935,7 +6513,7 @@
    "id": "0fa58b72fb5a",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -3957,7 +6535,7 @@
    "id": "5275007c1b99",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -3981,7 +6559,7 @@
    "id": "91ca11152e33",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -4005,7 +6583,7 @@
    "id": "2d213d6c2506",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -4027,7 +6605,7 @@
    "id": "169a7be2469c",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -4048,7 +6626,7 @@
    "id": "3f541a2acb2d",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -4070,7 +6648,7 @@
    "id": "356e2070f7c9",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -4092,7 +6670,7 @@
    "id": "ef927a894511",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -4116,7 +6694,7 @@
    "id": "c7305b00b8ef",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -4138,7 +6716,7 @@
    "id": "1f941450c288",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -4160,7 +6738,7 @@
    "id": "472203cb1be1",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -4181,7 +6759,7 @@
    "id": "e4504c9e7cf8",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -4205,7 +6783,7 @@
    "id": "22bf86aaeaf9",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -4229,7 +6807,7 @@
    "id": "7cf1135b328c",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -4251,7 +6829,7 @@
    "id": "66f9a74ca12d",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -4273,7 +6851,7 @@
    "id": "903ee94486e4",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -4295,7 +6873,7 @@
    "id": "cdf3bfaba03d",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -4317,7 +6895,7 @@
    "id": "4062da263ce4",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -4339,7 +6917,7 @@
    "id": "5829e686b5f8",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -4361,7 +6939,7 @@
    "id": "fb35dcda5008",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -4383,7 +6961,7 @@
    "id": "cb838532ea45",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -4405,7 +6983,7 @@
    "id": "2d81996c4b72",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -4426,7 +7004,7 @@
    "id": "b36f6fbdeb43",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -4448,7 +7026,7 @@
    "id": "10a99b6ad8ad",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -4471,7 +7049,7 @@
    "id": "5f9c8552a61d",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -4493,7 +7071,7 @@
    "id": "c8f1974bc45a",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -4514,7 +7092,7 @@
    "id": "70ffa89f71d6",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -4536,7 +7114,7 @@
    "id": "17dfb6367b7e",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -4557,7 +7135,7 @@
    "id": "f611514a1e22",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -4578,7 +7156,7 @@
    "id": "2bbd57228af5",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -4599,7 +7177,7 @@
    "id": "91b7f1d382a3",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -4620,7 +7198,7 @@
    "id": "d9dfeb8f2f1c",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -4644,7 +7222,7 @@
    "id": "511dd75d308b",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -4665,7 +7243,7 @@
    "id": "a20e537ed776",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -4687,7 +7265,7 @@
    "id": "c778446cfdac",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -4708,7 +7286,7 @@
    "id": "da33307454e8",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -4729,7 +7307,7 @@
    "id": "684ddf19933b",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -4750,7 +7328,7 @@
    "id": "52885beeee68",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -4771,7 +7349,7 @@
    "id": "b1b8c2d4f23b",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -4793,7 +7371,7 @@
    "id": "817f3d215458",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -4814,7 +7392,7 @@
    "id": "0d4900ef6ac6",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -4835,7 +7413,7 @@
    "id": "4020eed413ab",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -4857,7 +7435,7 @@
    "id": "facf19fa896f",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -4879,7 +7457,7 @@
    "id": "de91fa87b118",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -4900,7 +7478,7 @@
    "id": "c1100dbed0e5",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -4922,7 +7500,7 @@
    "id": "eb1e06819f9d",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -4943,7 +7521,7 @@
    "id": "9365a42f5f96",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -4964,7 +7542,7 @@
    "id": "4e9595950ab6",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -4986,7 +7564,7 @@
    "id": "6a0d319242ca",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -5007,7 +7585,7 @@
    "id": "bc930f285a03",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -5028,7 +7606,7 @@
    "id": "092d3d511537",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   },
   {
    "fuente": "diba",
@@ -5049,7 +7627,7 @@
    "id": "f53212390841",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-25T13:09:03+00:00"
+   "visto_ultima_vez": "2026-11-25T13:13:46+00:00"
   }
  ]
 }
