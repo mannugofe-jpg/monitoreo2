@@ -3,6 +3,7 @@ from .acn import ACN
 from .ajbcn import AjuntamentBCN
 from .diba import DIBA
 from .generalitat import Generalitat
+from .infobae_efe import InfobaeEFE
 from .moncloa import Moncloa
 from .parlament import Parlament
 from .pp import PP
@@ -13,6 +14,7 @@ FUENTES: dict[str, type[Fuente]] = {
     Generalitat.clave: Generalitat,
     Parlament.clave: Parlament,
     ACN.clave: ACN,
+    InfobaeEFE.clave: InfobaeEFE,
     AjuntamentBCN.clave: AjuntamentBCN,
     DIBA.clave: DIBA,
     PP.clave: PP,
@@ -20,5 +22,5 @@ FUENTES: dict[str, type[Fuente]] = {
 
 __all__ = [
     "Fuente", "Moncloa", "Generalitat", "Parlament", "ACN", "AjuntamentBCN",
-    "DIBA", "PP", "FUENTES",
+    "DIBA", "PP", "InfobaeEFE", "FUENTES",
 ]
