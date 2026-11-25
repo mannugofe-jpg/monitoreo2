@@ -105,6 +105,14 @@ fuentes:
       - Sílvia Paneque
     temas: [plenos]
 
+  - clave: parlament
+    nombre: Agenda del Parlament de Catalunya
+    organismo: Parlament de Catalunya
+    url: https://www.parlament.cat/web/actualitat/agenda/index.html
+    activa: true
+    personas: []
+    temas: [agua, residuos, reciclaje, energia, plenos]
+
   - clave: acn
     nombre: Previsions de l'ACN
     organismo: Agència Catalana de Notícies
@@ -113,13 +121,13 @@ fuentes:
     personas: []
     temas: [agua, residuos, reciclaje, energia, plenos, rueda_prensa]
 
-  # La DIBA tiene Disallow en su robots.txt, así que no se raspa su web.
-  # Vía pendiente, el portal de datos abiertos do.diba.cat
+  # Su web tiene Disallow en el robots.txt, así que no se raspa. Se lee
+  # el conjunto de datos abiertos que publican ellos mismos
   - clave: diba
-    nombre: Agenda de la Diputació de Barcelona
+    nombre: Agenda corporativa de la Diputació de Barcelona
     organismo: Diputació de Barcelona
-    url: https://www.diba.cat/ca/web/el-diari/agenda/
-    activa: false
+    url: https://do.diba.cat/api/dataset/agendageneral_ca/format/json
+    activa: true
     personas: []
     temas: [agua, residuos, reciclaje, energia, plenos]
 
@@ -131,6 +139,8 @@ fuentes:
     personas: []
     temas: []          # vacío a propósito, interesa toda convocatoria
 
+  # Rechaza las peticiones desde servidores de centro de datos, tanto en
+  # la raíz del sitio como en la agenda. No hay vía limpia desde GitHub
   - clave: asamblea_madrid
     nombre: Agenda parlamentaria de la Asamblea de Madrid
     organismo: Asamblea de Madrid
@@ -156,11 +166,3 @@ fuentes:
       - Alberto Núñez Feijóo
     temas: [agua, residuos, energia]
 
-  - clave: vox
-    nombre: Próximos actos de VOX
-    organismo: VOX
-    url: https://www.voxespana.es/proximos-actos
-    activa: false
-    personas:
-      - Santiago Abascal
-    temas: []
