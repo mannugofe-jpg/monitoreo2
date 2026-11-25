@@ -1,0 +1,43 @@
+name: Diagnosticar webs
+
+on:
+  workflow_dispatch:
+    inputs:
+      urls:
+        description: "URLs a inspeccionar, separadas por espacios. Vacío para las seis pendientes."
+        required: false
+        default: ""
+
+jobs:
+  diagnosticar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Diagnosticar
+        run: |
+          URLS="${{ github.event.inputs.urls }}"
+          if [ -z "$URLS" ]; then
+            URLS="https://govern.cat/gov/agenda \
+                  https://www.diba.cat/ca/web/el-diari/agenda/ \
+                  https://www.asambleamadrid.es/actividad/agenda-parlamentaria \
+                  https://www.congreso.es/es/agenda \
+                  https://www.pp.es/actualidad/agenda/ \
+                  https://www.voxespana.es/proximos-actos"
+          fi
+          python herramientas/diagnostico.py $URLS
+
+      - name: Guardar el HTML descargado
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: diagnostico
+          path: diagnostico/
+          retention-days: 7
