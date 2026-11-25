@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-25T11:40:13+00:00",
+ "generado": "2026-11-25T11:53:52+00:00",
  "total": 50,
  "actos": [
   {
@@ -19,9 +19,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "85b852c36166",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T11:40:13+00:00"
+   "visto_ultima_vez": "2026-11-25T11:53:52+00:00"
   },
   {
    "fuente": "moncloa",
@@ -40,9 +40,9 @@
    ],
    "relevante": true,
    "id": "0b03bfef5bc4",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T11:40:13+00:00"
+   "visto_ultima_vez": "2026-11-25T11:53:52+00:00"
   },
   {
    "fuente": "moncloa",
@@ -61,9 +61,9 @@
    ],
    "relevante": true,
    "id": "2c29cfc9bb41",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T11:40:13+00:00"
+   "visto_ultima_vez": "2026-11-25T11:53:52+00:00"
   },
   {
    "fuente": "moncloa",
@@ -80,9 +80,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "c50cddfc684e",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T11:40:13+00:00"
+   "visto_ultima_vez": "2026-11-25T11:53:52+00:00"
   },
   {
    "fuente": "moncloa",
@@ -103,9 +103,9 @@
    ],
    "relevante": true,
    "id": "0e48882312a9",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T11:40:13+00:00"
+   "visto_ultima_vez": "2026-11-25T11:53:52+00:00"
   },
   {
    "fuente": "moncloa",
@@ -124,9 +124,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "9dcd77f9fe33",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T11:40:13+00:00"
+   "visto_ultima_vez": "2026-11-25T11:53:52+00:00"
   },
   {
    "fuente": "moncloa",
@@ -145,9 +145,9 @@
    ],
    "relevante": true,
    "id": "3ab39a51af3f",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T11:40:13+00:00"
+   "visto_ultima_vez": "2026-11-25T11:53:52+00:00"
   },
   {
    "fuente": "moncloa",
@@ -164,9 +164,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "ea5e383131bf",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T11:40:13+00:00"
+   "visto_ultima_vez": "2026-11-25T11:53:52+00:00"
   },
   {
    "fuente": "moncloa",
@@ -183,9 +183,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "154aec481fc2",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T11:40:13+00:00"
+   "visto_ultima_vez": "2026-11-25T11:53:52+00:00"
   },
   {
    "fuente": "moncloa",
@@ -204,9 +204,9 @@
    ],
    "relevante": true,
    "id": "0031bbc711ce",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T11:40:13+00:00"
+   "visto_ultima_vez": "2026-11-25T11:53:52+00:00"
   },
   {
    "fuente": "moncloa",
@@ -223,9 +223,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "66158107faa6",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T11:40:13+00:00"
+   "visto_ultima_vez": "2026-11-25T11:53:52+00:00"
   },
   {
    "fuente": "acn",
@@ -242,9 +242,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "7810f7b135e9",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T11:40:13+00:00"
+   "visto_ultima_vez": "2026-11-25T11:53:52+00:00"
   },
   {
    "fuente": "acn",
@@ -263,9 +263,9 @@
    "personas_vigiladas": [],
    "relevante": true,
    "id": "b132a7150604",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T11:40:13+00:00"
+   "visto_ultima_vez": "2026-11-25T11:53:52+00:00"
   },
   {
    "fuente": "acn",
@@ -282,9 +282,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "fb24d2e1f785",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T11:40:13+00:00"
+   "visto_ultima_vez": "2026-11-25T11:53:52+00:00"
   },
   {
    "fuente": "acn",
@@ -301,9 +301,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "cde4559d0b93",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T11:40:13+00:00"
+   "visto_ultima_vez": "2026-11-25T11:53:52+00:00"
   },
   {
    "fuente": "acn",
@@ -320,9 +320,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "652860be8785",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T11:40:13+00:00"
+   "visto_ultima_vez": "2026-11-25T11:53:52+00:00"
   },
   {
    "fuente": "acn",
@@ -339,9 +339,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "23395db31646",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T11:40:13+00:00"
+   "visto_ultima_vez": "2026-11-25T11:53:52+00:00"
   },
   {
    "fuente": "moncloa",
@@ -358,9 +358,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "4accc8e75746",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T11:40:13+00:00"
+   "visto_ultima_vez": "2026-11-25T11:53:52+00:00"
   },
   {
    "fuente": "moncloa",
@@ -379,9 +379,9 @@
    ],
    "relevante": true,
    "id": "73b274b72529",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T11:40:13+00:00"
+   "visto_ultima_vez": "2026-11-25T11:53:52+00:00"
   },
   {
    "fuente": "acn",
@@ -398,9 +398,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "ec883214d579",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T11:40:13+00:00"
+   "visto_ultima_vez": "2026-11-25T11:53:52+00:00"
   },
   {
    "fuente": "acn",
@@ -417,9 +417,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "91e83d6d192d",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T11:40:13+00:00"
+   "visto_ultima_vez": "2026-11-25T11:53:52+00:00"
   },
   {
    "fuente": "acn",
@@ -436,9 +436,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "439d49c26263",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T11:40:13+00:00"
+   "visto_ultima_vez": "2026-11-25T11:53:52+00:00"
   },
   {
    "fuente": "moncloa",
@@ -457,9 +457,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "d9a65aae6535",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T11:40:13+00:00"
+   "visto_ultima_vez": "2026-11-25T11:53:52+00:00"
   },
   {
    "fuente": "moncloa",
@@ -480,9 +480,9 @@
    ],
    "relevante": true,
    "id": "5729cec3fbfa",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T11:40:13+00:00"
+   "visto_ultima_vez": "2026-11-25T11:53:52+00:00"
   },
   {
    "fuente": "acn",
@@ -499,9 +499,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "c8d5db525989",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T11:40:13+00:00"
+   "visto_ultima_vez": "2026-11-25T11:53:52+00:00"
   },
   {
    "fuente": "acn",
@@ -518,9 +518,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "cee9e1e2420b",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T11:40:13+00:00"
+   "visto_ultima_vez": "2026-11-25T11:53:52+00:00"
   },
   {
    "fuente": "acn",
@@ -537,9 +537,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "db5b2697d606",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T11:40:13+00:00"
+   "visto_ultima_vez": "2026-11-25T11:53:52+00:00"
   },
   {
    "fuente": "acn",
@@ -556,9 +556,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "f9f438c872c1",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T11:40:13+00:00"
+   "visto_ultima_vez": "2026-11-25T11:53:52+00:00"
   },
   {
    "fuente": "acn",
@@ -577,9 +577,9 @@
    "personas_vigiladas": [],
    "relevante": true,
    "id": "eec32ff743af",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T11:40:13+00:00"
+   "visto_ultima_vez": "2026-11-25T11:53:52+00:00"
   },
   {
    "fuente": "moncloa",
@@ -598,9 +598,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "54463b6617db",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T11:40:13+00:00"
+   "visto_ultima_vez": "2026-11-25T11:53:52+00:00"
   },
   {
    "fuente": "moncloa",
@@ -617,9 +617,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "d96087f26feb",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T11:40:13+00:00"
+   "visto_ultima_vez": "2026-11-25T11:53:52+00:00"
   },
   {
    "fuente": "acn",
@@ -636,9 +636,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "e1453ad7118f",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T11:40:13+00:00"
+   "visto_ultima_vez": "2026-11-25T11:53:52+00:00"
   },
   {
    "fuente": "acn",
@@ -655,9 +655,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "92df2ce554fa",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T11:40:13+00:00"
+   "visto_ultima_vez": "2026-11-25T11:53:52+00:00"
   },
   {
    "fuente": "moncloa",
@@ -676,9 +676,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "af1a761fcd0a",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T11:40:13+00:00"
+   "visto_ultima_vez": "2026-11-25T11:53:52+00:00"
   },
   {
    "fuente": "moncloa",
@@ -697,9 +697,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "8b894bcdb49c",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T11:40:13+00:00"
+   "visto_ultima_vez": "2026-11-25T11:53:52+00:00"
   },
   {
    "fuente": "acn",
@@ -716,9 +716,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "107c5311730b",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T11:40:13+00:00"
+   "visto_ultima_vez": "2026-11-25T11:53:52+00:00"
   },
   {
    "fuente": "moncloa",
@@ -735,9 +735,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "117c73d6fe57",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T11:40:13+00:00"
+   "visto_ultima_vez": "2026-11-25T11:53:52+00:00"
   },
   {
    "fuente": "acn",
@@ -754,9 +754,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "49a6734c5705",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T11:40:13+00:00"
+   "visto_ultima_vez": "2026-11-25T11:53:52+00:00"
   },
   {
    "fuente": "moncloa",
@@ -773,9 +773,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "2dece17db232",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T11:40:13+00:00"
+   "visto_ultima_vez": "2026-11-25T11:53:52+00:00"
   },
   {
    "fuente": "acn",
@@ -794,9 +794,9 @@
    "personas_vigiladas": [],
    "relevante": true,
    "id": "1cb3e62c2a26",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T11:40:13+00:00"
+   "visto_ultima_vez": "2026-11-25T11:53:52+00:00"
   },
   {
    "fuente": "moncloa",
@@ -813,9 +813,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "33d4c62e5d3e",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T11:40:13+00:00"
+   "visto_ultima_vez": "2026-11-25T11:53:52+00:00"
   },
   {
    "fuente": "moncloa",
@@ -832,9 +832,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "d4422bc2d249",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T11:40:13+00:00"
+   "visto_ultima_vez": "2026-11-25T11:53:52+00:00"
   },
   {
    "fuente": "moncloa",
@@ -851,9 +851,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "b08d12351d2f",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T11:40:13+00:00"
+   "visto_ultima_vez": "2026-11-25T11:53:52+00:00"
   },
   {
    "fuente": "acn",
@@ -870,9 +870,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "59dbb7cb4bd8",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T11:40:13+00:00"
+   "visto_ultima_vez": "2026-11-25T11:53:52+00:00"
   },
   {
    "fuente": "moncloa",
@@ -891,9 +891,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "d3a7399d3f77",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T11:40:13+00:00"
+   "visto_ultima_vez": "2026-11-25T11:53:52+00:00"
   },
   {
    "fuente": "ajbcn",
@@ -912,9 +912,9 @@
    "personas_vigiladas": [],
    "relevante": true,
    "id": "0a7716dcdecd",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T11:40:13+00:00"
+   "visto_ultima_vez": "2026-11-25T11:53:52+00:00"
   },
   {
    "fuente": "moncloa",
@@ -933,9 +933,9 @@
    ],
    "relevante": true,
    "id": "ca67be4fa30f",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T11:40:13+00:00"
+   "visto_ultima_vez": "2026-11-25T11:53:52+00:00"
   },
   {
    "fuente": "moncloa",
@@ -952,9 +952,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "84fd4ed8b90a",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T11:40:13+00:00"
+   "visto_ultima_vez": "2026-11-25T11:53:52+00:00"
   },
   {
    "fuente": "ajbcn",
@@ -973,9 +973,9 @@
    "personas_vigiladas": [],
    "relevante": true,
    "id": "9f7b981b72a2",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T11:40:13+00:00"
+   "visto_ultima_vez": "2026-11-25T11:53:52+00:00"
   },
   {
    "fuente": "ajbcn",
@@ -994,9 +994,9 @@
    "personas_vigiladas": [],
    "relevante": true,
    "id": "1a318fb81b62",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T11:40:13+00:00"
+   "visto_ultima_vez": "2026-11-25T11:53:52+00:00"
   }
  ]
 }
