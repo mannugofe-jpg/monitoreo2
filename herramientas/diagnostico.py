@@ -18,13 +18,32 @@ from urllib.parse import urljoin, urlparse
 import requests
 from bs4 import BeautifulSoup
 
-CABECERAS = {
+# Dos identidades, para distinguir si el rechazo es por quién llama o por
+# desde dónde llama. Si la segunda pasa y la primera no, basta con cambiar
+# la cabecera. Si fallan las dos, el bloqueo es por dirección IP.
+BOT = {
     "User-Agent": (
         "agenda-institucional/1.0 (proyecto personal de agregación de "
         "agendas públicas; contacto en el repositorio)"
     ),
     "Accept-Language": "ca,es;q=0.9,en;q=0.8",
 }
+
+NAVEGADOR = {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+        "(KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+    ),
+    "Accept": (
+        "text/html,application/xhtml+xml,application/xml;q=0.9,"
+        "image/avif,image/webp,*/*;q=0.8"
+    ),
+    "Accept-Language": "ca,es;q=0.9,en;q=0.8",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Upgrade-Insecure-Requests": "1",
+}
+
+CABECERAS = BOT
 
 SALIDA = Path("diagnostico")
 RE_HORA = re.compile(r"\b\d{1,2}[:.]\d{2}\s*(?:h|hores|horas)?\b")
@@ -45,26 +64,71 @@ def nombre_archivo(url: str) -> str:
     return re.sub(r"[^A-Za-z0-9._-]", "_", limpio)[:80] or "pagina"
 
 
+def robots(url: str) -> None:
+    """Muestra qué dice el robots.txt del sitio sobre esta ruta."""
+    base = f"{urlparse(url).scheme}://{urlparse(url).netloc}"
+    ruta = urlparse(url).path or "/"
+    try:
+        r = requests.get(urljoin(base, "/robots.txt"), headers=NAVEGADOR, timeout=15)
+        if r.status_code != 200:
+            print(f"  robots.txt no disponible (estado {r.status_code})")
+            return
+    except Exception as error:
+        print(f"  robots.txt no se pudo leer -> {error}")
+        return
+
+    pertinentes, general = [], False
+    for linea in r.text.splitlines():
+        limpia = linea.strip()
+        if limpia.lower().startswith("user-agent:"):
+            general = limpia.split(":", 1)[1].strip() == "*"
+        elif general and limpia.lower().startswith(("disallow:", "allow:", "crawl-delay:")):
+            valor = limpia.split(":", 1)[1].strip()
+            if limpia.lower().startswith("crawl-delay:"):
+                pertinentes.append(limpia)
+            elif valor and (ruta.startswith(valor) or valor == "/"):
+                pertinentes.append(limpia)
+    if pertinentes:
+        print("  robots.txt, reglas que afectan a esta ruta")
+        for linea in pertinentes[:6]:
+            print(f"    {linea}")
+    else:
+        print("  robots.txt no prohíbe esta ruta para robots genéricos.")
+
+
+def intentar(url: str, cabeceras: dict, etiqueta: str):
+    try:
+        r = requests.get(url, headers=cabeceras, timeout=30, allow_redirects=True)
+    except Exception as error:
+        print(f"  {etiqueta:12} ERROR -> {error}")
+        return None
+    saltos = f", {len(r.history)} redirecciones" if r.history else ""
+    print(f"  {etiqueta:12} estado {r.status_code}, {len(r.text)} caracteres{saltos}")
+    if r.history and r.url != url:
+        print(f"               acaba en {r.url}")
+    return r if r.status_code == 200 else None
+
+
 def inspeccionar(url: str) -> None:
     print("=" * 72)
     print(url)
     print("=" * 72)
 
-    try:
-        r = requests.get(url, headers=CABECERAS, timeout=30)
-    except Exception as error:
-        print(f"  NO SE PUDO DESCARGAR -> {error}\n")
+    robots(url)
+    r = intentar(url, BOT, "como robot")
+    alternativa = intentar(url, NAVEGADOR, "como navegador")
+    if r is None and alternativa is not None:
+        print("  CONCLUSION. Rechaza por la cabecera, no por la dirección. "
+              "Se arregla identificándose como un navegador normal.")
+        r = alternativa
+    elif r is None and alternativa is None:
+        print("  CONCLUSION. Rechaza las dos. El bloqueo es por dirección IP "
+              "o por protección antibot. Desde GitHub no hay forma limpia.")
+        print()
         return
 
     r.encoding = r.apparent_encoding or "utf-8"
     html = r.text
-    print(f"  Estado {r.status_code}, {len(html)} caracteres, "
-          f"{r.headers.get('content-type', 'sin tipo')}")
-
-    if r.status_code != 200:
-        print()
-        return
-
     SALIDA.mkdir(exist_ok=True)
     destino = SALIDA / (nombre_archivo(url) + ".html")
     destino.write_text(html, encoding="utf-8")
@@ -109,7 +173,7 @@ def inspeccionar(url: str) -> None:
     for ruta in CANDIDATAS:
         prueba = url.rstrip("/") + ruta if ruta.startswith("?") else urljoin(base, ruta)
         try:
-            p = requests.get(prueba, headers=CABECERAS, timeout=15)
+            p = requests.get(prueba, headers=NAVEGADOR, timeout=15)
         except Exception:
             continue
         tipo = p.headers.get("content-type", "")
