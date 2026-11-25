@@ -1,5 +1,23 @@
 [
  {
+  "tipo": "modificacion",
+  "momento": "2026-11-25T14:09:29+00:00",
+  "id": "8b894bcdb49c",
+  "fuente": "moncloa",
+  "fecha": "2026-11-25",
+  "hora": "12:00",
+  "persona": "Ana Redondo",
+  "titulo": "Interviene en el acto conmemorativo por el Día Internacional de la Eliminación de la Violencia contra la Mujer, en Teatros Luchana, en Madrid.",
+  "antes": {
+   "hora": "12:00",
+   "lugar": "Teatros Luchana, Madrid"
+  },
+  "despues": {
+   "hora": "12:00",
+   "lugar": "Teatros Luchana, Madrid"
+  }
+ },
+ {
   "tipo": "alta",
   "momento": "2026-11-25T13:13:46+00:00",
   "id": "a6aa40537549",
