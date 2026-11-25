@@ -99,7 +99,7 @@ fuentes:
     nombre: Agenda del Govern de Catalunya
     organismo: Generalitat de Catalunya
     url: https://govern.cat/gov/agenda
-    activa: false
+    activa: true
     personas:
       - Salvador Illa
       - Sílvia Paneque
@@ -113,6 +113,8 @@ fuentes:
     personas: []
     temas: [agua, residuos, reciclaje, energia, plenos, rueda_prensa]
 
+  # La DIBA tiene Disallow en su robots.txt, así que no se raspa su web.
+  # Vía pendiente, el portal de datos abiertos do.diba.cat
   - clave: diba
     nombre: Agenda de la Diputació de Barcelona
     organismo: Diputació de Barcelona
@@ -149,7 +151,7 @@ fuentes:
     nombre: Agenda del Partido Popular
     organismo: Partido Popular
     url: https://www.pp.es/actualidad/agenda/
-    activa: false
+    activa: true
     personas:
       - Alberto Núñez Feijóo
     temas: [agua, residuos, energia]
