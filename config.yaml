@@ -175,3 +175,34 @@ fuentes:
       - Alberto Núñez Feijóo
     temas: [agua, residuos, energia]
 
+  - clave: psoe_general
+    nombre: PSOE - Previsiones generales
+    organismo: PSOE
+    url: https://www.psoe.es/agenda/
+    activa: true
+    personas: []
+    temas: [agua, residuos, reciclaje, energia, plenos, rueda_prensa]
+
+  - clave: psoe_cef
+    nombre: PSOE - Comisión Ejecutiva Federal
+    organismo: PSOE
+    url: https://www.psoe.es/agenda/
+    activa: true
+    personas: []
+    temas: [agua, residuos, reciclaje, energia, plenos, rueda_prensa]
+
+  - clave: psoe_congreso
+    nombre: PSOE - Congreso
+    organismo: PSOE
+    url: https://www.psoe.es/agenda/
+    activa: true
+    personas: []
+    temas: [agua, residuos, reciclaje, energia, plenos, rueda_prensa]
+
+  - clave: psoe_senado
+    nombre: PSOE - Senado
+    organismo: PSOE
+    url: https://www.psoe.es/agenda/
+    activa: true
+    personas: []
+    temas: [agua, residuos, reciclaje, energia, plenos, rueda_prensa]
