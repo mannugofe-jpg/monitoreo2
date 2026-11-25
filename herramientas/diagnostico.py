@@ -39,7 +39,6 @@ NAVEGADOR = {
         "image/avif,image/webp,*/*;q=0.8"
     ),
     "Accept-Language": "ca,es;q=0.9,en;q=0.8",
-    "Accept-Encoding": "gzip, deflate, br",
     "Upgrade-Insecure-Requests": "1",
 }
 
