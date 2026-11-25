@@ -1,5 +1,515 @@
 [
  {
+  "tipo": "alta",
+  "momento": "2026-11-25T17:09:59+00:00",
+  "id": "3152e4439fd5",
+  "fuente": "parlament",
+  "fecha": "2026-11-25",
+  "hora": "12:50",
+  "persona": "",
+  "titulo": "Conferència de premsa dels grups del PSC-Units, Junts, ERC, els Comuns i la CUP-DT amb la Comissió de Dones Advocades del Col·legi de l'Advocacia de Barcelona i l'Associació Catalana de Juristes Democràtes, amb motiu del Dia Internacional per a l'Eliminació de la Violència contra les Dones"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T17:09:59+00:00",
+  "id": "1c2f439b10d6",
+  "fuente": "parlament",
+  "fecha": "2026-11-26",
+  "hora": "12:00",
+  "persona": "Josep Rull",
+  "titulo": "El president, Josep Rull, clou el cicle \"La col·laboració publicoprivada a la Catalunya que volem\""
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T17:09:59+00:00",
+  "id": "6401664ff62c",
+  "fuente": "psoe_general",
+  "fecha": "2026-11-24",
+  "hora": "09:00",
+  "persona": "Pedro Sánchez",
+  "titulo": "El secretario general del PSOE, presidente del Gobierno y candidato a la reelección, Pedro Sánchez, es entrevistado en RNE"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T17:09:59+00:00",
+  "id": "30fb6800bb7e",
+  "fuente": "psoe_general",
+  "fecha": "2026-11-24",
+  "hora": "16:00",
+  "persona": "Pedro Sánchez",
+  "titulo": "Pedro Sánchez: interviene en un acto de campaña junto a la secretaria general de los socialistas aragoneses y secretaria de política autonómica de la CEF, Pilar Alegría, y el secretario general del PSOE Alto Aragón, Fernando Sabés. Palacio de Congreso. (Av. los Danzantes de Huesca, s/n) Huesca"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T17:09:59+00:00",
+  "id": "725ba98c9d90",
+  "fuente": "psoe_general",
+  "fecha": "2026-11-24",
+  "hora": "19:00",
+  "persona": "Pedro Sánchez",
+  "titulo": "Pedro Sánchez: interviene junto al primer secretari del PSC, Salvador Illa, en un acto de campaña en Barcelona. Hall 1 de la Fira de Barcelona de Montjuïc. (Avda. María Cristina con Plaza de España, s/n)"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T17:09:59+00:00",
+  "id": "5a625d728f20",
+  "fuente": "psoe_general",
+  "fecha": "2026-11-24",
+  "hora": "18:30",
+  "persona": "Cristina Narbona",
+  "titulo": "La presidenta del PSOE, Cristina Narbona, interviene en una mesa redonda sobre Igualdad junto a las candidatas por Palencia al Congreso, M.ª Luz Martínez Seijo, y al Senado, Rosa Aldea. Sede del PSOE. (Calle Valentín Calderón, 15) Palencia"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T17:09:59+00:00",
+  "id": "67137ef88c83",
+  "fuente": "psoe_general",
+  "fecha": "2026-11-24",
+  "hora": "19:00",
+  "persona": "Rebeca Torró",
+  "titulo": "La secretaria de Organización, Rebeca Torró, interviene junto al secretario general del PSOE de Extremadura, Álvaro Sánchez Cortina, en un acto de campaña. Hotel Badajoz Center. Badajoz"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T17:09:59+00:00",
+  "id": "b02ff8b61872",
+  "fuente": "psoe_general",
+  "fecha": "2026-11-24",
+  "hora": "10:00",
+  "persona": "Iratxe García",
+  "titulo": "La presidenta del grupo S&D, Iratxe García, ofrece una rueda de prensa. Parlamento Europeo. Estrasburgo (Francia)"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T17:09:59+00:00",
+  "id": "3b1e144ca599",
+  "fuente": "psoe_general",
+  "fecha": "2026-11-24",
+  "hora": "13:00",
+  "persona": "Hana Jalloul",
+  "titulo": "La secretaria de Política Exterior, Hana Jalloul, organiza un almuerzo de trabajo con la congresista estadounidense demócrata Pramila Jayapal y otros eurodiputados. Parlamento Europeo. Estrasburgo (Francia)"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T17:09:59+00:00",
+  "id": "49fca55fd852",
+  "fuente": "psoe_general",
+  "fecha": "2026-11-24",
+  "hora": "17:45",
+  "persona": "Hana Jalloul",
+  "titulo": "Hana Jalloul: participa en el acto de campaña organizado junto con UGT, “La España Diversa”. Sede de UGT. (Avenida de América, 25) Madrid"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T17:09:59+00:00",
+  "id": "e24963d03a19",
+  "fuente": "psoe_general",
+  "fecha": "2026-11-24",
+  "hora": "13:00",
+  "persona": "Nora Abete",
+  "titulo": "La secretaria de Comercio y Consumo, Nora Abete, participa en la tertulia de Portavoces Municipales. Cadena SER. Bilbao"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T17:09:59+00:00",
+  "id": "f3409aeab302",
+  "fuente": "psoe_general",
+  "fecha": "2026-11-24",
+  "hora": "13:00",
+  "persona": "Anabel Mateos",
+  "titulo": "La secretaria adjunta a Organización y de Transparencia y Acción Democrática y cabeza de lista al Congreso por Almería, Anabel Mateos, es entrevistada en el Diario de Almería. (Calle Maestro Serrano, 9) Almería"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T17:09:59+00:00",
+  "id": "ba10c958a203",
+  "fuente": "psoe_general",
+  "fecha": "2026-11-24",
+  "hora": "17:00",
+  "persona": "Anabel Mateos",
+  "titulo": "Anabel Mateos: participa en el acto sectorial de Igualdad del PSOE de Almería. Museo de la Guitarra. Almería"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T17:09:59+00:00",
+  "id": "8907b7732d04",
+  "fuente": "psoe_general",
+  "fecha": "2026-11-24",
+  "hora": "19:00",
+  "persona": "Patxi López",
+  "titulo": "El portavoz del Grupo Parlamentario Socialista y diputado por Bizkaia, Patxi López, participa en una charla-coloquio sobre vivienda y empleo. Centro Musical Ángel García Basoco. Castro-Urdiales (Cantabria)"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T17:09:59+00:00",
+  "id": "cb8602768e0f",
+  "fuente": "psoe_general",
+  "fecha": "2026-11-24",
+  "hora": "22:00",
+  "persona": "Patxi López",
+  "titulo": "Patxi López: participa en el debate de ETB2"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T17:09:59+00:00",
+  "id": "9ae0493473a2",
+  "fuente": "psoe_general",
+  "fecha": "2026-11-24",
+  "hora": "20:00",
+  "persona": "Kilian Sánchez San Juan",
+  "titulo": "(hora insular). El secretario de Sanidad de la CEF-PSOE y candidato al Senado por La Palma, Kilian Sánchez San Juan, interviene en un acto de campaña. Auditorio Insular Tomás Cabrera Martín. Los Llanos de Aridane. La Palma"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T17:09:59+00:00",
+  "id": "ca7c3d076ce8",
+  "fuente": "psoe_general",
+  "fecha": "2026-11-24",
+  "hora": "20:00",
+  "persona": "César Mógo",
+  "titulo": "El secretario de Exterior y candidato al Senado, César Mógo, interviene en un mitin de campaña de las Elecciones Generales del 29N. Viveiro. Lugo"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T17:09:59+00:00",
+  "id": "e3d1c4c94469",
+  "fuente": "psoe_general",
+  "fecha": "2026-11-24",
+  "hora": "22:30",
+  "persona": "Alfonso Rodríguez Gómez de Celis",
+  "titulo": "El cabeza de lista por Sevilla y secretario de Política Institucional, Alfonso Rodríguez Gómez de Celis, participa en el debate electoral de Canal Sur TV"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T17:09:59+00:00",
+  "id": "e5230f30d1c1",
+  "fuente": "psoe_cef",
+  "fecha": "2026-11-25",
+  "hora": "09:00",
+  "persona": "Pedro Sánchez",
+  "titulo": "El secretario general del PSOE, presidente del Gobierno y candidato a la reelección, Pedro Sánchez, es entrevistado en la Hora de la 1. La1"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T17:09:59+00:00",
+  "id": "4a919db73c56",
+  "fuente": "psoe_cef",
+  "fecha": "2026-11-25",
+  "hora": "18:20",
+  "persona": "Rebeca Torró",
+  "titulo": "La secretaria de Organización y portavoz del PSOE y candidata al Congreso por Valencia, Rebeca Torró, atiende a los medios este miércoles, antes de participar en la manifestación del 25N, Día Internacional para la Eliminación de la Violencia contra las Mujeres. El punto de encuentro estará ubicado en la calle Alcalá, 43, esquina con Gran Vía"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T17:09:59+00:00",
+  "id": "8e1539b1d7da",
+  "fuente": "psoe_cef",
+  "fecha": "2026-11-25",
+  "hora": "10:00",
+  "persona": "Alfonso Rodríguez Gómez de Celis",
+  "titulo": "Alfonso Rodríguez Gómez de Celis: Interviene en el evento 'Hablando de Sevilla', organizado por la Cámara de Comercio de Sevilla. Plaza de la Contratación, 8. Sevilla"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T17:09:59+00:00",
+  "id": "dc0223476123",
+  "fuente": "psoe_cef",
+  "fecha": "2026-11-25",
+  "hora": "22:30",
+  "persona": "Alfonso Rodríguez Gómez de Celis",
+  "titulo": "Alfonso Rodríguez Gómez de Celis: Participa en el debate elecotral en Canal Sur"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T17:09:59+00:00",
+  "id": "3feecf188dd8",
+  "fuente": "psoe_cef",
+  "fecha": "2026-11-25",
+  "hora": "12:30",
+  "persona": "Anabel Mateos",
+  "titulo": "La secretaria adjunta a Organización y de Transparencia y Acción Democrática y cabeza de lista al Congreso por Almería, Anabel Mateos, es entrevistada en Interalmería Televisión. (Estudios de Interalmería TV. El Toyo-Retamar. Almería)"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T17:09:59+00:00",
+  "id": "ce715a28a1c3",
+  "fuente": "psoe_congreso",
+  "fecha": "2026-11-24",
+  "hora": "19:00",
+  "persona": "Patxi López",
+  "titulo": "El portavoz del Grupo Parlamentario Socialista y diputado por Bizkaia, Patxi López, participa en una charla-coloquio sobre vivienda y empleo. En Castro-Urdiales (Cantabria ) - Centro Musical Ángel García Basoco"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T17:09:59+00:00",
+  "id": "e7c78dc1c312",
+  "fuente": "psoe_congreso",
+  "fecha": "2026-11-24",
+  "hora": "22:00",
+  "persona": "Patxi López",
+  "titulo": "Patxi López: participa en el Debate de ETB2"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T17:09:59+00:00",
+  "id": "c5256cb4ce9d",
+  "fuente": "psoe_senado",
+  "fecha": "2026-11-24",
+  "hora": "19:00",
+  "persona": "Juan Espadas",
+  "titulo": "El portavoz del Grupo Socialista en el Senado y senador autonómico por Andalucía, Juan Espadas, interviene en un acto público de la campaña de las Elecciones Generales 29-N, junto al secretario general del PSOE de Gerena, Javier Fernández Gualda, y la candidata por Sevilla al Congreso de los Diputados, Carmen Loli Velasco (Casa del Pueblo, c/ Manolito Gil, 64). Gerena (Sevilla)"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T17:09:59+00:00",
+  "id": "c56b661e1a85",
+  "fuente": "psoe_senado",
+  "fecha": "2026-11-24",
+  "hora": "09:00",
+  "persona": "",
+  "titulo": "25N Dia Internacional de la eliminación de la Violencia contra la Mujer"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T17:09:59+00:00",
+  "id": "07b3106f419e",
+  "fuente": "psoe_senado",
+  "fecha": "2026-11-24",
+  "hora": "09:30",
+  "persona": "Concha Andreu Rodríguez",
+  "titulo": "La vicepresidenta segunda de la Mesa de la Diputación Permanente del Senado y senadora por La Rioja, Concha Andreu Rodríguez, interviene en un acto sectorial de Igualdad, en el marco de la campaña de las Elecciones Generales 29- N, junto a la presidenta de Navarra y secretaria general del PSN, María Chivite. (Sede de PSOE, c/ Martínez Zaporta, 7), Logroño (La Rioja)"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T17:09:59+00:00",
+  "id": "1f02d6a039c1",
+  "fuente": "psoe_senado",
+  "fecha": "2026-11-24",
+  "hora": "19:00",
+  "persona": "Concha Andreu Rodríguez",
+  "titulo": "Concha Andreu Rodríguez: interviene en un acto público de la campaña de las Elecciones Generales del 29-N (Sala Entreviñas, c/ Frontón,9). Aldeanueva de Ebro (La Rioja)"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T17:09:59+00:00",
+  "id": "84a781209bec",
+  "fuente": "psoe_senado",
+  "fecha": "2026-11-24",
+  "hora": "20:00",
+  "persona": "Concha Andreu Rodríguez",
+  "titulo": "Concha Andreu Rodríguez: interviene un acto público de la campaña de las Elecciones Generales del 29-N, junto al portavoz y candidato a la Alcaldía de Calahorra, Esteban Martínez, el secretario general del PSOE de la La Rioja, Javier García, y la cabeza de lista por La Rioja al Congreso de los Diputados, Elisa Garrido (Hotel Ciudad de Calahorra, c/Maestro Falla, 1). Calahorra (La Rioja)"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T17:09:59+00:00",
+  "id": "03f9c321ae22",
+  "fuente": "psoe_senado",
+  "fecha": "2026-11-24",
+  "hora": "11:30",
+  "persona": "César Mogo",
+  "titulo": "El portavoz adjunto del Grupo Parlamentario Socialista, senador por Lugo, secretario Exterior de CEF-PSOE y candidato al Senado, César Mogo, interviene en un acto informativo sobre el sistema público de pensiones (Centro cívico Municipal Uxio Novineyra, Rúa Quiroga Ballesteros, s/n). Lugo"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T17:09:59+00:00",
+  "id": "9ded68257653",
+  "fuente": "psoe_senado",
+  "fecha": "2026-11-24",
+  "hora": "20:00",
+  "persona": "César Mogo",
+  "titulo": "César Mogo: interviene en un mitin de campaña de las Elecciones Generales 29- N en Viveiro (Lugo)"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T17:09:59+00:00",
+  "id": "d9c20fb9ade9",
+  "fuente": "psoe_senado",
+  "fecha": "2026-11-24",
+  "hora": "19:00",
+  "persona": "Consol Cantenys Arbolí",
+  "titulo": "La secretaria segunda de la Diputación Permanente del Senado y senadora por Girona, Consol Cantenys Arbolí, asiste al acto central de campaña de las Elecciones Generales del 29-N, en el que interviene el secretario general del PSOE, presidente del Gobierno y candidato a la reelección, Pedro Sánchez, junto al primer secretari del PSC, Salvador Illa (Hall 1 de la Fira de Barcelona de Montjuïc, Avda. María Cristina con Plaza de España, s/n). Barcelona"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T17:09:59+00:00",
+  "id": "7d9ab9476c37",
+  "fuente": "psoe_senado",
+  "fecha": "2026-11-25",
+  "hora": "11:30",
+  "persona": "Juan Espadas",
+  "titulo": "El portavoz del Grupo Socialista en el Senado y senador autonómico por Andalucía, Juan Espadas, participa en un reparto electoral en el marco de las Elecciones Generales del 29-N en la barriada de Alcosa. Sevilla"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T17:09:59+00:00",
+  "id": "4b004a7e93da",
+  "fuente": "psoe_senado",
+  "fecha": "2026-11-25",
+  "hora": "19:30",
+  "persona": "Juan Espadas",
+  "titulo": "Juan Espadas: participa en la manifestación con motivo del 25N, Día Internacional Para la Eliminación de la Violencia contra las Mujeres, bajo el lema `Frente a la violencia contra las mujeres, ¡ni un paso atrás!, convocada por el Movimiento Feminista (Desde la Pl. de San Francisco hasta la Alameda de Hércules). Sevilla"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T17:09:59+00:00",
+  "id": "df5808513bc7",
+  "fuente": "psoe_senado",
+  "fecha": "2026-11-25",
+  "hora": "10:30",
+  "persona": "César Mogo",
+  "titulo": "El portavoz adjunto del Grupo Parlamentario Socialista, senador por Lugo, secretario de Exterior de CEF-PSOE y candidato al Senado, César Mogo, participa en un encuentro con alcaldes y portavoces municipales socialistas de la comarca de A Mariña (Hotel Nordés, Avda. da Mariña, 57). Burela (Lugo)"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T17:09:59+00:00",
+  "id": "7e56fd383cba",
+  "fuente": "psoe_senado",
+  "fecha": "2026-11-25",
+  "hora": "17:00",
+  "persona": "Concha Andreu Rodríguez",
+  "titulo": "La vicepresidenta segunda de la Mesa de la Diputación Permanente del Senado y senadora por La Rioja, Concha Andreu Rodríguez, asiste al acto Institucional con motivo del Día Internacional de la Eliminación de la Violencia contra las Mujeres, (Parlamento de La Rioja, c/ Marqués de San Nicolás, 11). Logroño (La Rioja)"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T17:09:59+00:00",
+  "id": "a9771aba6a68",
+  "fuente": "psoe_senado",
+  "fecha": "2026-11-25",
+  "hora": "11:00",
+  "persona": "María Jesús Álvarez González",
+  "titulo": "La senadora autonómica por el Principado de Asturias, María Jesús Álvarez González, asiste al acto institucional con motivo del Día Internacional de la Eliminación de la Violencia contra las Mujeres, organizado por el Gobierno del Principado de Asturias (Espacio Escénico Plaza La Habana, c/ Alejandro Mon, 9). Posada de Llanera (Asturias)"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T17:09:59+00:00",
+  "id": "e5481c50fe43",
+  "fuente": "psoe_senado",
+  "fecha": "2026-11-26",
+  "hora": "10:30",
+  "persona": "Juan Espadas",
+  "titulo": "El portavoz del Grupo Socialista en el Senado y senador autonómico por Andalucía, Juan Espadas, participa en un reparto electoral en el marco de las Elecciones Generales del 29-N en la barrio de Valdezorras. Sevilla"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T17:09:59+00:00",
+  "id": "305cbf7a3adf",
+  "fuente": "psoe_senado",
+  "fecha": "2026-11-26",
+  "hora": "18:00",
+  "persona": "Juan Espadas",
+  "titulo": "Juan Espadas: asiste a un acto público de la campaña de las Elecciones Generales 29-N en el que intervienen la secretaria geneal del PSOE Sur, Mª Camen Tejada, el candidato a la Alcaldía de Sevilla, Antonio Muñoz, y la candidata por Sevilla al Congreso de los Diputados, Carmen Castilla (Centro Cívico El Esqueleto, c/Luis Ortiz Muñoz, s/n). Sevilla"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T17:09:59+00:00",
+  "id": "6302d2b4d404",
+  "fuente": "psoe_senado",
+  "fecha": "2026-11-26",
+  "hora": "10:00",
+  "persona": "",
+  "titulo": "Jornada de Puertas Abiertas"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T17:09:59+00:00",
+  "id": "eda910b12344",
+  "fuente": "psoe_senado",
+  "fecha": "2026-11-26",
+  "hora": null,
+  "persona": "Amparo Marco Gual",
+  "titulo": "La senadora por Castellón, Amparo Marco Gual, asiste al I Congreso Internacional de Administración General Local que se celebra, los días 26 y 27 de noviembre, en Madrid (Antigua Casa Consistorial, Pl. de la Villa, 5). Madrid."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T17:09:59+00:00",
+  "id": "1d2c9b407199",
+  "fuente": "psoe_senado",
+  "fecha": "2026-11-26",
+  "hora": "10:00",
+  "persona": "Ramón Morales Quesada",
+  "titulo": "(hora insular). El senador por Gran Canaria, Ramón Morales Quesada, asiste al acto conmemorativo `Las Meninas´ con motivo del Día Internacional de la Eliminación de la Violencia contra la Mujer, organizado por la Delegación del Gobierno en Canarias (Delegación del Gobierno, Pl. de la Feria, 24). Las Palmas (Gran Canaria)"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T17:09:59+00:00",
+  "id": "73e0ee5abad4",
+  "fuente": "psoe_senado",
+  "fecha": "2026-11-26",
+  "hora": "18:00",
+  "persona": "",
+  "titulo": "(hora insular), asiste a la Gala de Premios del Grupo Social ONCE Canarias (Teatro Guiniguada, c/ Mesa de León, 2) Las Palmas (Gran Canaria)"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T17:09:59+00:00",
+  "id": "da0b4900b2ec",
+  "fuente": "psoe_senado",
+  "fecha": "2026-11-26",
+  "hora": "13:00",
+  "persona": "Consol Cantenys Arbolí",
+  "titulo": "La secretaria segunda de la Mesa de la Diputación Permanente y senadora por Girona, Consol Cantenys Arbolí, asiste al acto de conmemoración del Día Internacional de la Eliminación de la Violencia contra la Mujer, organizado por el Congreso de los Diputados (Salón de Pasos Perdidos). Congreso de los Diputados"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T17:09:59+00:00",
+  "id": "cc129f60563d",
+  "fuente": "psoe_senado",
+  "fecha": "2026-11-26",
+  "hora": "15:00",
+  "persona": "César Mogo",
+  "titulo": "El portavoz adjunto del Grupo Parlamentario Socialista, senador por Lugo, secretario de Exterior de CEF-PSOE y candidato al Senado, César Mogo, celebra un encuentro con alcaldes y portavoces municipales socialistas de la comarca de A Ulloa (Casa de la Cultura). Antas de Ulla (Lugo)"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T17:09:59+00:00",
+  "id": "a557535a0a16",
+  "fuente": "psoe_senado",
+  "fecha": "2026-11-26",
+  "hora": "20:00",
+  "persona": "César Mogo",
+  "titulo": "César Mogo: interviene en un acto de campaña de las Elecciones Generales 29-N en Monterroso (Pabellón de la Feria). Monterroso (Lugo)"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T17:09:59+00:00",
+  "id": "b73dfd7f9e54",
+  "fuente": "psoe_senado",
+  "fecha": "2026-11-26",
+  "hora": "18:00",
+  "persona": "Txema Oleaga Zalvidea",
+  "titulo": "El senador por Bizkaia, Txema Oleaga Zalvidea, participa en el acto público de cierre de campaña de las Elecciones Generales 29-N, junto al candidato por Bizkaia al Congreso de los Diputados, Patxi López, la portavoz del PSE-EE en Bilbao y candidata a la Alcaldía, Nora Abete, y el vicelehendakari y secretario General del PSE-EE Bizkaia, Mikel Torres (Cúpula del Teatro Campos, c/ Bertendona, 3). Bilbao (Bizkaia)"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T17:09:59+00:00",
+  "id": "7be03cd68219",
+  "fuente": "psoe_senado",
+  "fecha": "2026-11-26",
+  "hora": "18:30",
+  "persona": "Concha Andreu Rodríguez",
+  "titulo": "La vicepresidenta segunda de la Mesa de la Diputación Permanente del Senado y senadora por La Rioja, Concha Andreu Rodríguez, asiste al acto `Homenaje a Mujeres que han Hecho Historia´, en su tercera edición, organizado por el diario Público, la Biblioteca Nacional de España y la Fundación 1º de mayo, un encuentro con mujeres pioneras, valientes y comprometidas en épocas y tiempos muy difíciles, que hicieron grandes cosas por la sociedad pero a las que no se reconoce debidamente, en el que intervendrá la ministra de Igualdad, Ana Redondo (Auditorio de la Biblioteca Nacional de España, Pº de Recoletos, 20-22). Madrid"
+ },
+ {
+  "tipo": "baja",
+  "momento": "2026-11-25T17:09:59+00:00",
+  "id": "48153664a196",
+  "fuente": "parlament",
+  "fecha": "2026-11-25",
+  "hora": "12:50",
+  "persona": "",
+  "titulo": "Conferència de premsa dels grups del PSC-Units, Junts, ERC, els Comuns i la CUP-DT amb l'associació Dones Juristes amb motiu del Dia Internacional per a l'Eliminació de la Violència contra les Dones"
+ },
+ {
+  "tipo": "baja",
+  "momento": "2026-11-25T17:09:59+00:00",
+  "id": "41c431dae9b5",
+  "fuente": "parlament",
+  "fecha": "2026-11-26",
+  "hora": "12:00",
+  "persona": "Josep Rull",
+  "titulo": "El president, Josep Rull, clourà el Cicle 'La col·laboració publicoprivada a la Catalunya que volem'"
+ },
+ {
   "tipo": "modificacion",
   "momento": "2026-11-25T14:09:29+00:00",
   "id": "8b894bcdb49c",
