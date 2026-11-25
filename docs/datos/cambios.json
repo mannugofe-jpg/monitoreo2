@@ -1,6 +1,246 @@
 [
  {
   "tipo": "alta",
+  "momento": "2026-11-25T19:53:15+00:00",
+  "id": "a7bfe459aa62",
+  "fuente": "moncloa",
+  "fecha": "2026-11-26",
+  "hora": "11:00",
+  "persona": "Yolanda Díaz",
+  "titulo": "Defiende, ante la Diputación Permanente del Congreso, el Real Decreto-ley 39/2026, de 17 de noviembre, por el que se modifican el texto"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T19:53:15+00:00",
+  "id": "ff5db89f33c1",
+  "fuente": "moncloa",
+  "fecha": "2026-11-26",
+  "hora": "13:10",
+  "persona": "Yolanda Díaz",
+  "titulo": "Es entrevistada en el programa 'Al Rojo Vivo', de La Sexta."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T19:53:15+00:00",
+  "id": "9c35f81fb417",
+  "fuente": "moncloa",
+  "fecha": "2026-11-26",
+  "hora": "10:00",
+  "persona": "Sara Aagesen",
+  "titulo": "Visita la Semana Internacional de la Electrificación y la Descarbonización (Genera y Matelec 2026), en IFEMA Madrid."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T19:53:15+00:00",
+  "id": "c9849b28b365",
+  "fuente": "moncloa",
+  "fecha": "2026-11-26",
+  "hora": "11:30",
+  "persona": "Sara Aagesen",
+  "titulo": "Defiende, ante la Diputación Permanente del Congreso, el Real Decreto-ley 1/2026, de 20 de noviembre, por el que se modifica la Ley 1/2005, de 9 de marzo, por la que se regula el régimen del comercio de derechos de emisión de gases"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T19:53:15+00:00",
+  "id": "9eb62bd332e0",
+  "fuente": "moncloa",
+  "fecha": "2026-11-26",
+  "hora": "10:30",
+  "persona": "Félix Bolaños",
+  "titulo": "Preside, por vía telemática, la reunión de la Comisión General de Secretarios de Estado y Subsecretarios, que se celebra en el Complejo de la Moncloa."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T19:53:15+00:00",
+  "id": "b3c45dc22c1a",
+  "fuente": "moncloa",
+  "fecha": "2026-11-26",
+  "hora": "10:00",
+  "persona": "Arcadi España",
+  "titulo": "Defiende, ante la Diputación Permanente del Congreso, el Real Decreto-ley 38/2026, de 17 de noviembre, por el que se adoptan medidas relativas a"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T19:53:15+00:00",
+  "id": "235f49661f39",
+  "fuente": "moncloa",
+  "fecha": "2026-11-26",
+  "hora": "10:30",
+  "persona": "Milagros Tolón",
+  "titulo": "Inaugura el II Congreso Internacional de Educación Inclusiva, organizado por Plena inclusión España junto a su federación de Castilla-La Mancha, en Toledo."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T19:53:15+00:00",
+  "id": "b7ac279fcc28",
+  "fuente": "moncloa",
+  "fecha": "2026-11-26",
+  "hora": "08:30",
+  "persona": "Jordi Hereu",
+  "titulo": "Es entrevistado en el programa 'Els Matins', de TV3."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T19:53:15+00:00",
+  "id": "4234acc1c0b2",
+  "fuente": "moncloa",
+  "fecha": "2026-11-26",
+  "hora": "10:30",
+  "persona": "Jordi Hereu",
+  "titulo": "Es entrevistado en el programa 'El matí', de Catalunya Ràdio."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T19:53:15+00:00",
+  "id": "bc3f8cac8f78",
+  "fuente": "moncloa",
+  "fecha": "2026-11-26",
+  "hora": "10:30",
+  "persona": "Luis Planas",
+  "titulo": "Se reúne con representantes del Consejo Regulador de la Denominación de Origen Baena (Córdoba)."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T19:53:15+00:00",
+  "id": "584a82c8915d",
+  "fuente": "moncloa",
+  "fecha": "2026-11-26",
+  "hora": "12:30",
+  "persona": "Luis Planas",
+  "titulo": "Visita el Ayuntamiento de Baena (Córdoba) y mantiene un encuentro con la corporación municipal."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T19:53:15+00:00",
+  "id": "67324c3e1549",
+  "fuente": "moncloa",
+  "fecha": "2026-11-26",
+  "hora": "08:10",
+  "persona": "Ángel Víctor Torres",
+  "titulo": "Es entrevistado en el programa 'Hoy por Hoy Canarias', de Cadena SER Canarias."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T19:53:15+00:00",
+  "id": "001fc5e7901e",
+  "fuente": "moncloa",
+  "fecha": "2026-11-26",
+  "hora": "11:00",
+  "persona": "Isabel Rodríguez",
+  "titulo": "Es entrevista en 'COPE Ciudad Real'."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T19:53:15+00:00",
+  "id": "93a4131b75fc",
+  "fuente": "moncloa",
+  "fecha": "2026-11-26",
+  "hora": "11:00",
+  "persona": "Mónica García",
+  "titulo": "Clausura la Jornada 'Estándares Europeos de Atención a Niños, Niñas y Adolescentes con Cáncer', en la sede de la Fundación ONCE en Madrid."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T19:53:15+00:00",
+  "id": "4941bda0f1b2",
+  "fuente": "moncloa",
+  "fecha": "2026-11-26",
+  "hora": "12:30",
+  "persona": "Mónica García",
+  "titulo": "Asiste al acto conmemorativo del Día Internacional de la Eliminación de la Violencia contra la Mujer, en el Congreso."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T19:53:15+00:00",
+  "id": "5f16f8130d32",
+  "fuente": "moncloa",
+  "fecha": "2026-11-26",
+  "hora": "18:30",
+  "persona": "Mónica García",
+  "titulo": "Interviene en el acto '18 años a tu lado, al lado de las personas con hipertensión pulmonar y sus familias', con motivo del aniversario de la Fundación contra la Hipertensión Pulmonar (FCHP), en Madrid."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T19:53:15+00:00",
+  "id": "4a97d894beb2",
+  "fuente": "moncloa",
+  "fecha": "2026-11-26",
+  "hora": null,
+  "persona": "Diana Morant",
+  "titulo": "Defiende, ante la Diputación Permanente del Congreso, el Real Decreto-ley 40/2026, de 20 de noviembre, de medidas urgentes para el impulso de la competitividad y la soberanía tecnológica en el ámbito científico e investigador."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T19:53:15+00:00",
+  "id": "3b13d3b514b6",
+  "fuente": "moncloa",
+  "fecha": "2026-11-26",
+  "hora": "18:00",
+  "persona": "Ana Redondo",
+  "titulo": "Asiste a la III edición del 'Homenaje a Mujeres que han hecho Historia', en el Auditorio de la Biblioteca Nacional, en Madrid."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T19:53:15+00:00",
+  "id": "770c9ebce76d",
+  "fuente": "moncloa",
+  "fecha": "2026-11-26",
+  "hora": "19:30",
+  "persona": "Elma Saiz",
+  "titulo": "Asiste a la 73ª edición de los Premios Ondas, en el Gran Teatre del Liceu, en Barcelona."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T19:53:15+00:00",
+  "id": "f00d9724d0e2",
+  "fuente": "moncloa",
+  "fecha": "2026-11-26",
+  "hora": "09:00",
+  "persona": "Óscar López",
+  "titulo": "Defiende, ante la Diputación Permanente del Congreso, el Real Decreto-ley 37/2026, de 17 de noviembre, por el que se aprueban medidas urgentes en materia de retribuciones del personal al servicio del sector público."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T19:53:15+00:00",
+  "id": "7dee31e6a1cd",
+  "fuente": "moncloa",
+  "fecha": "2026-11-26",
+  "hora": "14:30",
+  "persona": "Sira Rego",
+  "titulo": "Viaja a El Hierro y mantiene un encuentro con el presidente del cabildo insular, Alpidio Armas, en la sede del Cabildo."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T19:53:15+00:00",
+  "id": "0aeb1d0e6967",
+  "fuente": "moncloa",
+  "fecha": "2026-11-26",
+  "hora": "17:00",
+  "persona": "Sira Rego",
+  "titulo": "Visita el Hospital Militar de campaña y se reúne con personal de Salvamento Marítimo Humanitario, en El Hierro."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T19:53:15+00:00",
+  "id": "7181a15f5669",
+  "fuente": "moncloa",
+  "fecha": "2026-11-26",
+  "hora": "18:30",
+  "persona": "Sira Rego",
+  "titulo": "Visita el Puerto de La Restinga, en El Hierro."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T19:53:15+00:00",
+  "id": "81c816646f90",
+  "fuente": "pp",
+  "fecha": "2026-11-24",
+  "hora": "19:00",
+  "persona": "",
+  "titulo": "Alicia García, interviene en la Convención del PP del Valle del Tiétar, con Carlos García, Héctor Palencia, y el alcalde de Arenas de San Pedro, Juan Carlos Sánchez."
+ },
+ {
+  "tipo": "alta",
   "momento": "2026-11-25T17:09:59+00:00",
   "id": "3152e4439fd5",
   "fuente": "parlament",
