@@ -1,6 +1,686 @@
 [
  {
   "tipo": "alta",
+  "momento": "2026-11-25T21:54:31+00:00",
+  "id": "220499076bf1",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-26",
+  "hora": "09:00",
+  "persona": "",
+  "titulo": "La Diputación Permanente del Congreso se reúne, tres días antes de las elecciones generales, en la que será su última sesión antes de la cita electoral"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T21:54:31+00:00",
+  "id": "b82afd65c589",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-26",
+  "hora": "10:00",
+  "persona": "",
+  "titulo": "La reina recibe en sendas audiencias a la selección nacional de balonmano en silla de ruedas y a la selección nacional del deporte paralímpico de boccia. Palacio de la Zarzuela"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T21:54:31+00:00",
+  "id": "00412b5fb6b7",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-26",
+  "hora": "10:00",
+  "persona": "",
+  "titulo": "El rey celebra tres audiencias militares en el Palacio de El Pardo. Palacio de El Pardo"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T21:54:31+00:00",
+  "id": "de6ff3777698",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-26",
+  "hora": "10:00",
+  "persona": "",
+  "titulo": "El presidente del Senado, Pedro Rollán, inaugura la jornada de puertas abiertas para que la ciudadanía visite la institución, que se prolongará jueves y viernes. Senado"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T21:54:31+00:00",
+  "id": "11cb4fcd835f",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-26",
+  "hora": "12:00",
+  "persona": "",
+  "titulo": "Reunión de la Junta Electoral Central (JEC)"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T21:54:31+00:00",
+  "id": "5906a503373b",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-26",
+  "hora": "14:00",
+  "persona": "",
+  "titulo": "Concluye el plazo para votar por correo y es el último día para que los españoles residentes en el extranjero voten presencialmente en urna en los distintos consulados"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T21:54:31+00:00",
+  "id": "6e98441652d4",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-26",
+  "hora": "08:45",
+  "persona": "",
+  "titulo": "El presidente de ERC, Oriol Junqueras, atiende a los medios desde la estación de Sants, donde participa en una acción de su partido para denunciar el servicio deficiente de Rodalies"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T21:54:31+00:00",
+  "id": "ac35a92fdae7",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-26",
+  "hora": "09:00",
+  "persona": "",
+  "titulo": "El ministro de Cultura y candidato de Comuns-Frente Amplio al Congreso por Barcelona, Ernest Urtasun, participa en un desayuno informativo organizado por Barcelona Tribuna. Hotel Melià Sarrià (Av. Sarrià, 50)"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T21:54:31+00:00",
+  "id": "d7fa3dd5fbf9",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-26",
+  "hora": "10:45",
+  "persona": "",
+  "titulo": "La ministra de Defensa y número dos del PSOE por Madrid, Margarita Robles, y el secretario general del PSOECyL, Carlos Martínez, comparecen ante los medios de comunicación antes de participar en un acto con jubilados y pensionistas organizado por la UGT. Palacio de los Serrano"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T21:54:31+00:00",
+  "id": "ad0d1c6b18f2",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-26",
+  "hora": "11:00",
+  "persona": "",
+  "titulo": "La candidata número 2 del Frente Amplio por Madrid, Tesh Sidi, y el candidato en esta coalición y coordinador general de IU en Andalucía, Toni Valero, ofrecen una rueda de prensa. Facultad de Ciencias de la Educación"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T21:54:31+00:00",
+  "id": "e30112ce85bf",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-26",
+  "hora": "11:00",
+  "persona": "",
+  "titulo": "La candidata del PSN-PSOE al Congreso de los Diputados, Elma Saiz, hace declaraciones a los medios de comunicación. Plaza de los Burgos"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T21:54:31+00:00",
+  "id": "fabed9d2e89f",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-26",
+  "hora": "11:00",
+  "persona": "",
+  "titulo": "El cabeza de lista de EH Bildu al Congreso por Bizkaia, Oskar Matute, comparece ante los medios mañana en el grupo de viviendas de Erandio conocido como 'Los Ochos'. C/Tartanga"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T21:54:31+00:00",
+  "id": "786cb9b4ccb4",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-26",
+  "hora": "12:00",
+  "persona": "",
+  "titulo": "Debate electoral organizado por el Cercle d'Economia con candidatos catalanes a las elecciones generales del 29 de noviembre, con la participación de Jordi Hereu (PSC), Ernest Urtasun (Frente Amplio), Xavier García Albiol (PP), Gabriel Rufián (ERC), Miriam Nogueras (Junts) y Juanjo Aizcorbe (Vox). C/ Provença, 29"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T21:54:31+00:00",
+  "id": "a1787b721d90",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-26",
+  "hora": "18:00",
+  "persona": "",
+  "titulo": "La candidata de Podemos a la Presidencia del Gobierno, Irene Montero, celebra un acto de campaña. Plaza de Santiago López"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T21:54:31+00:00",
+  "id": "32e9292c856c",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-26",
+  "hora": "18:00",
+  "persona": "",
+  "titulo": "El expresidente del Gobierno Mariano Rajoy participa en un acto de campaña del PP. Centro comercial El Muelle"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T21:54:31+00:00",
+  "id": "7b18376ab017",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-26",
+  "hora": "18:00",
+  "persona": "",
+  "titulo": "El presidente catalán, Salvador Illa, y la ministra de Inclusión, Seguridad Social y Migraciones, Elma Saiz, participan en un acto electoral. C/ Pallars, 191"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T21:54:31+00:00",
+  "id": "d9e18407f3c4",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-26",
+  "hora": "18:30",
+  "persona": "",
+  "titulo": "Acto final de campaña de Comuns Frente-Amplio en Cornellà de Llobregat (Barcelona), con el ministro de Cultura y candidato al Congreso, Ernest Urtasun, el número uno por Madrid, Emilio Delgado, y la líder de Comuns en el Parlamento de Cataluña, Jéssica Albiach. Pl. Catalunya"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T21:54:31+00:00",
+  "id": "7fbf1cd6e1f6",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-26",
+  "hora": "19:00",
+  "persona": "",
+  "titulo": "El expresidente del Gobierno José María Aznar protagoniza el coloquio 'Conversaciones Constitucionales' un día antes de la conclusión de la campaña electoral. Teatro María Luisa Ponte"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T21:54:31+00:00",
+  "id": "cdf9f9e99355",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-26",
+  "hora": "19:00",
+  "persona": "",
+  "titulo": "El presidente del PNV, Aitor Esteban, y el lehendakari, Imanol Pradales, intervienen en un mitín electoral. Plaza de la Provincia"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T21:54:31+00:00",
+  "id": "c92ddd1892aa",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-26",
+  "hora": "19:00",
+  "persona": "",
+  "titulo": "Acto de cierre de campaña del PSOE de Puertollano, en el que participa la cabeza de lista al Congreso por Ciudad Real y ministra de Vivienda y Agenda Urbana, Isabel Rodríguez. C/ Almagro, 32"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T21:54:31+00:00",
+  "id": "b447afdbb435",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-26",
+  "hora": "19:00",
+  "persona": "",
+  "titulo": "El secretario general de EH Bildu, Arnaldo Otegi; los cabezas de lista al Congreso y al Senado por Bizkaia, Oskar Matute e Idurre Bideguren, intervienen en un acto electoral. Parque de Los Hermanos"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T21:54:31+00:00",
+  "id": "5d0557a91ca6",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-26",
+  "hora": "19:00",
+  "persona": "",
+  "titulo": "Acto de campaña de ERC , con su cabeza de lista al Congreso por Barcelona, Gabriel Rufián, y la secretaria general del partido, Elisenda Alamany. C/ Cervantes, 126"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T21:54:31+00:00",
+  "id": "b10eb33416c3",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-26",
+  "hora": "19:00",
+  "persona": "",
+  "titulo": "La ministra de Educación, Milagros Tolón, interviene junto al secretario general del PSOECyL, Carlos Martínez, en un mitin. Hotel Valentín. Avenida Ronda, 23"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T21:54:31+00:00",
+  "id": "9bd53a6ed072",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-26",
+  "hora": "19:30",
+  "persona": "",
+  "titulo": "Acto de final de campaña de Junts en Tarragona, con su cabeza de lista al Congreso por Barcelona, Miriam Nogueras, y, por videoconferencia, el expresident Carles Puigdemont. C/ Arquitecte Rovira, 2"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T21:54:31+00:00",
+  "id": "65ee94d1f9f6",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-26",
+  "hora": "22:00",
+  "persona": "",
+  "titulo": "Debate de los cuatro principales candidatos a la Presidencia del Gobierno, organizado por la Academia de la Televisión"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T21:54:31+00:00",
+  "id": "09d48ef91f7a",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-26",
+  "hora": "09:00",
+  "persona": "",
+  "titulo": "La Diputación permanente del Congreso debate y vota, entre otros, el decreto ley que exime de IRPF el salario mínimo y el que contempla la subida salarial de los funcionarios. Congreso"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T21:54:31+00:00",
+  "id": "0dc37aee8ff9",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-26",
+  "hora": "09:00",
+  "persona": "",
+  "titulo": "Autoridades, patronales sectoriales y los máximos representantes de las principales marcas automovilísticas con presencia en España participan en el II Foro de Automoción organizado por 'La Tribuna de Automoción'. C/ Rafael Calvo, 39A"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T21:54:31+00:00",
+  "id": "704f00bde42e",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-26",
+  "hora": "09:00",
+  "persona": "",
+  "titulo": "El XXV Congreso de Directivos de CEDE reúne en Barcelona a unos 2.000 directivos. Palacio de Congresos de Catalunya"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T21:54:31+00:00",
+  "id": "db8518d47869",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-26",
+  "hora": "10:00",
+  "persona": "",
+  "titulo": "La vicepresidenta tercera y ministra para la Transición Ecológica y el Reto Demográfico, Sara Aagesen, visita la Semana Internacional de la Electrificación y la Descarbonización (Genera y Matelec 2026). IFEMA"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T21:54:31+00:00",
+  "id": "3251199a2ec1",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-26",
+  "hora": "10:30",
+  "persona": "",
+  "titulo": "El ministro de Agricultura, Pesca y Alimentación, Luis Planas, se reúne con el Consejo Regulador de la Denominación de Origen Baena. A las 11:00 atiende a los medios y a las 12:30 visita el Ayuntamiento. Pl. de la Constitución, s/n"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T21:54:31+00:00",
+  "id": "4fc6d8562f2b",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-26",
+  "hora": "11:00",
+  "persona": "",
+  "titulo": "El Consejo General del Notariado publica su estadística mensual inmobiliaria, que recoge datos de compraventas, hipotecas concedidas y precios de vivienda. A las 11:00h, presenta los datos y su nuevo Observatorio de la Vivienda. C/Silvano, 55"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T21:54:31+00:00",
+  "id": "7eacaddf76e2",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-26",
+  "hora": "11:00",
+  "persona": "",
+  "titulo": "La Asociación de Empresas de la Comunicación y la CEOE celebran el V Foro de Publicidad. C/Serrano, 57"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T21:54:31+00:00",
+  "id": "52f86adf131e",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-26",
+  "hora": "09:30",
+  "persona": "",
+  "titulo": "Celebración de las XII Jornadas de Concienciación y Sensibilización Social, organizadas por la Asociación Plataforma de Apoyo a las Víctimas del Terrorismo (APAVT), junto con la Asociación Víctimas del Terrorismo (AVT), en las que interviene, entre otros, el juez central de vigilancia penitenciaria de la Audiencia Nacional, José Luis Castro. Facultad de Derecho EHU"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T21:54:31+00:00",
+  "id": "508922913610",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-26",
+  "hora": "10:00",
+  "persona": "",
+  "titulo": "La jueza de la Audiencia Nacional que investiga la entrada de migrantes los días 30 y 31 de julio a Ceuta interroga por videoconferencia al cónsul en Tetuán y por segunda vez al que fuera jefe de Gabinete del delegado del Gobierno en la ciudad autónoma, Gonzalo Sanz, citados como testigos. Audiencia Nacional"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T21:54:31+00:00",
+  "id": "d291e60d4235",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-26",
+  "hora": "10:00",
+  "persona": "",
+  "titulo": "La Audiencia Nacional celebra la sexta jornada del juicio a 17 acusados de una rama del caso 3 % con la declaración del perito de la Intervención General de la Administración del Estado (IGAE) que realizó el informe de esta pieza de la causa. C/ Génova"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T21:54:31+00:00",
+  "id": "7bb1073aed20",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-26",
+  "hora": "11:30",
+  "persona": "",
+  "titulo": "Desayuno informativo con el almirante Gonzalo Sanz Alisedo, segundo jefe del Estado Mayor de la Armada y presidente de la Comisión de Seguimiento del Centenario del Juan Sebastián Elcano. Cuartel General de la Armada. C/Montalbán, 2. Texto)"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T21:54:31+00:00",
+  "id": "8a22b69be209",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-26",
+  "hora": "12:00",
+  "persona": "",
+  "titulo": "Segunda jornada del Congreso de Criminología de Madrid. Centro de Estudios Financieros. Paseo del General Martínez Campos, 5"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T21:54:31+00:00",
+  "id": "5bad810e3801",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-26",
+  "hora": "09:00",
+  "persona": "",
+  "titulo": "La Diputación Permanente del Congreso debate para su convalidación el decreto-ley sobre regulación del comercio de derechos de emisión de gases de efecto invernadero"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T21:54:31+00:00",
+  "id": "6999b8303e01",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-26",
+  "hora": "09:00",
+  "persona": "",
+  "titulo": "La Diputación Permanente del Congreso convalida o deroga el Real Decreto Ley de medidas urgentes para el impulso de la competitividad y la soberanía tecnológica en el ámbito científico e investigador"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T21:54:31+00:00",
+  "id": "11eb61188dbb",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-26",
+  "hora": "09:30",
+  "persona": "",
+  "titulo": "La Asociación Española de Medicamentos Biosimilares (Biosim) presenta el informe 'Compra pública estratégica de medicamentos biosimilares' en un desayuno informativo en el que participará la directora general del Ingesa, Isabel Muñoz. C/ Alcalá, 56"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T21:54:31+00:00",
+  "id": "0f89319da662",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-26",
+  "hora": "10:00",
+  "persona": "",
+  "titulo": "La ministra de Educación, Formación Profesional y Deportes, Milagros Tolón, inaugura el II Congreso Internacional de Educación Inclusiva. Palacio de Congresos de Eurocaja Rural"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T21:54:31+00:00",
+  "id": "7c552d909e28",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-26",
+  "hora": "10:00",
+  "persona": "",
+  "titulo": "Celebración del XVIII Congreso de Escuelas Católicas en el que participarán 2.000 profesionales. Hotel Marriot Auditorium"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T21:54:31+00:00",
+  "id": "35e125ba33aa",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-26",
+  "hora": "10:30",
+  "persona": "",
+  "titulo": "La Coordinadora Estatal de VIH y sida (Cesida) celebra una rueda de prensa para abordar las principales barreras de acceso a la profilaxis preexposición frente al VIH (PrEP) a nivel estatal. C/ Hortaleza, 48"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T21:54:31+00:00",
+  "id": "a736457c6af0",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-26",
+  "hora": "10:00",
+  "persona": "",
+  "titulo": "La Plataforma de Estatal de Escuelas Infantiles (PEEI) explica los beneficios de la bajada de ratios de primer ciclo de infantil y la universalización de esta primera etapa educativa. C/ Sagunto, 15"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T21:54:31+00:00",
+  "id": "d96742856950",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-26",
+  "hora": "11:00",
+  "persona": "",
+  "titulo": "El Grupo Español de Cáncer de Pulmón celebra un simposio en el que presentará una nueva edición del informe con información de 43.621 pacientes de centros hospitalarios españoles. Paseo de Juan XXIII, 3"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T21:54:31+00:00",
+  "id": "8e80bf95f61a",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-26",
+  "hora": "11:00",
+  "persona": "",
+  "titulo": "La ministra de Sanidad, Mónica García, inaugura el acto de presentación de los Estándares Europeos de Atención a Niños, Niñas y Adolescentes con Cáncer. Fundación ONCE. C/Sebastián Herrera, 15"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T21:54:31+00:00",
+  "id": "445b2d9fffa5",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-26",
+  "hora": "11:00",
+  "persona": "",
+  "titulo": "CaixaForum València presenta la exposición 'Extraterrestres. ¿Hay vida fuera de la Tierra?'. C/ Eduardo Primo Yúfera, 1A"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T21:54:31+00:00",
+  "id": "2a672367c2f9",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-26",
+  "hora": "11:00",
+  "persona": "",
+  "titulo": "Investigadores de la Universidad de Barcelona dan a conocer los resultados de una investigación que identifica por primera vez la conexión cerebral que explica la reacción a sonidos que indican peligro. Passeig de la Vall d'Hebron, 171"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T21:54:31+00:00",
+  "id": "145c3910988f",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-26",
+  "hora": "11:15",
+  "persona": "",
+  "titulo": "Jornadas institucionales de la Cumbre Iberoamericana de Liderazgo Femenino: IBEROMUJER 2026, a solicitud de la Asociación de Mujeres Empresarias Iberoamericanas – AMEIB. Congreso de los Diputados"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T21:54:31+00:00",
+  "id": "623ff6bdfc5c",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-26",
+  "hora": "12:30",
+  "persona": "",
+  "titulo": "Manifestación de docentes convocada por los sindicatos contrarios a los pactos educativos en el segundo día de huelga del curso, una movilización que se nutrirá de dos columnas que salen a las 10:30 horas de Plaza España y Clot. Plaça Tetuán"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T21:54:31+00:00",
+  "id": "ed1d19cba847",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-26",
+  "hora": "12:30",
+  "persona": "",
+  "titulo": "La Fiscalía General del Estado celebra la mesa redonda 'Aprender de las víctimas para mejorar las instituciones' con motivo del Día Internacional de la Eliminación de la Violencia contra la Mujer, en la que participa la Fiscal General del Estado, Teresa Peramato. C/ Fortuny, 4"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T21:54:31+00:00",
+  "id": "adc49f525955",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-26",
+  "hora": "13:00",
+  "persona": "",
+  "titulo": "La presidenta del Congreso de los Diputados, Francina Armengol, preside el acto conmemorativo del Día Internacional de la Eliminación de la Violencia contra la Mujer. Asisten los ministros para la Transformación Digital y de la Función Pública y de Sanidad. Congreso de los Diputados"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T21:54:31+00:00",
+  "id": "fbc3b65a7016",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-26",
+  "hora": null,
+  "persona": "",
+  "titulo": "INMIGRACIÓN CANARIAS.- La ministra de Juventud e Infancia, Sira Rego, viaja a El Hierro y mantiene un encuentro con el presidente del cabildo insular, Alpidio Armas, en la sede del Cabildo"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T21:54:31+00:00",
+  "id": "ee6581e964d0",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-26",
+  "hora": "18:00",
+  "persona": "",
+  "titulo": "Espectáculo del encendido oficial de las luces de Navidad 2026 de Barcelona. Paseo de Gràcia con la calle del Rosselló"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T21:54:31+00:00",
+  "id": "635db337b97e",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-26",
+  "hora": "18:00",
+  "persona": "",
+  "titulo": "La Federación Estatal LGTBI+ (FELGTBI+) presenta la investigación 'Cartografía de las violencias contra las mujeres LTBI+ en España'. Casa de las Mujeres"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T21:54:31+00:00",
+  "id": "9a6f0e1a6ae0",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-26",
+  "hora": "18:30",
+  "persona": "",
+  "titulo": "El diario Público premia a la periodista de EFE Sandra Fernández por la cobertura informativa e investigación del caso de Irene Costumero, en la tercera edición de 'Homenaje a las Mujeres que han hecho Historia'. Las otras premiadas son Luz Almeida, Marta Porpetta, Mar Cambrollé y Nati Camacho. Asiste la ministra de Igualdad, Ana Redondo. Biblioteca Nacional de España. Paseo de Recoletos, 20-22"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T21:54:31+00:00",
+  "id": "a6a4907904de",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-26",
+  "hora": "18:30",
+  "persona": "",
+  "titulo": "La ministra de Sanidad, Mónica García, inaugura el XVIII Aniversario de la Fundación contra la Hipertensión Pulmonar (FCHP). AC Hotel Madrid Feria. Vía de los Poblados, 3"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T21:54:31+00:00",
+  "id": "9ca54fadb072",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-26",
+  "hora": null,
+  "persona": "",
+  "titulo": "INMIGRACIÓN CANARIAS.- La ministra de Juventud e Infancia, Sira Rego, informa en el puerto de La Restinga sobre la visita que ha realizado a El Hierro para interesarse por la situación de los niños y niñas que han llegado en cayuco a la isla en los últimos días. Antes, a las 17:00 (16:00 hl),visita el Hospital Militar de campaña y se reúne con personal de Salvamento Marítimo Humanitario"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T21:54:31+00:00",
+  "id": "4cd67a8b5c15",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-26",
+  "hora": "19:00",
+  "persona": "",
+  "titulo": "La entidad PorCausa presenta el informe 'Familias para que ningún niño o niña acabe en la calle', que aborda la acogida familiar en una conversación con familias que acogen a niños y niñas que migran solos a España. C/ Martín de Vargas, 16"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T21:54:31+00:00",
+  "id": "9eb174a11360",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-26",
+  "hora": "20:00",
+  "persona": "",
+  "titulo": "Los ganadores de los Premios Ondas de este año reciben sus galardones en una gala en el Gran Teatre del Liceu. Asiste la ministra de Inclusión, Seguridad Social y Migraciones y portavoz del Gobierno, Elma Saiz"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T21:54:31+00:00",
+  "id": "29fb31b0a1ca",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-26",
+  "hora": "10:30",
+  "persona": "",
+  "titulo": "Presentación de la exposición 'Steve McCurry. ICONS' con 110 fotografías de gran formato. Azkuna Zentroa – Alhóndiga Bilbao"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T21:54:31+00:00",
+  "id": "2faf8d6d76c1",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-26",
+  "hora": "11:00",
+  "persona": "",
+  "titulo": "Editorial Destino reedita 'Un infart de miocardi', de Josep Pla, en el que relata su experiencia sobre un infarto que sufrió en 1972. Casa del Llibre – Rambla Catalunya"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T21:54:31+00:00",
+  "id": "8e1eaf30c217",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-26",
+  "hora": "11:30",
+  "persona": "",
+  "titulo": "La Academia de Cine acoge la gala de entrega de los V Premios FlixOlé-URJC a la Investigación del Cine Español. C/Zurbano, 3"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T21:54:31+00:00",
+  "id": "e85498385a68",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-26",
+  "hora": "12:00",
+  "persona": "",
+  "titulo": "Rueda de prensa y encuentro con el equipo artístico de la ópera 'La bohème', de Giacomo Puccini. Teatro de la Maestranza"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T21:54:31+00:00",
+  "id": "5fffe02bf087",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-26",
+  "hora": "12:00",
+  "persona": "",
+  "titulo": "Conferencia de Cristina Iglesias, escultora y grabadora, premio Nacional de Artes Plásticas y una de las artistas españolas más internacionales de las últimas décadas. Facultad de Bellas Artes de la EHU"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T21:54:31+00:00",
+  "id": "c54d3b8d2985",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-26",
+  "hora": "12:00",
+  "persona": "",
+  "titulo": "Presentación de la exposición del XVI Certamen Fundación Unicaja de Artes Plásticas y el belén napolitano 'De Nápoles a Málaga. Monumental Belén Napolitano'. Plaza del Obispo, 6"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T21:54:31+00:00",
+  "id": "9bee1f4075d9",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-26",
+  "hora": "12:30",
+  "persona": "",
+  "titulo": "El Centro Dramático Nacional y el Comisionado para la Celebración de los 50 años de España en libertad presentan 'Dramawalker: Memoria de un país. Ficciones sonoras sobre nuestra democracia'. Teatro María Guerrero"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T21:54:31+00:00",
+  "id": "58f0e38f58bc",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-26",
+  "hora": "18:15",
+  "persona": "",
+  "titulo": "El Festival Òmnium de Cine se inaugura con la proyección del largometraje 'Sants', de Mikel Gurrea. Espai Texas.. EFE"
+ },
+ {
+  "tipo": "alta",
   "momento": "2026-11-25T19:53:15+00:00",
   "id": "a7bfe459aa62",
   "fuente": "moncloa",
@@ -4326,35 +5006,5 @@
   "hora": "18:30",
   "persona": "",
   "titulo": "Manifestació pel 25-N"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T11:40:13+00:00",
-  "id": "0a7716dcdecd",
-  "fuente": "ajbcn",
-  "fecha": "2026-11-25",
-  "hora": "18:30",
-  "persona": "",
-  "titulo": "Jordi Valls participa en l’entrega del Premi Fundació Habitatge Social"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T11:40:13+00:00",
-  "id": "9f7b981b72a2",
-  "fuente": "ajbcn",
-  "fecha": "2026-11-26",
-  "hora": "13:00",
-  "persona": "",
-  "titulo": "Jaume Collboni rep els guanyadors i guanyadores dels Premis Ondas 2026"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T11:40:13+00:00",
-  "id": "1a318fb81b62",
-  "fuente": "ajbcn",
-  "fecha": "2026-11-26",
-  "hora": "18:00",
-  "persona": "",
-  "titulo": "Barcelona encén els llums de Nadal 2026"
  }
 ]
