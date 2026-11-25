@@ -121,6 +121,15 @@ fuentes:
     personas: []
     temas: [agua, residuos, reciclaje, energia, plenos, rueda_prensa]
 
+  # Agenda diaria de EFE. La URL de cada fecha se genera en infobae_efe.py.
+  - clave: infobae_efe
+    nombre: Temas del dia de EFE Espana (Infobae)
+    organismo: Agencia EFE
+    url: https://www.infobae.com/espana/agencias/
+    activa: true
+    personas: []
+    temas: [agua, residuos, reciclaje, energia, plenos, rueda_prensa]
+
   # Su web tiene Disallow en el robots.txt, así que no se raspa. Se lee
   # el conjunto de datos abiertos que publican ellos mismos
   - clave: diba
