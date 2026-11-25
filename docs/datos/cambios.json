@@ -1,6 +1,1206 @@
 [
  {
   "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "eb5e27bf532e",
+  "fuente": "parlament",
+  "fecha": "2026-11-23",
+  "hora": "09:00",
+  "persona": "Josep Rull",
+  "titulo": "El president, Josep Rull, visita la Fundació Maresme"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "9b550e659e24",
+  "fuente": "parlament",
+  "fecha": "2026-11-23",
+  "hora": "10:00",
+  "persona": "",
+  "titulo": "Comissió d'Investigació sobre la Repressió Exercida contra Dones Menors d'Edat pel Patronato de Protección a la Mujer entre el 1941 i el 1981"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "a4e2a675cd84",
+  "fuente": "parlament",
+  "fecha": "2026-11-24",
+  "hora": "09:30",
+  "persona": "",
+  "titulo": "Mesa del Parlament"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "9af17d70f078",
+  "fuente": "parlament",
+  "fecha": "2026-11-24",
+  "hora": "10:30",
+  "persona": "",
+  "titulo": "Junta de Portaveus"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "ba0d99e37e9f",
+  "fuente": "parlament",
+  "fecha": "2026-11-24",
+  "hora": "11:30",
+  "persona": "",
+  "titulo": "Conferència de premsa dels grups de Junts, ERC, els Comuns i la CUP-DT sobre la proposta de resolució que demana la titularitat pública de la xarxa elèctrica i la recuperació de les competències de distribució per part de la Generalitat i els municipis"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "37cea3143e1c",
+  "fuente": "parlament",
+  "fecha": "2026-11-24",
+  "hora": "12:00",
+  "persona": "",
+  "titulo": "Ponència: Proposició de llei de modificació de la Llei 12/2015, de cooperatives"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "6d3955fe8c58",
+  "fuente": "parlament",
+  "fecha": "2026-11-24",
+  "hora": "12:20",
+  "persona": "",
+  "titulo": "Conferència de premsa dels grups d'ERC, els Comuns i la CUP-DT amb familiars dels vaguistes en presó preventiva detinguts durant la vaga general de l'11 de novembre"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "84b3d7cc5a84",
+  "fuente": "parlament",
+  "fecha": "2026-11-24",
+  "hora": "20:30",
+  "persona": "Raquel Sans",
+  "titulo": "La vicepresidenta primera, Raquel Sans, participa en la gala de lliurament dels XXIV Premis ARC de la Indústria Musical del Directe"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "48153664a196",
+  "fuente": "parlament",
+  "fecha": "2026-11-25",
+  "hora": "12:50",
+  "persona": "",
+  "titulo": "Conferència de premsa dels grups del PSC-Units, Junts, ERC, els Comuns i la CUP-DT amb l'associació Dones Juristes amb motiu del Dia Internacional per a l'Eliminació de la Violència contra les Dones"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "78673ad02cee",
+  "fuente": "parlament",
+  "fecha": "2026-11-25",
+  "hora": "19:00",
+  "persona": "Josep Rull",
+  "titulo": "El president, Josep Rull, assisteix a la gala dels V Premis Sàpiens"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "64eb6222ee37",
+  "fuente": "parlament",
+  "fecha": "2026-11-26",
+  "hora": "10:00",
+  "persona": "Josep Rull",
+  "titulo": "El president, Josep Rull, rep en audiència la Federació Internacional de Kungfu Wushu a Catalunya"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "41c431dae9b5",
+  "fuente": "parlament",
+  "fecha": "2026-11-26",
+  "hora": "12:00",
+  "persona": "Josep Rull",
+  "titulo": "El president, Josep Rull, clourà el Cicle 'La col·laboració publicoprivada a la Catalunya que volem'"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "a12319c92856",
+  "fuente": "parlament",
+  "fecha": "2026-11-26",
+  "hora": "19:30",
+  "persona": "Josep Rull",
+  "titulo": "El president, Josep Rull, assisteix a la gala de lliurament dels Premis Ondas 2026"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "a24c17a61c63",
+  "fuente": "diba",
+  "fecha": "2026-11-23",
+  "hora": "10:00",
+  "persona": "",
+  "titulo": "Espai Claustre amb Lluís Bonet. L’evolució de la gestió cultural. Tendències, perspectives des de la formació i reptes de futur"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "ffe7e4b915fc",
+  "fuente": "diba",
+  "fecha": "2026-12-01",
+  "hora": "17:00",
+  "persona": "",
+  "titulo": "Assajar museus (im)possibles per a patrimonis colonials al Palau Güell"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "b1b8c2d4f23b",
+  "fuente": "diba",
+  "fecha": "2027-02-19",
+  "hora": "10:00",
+  "persona": "",
+  "titulo": "Planifiquem la salut local amb evidència"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "6a0d319242ca",
+  "fuente": "diba",
+  "fecha": "2027-03-16",
+  "hora": "10:00",
+  "persona": "",
+  "titulo": "La contractació en la cultura municipal. Què hem de saber-ne i com hem de gestionar-la (nivell avançat) - 2a edició"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "eb1e06819f9d",
+  "fuente": "diba",
+  "fecha": "2027-03-09",
+  "hora": "10:00",
+  "persona": "",
+  "titulo": "La contractació en la cultura municipal. Què hem de saber-ne i com hem de gestionar-la (nivell avançat) - 1a edició"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "817f3d215458",
+  "fuente": "diba",
+  "fecha": "2027-02-23",
+  "hora": "10:00",
+  "persona": "",
+  "titulo": "Espai claustre amb Ingrid Guardiola. La gestió cultural des del nucli a la perifèria. Discursos públics en temps d'hiperconnectivitat"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "de91fa87b118",
+  "fuente": "diba",
+  "fecha": "2027-03-02",
+  "hora": "10:00",
+  "persona": "",
+  "titulo": "De la reflexió a l'acció: Laboratori col·laboratiu per al disseny de projectes culturals des de la perspectiva de l'equitat i els drets culturals"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "f847873e34e2",
+  "fuente": "diba",
+  "fecha": "2026-11-24",
+  "hora": "10:30",
+  "persona": "",
+  "titulo": "Jornada '10 anys de la Manada. Què ha canviat? Què fem ara?'"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "3678b43a3285",
+  "fuente": "diba",
+  "fecha": "2026-11-26",
+  "hora": "09:00",
+  "persona": "",
+  "titulo": "Arrencada del Gestor d'expedients a l'Ajuntament d'Avià"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "c3f2ee6bdb6a",
+  "fuente": "diba",
+  "fecha": "2026-11-26",
+  "hora": "09:00",
+  "persona": "",
+  "titulo": "Arrencada del Gestor d'expedients a l'Ajuntament de Guardiola de Berguedà"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "0fa58b72fb5a",
+  "fuente": "diba",
+  "fecha": "2026-12-03",
+  "hora": "09:00",
+  "persona": "",
+  "titulo": "Arrencada del Gestor d'expedients al Consell Comarcal del Berguedà"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "a368143ae795",
+  "fuente": "diba",
+  "fecha": "2026-11-27",
+  "hora": "09:30",
+  "persona": "",
+  "titulo": "IX Jornada Perifèrica 2026: Més enllà de la prevenció. Arribar a qui no arribem"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "c778446cfdac",
+  "fuente": "diba",
+  "fecha": "2027-02-09",
+  "hora": "10:00",
+  "persona": "",
+  "titulo": "L'ODS 18: Cultura i drets lingüístics. En què consisteix i com poder treballar-lo"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "4020eed413ab",
+  "fuente": "diba",
+  "fecha": "2027-02-26",
+  "hora": "09:00",
+  "persona": "",
+  "titulo": "2ª Sessió Curs 'Transformació tecnològica i addiccions: noves oportunitats per a la prevenció i el tractament a l'era digital' (Còpia)"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "52885beeee68",
+  "fuente": "diba",
+  "fecha": "2027-02-19",
+  "hora": "09:00",
+  "persona": "",
+  "titulo": "1ª Sessió Curs 'Transformació tecnològica i addiccions: noves oportunitats per a la prevenció i el tractament a l'era digital'"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "b36f6fbdeb43",
+  "fuente": "diba",
+  "fecha": "2026-12-15",
+  "hora": "10:00",
+  "persona": "",
+  "titulo": "Presentació de la 'Guia per a la gestió participativa d'equipaments i espais públics'"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "356e2070f7c9",
+  "fuente": "diba",
+  "fecha": "2026-12-04",
+  "hora": "09:30",
+  "persona": "",
+  "titulo": "Jornada sobre la Gestió d'Emergències Municipals i Protecció Civil"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "fb35dcda5008",
+  "fuente": "diba",
+  "fecha": "2026-12-14",
+  "hora": null,
+  "persona": "",
+  "titulo": "Jornada de Polítiques de proximitat i cohesió social als barris"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "10a99b6ad8ad",
+  "fuente": "diba",
+  "fecha": "2026-12-16",
+  "hora": "10:30",
+  "persona": "",
+  "titulo": "Conversa 'Drets, diversitat i inclusió: cap a una societat per a totes les velleses'"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "903ee94486e4",
+  "fuente": "diba",
+  "fecha": "2026-12-11",
+  "hora": "10:00",
+  "persona": "",
+  "titulo": "Polítiques de lleure educatiu i acció sociocultural des de les evidències científiques: comunitat i diversitat"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "472203cb1be1",
+  "fuente": "diba",
+  "fecha": "2026-12-09",
+  "hora": null,
+  "persona": "",
+  "titulo": "Presentació dels elements clau del nou model de prestació del programa de teleassistència"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "c7305b00b8ef",
+  "fuente": "diba",
+  "fecha": "2026-12-04",
+  "hora": "10:00",
+  "persona": "",
+  "titulo": "Quan generar ja no és suficient: optimització de la fotovoltaica municipal"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "1f941450c288",
+  "fuente": "diba",
+  "fecha": "2026-12-09",
+  "hora": "09:30",
+  "persona": "",
+  "titulo": "Servei Local de Teleassistència 2027-2031: elements clau del nou model de prestació"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "25f7f793ec0a",
+  "fuente": "diba",
+  "fecha": "2026-12-02",
+  "hora": "10:00",
+  "persona": "",
+  "titulo": "Els centres de recursos. Un nou repte en la gestió municipal"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "22bf86aaeaf9",
+  "fuente": "diba",
+  "fecha": "2026-12-10",
+  "hora": "10:00",
+  "persona": "",
+  "titulo": "Seminari tècnic en línia Innovar i diversificar el mix hídric"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "ddbdc7436c4f",
+  "fuente": "diba",
+  "fecha": "2026-11-25",
+  "hora": "09:30",
+  "persona": "",
+  "titulo": "VII Espai Confluències Narrar per interpretar. El poder dels relats en els museus i el patrimoni"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "2d213d6c2506",
+  "fuente": "diba",
+  "fecha": "2026-12-03",
+  "hora": "18:00",
+  "persona": "",
+  "titulo": "Presentació de «La segona línia», Premi Àngel Guimerà 2026"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "813d5c402f6f",
+  "fuente": "diba",
+  "fecha": "2026-11-30",
+  "hora": "09:00",
+  "persona": "",
+  "titulo": "Participació de la Diputació de Barcelona a CONAMA 2026"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "4359adab284f",
+  "fuente": "diba",
+  "fecha": "2026-12-01",
+  "hora": "09:45",
+  "persona": "",
+  "titulo": "Atenció a la discapacitat: un repte local per a una societat inclusiva"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "91ca11152e33",
+  "fuente": "diba",
+  "fecha": "2026-12-03",
+  "hora": "18:00",
+  "persona": "",
+  "titulo": "Presentació de l'obra 'La segona línia', Premi Àngel Guimerà 2026"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "4062da263ce4",
+  "fuente": "diba",
+  "fecha": "2026-12-14",
+  "hora": "09:30",
+  "persona": "",
+  "titulo": "Jornada 40 anys de planificació estratègica urbana i territorial"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "cdf3bfaba03d",
+  "fuente": "diba",
+  "fecha": "2026-12-14",
+  "hora": "09:00",
+  "persona": "",
+  "titulo": "XVI Jornada Seguretat Alimentària i Administració Local: “La seguretat alimentària en els mercats no sedentaris”"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "cb838532ea45",
+  "fuente": "diba",
+  "fecha": "2026-12-15",
+  "hora": "09:00",
+  "persona": "",
+  "titulo": "Jornada de partenariats amb agents del territori per participar en projectes europeus en l'àmbit de l'esport"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "f53212390841",
+  "fuente": "diba",
+  "fecha": "2027-03-24",
+  "hora": "09:00",
+  "persona": "",
+  "titulo": "3ª Sessió Curs 'Patologia dual en infants i adolescents: pautes per comprendre i acompanyar en l'àmbit de les addiccions'"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "bc930f285a03",
+  "fuente": "diba",
+  "fecha": "2027-03-17",
+  "hora": "09:00",
+  "persona": "",
+  "titulo": "2ª Sessió Curs 'Patologia dual en infants i adolescents: pautes per comprendre i acompanyar en l'àmbit de les addiccions'"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "c1100dbed0e5",
+  "fuente": "diba",
+  "fecha": "2027-03-03",
+  "hora": "11:00",
+  "persona": "",
+  "titulo": "2ª Sessió Curs 'Adolescència i violència al ciberespai: un fenomen creixent. Pautes de prevenció i intervenció"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "0d4900ef6ac6",
+  "fuente": "diba",
+  "fecha": "2027-02-24",
+  "hora": "11:00",
+  "persona": "",
+  "titulo": "1ª Sessió Curs 'Adolescència i violència al ciberespai: un fenomen creixent. Pautes de prevenció i intervenció"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "4e9595950ab6",
+  "fuente": "diba",
+  "fecha": "2027-03-10",
+  "hora": "11:00",
+  "persona": "",
+  "titulo": "3ª Sessió Curs 'Adolescència i violència al ciberespai: un fenomen creixent. Pautes de prevenció i intervenció"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "092d3d511537",
+  "fuente": "diba",
+  "fecha": "2027-03-17",
+  "hora": "09:30",
+  "persona": "",
+  "titulo": "4ª Sessió Curs 'Adolescència i violència al ciberespai: un fenomen creixent. Pautes de prevenció i intervenció"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "d20475d26b3b",
+  "fuente": "diba",
+  "fecha": "2026-11-24",
+  "hora": "10:00",
+  "persona": "",
+  "titulo": "La nova llei de foment de l'associacionisme al sector cultural (2a edició)"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "f3d81ddb91fa",
+  "fuente": "diba",
+  "fecha": "2026-11-29",
+  "hora": "16:00",
+  "persona": "",
+  "titulo": "Onades de Dones: 'Dones que Transformen' a Sant Julià de Vilatorta"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "53d3ca9fb256",
+  "fuente": "diba",
+  "fecha": "2026-11-29",
+  "hora": "12:00",
+  "persona": "",
+  "titulo": "Onades de Dones: 'Dones que Transformen' a Súria"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "d10898ae4c94",
+  "fuente": "diba",
+  "fecha": "2026-11-28",
+  "hora": "17:30",
+  "persona": "",
+  "titulo": "Onades de Dones: 'Dones que Transformen' a Centelles"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "aa9b23e1663b",
+  "fuente": "diba",
+  "fecha": "2026-11-28",
+  "hora": "11:00",
+  "persona": "",
+  "titulo": "Onades de Dones: 'Dones que Transformen' a Sant Feliu de Codines"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "3664ee46c0f7",
+  "fuente": "diba",
+  "fecha": "2026-11-25",
+  "hora": null,
+  "persona": "",
+  "titulo": "Onades de Dones: 'Dones que Transformen' a Santa Maria de Palautordera"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "6825797e46d8",
+  "fuente": "diba",
+  "fecha": "2026-11-25",
+  "hora": "12:45",
+  "persona": "",
+  "titulo": "Onades de Dones: 'Dones que Transformen' a Lliçà de Vall"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "12f8ce7026ff",
+  "fuente": "diba",
+  "fecha": "2026-11-22",
+  "hora": "12:00",
+  "persona": "",
+  "titulo": "Onades de Dones: 'Dones que Transformen' a Abrera"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "9365a42f5f96",
+  "fuente": "diba",
+  "fecha": "2027-03-10",
+  "hora": "09:00",
+  "persona": "",
+  "titulo": "1ª Sessió Curs 'Patologia dual en infants i adolescents: pautes per comprendre i acompanyar en l'àmbit de les addiccions'"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "2d81996c4b72",
+  "fuente": "diba",
+  "fecha": "2026-12-15",
+  "hora": "10:00",
+  "persona": "",
+  "titulo": "AG_desembre01_Parlem de"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "17dfb6367b7e",
+  "fuente": "diba",
+  "fecha": "2027-01-27",
+  "hora": null,
+  "persona": "",
+  "titulo": "La Diputació de Barcelona participa en la IAton 2027, IA en producció al sector públic"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "2bbd57228af5",
+  "fuente": "diba",
+  "fecha": "2027-01-28",
+  "hora": "09:00",
+  "persona": "",
+  "titulo": "Arrencada del Gestor d'expedients a l'Ajuntament de Sant Boi de Lluçanès"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "91b7f1d382a3",
+  "fuente": "diba",
+  "fecha": "2027-01-28",
+  "hora": "09:00",
+  "persona": "",
+  "titulo": "Arrencada del Gestor d'expedients a l'Ajuntament de Sant Agustí de Lluçanès"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "d9dfeb8f2f1c",
+  "fuente": "diba",
+  "fecha": "2027-01-28",
+  "hora": "09:00",
+  "persona": "",
+  "titulo": "Arrencada del Gestor d'expedients a l'Ajuntament d'Alpens"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "14e258d721ff",
+  "fuente": "diba",
+  "fecha": "2026-11-26",
+  "hora": "09:00",
+  "persona": "",
+  "titulo": "Arrencada SeTDIBA a la Mancomunitat Intermunicipal de Martorelles i Santa Maria de Martorelles"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "1d78deb096cd",
+  "fuente": "diba",
+  "fecha": "2026-11-26",
+  "hora": "09:00",
+  "persona": "",
+  "titulo": "Arrencada SeTDIBA a la Mancomunitat de Municipis de Galzeran"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "8fec522e4f8b",
+  "fuente": "diba",
+  "fecha": "2026-11-26",
+  "hora": "09:00",
+  "persona": "",
+  "titulo": "Arrencada SeTDIBA a l'Ajuntament de Gualba"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "5f9c8552a61d",
+  "fuente": "diba",
+  "fecha": "2026-12-17",
+  "hora": "12:00",
+  "persona": "",
+  "titulo": "Ple ordinari de la Diputació de Barcelona de desembre de 2026"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "5275007c1b99",
+  "fuente": "diba",
+  "fecha": "2026-12-03",
+  "hora": "10:00",
+  "persona": "",
+  "titulo": "Presentació de la guia 'Mesures d’accessibilitat econòmica per a un foraescola amb equitat'"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "169a7be2469c",
+  "fuente": "diba",
+  "fecha": "2026-12-03",
+  "hora": "18:45",
+  "persona": "",
+  "titulo": "Acte de lliurament dels II Premis Dones d'Esport"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "facf19fa896f",
+  "fuente": "diba",
+  "fecha": "2027-02-26",
+  "hora": "10:30",
+  "persona": "",
+  "titulo": "Gestió de les emocions i aprèn a relaxar-te [Manresa]"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "511dd75d308b",
+  "fuente": "diba",
+  "fecha": "2027-01-29",
+  "hora": null,
+  "persona": "",
+  "titulo": "Consells pràctics que ens fan la vida més fàcil, mobilitat segura i prevenció de caigudes [Manresa]"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "5696d81978e4",
+  "fuente": "diba",
+  "fecha": "2026-11-26",
+  "hora": "09:30",
+  "persona": "",
+  "titulo": "Sessió d'Alta SeTDIBA al Grup 29: Ajuntament de Prats de Rei, Sant Pere Sallavinera, Sant Martí Sesgueioles"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "c06990f22683",
+  "fuente": "diba",
+  "fecha": "2026-11-26",
+  "hora": "18:00",
+  "persona": "",
+  "titulo": "Cinefòrum 'Dones que Transformen' a Súria"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "4f3a0b9b472b",
+  "fuente": "diba",
+  "fecha": "2026-11-24",
+  "hora": "19:00",
+  "persona": "",
+  "titulo": "Cinefòrum 'Dones que Transformen' a Pineda de Mar"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "0e394c9f0f73",
+  "fuente": "diba",
+  "fecha": "2026-12-02",
+  "hora": "09:30",
+  "persona": "",
+  "titulo": "3r Fòrum de les Agendes Urbanes Locals"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "da33307454e8",
+  "fuente": "diba",
+  "fecha": "2027-02-11",
+  "hora": "09:00",
+  "persona": "",
+  "titulo": "Arrencada SeTDIBA G31: Ajuntament de Gisclareny, La Quar i Olvan"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "70ffa89f71d6",
+  "fuente": "diba",
+  "fecha": "2027-01-21",
+  "hora": "09:00",
+  "persona": "",
+  "titulo": "Arrencada SeTDIBA G27: Ajuntament de Capolat, Espunyola, Montclar i Fígols"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "3f541a2acb2d",
+  "fuente": "diba",
+  "fecha": "2026-12-04",
+  "hora": "09:00",
+  "persona": "",
+  "titulo": "Jornada. Ciència pel coneixement dels mosquits"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "ef927a894511",
+  "fuente": "diba",
+  "fecha": "2026-12-04",
+  "hora": "09:30",
+  "persona": "",
+  "titulo": "Gestió d’Emergències Municipals i Protecció Civil: Espai d’experiències"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "a20e537ed776",
+  "fuente": "diba",
+  "fecha": "2027-02-04",
+  "hora": "08:00",
+  "persona": "",
+  "titulo": "Arrencada SeTDIBA a l'Ajuntament de Castellnou de Bages"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "182249e105f6",
+  "fuente": "diba",
+  "fecha": "2026-11-27",
+  "hora": "17:00",
+  "persona": "",
+  "titulo": "Taller per a joves Escape Room 'Dones que Transformen' a Navàs"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "b72d225a9d0c",
+  "fuente": "diba",
+  "fecha": "2026-11-26",
+  "hora": "18:00",
+  "persona": "",
+  "titulo": "Taller per a joves Escape Room 'Dones que Transformen' a Sant Sadurní d'Anoia"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "5f7f025b593d",
+  "fuente": "diba",
+  "fecha": "2026-11-25",
+  "hora": "12:30",
+  "persona": "",
+  "titulo": "Taller per a joves Escape Room 'Dones que Transformen' a Sallent"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "6d094330d02e",
+  "fuente": "diba",
+  "fecha": "2026-11-24",
+  "hora": "17:30",
+  "persona": "",
+  "titulo": "Taller per a joves Escape Room 'Dones que Transformen' a Tordera"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "2aae6af2d2c2",
+  "fuente": "diba",
+  "fecha": "2026-11-24",
+  "hora": "18:00",
+  "persona": "",
+  "titulo": "Taller per a adultes Escape Room 'Dones que Transformen' a Sant Pere de Riudebitlles"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "553141ae54aa",
+  "fuente": "diba",
+  "fecha": "2026-11-23",
+  "hora": "17:30",
+  "persona": "",
+  "titulo": "Taller per a joves Teatre Fòrum 'Dones que Transformen' a Centelles"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "280809ac516f",
+  "fuente": "diba",
+  "fecha": "2026-12-01",
+  "hora": "19:00",
+  "persona": "",
+  "titulo": "Club de lectura amb la Delegació de la Generalitat a Portugal"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "5991f62ccf40",
+  "fuente": "diba",
+  "fecha": "2026-12-01",
+  "hora": "10:00",
+  "persona": "",
+  "titulo": "Equipaments culturals de proximitat. Gestió, licitacions, i operativitat"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "dac502eb522d",
+  "fuente": "diba",
+  "fecha": "2026-11-25",
+  "hora": "09:30",
+  "persona": "",
+  "titulo": "Zones de Governança Educativa. Del pilot a l'impacte educatiu"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "5a96625b818e",
+  "fuente": "diba",
+  "fecha": "2026-11-26",
+  "hora": "12:00",
+  "persona": "",
+  "titulo": "Ple ordinari de la Diputació de Barcelona de novembre de 2026"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "f3ebdeaee38b",
+  "fuente": "diba",
+  "fecha": "2026-11-30",
+  "hora": null,
+  "persona": "",
+  "titulo": "Exposició «Europa, el nostre espai comú» a Vilanova del Vallès"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "f0b2e6f241a9",
+  "fuente": "diba",
+  "fecha": "2026-11-30",
+  "hora": null,
+  "persona": "",
+  "titulo": "Activitat 20261130"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "f611514a1e22",
+  "fuente": "diba",
+  "fecha": "2027-01-28",
+  "hora": "08:00",
+  "persona": "",
+  "titulo": "Arrencada SeTDIBA a l'Ajuntament de la Palma de Cervelló"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "346b617a046c",
+  "fuente": "diba",
+  "fecha": "2026-12-01",
+  "hora": null,
+  "persona": "",
+  "titulo": "V Jornada Municipis actius UE"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "c8f1974bc45a",
+  "fuente": "diba",
+  "fecha": "2027-01-19",
+  "hora": "09:00",
+  "persona": "",
+  "titulo": "34è Fòrum Local d'Educació. Mirem al futur: reptes compartits, respostes col·lectives"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "0c7903371277",
+  "fuente": "diba",
+  "fecha": "2026-11-25",
+  "hora": "09:30",
+  "persona": "",
+  "titulo": "Jornada: Zones de Governança Educativa. Del pilot a l'impacte educatiu"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "68c068fccc51",
+  "fuente": "diba",
+  "fecha": "2026-11-30",
+  "hora": null,
+  "persona": "",
+  "titulo": "Taller SNU"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "025e5bf01922",
+  "fuente": "diba",
+  "fecha": "2026-11-22",
+  "hora": "11:00",
+  "persona": "",
+  "titulo": "Visita exclusiva a les reserves del Museu de Gavà - El museu que no es veu. 25 anys de la XML"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "5829e686b5f8",
+  "fuente": "diba",
+  "fecha": "2026-12-14",
+  "hora": "10:30",
+  "persona": "",
+  "titulo": "Mantenir una ment activa [Viladecavalls]"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "e1306ad193e2",
+  "fuente": "diba",
+  "fecha": "2026-11-22",
+  "hora": "11:00",
+  "persona": "",
+  "titulo": "El museu guardat. Una visita a les sales de reserva. Museu Arxiu Tomàs Balvey - El Museu que no es veu. 25 anys de la XML"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "32d57858875d",
+  "fuente": "diba",
+  "fecha": "2026-11-22",
+  "hora": null,
+  "persona": "",
+  "titulo": "Visita guiada a les reserves del VINSEUM. 25 anys de la XML. El museu que no es veu"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "66f9a74ca12d",
+  "fuente": "diba",
+  "fecha": "2026-12-10",
+  "hora": "17:00",
+  "persona": "",
+  "titulo": "Cervelló: taller per a famílies d’habilitats educatives en el bon ús de les pantalles"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "0034abe840ca",
+  "fuente": "diba",
+  "fecha": "2026-11-22",
+  "hora": "12:00",
+  "persona": "",
+  "titulo": "Visita comentada al taller de restauració tèxtil del Museu Tèxtil"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "e4504c9e7cf8",
+  "fuente": "diba",
+  "fecha": "2026-12-09",
+  "hora": null,
+  "persona": "",
+  "titulo": "Pujalt"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "61a0daa70aae",
+  "fuente": "diba",
+  "fecha": "2026-11-30",
+  "hora": null,
+  "persona": "",
+  "titulo": "Mollet del Vallès"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "1eaeb9bd5d60",
+  "fuente": "diba",
+  "fecha": "2026-11-23",
+  "hora": null,
+  "persona": "",
+  "titulo": "Roca del Vallès"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "684ddf19933b",
+  "fuente": "diba",
+  "fecha": "2027-02-15",
+  "hora": null,
+  "persona": "",
+  "titulo": "Activitat 20270215"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "7cf1135b328c",
+  "fuente": "diba",
+  "fecha": "2026-12-10",
+  "hora": "10:30",
+  "persona": "",
+  "titulo": "Consells pràctics que ens fan la vida més fàcil, mobilitat segura i prevenció de caigudes [Ripollet]"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "c9a94dc71e62",
+  "fuente": "diba",
+  "fecha": "2026-11-22",
+  "hora": "11:00",
+  "persona": "",
+  "titulo": "Visita “Racons amagats a la Casa Alegre de Sagrera”. Museu de Terrassa"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "0cece7835a17",
+  "fuente": "diba",
+  "fecha": "2026-11-22",
+  "hora": "11:00",
+  "persona": "",
+  "titulo": "El Cementiri del Masnou, un museu a l’aire lliure - El museu que no es veu. 25 anys de la XML"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "d2505004daec",
+  "fuente": "diba",
+  "fecha": "2026-11-22",
+  "hora": "11:00",
+  "persona": "",
+  "titulo": "Visita teatralitzada a la reserva del Museu de Sabadell. El museu que no es veu. 25 anys de la XML"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "f24addf25b87",
+  "fuente": "diba",
+  "fecha": "2026-11-22",
+  "hora": "11:00",
+  "persona": "",
+  "titulo": "Visita a la sala de reserva del Museu: armaris de memòria. El museu que no es veu. 25 anys XML"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "45955f80c8fb",
+  "fuente": "diba",
+  "fecha": "2026-12-02",
+  "hora": "11:00",
+  "persona": "",
+  "titulo": "Al teu costat, fem un mon millor [Santpedor]"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "e03e207464f5",
+  "fuente": "diba",
+  "fecha": "2026-11-27",
+  "hora": "10:30",
+  "persona": "",
+  "titulo": "Al teu costat, fem un entorn més segur, prevenció de robatoris i estafes [Manresa]"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "de4ef439bc6d",
+  "fuente": "diba",
+  "fecha": "2026-11-22",
+  "hora": "10:00",
+  "persona": "",
+  "titulo": "Portes obertes i visita guiada a l’església de Reixac. El museu que no es veu - 25 anys XML"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "2a30a89ce029",
+  "fuente": "diba",
+  "fecha": "2026-11-22",
+  "hora": "11:00",
+  "persona": "",
+  "titulo": "Visita guiada a la Cova de les Toixoneres, la casa dels neandertals, les hienes i els rinoceronts. El museu que no es veu - 25 anys de la XML"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-25T12:37:35+00:00",
+  "id": "0e8c9539f194",
+  "fuente": "diba",
+  "fecha": "2026-11-24",
+  "hora": "09:00",
+  "persona": "",
+  "titulo": "4ª Sessió:'Adolescència, pantalles i drogues des d'una mirada de gènere. Una aproximació general'"
+ },
+ {
+  "tipo": "alta",
   "momento": "2026-11-25T12:22:15+00:00",
   "id": "1bea1a423fdc",
   "fuente": "generalitat",

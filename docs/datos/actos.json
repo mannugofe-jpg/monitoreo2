@@ -1,7 +1,358 @@
 {
- "generado": "2026-11-25T12:22:15+00:00",
- "total": 123,
+ "generado": "2026-11-25T12:37:35+00:00",
+ "total": 243,
  "actos": [
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-22",
+   "titulo": "Portes obertes i visita guiada a l’església de Reixac. El museu que no es veu - 25 anys XML",
+   "url": "https://www.diba.cat/web/opc/-/museu-montcada-rexac-el-museu-que-no-es-veu-25-anys-de-la-xml",
+   "hora": "10:00",
+   "lugar": "Camí de l'Ermita de Sant Pere de Reixac, s/n, 08110 Montcada-Reixach, Barcelona",
+   "notas": [
+    "Sostenibilitat social",
+    "Obrim les portes de l’Església de Reixac per poder conèixer un dels principals espais històrics i patrimonials de la ciutat. A més, a les 11 h, oferim una petita visita guiada a on explicarem la història de l’església i dels seus entorns, bressol de Montcada i Reixac."
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "de4ef439bc6d",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-22",
+   "titulo": "Visita a la sala de reserva del Museu: armaris de memòria. El museu que no es veu. 25 anys XML",
+   "url": "https://www.diba.cat/web/opc/-/visita-a-la-sala-de-reserva-del-museu-armaris-de-mem%C3%B2ria.-el-museu-que-no-es-veu.-25-anys-xml",
+   "hora": "11:00",
+   "lugar": "Av. Pere Baurier, s/n. 08510 Roda de Ter",
+   "notas": [
+    "Sostenibilitat social",
+    "Visita comentada a la sala de reserva del Museu Arqueològic de l’Esquerda, a càrrec de Maria Ocaña. Una oportunitat per accedir a un espai habitualment tancat al públic i descobrir què s’amaga més enllà de les sales d’exposició. Durant la visita es donarà a conèixer com s’organit"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "f24addf25b87",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-22",
+   "titulo": "Visita teatralitzada a la reserva del Museu de Sabadell. El museu que no es veu. 25 anys de la XML",
+   "url": "https://www.diba.cat/web/opc/-/25anysxml-museu-que-no-es-veu-museu-historia-sabadell",
+   "hora": "11:00",
+   "lugar": "C. de l’Agricultura, 54. 08208 Sabadell",
+   "notas": [
+    "Sostenibilitat social",
+    "Ens mostraran les peces que es conseven al fons del museu, ens explicaran algunes anècdotes i records de la seva època, i també ens ensenyaran per què és tan important conservar el patrimoni per a les generacions futures."
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "d2505004daec",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-22",
+   "titulo": "Visita “Racons amagats a la Casa Alegre de Sagrera”. Museu de Terrassa",
+   "url": "https://www.diba.cat/web/opc/-/visita-racons-amagats-a-la-casa-alegre-de-sagrera-.-el-museu-que-no-es-veu.-25-anys-xml.",
+   "hora": "11:00",
+   "lugar": "Casa Alegre de Sagrera. C. de la Font Vella, 29-31. 08221 Terrassa",
+   "notas": [
+    "Sostenibilitat social",
+    "Amb aquesta activitat us oferim la possibilitat d'entrar en alguns d'aquests racons que originàriament tenien altres usos: el soterrani amb la caldera; les escales del servei; les antigues cuines; l'ala de les minyones; un dels pisos de lloguer; una terrassa... Si teniu curiosita"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "c9a94dc71e62",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-22",
+   "titulo": "El Cementiri del Masnou, un museu a l’aire lliure - El museu que no es veu. 25 anys de la XML",
+   "url": "https://www.diba.cat/web/opc/-/el-cementiri-del-masnou-un-museu-a-l-aire-lliure-el-museu-que-no-es-veu.-25-anys-de-la-xml",
+   "hora": "11:00",
+   "lugar": "Cementiri Municipal del Masnou. Av. de Joan XXIII, 100. El Masnou",
+   "notas": [
+    "Sostenibilitat social",
+    "El Cementiri del Masnou amaga un autèntic tresor artístic i històric que, sovint, passa desapercebut. Lluny de ser només un lloc de recolliment, aquest espai és un reflex fidel de l'època daurada de la burgesia catalana, a l'altura de cementiris monumentals tan reconeguts com els"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "0cece7835a17",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-22",
+   "titulo": "El museu guardat. Una visita a les sales de reserva. Museu Arxiu Tomàs Balvey - El Museu que no es veu. 25 anys de la XML",
+   "url": "https://www.diba.cat/web/opc/-/25anysxml-museu-que-no-es-veu-museu-de-cardedeu",
+   "hora": "11:00",
+   "lugar": "Museu Arxiu Tomàs Balvey. c. Dr. Daurella, 1. 08440 Cardedeu",
+   "notas": [
+    "Sostenibilitat social",
+    "Sense ella, els museus serien un magatzem d’objectes vells; però conservant i documentant, els objectes expliquen històries: la seva i la del seu context.L’activitat inclou també la visita a l’exposició “Cotó, ferro, llet i pólvora. Una revisió crítica de la col·lecció”.Per saber"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "e1306ad193e2",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-22",
+   "titulo": "Visita exclusiva a les reserves del Museu de Gavà - El museu que no es veu. 25 anys de la XML",
+   "url": "https://www.diba.cat/web/opc/-/25anysxml-museu-que-no-es-veu-museu-museu-de-gav%C3%A0",
+   "hora": "11:00",
+   "lugar": "Museu de Gavà. Plaça de Dolors Clua, 13-14",
+   "notas": [
+    "Sostenibilitat social",
+    "Una oportunitat única per entrar al 'museu que no es veu'. I si encara no coneixes el museu, pots arrodonir el dia amb una visita a les 10 h, a l'exposició permanent 'Gavà, les veus del paisatge', acompanyat dels educadors del museu.Places limitades. És necessari fer reserva prèv"
+   ],
+   "temas": [
+    "agua"
+   ],
+   "personas_vigiladas": [],
+   "relevante": true,
+   "id": "025e5bf01922",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-22",
+   "titulo": "Visita guiada a la Cova de les Toixoneres, la casa dels neandertals, les hienes i els rinoceronts. El museu que no es veu - 25 anys de la XML",
+   "url": "https://www.diba.cat/web/opc/-/parc-prehistoric-coves-del-toll-el-museu-que-no-es-veu-25-anys-de-la-xml",
+   "hora": "11:00",
+   "lugar": "Parc Prehistòric de les Coves del Toll (Museu de Moià). Carretera N-140C, km32 (a 6 km a l’est de Moià en direcció a Vic). Pista asfaltada d’1,5 km fins a l’aparcament del Parc.",
+   "notas": [
+    "Sostenibilitat social",
+    "Amb 200.000 anys d’antiguitat, són els únics exemplars adults documentats a tota la Península Ibèrica. Com van arribar fins a la cova? Com van morir? Són incògnites que esperem resoldre a mida que s’avanci en els estudis de les restes i de la Cova, actualment en excavació i tanca"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "2a30a89ce029",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-22",
+   "titulo": "Onades de Dones: 'Dones que Transformen' a Abrera",
+   "url": "https://www.diba.cat/web/ri/-/onades-de-dones-dones-que-transformen-a-abrera",
+   "hora": "12:00",
+   "lugar": "Abrera",
+   "notas": [
+    "Sostenibilitat social",
+    "La intervenció al carrer “Onades de dones” és una proposta de performance teatral a l’espai públic a càrrec de La Xixa Teatre. Aquesta acció busca donar visibilitat a les lluites que viuen les dones per accedir a espais de participació i de representació a les dues riberes de la "
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "12f8ce7026ff",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-22",
+   "titulo": "Visita comentada al taller de restauració tèxtil del Museu Tèxtil",
+   "url": "https://www.diba.cat/web/opc/-/25anysxml-museu-que-no-es-veu-museu-textil-terrassa-reserves",
+   "hora": "12:00",
+   "lugar": "C. Salmerón, 25. 08222 Terrassa",
+   "notas": [
+    "Sostenibilitat social",
+    "Coneixereu com es fa la diagnosi de les necessitats de restauració i com les tècniques i procediments són específics per a cada tipus d’objecte.També sabreu com es treballa en l’elaboració de suports i maniquins a mida de cada projecte expositiu. En definitiva, us fareu una idea "
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "0034abe840ca",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-22",
+   "titulo": "Visita guiada a les reserves del VINSEUM. 25 anys de la XML. El museu que no es veu",
+   "url": "https://www.diba.cat/web/opc/-/visita-guiada-a-les-reserves-del-vinseum.-25-anys-de-la-xml.-el-museu-que-no-es-veu",
+   "hora": null,
+   "lugar": null,
+   "notas": [
+    "Sostenibilitat social",
+    "Endinsa’t a un dels espais menys coneguts del VINSEUM amb una visita guiada a les reserves del museu. De la mà de la Carmina Admella, resposable de Conservació i Restauració del VINSEUM, descobrirem les peces que formen part de la col·lecció del museu i no estan exposades. Coneix"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "32d57858875d",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "parlament",
+   "organismo": "Parlament de Catalunya",
+   "persona": "Josep Rull",
+   "cargo": "El president",
+   "fecha": "2026-11-23",
+   "titulo": "El president, Josep Rull, visita la Fundació Maresme",
+   "url": "https://www.parlament.cat/web/actualitat/agenda/index.html",
+   "hora": "09:00",
+   "lugar": "Cabrera de Mar",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "eb5e27bf532e",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-23",
+   "titulo": "Espai Claustre amb Lluís Bonet. L’evolució de la gestió cultural. Tendències, perspectives des de la formació i reptes de futur",
+   "url": "https://www.diba.cat/web/cerc/-/espai-claustre-amb-llu%C3%ADs-bonet.-l-evoluci%C3%B3-de-la-gesti%C3%B3-cultural.-tend%C3%A8ncies-perspectives-des-de-la-formaci%C3%B3-i-reptes-de-futur",
+   "hora": "10:00",
+   "lugar": "Pati Manning (CERC) - c. Montalegre, 7 / Barcelona, Barcelona",
+   "notas": [
+    "Sostenibilitat social",
+    "La gestió cultural ha deixat de ser una praxi intuïtiva, nascuda del voluntarisme dels anys vuitanta, per esdevenir una disciplina acadèmica consolidada i una professió estratègica imprescindible en el món contemporani. En un entorn global complex, interconnectat i en constant tr"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "a24c17a61c63",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "parlament",
+   "organismo": "Parlament de Catalunya",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-23",
+   "titulo": "Comissió d'Investigació sobre la Repressió Exercida contra Dones Menors d'Edat pel Patronato de Protección a la Mujer entre el 1941 i el 1981",
+   "url": "https://www.parlament.cat/web/actualitat/agenda/index.html",
+   "hora": "10:00",
+   "lugar": "Sessió ordinària, Sala 1",
+   "notas": [
+    "Emissió en directe"
+   ],
+   "temas": [
+    "plenos"
+   ],
+   "personas_vigiladas": [],
+   "relevante": true,
+   "id": "9b550e659e24",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-23",
+   "titulo": "Taller per a joves Teatre Fòrum 'Dones que Transformen' a Centelles",
+   "url": "https://www.diba.cat/web/ri/-/taller-per-a-joves-teatre-f%C3%B2rum-dones-que-transformen-a-centelles",
+   "hora": "17:30",
+   "lugar": "Punt Jove el PIPA. Carrer de Jesús, 25, 08540 Centelles, Barcelona",
+   "notas": [
+    "Sostenibilitat social",
+    "En aquest taller s'utilitzaran metodologies participatives i vivencials per analitzar les desigualtats de gènere i els estereotips sexistes i racistes encara persistents. Mitjançant jocs de rol basats en el Teatre Fòrum i de la mà de Societat i Empresa, les persones participants "
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "553141ae54aa",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-23",
+   "titulo": "Roca del Vallès",
+   "url": "https://do.diba.cat/api/dataset/agendageneral_ca/format/json",
+   "hora": null,
+   "lugar": "Centre Esportiu Municipal C. Dr. Hermenegild Carrera - La Roca del Vallès",
+   "notas": [
+    "Sostenibilitat social"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "1eaeb9bd5d60",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
   {
    "fuente": "moncloa",
    "organismo": "Gobierno de España",
@@ -21,7 +372,7 @@
    "id": "85b852c36166",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "pp",
@@ -38,9 +389,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "5df05bc92fdf",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "pp",
@@ -57,9 +408,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "5fc043d9635e",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "moncloa",
@@ -80,7 +431,29 @@
    "id": "0b03bfef5bc4",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "4ª Sessió:'Adolescència, pantalles i drogues des d'una mirada de gènere. Una aproximació general'",
+   "url": "https://www.diba.cat/web/spott/-/3%C2%AA-sessi%C3%B3-adolesc%C3%A8ncia-pantalles-i-drogues-des-d-una-mirada-de-g%C3%A8nere.-una-aproximaci%C3%B3-general-",
+   "hora": "09:00",
+   "lugar": "Videoformació",
+   "notas": [
+    "Sostenibilitat social",
+    "Dates i continguts Sessió 1Introducció a la perspectiva de gènerePerspectiva de gènere i consum de droguesPerspectiva de gènere i usos d'entorns digitals Sessió 2L'acompanyament educatiu a l'adolescènciaAnàlisi del context actualCaracterístiques de l'etapa adolescent i implicacio"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "0e8c9539f194",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "pp",
@@ -97,9 +470,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "21a6e3fac104",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "pp",
@@ -116,9 +489,28 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "a6416994f169",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "parlament",
+   "organismo": "Parlament de Catalunya",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "Mesa del Parlament",
+   "url": "https://www.parlament.cat/web/actualitat/agenda/index.html",
+   "hora": "09:30",
+   "lugar": "Sessió ordinària, Sala de mesa",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "a4e2a675cd84",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "moncloa",
@@ -139,7 +531,29 @@
    "id": "2c29cfc9bb41",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "La nova llei de foment de l'associacionisme al sector cultural (2a edició)",
+   "url": "https://www.diba.cat/web/cerc/-/la-nova-llei-de-foment-de-l-associacionisme-al-sector-cultural-2a-edici%C3%B3-1",
+   "hora": "10:00",
+   "lugar": "Pati Manning (CERC) - c. Montalegre, 7/Barcelona, Barcelona",
+   "notas": [
+    "Sostenibilitat social",
+    "L'any 2023 es va aprovar la Llei 11 de 27 de desembre relativa al foment de l’associacionisme, un sector de gran importància en l’àmbit de la cultura municipal. Aquesta llei vol reivindicar i potenciar l’associacionisme amb la finalitat d’enfortir-lo, facilitar-ne el creixement i"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "d20475d26b3b",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "pp",
@@ -156,9 +570,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "4ab965b14775",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "moncloa",
@@ -177,7 +591,7 @@
    "id": "c50cddfc684e",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "pp",
@@ -194,9 +608,31 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "61aebafb09de",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "Jornada '10 anys de la Manada. Què ha canviat? Què fem ara?'",
+   "url": "https://www.diba.cat/web/el-diari/-/jornada-10-anys-la-manada-que-ha-canviat-que-fem-ara-agenda",
+   "hora": "10:30",
+   "lugar": "La Cuina de l'Espai Francesca Bonnemaison (c/ de Sant Pere Més Baix, 7) de Barcelona, Barcelona",
+   "notas": [
+    "Sostenibilitat social",
+    "Aquesta jornada està impulsada per l'Institut de Ciències Polítiques i Socials (ICPS) amb el suport de la Diputació de Barcelona amb motiu del 25N (Dia Internacional per a l'Eliminació de la Violència contra les Dones)."
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "f847873e34e2",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "pp",
@@ -213,9 +649,30 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "b4bb79753cb1",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "parlament",
+   "organismo": "Parlament de Catalunya",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "Junta de Portaveus",
+   "url": "https://www.parlament.cat/web/actualitat/agenda/index.html",
+   "hora": "10:30",
+   "lugar": "Sessió ordinària, Sala de grups",
+   "notas": [],
+   "temas": [
+    "plenos"
+   ],
+   "personas_vigiladas": [],
+   "relevante": true,
+   "id": "9af17d70f078",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "moncloa",
@@ -238,7 +695,7 @@
    "id": "0e48882312a9",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "pp",
@@ -255,9 +712,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "dcac1893d257",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "pp",
@@ -274,9 +731,30 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "d8b443dd93da",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "parlament",
+   "organismo": "Parlament de Catalunya",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "Conferència de premsa dels grups de Junts, ERC, els Comuns i la CUP-DT sobre la proposta de resolució que demana la titularitat pública de la xarxa elèctrica i la recuperació de les competències de distribució per part de la Generalitat i els municipis",
+   "url": "https://www.parlament.cat/web/actualitat/agenda/index.html",
+   "hora": "11:30",
+   "lugar": "Sala de conferències de premsa, Emissió en directe",
+   "notas": [],
+   "temas": [
+    "energia"
+   ],
+   "personas_vigiladas": [],
+   "relevante": true,
+   "id": "ba0d99e37e9f",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "pp",
@@ -293,9 +771,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "79d02dd516e3",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "pp",
@@ -312,9 +790,28 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "15dbd95ea0aa",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "parlament",
+   "organismo": "Parlament de Catalunya",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "Ponència: Proposició de llei de modificació de la Llei 12/2015, de cooperatives",
+   "url": "https://www.parlament.cat/web/actualitat/agenda/index.html",
+   "hora": "12:00",
+   "lugar": "Sessió ordinària, Sala 2",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "37cea3143e1c",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "pp",
@@ -331,9 +828,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "c7f1d58f352d",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "pp",
@@ -350,9 +847,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "f181e222a576",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "pp",
@@ -369,9 +866,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "1aa0bb64da59",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "pp",
@@ -388,9 +885,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "3d55410ad67a",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "pp",
@@ -407,9 +904,28 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "783aae21b033",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "parlament",
+   "organismo": "Parlament de Catalunya",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "Conferència de premsa dels grups d'ERC, els Comuns i la CUP-DT amb familiars dels vaguistes en presó preventiva detinguts durant la vaga general de l'11 de novembre",
+   "url": "https://www.parlament.cat/web/actualitat/agenda/index.html",
+   "hora": "12:20",
+   "lugar": "Sala de conferències de premsa, Emissió en directe",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "6d3955fe8c58",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "pp",
@@ -426,9 +942,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "d02adcd232d0",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "pp",
@@ -445,9 +961,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "3eee7489fc8a",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "moncloa",
@@ -468,7 +984,7 @@
    "id": "9dcd77f9fe33",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "pp",
@@ -485,9 +1001,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "8e5e77ccd1c0",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "pp",
@@ -504,9 +1020,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "6705a2870a7d",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "pp",
@@ -523,9 +1039,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "b798a70ea572",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "moncloa",
@@ -546,7 +1062,7 @@
    "id": "3ab39a51af3f",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "pp",
@@ -563,9 +1079,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "696dadf45c5d",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "moncloa",
@@ -584,7 +1100,7 @@
    "id": "ea5e383131bf",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "pp",
@@ -601,9 +1117,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "5dbf9b5394bd",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "pp",
@@ -620,9 +1136,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "0abbd697219e",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "pp",
@@ -639,9 +1155,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "3916cb027c08",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "pp",
@@ -658,9 +1174,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "dda841ae9381",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "pp",
@@ -677,9 +1193,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "7da844560dea",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "pp",
@@ -696,9 +1212,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "538fcc8cf351",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "moncloa",
@@ -717,7 +1233,7 @@
    "id": "154aec481fc2",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "pp",
@@ -734,9 +1250,31 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "aca3fb7cd6d6",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "Taller per a joves Escape Room 'Dones que Transformen' a Tordera",
+   "url": "https://www.diba.cat/web/ri/-/taller-per-a-joves-escape-room-dones-que-transformen-a-tordera",
+   "hora": "17:30",
+   "lugar": "Carrer Can Pujades, 9, 08490 Tordera, Barcelona",
+   "notas": [
+    "Sostenibilitat social",
+    "El Taller 'La Xarxa del Canvi' és una experiència formativa gamificada dinamitzada per Societat i Empresa que combina narrativa, anàlisi crítica i acció transformadora. L’activitat, adreçada a joves d'entre 15 i 20 anys, té com a objectiu principal identificar les desigualtats de"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "6d094330d02e",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "pp",
@@ -753,9 +1291,31 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "6e51c001708f",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "Taller per a adultes Escape Room 'Dones que Transformen' a Sant Pere de Riudebitlles",
+   "url": "https://www.diba.cat/web/ri/-/taller-per-a-adultes-escape-room-dones-que-transformen-a-sant-pere-de-riudebitlles",
+   "hora": "18:00",
+   "lugar": "Carrer Major, 42, 08776 Sant Pere de Riudebitlles, Barcelona",
+   "notas": [
+    "Sostenibilitat social",
+    "El Taller 'La Xarxa del Canvi' és una experiència formativa gamificada dinamitzada per Societat i Empresa que combina narrativa, anàlisi crítica i acció transformadora. L’activitat, adreçada a joves d'entre 15 i 20 anys, té com a objectiu principal identificar les desigualtats de"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "2aae6af2d2c2",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "pp",
@@ -772,9 +1332,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "e7cf4ac80889",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "pp",
@@ -791,9 +1351,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "2892d8041dce",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "pp",
@@ -810,9 +1370,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "68acfd4df68e",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "pp",
@@ -829,9 +1389,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "3dbfa4353168",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "pp",
@@ -848,9 +1408,31 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "9430addf5913",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-24",
+   "titulo": "Cinefòrum 'Dones que Transformen' a Pineda de Mar",
+   "url": "https://www.diba.cat/web/ri/-/cinef%C3%B2rum-dones-que-transformen-a-pineda-de-mar",
+   "hora": "19:00",
+   "lugar": "Carrer Rasa Vella, 9, 08397 Pineda de Mar, Barcelona",
+   "notas": [
+    "Sostenibilitat social",
+    "Projecció dels curtmetratges Farrucas, Con la esperanza de no olvidar i Or vermell amb la dinamització de Drac Màgic al cinefòrum posterior. Aquesta activitat posa el focus en les activistes i els seus entorns, trencant prejudicis i estereotips de gènere, de classe i racials, i q"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "4f3a0b9b472b",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "pp",
@@ -867,9 +1449,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "556ab8781606",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "pp",
@@ -886,9 +1468,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "aa78e2ea91ee",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "pp",
@@ -905,9 +1487,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "81c350dc1819",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "moncloa",
@@ -928,7 +1510,7 @@
    "id": "0031bbc711ce",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "pp",
@@ -947,9 +1529,9 @@
    ],
    "relevante": true,
    "id": "de60563edb2c",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "pp",
@@ -966,9 +1548,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "d78cf48fedc3",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "pp",
@@ -985,9 +1567,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "f54ab38a4839",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "pp",
@@ -1004,9 +1586,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "7503c095ac6a",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "pp",
@@ -1023,9 +1605,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "fcf0ad6f50b9",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "pp",
@@ -1042,9 +1624,28 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "6cb27656c9a9",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "parlament",
+   "organismo": "Parlament de Catalunya",
+   "persona": "Raquel Sans",
+   "cargo": "La vicepresidenta primera",
+   "fecha": "2026-11-24",
+   "titulo": "La vicepresidenta primera, Raquel Sans, participa en la gala de lliurament dels XXIV Premis ARC de la Indústria Musical del Directe",
+   "url": "https://www.parlament.cat/web/actualitat/agenda/index.html",
+   "hora": "20:30",
+   "lugar": "Tarragona",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "84b3d7cc5a84",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "pp",
@@ -1061,9 +1662,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "cf03a7860346",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "pp",
@@ -1080,9 +1681,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "1500dda9126d",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "pp",
@@ -1099,9 +1700,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "c20b19fd3211",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "pp",
@@ -1118,9 +1719,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "fb042fc8f822",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "moncloa",
@@ -1139,7 +1740,7 @@
    "id": "66158107faa6",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "acn",
@@ -1158,7 +1759,7 @@
    "id": "7810f7b135e9",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "acn",
@@ -1179,7 +1780,7 @@
    "id": "b132a7150604",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "acn",
@@ -1198,7 +1799,7 @@
    "id": "fb24d2e1f785",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "acn",
@@ -1217,7 +1818,7 @@
    "id": "cde4559d0b93",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "acn",
@@ -1236,7 +1837,7 @@
    "id": "652860be8785",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "acn",
@@ -1255,7 +1856,7 @@
    "id": "23395db31646",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "moncloa",
@@ -1274,7 +1875,7 @@
    "id": "4accc8e75746",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "moncloa",
@@ -1295,7 +1896,7 @@
    "id": "73b274b72529",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "generalitat",
@@ -1314,9 +1915,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "628e14357277",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "generalitat",
@@ -1335,9 +1936,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "4235e449e3a9",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "generalitat",
@@ -1358,9 +1959,9 @@
    ],
    "relevante": true,
    "id": "fa9791e8a760",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "generalitat",
@@ -1381,9 +1982,79 @@
    ],
    "relevante": true,
    "id": "1bea1a423fdc",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-25",
+   "titulo": "Zones de Governança Educativa. Del pilot a l'impacte educatiu",
+   "url": "https://www.diba.cat/web/el-diari/-/jornada-governanca-educativa-agenda",
+   "hora": "09:30",
+   "lugar": "Cèntric Espai Cultural (Plaça de Catalunya, 39-41, Carrer de Jaume Casanovas, 194) del Prat de Llobregat",
+   "notas": [
+    "Sostenibilitat social",
+    "La trobada està organitzada per la Federació de Moviments de Renovació Pedagògica de Catalunya (FMRPC), en col·laboració amb el Departament d'Educació i Formació Professional, l'Àrea d'Educació de la Diputació de Barcelona i l'Ajuntament del Prat de Llobregat.Programa de la Jorna"
+   ],
+   "temas": [
+    "agua"
+   ],
+   "personas_vigiladas": [],
+   "relevante": true,
+   "id": "dac502eb522d",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-25",
+   "titulo": "Jornada: Zones de Governança Educativa. Del pilot a l'impacte educatiu",
+   "url": "https://www.diba.cat/web/educacio/-/jornada-zones-de-governan%C3%A7a-educativa.-del-pilot-a-l-impacte-educatiu",
+   "hora": "09:30",
+   "lugar": "Cèntric Espai Cultural, Plaça de Catalunya, 39-41, Carrer de Jaume Casanovas, 194, 08820. El Prat de Llobregat.",
+   "notas": [
+    "Sostenibilitat social",
+    "Esdeveniment organitzat per la Federació de Moviments de Renovació Pedagògica de Catalunya (FMRPC), en col·laboració amb el Departament d'Educació i Formació Professional, l'Àrea d'Educació de la Diputació de Barcelona i l'Ajuntament del Prat de Llobregat.Programa de la Jornada09"
+   ],
+   "temas": [
+    "agua"
+   ],
+   "personas_vigiladas": [],
+   "relevante": true,
+   "id": "0c7903371277",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-25",
+   "titulo": "VII Espai Confluències Narrar per interpretar. El poder dels relats en els museus i el patrimoni",
+   "url": "https://www.diba.cat/web/opc/-/vii-espai-confluencies-2026",
+   "hora": "09:30",
+   "lugar": "Pati Manning. Carrer Montalegre, 7, Ciutat Vella, 08001 Barcelona, Barcelona",
+   "notas": [
+    "Sostenibilitat social",
+    "Enguany al VII Espai Confluències volem abordar el paper de la comunicació, la narrativa i la creació de relats en els museus, i fer-ho de la mà d’especialistes procedents d’àmbits diversos. Entenem que el relat és avui una eina clau perquè els museus puguin connectar amb els seu"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "ddbdc7436c4f",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "acn",
@@ -1402,7 +2073,7 @@
    "id": "ec883214d579",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "generalitat",
@@ -1421,9 +2092,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "78dc127b3242",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "generalitat",
@@ -1442,9 +2113,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "ee4d90e24215",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "acn",
@@ -1463,7 +2134,7 @@
    "id": "91e83d6d192d",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "acn",
@@ -1482,7 +2153,7 @@
    "id": "439d49c26263",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "moncloa",
@@ -1503,7 +2174,7 @@
    "id": "d9a65aae6535",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "generalitat",
@@ -1522,9 +2193,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "05f175627b81",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "generalitat",
@@ -1543,9 +2214,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "5aa4f2f2cf9e",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "moncloa",
@@ -1568,7 +2239,7 @@
    "id": "5729cec3fbfa",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "generalitat",
@@ -1587,9 +2258,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "0d219adbc67c",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "generalitat",
@@ -1608,9 +2279,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "f72c5fcd9147",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "acn",
@@ -1629,7 +2300,7 @@
    "id": "c8d5db525989",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "acn",
@@ -1648,7 +2319,7 @@
    "id": "cee9e1e2420b",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "acn",
@@ -1667,7 +2338,7 @@
    "id": "db5b2697d606",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "acn",
@@ -1686,7 +2357,7 @@
    "id": "f9f438c872c1",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "acn",
@@ -1707,7 +2378,7 @@
    "id": "eec32ff743af",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "moncloa",
@@ -1728,7 +2399,7 @@
    "id": "54463b6617db",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "moncloa",
@@ -1747,7 +2418,7 @@
    "id": "d96087f26feb",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "generalitat",
@@ -1768,9 +2439,9 @@
    "personas_vigiladas": [],
    "relevante": true,
    "id": "630e1bb4e402",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "generalitat",
@@ -1789,9 +2460,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "918b025c7038",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "acn",
@@ -1810,7 +2481,7 @@
    "id": "e1453ad7118f",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "generalitat",
@@ -1831,9 +2502,9 @@
    ],
    "relevante": true,
    "id": "086ff0f933f2",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "acn",
@@ -1852,7 +2523,7 @@
    "id": "92df2ce554fa",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "generalitat",
@@ -1871,9 +2542,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "ed20a5313083",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "moncloa",
@@ -1894,7 +2565,7 @@
    "id": "af1a761fcd0a",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "generalitat",
@@ -1915,9 +2586,9 @@
    ],
    "relevante": true,
    "id": "2587ab7a0e0e",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "moncloa",
@@ -1938,7 +2609,7 @@
    "id": "8b894bcdb49c",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "acn",
@@ -1957,7 +2628,7 @@
    "id": "107c5311730b",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "moncloa",
@@ -1976,7 +2647,29 @@
    "id": "117c73d6fe57",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-25",
+   "titulo": "Taller per a joves Escape Room 'Dones que Transformen' a Sallent",
+   "url": "https://www.diba.cat/web/ri/-/taller-per-a-joves-escape-room-dones-que-transformen-a-sallent",
+   "hora": "12:30",
+   "lugar": "Carrer Estació, 11, 08650 Sallent, Barcelona",
+   "notas": [
+    "Sostenibilitat social",
+    "El Taller 'La Xarxa del Canvi' és una experiència formativa gamificada dinamitzada per Societat i Empresa que combina narrativa, anàlisi crítica i acció transformadora. L’activitat, adreçada a joves d'entre 15 i 20 anys, té com a objectiu principal identificar les desigualtats de"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "5f7f025b593d",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "acn",
@@ -1995,7 +2688,29 @@
    "id": "49a6734c5705",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-25",
+   "titulo": "Onades de Dones: 'Dones que Transformen' a Lliçà de Vall",
+   "url": "https://www.diba.cat/web/ri/-/onades-de-dones-dones-que-transformen-a-lli%C3%A7a-de-vall",
+   "hora": "12:45",
+   "lugar": "Lliçà de Vall",
+   "notas": [
+    "Sostenibilitat social",
+    "La intervenció al carrer “Onades de dones” és una proposta de performance teatral a l’espai públic a càrrec de La Xixa Teatre. Aquesta acció busca donar visibilitat a les lluites que viuen les dones per accedir a espais de participació i de representació a les dues riberes de la "
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "6825797e46d8",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "moncloa",
@@ -2014,7 +2729,7 @@
    "id": "2dece17db232",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "acn",
@@ -2035,7 +2750,26 @@
    "id": "1cb3e62c2a26",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "parlament",
+   "organismo": "Parlament de Catalunya",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-25",
+   "titulo": "Conferència de premsa dels grups del PSC-Units, Junts, ERC, els Comuns i la CUP-DT amb l'associació Dones Juristes amb motiu del Dia Internacional per a l'Eliminació de la Violència contra les Dones",
+   "url": "https://www.parlament.cat/web/actualitat/agenda/index.html",
+   "hora": "12:50",
+   "lugar": "Sala de conferències de premsa, Emissió en directe",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "48153664a196",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "moncloa",
@@ -2054,7 +2788,7 @@
    "id": "33d4c62e5d3e",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "generalitat",
@@ -2073,9 +2807,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "dd2e9c9d71e3",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "generalitat",
@@ -2094,9 +2828,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "bec82b5a8ef9",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "generalitat",
@@ -2117,9 +2851,9 @@
    ],
    "relevante": true,
    "id": "9e47fbdbcb99",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "generalitat",
@@ -2138,9 +2872,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "76a9d0d9a265",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "generalitat",
@@ -2159,9 +2893,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "8aa856aaab4a",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "moncloa",
@@ -2180,7 +2914,7 @@
    "id": "d4422bc2d249",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "generalitat",
@@ -2199,9 +2933,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "e429d3535fdf",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "generalitat",
@@ -2220,9 +2954,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "90180c90888d",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "moncloa",
@@ -2241,7 +2975,7 @@
    "id": "b08d12351d2f",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "acn",
@@ -2260,7 +2994,7 @@
    "id": "59dbb7cb4bd8",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "generalitat",
@@ -2281,9 +3015,9 @@
    ],
    "relevante": true,
    "id": "1900260b6123",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "moncloa",
@@ -2304,7 +3038,7 @@
    "id": "d3a7399d3f77",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "ajbcn",
@@ -2325,7 +3059,7 @@
    "id": "0a7716dcdecd",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "moncloa",
@@ -2346,7 +3080,26 @@
    "id": "ca67be4fa30f",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "parlament",
+   "organismo": "Parlament de Catalunya",
+   "persona": "Josep Rull",
+   "cargo": "El president",
+   "fecha": "2026-11-25",
+   "titulo": "El president, Josep Rull, assisteix a la gala dels V Premis Sàpiens",
+   "url": "https://www.parlament.cat/web/actualitat/agenda/index.html",
+   "hora": "19:00",
+   "lugar": "Barcelona",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "78673ad02cee",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "generalitat",
@@ -2365,9 +3118,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "b4c57ee1bd5d",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "generalitat",
@@ -2386,9 +3139,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "42cf3cf752d3",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "moncloa",
@@ -2407,7 +3160,216 @@
    "id": "84fd4ed8b90a",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-25",
+   "titulo": "Onades de Dones: 'Dones que Transformen' a Santa Maria de Palautordera",
+   "url": "https://www.diba.cat/web/ri/-/onades-de-dones-dones-que-transformen-a-santa-maria-de-palautordera",
+   "hora": null,
+   "lugar": "Santa Maria de Palautordera",
+   "notas": [
+    "Sostenibilitat social",
+    "La intervenció al carrer “Onades de dones” és una proposta de performance teatral a l’espai públic a càrrec de La Xixa Teatre. Aquesta acció busca donar visibilitat a les lluites que viuen les dones per accedir a espais de participació i de representació a les dues riberes de la "
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "3664ee46c0f7",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-26",
+   "titulo": "Arrencada del Gestor d'expedients a l'Ajuntament d'Avià",
+   "url": "https://do.diba.cat/api/dataset/agendageneral_ca/format/json",
+   "hora": "09:00",
+   "lugar": null,
+   "notas": [
+    "Sostenibilitat social"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "3678b43a3285",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-26",
+   "titulo": "Arrencada del Gestor d'expedients a l'Ajuntament de Guardiola de Berguedà",
+   "url": "https://do.diba.cat/api/dataset/agendageneral_ca/format/json",
+   "hora": "09:00",
+   "lugar": null,
+   "notas": [
+    "Sostenibilitat social"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "c3f2ee6bdb6a",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-26",
+   "titulo": "Arrencada SeTDIBA a la Mancomunitat Intermunicipal de Martorelles i Santa Maria de Martorelles",
+   "url": "https://do.diba.cat/api/dataset/agendageneral_ca/format/json",
+   "hora": "09:00",
+   "lugar": null,
+   "notas": [
+    "Sostenibilitat social"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "14e258d721ff",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-26",
+   "titulo": "Arrencada SeTDIBA a la Mancomunitat de Municipis de Galzeran",
+   "url": "https://do.diba.cat/api/dataset/agendageneral_ca/format/json",
+   "hora": "09:00",
+   "lugar": null,
+   "notas": [
+    "Sostenibilitat social"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "1d78deb096cd",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-26",
+   "titulo": "Arrencada SeTDIBA a l'Ajuntament de Gualba",
+   "url": "https://do.diba.cat/api/dataset/agendageneral_ca/format/json",
+   "hora": "09:00",
+   "lugar": null,
+   "notas": [
+    "Sostenibilitat social"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "8fec522e4f8b",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-26",
+   "titulo": "Sessió d'Alta SeTDIBA al Grup 29: Ajuntament de Prats de Rei, Sant Pere Sallavinera, Sant Martí Sesgueioles",
+   "url": "https://do.diba.cat/api/dataset/agendageneral_ca/format/json",
+   "hora": "09:30",
+   "lugar": null,
+   "notas": [
+    "Sostenibilitat social"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "5696d81978e4",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "parlament",
+   "organismo": "Parlament de Catalunya",
+   "persona": "Josep Rull",
+   "cargo": "El president",
+   "fecha": "2026-11-26",
+   "titulo": "El president, Josep Rull, rep en audiència la Federació Internacional de Kungfu Wushu a Catalunya",
+   "url": "https://www.parlament.cat/web/actualitat/agenda/index.html",
+   "hora": "10:00",
+   "lugar": "Despatx d'audiències",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "64eb6222ee37",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "parlament",
+   "organismo": "Parlament de Catalunya",
+   "persona": "Josep Rull",
+   "cargo": "El president",
+   "fecha": "2026-11-26",
+   "titulo": "El president, Josep Rull, clourà el Cicle 'La col·laboració publicoprivada a la Catalunya que volem'",
+   "url": "https://www.parlament.cat/web/actualitat/agenda/index.html",
+   "hora": "12:00",
+   "lugar": "Barcelona",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "41c431dae9b5",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-26",
+   "titulo": "Ple ordinari de la Diputació de Barcelona de novembre de 2026",
+   "url": "https://do.diba.cat/api/dataset/agendageneral_ca/format/json",
+   "hora": "12:00",
+   "lugar": "Sala de Plens de Can Serra, seu central de la Diputació de Barcelona (Rambla de Catalunya, 126) de Barcelona, Barcelona",
+   "notas": [
+    "Sostenibilitat social"
+   ],
+   "temas": [
+    "plenos"
+   ],
+   "personas_vigiladas": [],
+   "relevante": true,
+   "id": "5a96625b818e",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "ajbcn",
@@ -2428,7 +3390,7 @@
    "id": "9f7b981b72a2",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   },
   {
    "fuente": "ajbcn",
@@ -2449,7 +3411,1645 @@
    "id": "1a318fb81b62",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T11:40:13+00:00",
-   "visto_ultima_vez": "2026-11-25T12:22:15+00:00"
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-26",
+   "titulo": "Taller per a joves Escape Room 'Dones que Transformen' a Sant Sadurní d'Anoia",
+   "url": "https://www.diba.cat/web/ri/-/taller-per-a-joves-escape-room-dones-que-transformen-a-sant-sadurni-danoia",
+   "hora": "18:00",
+   "lugar": "Centre Cívic Vilarnau. 08770 Sant Sadurní d'Anoia, Barcelona",
+   "notas": [
+    "Sostenibilitat social",
+    "El Taller 'La Xarxa del Canvi' és una experiència formativa gamificada dinamitzada per Societat i Empresa que combina narrativa, anàlisi crítica i acció transformadora. L’activitat, adreçada a joves d'entre 15 i 20 anys, té com a objectiu principal identificar les desigualtats de"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "b72d225a9d0c",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-26",
+   "titulo": "Cinefòrum 'Dones que Transformen' a Súria",
+   "url": "https://www.diba.cat/web/ri/-/cinef%C3%B2rum-dones-que-transformen-a-suria",
+   "hora": "18:00",
+   "lugar": "Súria (direcció a confirmar)",
+   "notas": [
+    "Sostenibilitat social",
+    "Projecció dels curtmetratges Farrucas, Con la esperanza de no olvidar i Or vermell amb la dinamització de Drac Màgic al cinefòrum posterior. Aquesta activitat posa el focus en les activistes i els seus entorns, trencant prejudicis i estereotips de gènere, de classe i racials, i q"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "c06990f22683",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "parlament",
+   "organismo": "Parlament de Catalunya",
+   "persona": "Josep Rull",
+   "cargo": "El president",
+   "fecha": "2026-11-26",
+   "titulo": "El president, Josep Rull, assisteix a la gala de lliurament dels Premis Ondas 2026",
+   "url": "https://www.parlament.cat/web/actualitat/agenda/index.html",
+   "hora": "19:30",
+   "lugar": "Barcelona",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "a12319c92856",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-27",
+   "titulo": "IX Jornada Perifèrica 2026: Més enllà de la prevenció. Arribar a qui no arribem",
+   "url": "https://www.diba.cat/web/spott/-/ix-jornada-perif%C3%A8rica-2026-m%C3%A9s-enll%C3%A0-de-la-prevenci%C3%B3.-arribar-a-qui-no-arribem-1",
+   "hora": "09:30",
+   "lugar": "Centre Cívic La Fàbrica, Santa Eulàlia de Ronçana",
+   "notas": [
+    "Sostenibilitat social",
+    "La Xarxa Perifèrics és una xarxa de professionals, serveis i entitats de Catalunya que treballen en l'àmbit de la prevenció de les addiccions i la promoció de la salut. Des d'una perspectiva comunitària i de treball en xarxa, impulsa l'intercanvi d'experiències, la reflexió compa"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "a368143ae795",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-27",
+   "titulo": "Al teu costat, fem un entorn més segur, prevenció de robatoris i estafes [Manresa]",
+   "url": "https://www.diba.cat/web/teleassistencia/-/al-teu-costat-fem-un-entorn-m%C3%A9s-segur-prevenci%C3%B3-de-robatoris-i-estafes-manresa-2",
+   "hora": "10:30",
+   "lugar": "Sala d'Actes del Centre Cultural del Casino Pg. Pere III 27, Manresa",
+   "notas": [
+    "Sostenibilitat social",
+    "Des del Servei Local de Teleassistència, dins del Programa de prevenció de riscos i foment de l’envelliment actiu i saludable, es realitzen campanyes preventives amb l’objectiu de fomentar l'autonomia personal i afavorir l'empoderament de les persones grans, així com incorporar h"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "e03e207464f5",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-27",
+   "titulo": "Taller per a joves Escape Room 'Dones que Transformen' a Navàs",
+   "url": "https://www.diba.cat/web/ri/-/taller-per-a-joves-escape-room-dones-que-transformen-a-navas",
+   "hora": "17:00",
+   "lugar": "Centre Cívic Vilarnau. 08770 Sant Sadurní d'Anoia, Barcelona, Navàs",
+   "notas": [
+    "Sostenibilitat social",
+    "El Taller 'La Xarxa del Canvi' és una experiència formativa gamificada dinamitzada per Societat i Empresa que combina narrativa, anàlisi crítica i acció transformadora. L’activitat, adreçada a joves d'entre 15 i 20 anys, té com a objectiu principal identificar les desigualtats de"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "182249e105f6",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-28",
+   "titulo": "Onades de Dones: 'Dones que Transformen' a Sant Feliu de Codines",
+   "url": "https://www.diba.cat/web/ri/-/onades-de-dones-dones-que-transformen-a-sant-feliu-de-codines",
+   "hora": "11:00",
+   "lugar": "Sant Feliu de Codines",
+   "notas": [
+    "Sostenibilitat social",
+    "La intervenció al carrer “Onades de dones” és una proposta de performance teatral a l’espai públic a càrrec de La Xixa Teatre. Aquesta acció busca donar visibilitat a les lluites que viuen les dones per accedir a espais de participació i de representació a les dues riberes de la "
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "aa9b23e1663b",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-28",
+   "titulo": "Onades de Dones: 'Dones que Transformen' a Centelles",
+   "url": "https://www.diba.cat/web/ri/-/onades-de-dones-dones-que-transformen-a-centelles",
+   "hora": "17:30",
+   "lugar": "Ronda dels Esports, 24, 30, 08540 Centelles, Barcelona",
+   "notas": [
+    "Sostenibilitat social",
+    "La intervenció al carrer “Onades de dones” és una proposta de performance teatral a l’espai públic a càrrec de La Xixa Teatre. Aquesta acció busca donar visibilitat a les lluites que viuen les dones per accedir a espais de participació i de representació a les dues riberes de la "
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "d10898ae4c94",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-29",
+   "titulo": "Onades de Dones: 'Dones que Transformen' a Súria",
+   "url": "https://www.diba.cat/web/ri/-/onades-de-dones-dones-que-transformen-a-suria",
+   "hora": "12:00",
+   "lugar": "Súria",
+   "notas": [
+    "Sostenibilitat social",
+    "La intervenció al carrer “Onades de dones” és una proposta de performance teatral a l’espai públic a càrrec de La Xixa Teatre. Aquesta acció busca donar visibilitat a les lluites que viuen les dones per accedir a espais de participació i de representació a les dues riberes de la "
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "53d3ca9fb256",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-29",
+   "titulo": "Onades de Dones: 'Dones que Transformen' a Sant Julià de Vilatorta",
+   "url": "https://www.diba.cat/web/ri/-/onades-de-dones-dones-que-transformen-a-sant-julia-de-vilatorta",
+   "hora": "16:00",
+   "lugar": "Sant Julià de Vilatorta",
+   "notas": [
+    "Sostenibilitat social",
+    "La intervenció al carrer “Onades de dones” és una proposta de performance teatral a l’espai públic a càrrec de La Xixa Teatre. Aquesta acció busca donar visibilitat a les lluites que viuen les dones per accedir a espais de participació i de representació a les dues riberes de la "
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "f3d81ddb91fa",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-30",
+   "titulo": "Participació de la Diputació de Barcelona a CONAMA 2026",
+   "url": "https://www.diba.cat/web/el-diari/-/diputacio-participa-conama-2026-agenda",
+   "hora": "09:00",
+   "lugar": "IFEMA Madrid",
+   "notas": [
+    "Sostenibilitat social",
+    "CONAMA és el principal esdeveniment a nivell estatal per discutir i abordar temes relacionats amb la sostenibilitat i el medi ambient, reunint diversos actors per promoure el diàleg i l'acció ambiental.El Congrés reuneix administracions, empreses, entitats socials, universitats i"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "813d5c402f6f",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-30",
+   "titulo": "Activitat 20261130",
+   "url": "https://do.diba.cat/api/dataset/agendageneral_ca/format/json",
+   "hora": null,
+   "lugar": "Barcelona",
+   "notas": [
+    "Sostenibilitat social"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "f0b2e6f241a9",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-30",
+   "titulo": "Exposició «Europa, el nostre espai comú» a Vilanova del Vallès",
+   "url": "https://www.diba.cat/web/ri/-/exposicio-europa-vilanova-valles",
+   "hora": null,
+   "lugar": "Biblioteca Contravent (Plaça dels Països Catalans, 4, 08410, Vilanova del Vallès)",
+   "notas": [
+    "Sostenibilitat social",
+    "L’exposició «Europa, el nostre espai comú», creada i produïda per la Diputació de Barcelona, es posa a disposició de la ciutadania de Vilanova del Vallès amb un doble objectiu: explicar què ha significat ser a Europa per al desenvolupament dels drets i llibertats de què ara gaudi"
+   ],
+   "temas": [
+    "agua"
+   ],
+   "personas_vigiladas": [],
+   "relevante": true,
+   "id": "f3ebdeaee38b",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-30",
+   "titulo": "Taller SNU",
+   "url": "https://www.diba.cat/web/hua/-/taller-snu-c%C3%B2pia-1-",
+   "hora": null,
+   "lugar": "Carrer de Badajoz, núm. 49-51 . Edifici Llacuna. P3 Aula A3.2 .",
+   "notas": [
+    "Sostenibilitat social",
+    "Els últims anys, el sòl no urbanitzable ha estat objecte de nova regulació i ha generat molta controvèrsia. Per una banda, les directrius de preservació dels valors naturals del territori i, per altra, la pressió per a la implantació d’usos en aquest tipus de sòl (càmpings, pisci"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "68c068fccc51",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-30",
+   "titulo": "Mollet del Vallès",
+   "url": "https://do.diba.cat/api/dataset/agendageneral_ca/format/json",
+   "hora": null,
+   "lugar": "El Lledoner Pl. Cinc Pins, 1 Mollet del Vallès",
+   "notas": [
+    "Sostenibilitat social"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "61a0daa70aae",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-12-01",
+   "titulo": "Atenció a la discapacitat: un repte local per a una societat inclusiva",
+   "url": "https://www.diba.cat/web/el-diari/-/jornada-atencio-discapacitat-agenda",
+   "hora": "09:45",
+   "lugar": "UPF Barcelona School of Management - UPF IDEC (c/ de Balmes 132-134) de Barcelona, Barcelona",
+   "notas": [
+    "Sostenibilitat social",
+    "La trobada es desenvolupa en el marc del 20è aniversari de la Convenció sobre els drets de les persones amb discapacitat.La presidenta de la Diputació de Barcelona, Lluïsa Moret, i la diputada de Sostenibilitat Social, Cicle de Vida i Comunitat, Alba Barnusell, donaran la benving"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "4359adab284f",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-12-01",
+   "titulo": "Equipaments culturals de proximitat. Gestió, licitacions, i operativitat",
+   "url": "https://www.diba.cat/web/cerc/-/equipaments-culturals-de-proximitat.-gesti%C3%B3-licitacions-i-operativitat",
+   "hora": "10:00",
+   "lugar": "Videoformació (ZOOM)",
+   "notas": [
+    "Sostenibilitat social",
+    "Els equipaments culturals de proximitat són un dels eixos principals de les polítiques culturals de molts municipis i un dels punts de connexió ineludibles amb el ciutadà. Es tracta de serveis bàsics que tenen una importància cabdal i que contribueixen a la cohesió cultural i soc"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "5991f62ccf40",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-12-01",
+   "titulo": "Assajar museus (im)possibles per a patrimonis colonials al Palau Güell",
+   "url": "https://www.diba.cat/web/cultura/-/assajar-museus-im-possibles-per-a-patrimonis-colonials-al-palau-g%C3%BCell",
+   "hora": "17:00",
+   "lugar": "Palau Güell. C/ Nou de la Rambla, 3-5. Barcelona, Barcelona",
+   "notas": [
+    "Sostenibilitat social",
+    "El Palau Güell acull l'acte Assajar Museus (Im)possibles per a patrimonis colonials, a càrrec de Lucía Piedra.Amb la participació de representants de les comunitats de Filipines, LATAM, Guinea Equatorial i Món Swana (enfocament àrab).L'acte inclou una taula rodona de discussió, q"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "ffe7e4b915fc",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-12-01",
+   "titulo": "Club de lectura amb la Delegació de la Generalitat a Portugal",
+   "url": "https://do.diba.cat/api/dataset/agendageneral_ca/format/json",
+   "hora": "19:00",
+   "lugar": "Online",
+   "notas": [
+    "Sostenibilitat social"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "280809ac516f",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-12-01",
+   "titulo": "V Jornada Municipis actius UE",
+   "url": "https://do.diba.cat/api/dataset/agendageneral_ca/format/json",
+   "hora": null,
+   "lugar": "Castell de Castelldefels (Plaça del Castell, 1, 08860 Castelldefels, Barcelona)",
+   "notas": [
+    "Sostenibilitat social"
+   ],
+   "temas": [
+    "agua"
+   ],
+   "personas_vigiladas": [],
+   "relevante": true,
+   "id": "346b617a046c",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-12-02",
+   "titulo": "3r Fòrum de les Agendes Urbanes Locals",
+   "url": "https://www.diba.cat/web/el-diari/-/tercer-forum-agendes-urbanes-locals-agenda",
+   "hora": "09:30",
+   "lugar": "Pavelló Migjorn del Recinte Mundet de Barcelona, Barcelona",
+   "notas": [
+    "Sostenibilitat social",
+    "El fòrum serà un espai per compartir aprenentatges, reconèixer avenços, identificar allò que funciona i allò que cal reforçar, i sobretot per projectar una visió comuna: unes agendes urbanes madures, útils, integrades i capaces de transformar el territori amb ambició i responsabi"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "0e394c9f0f73",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-12-02",
+   "titulo": "Els centres de recursos. Un nou repte en la gestió municipal",
+   "url": "https://www.diba.cat/web/xarxasost/-/centres-recursos-gestio-residus",
+   "hora": "10:00",
+   "lugar": "En línia i presencial",
+   "notas": [
+    "Sostenibilitat social",
+    "Donem inici a un nou cicle de sessions d'intercanvi en el marc de l'Espai de treball de prevenció i gestió de residus. Es tracta de 3 sessions que es repartiran segons el següent calendari.2 de desembre de 2026, en línia, de 10 a 12h.15 de desembre de 2026, en línia, de 10 a 12h."
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "25f7f793ec0a",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-12-02",
+   "titulo": "Al teu costat, fem un mon millor [Santpedor]",
+   "url": "https://www.diba.cat/web/teleassistencia/-/al-teu-costat-fem-un-mon-millor-santpedor-",
+   "hora": "11:00",
+   "lugar": "Cal Clarassó Carrer Doctor Antoni Vila, 35, Santpedor",
+   "notas": [
+    "Sostenibilitat social",
+    "Des del Servei Local de Teleassistència, dins del Programa de prevenció de riscos i foment de l’envelliment actiu i saludable, es realitzen campanyes preventives amb l’objectiu de fomentar l'autonomia personal i afavorir l'empoderament de les persones grans, així com incorporar h"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "45955f80c8fb",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-12-03",
+   "titulo": "Arrencada del Gestor d'expedients al Consell Comarcal del Berguedà",
+   "url": "https://do.diba.cat/api/dataset/agendageneral_ca/format/json",
+   "hora": "09:00",
+   "lugar": null,
+   "notas": [
+    "Sostenibilitat social"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "0fa58b72fb5a",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-12-03",
+   "titulo": "Presentació de la guia 'Mesures d’accessibilitat econòmica per a un foraescola amb equitat'",
+   "url": "https://www.diba.cat/web/el-diari/-/presenta-guia-mesures-accessibilitat-foraescola-agenda",
+   "hora": "10:00",
+   "lugar": "Edifici Llacuna (c/ de Badajoz 49-51) de Barcelona, Barcelona",
+   "notas": [
+    "Sostenibilitat social",
+    "Programa: 9.30 Acollida i acreditacions10.00 Obertura institucional : Joan Josep Galiano i Peralta, diputat d’Educació de la Diputació de Barcelona i Maria Truñó i Salvadó, directora de l’Aliança Educació 360 (PRESENCIAL I EN LÍNIA)10.20 Les barreres econòmiques: què sabem i què "
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "5275007c1b99",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-12-03",
+   "titulo": "Presentació de l'obra 'La segona línia', Premi Àngel Guimerà 2026",
+   "url": "https://www.diba.cat/web/el-diari/-/presentacio-obra-segona-linia-premi-angel-guimera-2026-agenda",
+   "hora": "18:00",
+   "lugar": "Auditori de l'Institut del Teatre (Plaça Margarida Xirgu, s/n) de Barcelona, Barcelona",
+   "notas": [
+    "Sostenibilitat social",
+    "L'acte comptarà amb la participació del diputat de Cultura de la Diputació de Barcelona, Pau Gonzàlez Val, i de l'autor de l'obra premiada, Josep R. Cerdà, que conversarà amb la dramaturga Marta Buchaca sobre el procés de creació, la dramatúrgia contemporània i l'obra guardonada."
+   ],
+   "temas": [
+    "agua"
+   ],
+   "personas_vigiladas": [],
+   "relevante": true,
+   "id": "91ca11152e33",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-12-03",
+   "titulo": "Presentació de «La segona línia», Premi Àngel Guimerà 2026",
+   "url": "https://www.diba.cat/web/cultura/-/presentaci%C3%B3-de-la-segona-l%C3%ADnia-premi-%C3%A0ngel-guimer%C3%A0-2026-2",
+   "hora": "18:00",
+   "lugar": "Auditori de l'Institut del Teatre. Plaça Margarida Xirgu, s/n. 08004 Barcelona, Barcelona",
+   "notas": [
+    "Sostenibilitat social",
+    "Presentació de 'La segona línia' de Josep R. Cerdà, obra guanyadora de la primera edició del Premi Àngel Guimerà de Literatura Dramàtica de la Diputació de Barcelona.L'acte comptarà amb la participació del president delegat de l'Àrea de Cultura, Pau Gonzàlez Val, i de l'autor de "
+   ],
+   "temas": [
+    "agua"
+   ],
+   "personas_vigiladas": [],
+   "relevante": true,
+   "id": "2d213d6c2506",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-12-03",
+   "titulo": "Acte de lliurament dels II Premis Dones d'Esport",
+   "url": "https://www.diba.cat/web/el-diari/-/lliurament-segons-premis-dones-esport-agenda",
+   "hora": "18:45",
+   "lugar": "Casino Aliança del Poblenou (Rambla del Poblenou, 42) de Barcelona, Barcelona",
+   "notas": [
+    "Sostenibilitat social",
+    "Aquests premis compten amb una dotació global de 46.000 euros i pretenen esdevenir un referent anual per a la promoció de la igualtat de gènere en l’esport.Amb aquests guardons, la Diputació reforça el seu compromís històric amb l’esport i amb la igualtat, destacant trajectòries,"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "169a7be2469c",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-12-04",
+   "titulo": "Jornada. Ciència pel coneixement dels mosquits",
+   "url": "https://do.diba.cat/api/dataset/agendageneral_ca/format/json",
+   "hora": "09:00",
+   "lugar": "Can Comas. Camí del Sorral, s/n, 08820 El Prat de Llobregat",
+   "notas": [
+    "Sostenibilitat social"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "3f541a2acb2d",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-12-04",
+   "titulo": "Jornada sobre la Gestió d'Emergències Municipals i Protecció Civil",
+   "url": "https://www.diba.cat/web/el-diari/-/jornada-gestio-emergencies-proteccio-civil-agenda",
+   "hora": "09:30",
+   "lugar": "Espai Francesca Bonnemaison (c/ de Sant Pere Més Baix, 7) de Barcelona, Barcelona",
+   "notas": [
+    "Sostenibilitat social",
+    "Els representants de l’Ajuntament, dels diferents cossos operatius d’emergències, seguretat i protecció civil, i representants de l‘ACA exposaran la intervenció realitzada, la post emergència i la tornada a la normalitat en les platges i les actuacions realitzades en el pantà de "
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "356e2070f7c9",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-12-04",
+   "titulo": "Gestió d’Emergències Municipals i Protecció Civil: Espai d’experiències",
+   "url": "https://www.diba.cat/web/hua/-/gestio-emergencies-municipals-proteccio-civil-espai-experiencies",
+   "hora": "09:30",
+   "lugar": "Espai Francesca Bonnemaison: C/ de Sant Pere Més Baix, 7, Barcelona., Barcelona",
+   "notas": [
+    "Sostenibilitat social",
+    "Presentació i Objectiu"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "ef927a894511",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-12-04",
+   "titulo": "Quan generar ja no és suficient: optimització de la fotovoltaica municipal",
+   "url": "https://www.diba.cat/web/xarxasost/-/quan-generar-ja-no-%C3%A9s-suficient-optimitzaci%C3%B3-de-la-fotovoltaica-municipal",
+   "hora": "10:00",
+   "lugar": "Per confirmar",
+   "notas": [
+    "Sostenibilitat social",
+    "Darrera acció de l'any del Grup de Treball de Transició energètica local i justa. Serà una trobada presencial per compartir i debatre sobre la manera d'optimitar l'energia fotovoltaica generada en l'àmbit municipal, on primer parlarem de 'Com treure més partit de la fotovoltaica "
+   ],
+   "temas": [
+    "energia"
+   ],
+   "personas_vigiladas": [],
+   "relevante": true,
+   "id": "c7305b00b8ef",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-12-09",
+   "titulo": "Servei Local de Teleassistència 2027-2031: elements clau del nou model de prestació",
+   "url": "https://www.diba.cat/web/benestar/-/servei-local-de-teleassist%C3%A8ncia-2027-2031-elements-clau-del-nou-model-de-prestaci%C3%B3",
+   "hora": "09:30",
+   "lugar": "Aula Magna de la Casa de Convalescència Recinte de l'Hospital de la Santa Creu i Sant Pau, Carrer de Sant Antoni Maria Claret, 171, Barcelona., Barcelona",
+   "notas": [
+    "Sostenibilitat social",
+    "La Diputació de Barcelona organitza una sessió tècnica adreçada als i les professionals i responsables dels ens locals vinculats a la gestió del Servei Local de Teleassistència per presentar el model de prestació del servei que entrarà en vigor l'1 de gener de 2027.La trobada, qu"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "1f941450c288",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-12-09",
+   "titulo": "Presentació dels elements clau del nou model de prestació del programa de teleassistència",
+   "url": "https://www.diba.cat/web/el-diari/-/presentacio-condicions-programa-teleassistencia-agenda",
+   "hora": null,
+   "lugar": "Aula Magna de la Casa Convalescència, al recinte de l'Hospital de la Santa Creu i Sant Pau (c/ de Sant Antoni Maria Claret,171) de Barcelona, Barcelona",
+   "notas": [
+    "Sostenibilitat social",
+    "La trobada servirà per presentar el model de prestació del servei i d’atenció a les persones usuàries, que entrarà en vigor l’1 de gener de 2027, així com les condicions de gestió i adhesió al programa per al període 2027-2031."
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "472203cb1be1",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-12-09",
+   "titulo": "Pujalt",
+   "url": "https://do.diba.cat/api/dataset/agendageneral_ca/format/json",
+   "hora": null,
+   "lugar": "Local de Pujalt Cami de la Bassa, 5, Pujalt",
+   "notas": [
+    "Sostenibilitat social"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "e4504c9e7cf8",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-12-10",
+   "titulo": "Seminari tècnic en línia Innovar i diversificar el mix hídric",
+   "url": "https://www.diba.cat/web/xarxasost/-/seminari-linia-mix-hidric",
+   "hora": "10:00",
+   "lugar": "En línia (Plataforma Teams)",
+   "notas": [
+    "Sostenibilitat social",
+    "Aquest seminari forma part del cicle d’activitats 2026 del Grup de treball de Gestió municipal de l’aigua de la Xarxa de Ciutats i Pobles cap a la Sostenibilitat, que està coorganitzat per la Diputació de Barcelona i la XCPS, amb la col·laboració de l’Agència Catalana de l’Aigua."
+   ],
+   "temas": [
+    "agua"
+   ],
+   "personas_vigiladas": [],
+   "relevante": true,
+   "id": "22bf86aaeaf9",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-12-10",
+   "titulo": "Consells pràctics que ens fan la vida més fàcil, mobilitat segura i prevenció de caigudes [Ripollet]",
+   "url": "https://www.diba.cat/web/teleassistencia/-/consells-pr%C3%A0ctics-que-ens-fan-la-vida-m%C3%A9s-f%C3%A0cil-mobilitat-segura-i-prevenci%C3%B3-de-caigudes-ripollet-1",
+   "hora": "10:30",
+   "lugar": "Centre Cultural de Ripollet Rambla de Sant Jordi, 2, 4, Ripollet",
+   "notas": [
+    "Sostenibilitat social",
+    "Des del Servei Local de Teleassistència, dins del Programa de prevenció de riscos i foment de l’envelliment actiu i saludable, es realitzen campanyes preventives amb l’objectiu de fomentar l'autonomia personal i afavorir l'empoderament de les persones grans, així com incorporar h"
+   ],
+   "temas": [
+    "agua"
+   ],
+   "personas_vigiladas": [],
+   "relevante": true,
+   "id": "7cf1135b328c",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-12-10",
+   "titulo": "Cervelló: taller per a famílies d’habilitats educatives en el bon ús de les pantalles",
+   "url": "https://www.diba.cat/web/spott/-/cervell%C3%B3-taller-per-a-fam%C3%ADlies-d-habilitats-educatives-en-el-bon-%C3%BAs-de-les-pantalles",
+   "hora": "17:00",
+   "lugar": "SIS LA NAU. C/ Germandat de Sant Sebastià 16, Cervelló",
+   "notas": [
+    "Sostenibilitat social",
+    "Espai de reflexió i acompanyament on les famílies obtindran eines i recursos per prevenir i gestionar les situacions problemàtiques derivades de l’ús de les pantalles i proporcionarà pautes bàsiques per aprendre a fer-ne un ús responsable a l'àmbit familiar. Per les inscripcions "
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "66f9a74ca12d",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-12-11",
+   "titulo": "Polítiques de lleure educatiu i acció sociocultural des de les evidències científiques: comunitat i diversitat",
+   "url": "https://www.diba.cat/web/el-diari/-/jornada-politiques-lleure-fundacio-pere-tarres-agenda",
+   "hora": "10:00",
+   "lugar": "Aula Magna de la Fundació Pere Tarrés (c/ de Santaló,37) de Barcelona, Barcelona",
+   "notas": [
+    "Sostenibilitat social",
+    "Les guies han estat concebudes com un itinerari complementari que combina, per una part, marc conceptual sobre el lleure educatiu i acció sociocultural i la seva incidència en la millora i transformació de les comunitats i, per l'altre, estratègies metodològiques de caràcter pràc"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "903ee94486e4",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-12-14",
+   "titulo": "XVI Jornada Seguretat Alimentària i Administració Local: “La seguretat alimentària en els mercats no sedentaris”",
+   "url": "https://www.diba.cat/web/el-diari/-/jornada-seguretat-alimentaria-mercats-no-sedentaris-agenda",
+   "hora": "09:00",
+   "lugar": "Espai Francesca Bonnemaison (c/ de Sant Pere Més Baix, 7) de Barcelona, Barcelona",
+   "notas": [
+    "Sostenibilitat social",
+    "La trobada posarà un èmfasi especial en la venda directa i els productes de circuit curt, amb l’objectiu de garantir que el consumidor rebi un producte segur i una informació veraç sobre l’origen i la qualitat dels aliments que troba a les parades d’aquest tipus de mercats.Podeu "
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "cdf3bfaba03d",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-12-14",
+   "titulo": "Jornada 40 anys de planificació estratègica urbana i territorial",
+   "url": "https://www.diba.cat/web/el-diari/-/jornada-40-anys-planifica-estrategia-urbana-territorial-agenda",
+   "hora": "09:30",
+   "lugar": "Museu Marítim de Barcelona (Av. de les Drassanes, s/n) de Barcelona, Barcelona",
+   "notas": [
+    "Sostenibilitat social",
+    "Trets destacats:Presentació de la publicació “Manual de planificació estratègica urbana i territorial. Del balanç 1988-2025 a l'acció futura”, elaborada per la Diputació de Barcelona amb la voluntat de sistematitzar aprenentatges, identificar els principals factors d’èxit i barre"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "4062da263ce4",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-12-14",
+   "titulo": "Mantenir una ment activa [Viladecavalls]",
+   "url": "https://www.diba.cat/web/teleassistencia/-/mantenir-una-ment-activa-viladecavalls-",
+   "hora": "10:30",
+   "lugar": "Racó de l'Experiència. C/ Antoni Soler i Hospital nº 5, Viladecavalls",
+   "notas": [
+    "Sostenibilitat social",
+    "Des del Servei Local de Teleassistència, dins del Programa de prevenció de riscos i foment de l’envelliment actiu i saludable, es realitzen campanyes preventives amb l’objectiu de fomentar l'autonomia personal i afavorir l'empoderament de les persones grans, així com incorporar h"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "5829e686b5f8",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-12-14",
+   "titulo": "Jornada de Polítiques de proximitat i cohesió social als barris",
+   "url": "https://www.diba.cat/web/cicle-vida-comunitat/-/jornada-de-politiques-de-proximitat-i-cohesio-social-als-barris",
+   "hora": null,
+   "lugar": "Universitat Pompeu Fabra – Campus del Poblenou",
+   "notas": [
+    "Sostenibilitat social",
+    "PROGRAMA INSCRIPCIONS"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "fb35dcda5008",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-12-15",
+   "titulo": "Jornada de partenariats amb agents del territori per participar en projectes europeus en l'àmbit de l'esport",
+   "url": "https://www.diba.cat/web/el-diari/-/jornada-partenariats-projectes-europeus-esports-agenda",
+   "hora": "09:00",
+   "lugar": "La CIBA (Passeig de Llorenç Serra, 64) de Santa Coloma de Gramenet, Santa Coloma de Gramenet",
+   "notas": [
+    "Sostenibilitat social",
+    "Enguany, se celebra la tercera edició, dedicada als programes europeus en l’àmbit de l’esport.La ponència marc anirà a càrrec de Matteo Zacchett, que farà una presentació de les principals prioritats de la Comissió Europea en l'àmbit de l'esport. (Comissió Europea. Direcció Gener"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "cb838532ea45",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-12-15",
+   "titulo": "AG_desembre01_Parlem de",
+   "url": "https://www.diba.cat/web/participacio/-/ag_desembre01_parlem-de",
+   "hora": "10:00",
+   "lugar": "Can Serra, vestíbul planta baixa, Barcelona",
+   "notas": [
+    "Sostenibilitat social",
+    "Presentació de la nova publicació de l'OTPGL."
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "2d81996c4b72",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-12-15",
+   "titulo": "Presentació de la 'Guia per a la gestió participativa d'equipaments i espais públics'",
+   "url": "https://do.diba.cat/api/dataset/agendageneral_ca/format/json",
+   "hora": "10:00",
+   "lugar": "Espai Ildefons Cerdà. Can Serra, seu central de la Diputació de Barcelona (Rambla de Catalunya, 126) de Barcelona, Barcelona",
+   "notas": [
+    "Sostenibilitat social"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "b36f6fbdeb43",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-12-16",
+   "titulo": "Conversa 'Drets, diversitat i inclusió: cap a una societat per a totes les velleses'",
+   "url": "https://www.diba.cat/web/el-diari/-/conversa-drets-diversitat-i-inclusi%C3%B3-cap-a-una-societat-per-a-totes-les-velleses-",
+   "hora": "10:30",
+   "lugar": "Centre Cultural El Casino de Manresa (Passeig de Pere III, 27), Manresa",
+   "notas": [
+    "Sostenibilitat social",
+    "L'objectiu és incorporar una mirada interseccional sobre l’envelliment, analitzant com garantir la igualtat d’oportunitats i la inclusió en contextos diversos, tant etnoculturals com urbans i rurals, i tenint en compte la diversitat d’identitats, orientacions sexo-afectives i exp"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "10a99b6ad8ad",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-12-17",
+   "titulo": "Ple ordinari de la Diputació de Barcelona de desembre de 2026",
+   "url": "https://do.diba.cat/api/dataset/agendageneral_ca/format/json",
+   "hora": "12:00",
+   "lugar": "Sala de Plens de Can Serra, seu central de la Diputació de Barcelona, (Rambla de Catalunya, 126) de Barcelona, Barcelona",
+   "notas": [
+    "Sostenibilitat social"
+   ],
+   "temas": [
+    "plenos"
+   ],
+   "personas_vigiladas": [],
+   "relevante": true,
+   "id": "5f9c8552a61d",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2027-01-19",
+   "titulo": "34è Fòrum Local d'Educació. Mirem al futur: reptes compartits, respostes col·lectives",
+   "url": "https://www.diba.cat/web/educacio/-/mirem-al-futur-reptes-compartits-respostes-col%C2%B7lectives",
+   "hora": "09:00",
+   "lugar": "Auditori Campus Poblenou UPF, Barcelona",
+   "notas": [
+    "Sostenibilitat social",
+    "El 34è Fòrum Local d'Educació serà un espai per identificar els principals reptes que marcaran el proper cicle municipal."
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "c8f1974bc45a",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2027-01-21",
+   "titulo": "Arrencada SeTDIBA G27: Ajuntament de Capolat, Espunyola, Montclar i Fígols",
+   "url": "https://do.diba.cat/api/dataset/agendageneral_ca/format/json",
+   "hora": "09:00",
+   "lugar": null,
+   "notas": [
+    "Sostenibilitat social"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "70ffa89f71d6",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2027-01-27",
+   "titulo": "La Diputació de Barcelona participa en la IAton 2027, IA en producció al sector públic",
+   "url": "https://www.diba.cat/web/innovacio-digital/-/iaton-2027",
+   "hora": null,
+   "lugar": "Antiga Fàbrica Estrella Damm de Barcelona",
+   "notas": [
+    "Sostenibilitat social",
+    "📅 Data: 27 de gener de 2027📍Lloc: a l'Antiga Fàbrica Estrella Damm de Barcelona.👉 Més informació"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "17dfb6367b7e",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2027-01-28",
+   "titulo": "Arrencada SeTDIBA a l'Ajuntament de la Palma de Cervelló",
+   "url": "https://do.diba.cat/api/dataset/agendageneral_ca/format/json",
+   "hora": "08:00",
+   "lugar": null,
+   "notas": [
+    "Sostenibilitat social"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "f611514a1e22",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2027-01-28",
+   "titulo": "Arrencada del Gestor d'expedients a l'Ajuntament de Sant Boi de Lluçanès",
+   "url": "https://do.diba.cat/api/dataset/agendageneral_ca/format/json",
+   "hora": "09:00",
+   "lugar": null,
+   "notas": [
+    "Sostenibilitat social"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "2bbd57228af5",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2027-01-28",
+   "titulo": "Arrencada del Gestor d'expedients a l'Ajuntament de Sant Agustí de Lluçanès",
+   "url": "https://do.diba.cat/api/dataset/agendageneral_ca/format/json",
+   "hora": "09:00",
+   "lugar": null,
+   "notas": [
+    "Sostenibilitat social"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "91b7f1d382a3",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2027-01-28",
+   "titulo": "Arrencada del Gestor d'expedients a l'Ajuntament d'Alpens",
+   "url": "https://do.diba.cat/api/dataset/agendageneral_ca/format/json",
+   "hora": "09:00",
+   "lugar": null,
+   "notas": [
+    "Sostenibilitat social"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "d9dfeb8f2f1c",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2027-01-29",
+   "titulo": "Consells pràctics que ens fan la vida més fàcil, mobilitat segura i prevenció de caigudes [Manresa]",
+   "url": "https://www.diba.cat/web/teleassistencia/-/consells-pr%C3%A0ctics-que-ens-fan-la-vida-m%C3%A9s-f%C3%A0cil-mobilitat-segura-i-prevenci%C3%B3-de-caigudes-manresa-1",
+   "hora": null,
+   "lugar": "Sala de reunions el Casino Pg. Pere III, 27, Manresa, Manresa",
+   "notas": [
+    "Sostenibilitat social",
+    "Des del Servei Local de Teleassistència, dins del Programa de prevenció de riscos i foment de l’envelliment actiu i saludable, es realitzen campanyes preventives amb l’objectiu de fomentar l'autonomia personal i afavorir l'empoderament de les persones grans, així com incorporar h"
+   ],
+   "temas": [
+    "agua"
+   ],
+   "personas_vigiladas": [],
+   "relevante": true,
+   "id": "511dd75d308b",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2027-02-04",
+   "titulo": "Arrencada SeTDIBA a l'Ajuntament de Castellnou de Bages",
+   "url": "https://do.diba.cat/api/dataset/agendageneral_ca/format/json",
+   "hora": "08:00",
+   "lugar": null,
+   "notas": [
+    "Sostenibilitat social"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "a20e537ed776",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2027-02-09",
+   "titulo": "L'ODS 18: Cultura i drets lingüístics. En què consisteix i com poder treballar-lo",
+   "url": "https://www.diba.cat/web/cerc/-/l-ods-18-cultura-i-drets-ling%C3%BC%C3%ADstics.-en-qu%C3%A8-consisteix-i-com-poder-treballar-lo",
+   "hora": "10:00",
+   "lugar": "Videoformació (Plataforma ZOOM)",
+   "notas": [
+    "Sostenibilitat social",
+    "L’Agenda 2030 va néixer amb un buit estructural: la manca d’un objectiu explícit dedicat a la cultura. L’Organització de les Nacions Unides va posar en marxa aquesta Agenda l’any 2015, amb 17 objectius (els coneguts com a ODS). En aquest context la Diputació de Barcelona ha propo"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "c778446cfdac",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2027-02-11",
+   "titulo": "Arrencada SeTDIBA G31: Ajuntament de Gisclareny, La Quar i Olvan",
+   "url": "https://do.diba.cat/api/dataset/agendageneral_ca/format/json",
+   "hora": "09:00",
+   "lugar": null,
+   "notas": [
+    "Sostenibilitat social"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "da33307454e8",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2027-02-15",
+   "titulo": "Activitat 20270215",
+   "url": "https://do.diba.cat/api/dataset/agendageneral_ca/format/json",
+   "hora": null,
+   "lugar": null,
+   "notas": [
+    "Sostenibilitat social"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "684ddf19933b",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2027-02-19",
+   "titulo": "1ª Sessió Curs 'Transformació tecnològica i addiccions: noves oportunitats per a la prevenció i el tractament a l'era digital'",
+   "url": "https://www.diba.cat/web/spott/-/1%C2%AA-sessi%C3%B3-curs-transformaci%C3%B3-tecnol%C3%B2gica-i-addiccions-noves-oportunitats-per-a-la-prevenci%C3%B3-i-el-tractament-a-l-era-digital-",
+   "hora": "09:00",
+   "lugar": "Edifici Serradell, Recinte Mundet. Passeig de la Vall Hebron, 171. 08035 Barcelona, Barcelona",
+   "notas": [
+    "Sostenibilitat social"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "52885beeee68",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2027-02-19",
+   "titulo": "Planifiquem la salut local amb evidència",
+   "url": "https://do.diba.cat/api/dataset/agendageneral_ca/format/json",
+   "hora": "10:00",
+   "lugar": "En línia",
+   "notas": [
+    "Sostenibilitat social"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "b1b8c2d4f23b",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2027-02-23",
+   "titulo": "Espai claustre amb Ingrid Guardiola. La gestió cultural des del nucli a la perifèria. Discursos públics en temps d'hiperconnectivitat",
+   "url": "https://www.diba.cat/web/cerc/-/espai-claustre-amb-ingrid-guardiola.-la-gesti%C3%B3-cultural-des-del-nucli-a-la-perif%C3%A8ria.-discursos-p%C3%BAblics-en-temps-d-hiperconnectivitat",
+   "hora": "10:00",
+   "lugar": null,
+   "notas": [
+    "Sostenibilitat social",
+    "El concepte de cultura necessita treballar-se no només en funció de les centralitats, sinó sobretot des de tot allò que es considera marginal: territoris, discursos, propostes artístiques o formes de vida. Allò que en un moment històric concret forma part dels marges alimenta i n"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "817f3d215458",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2027-02-24",
+   "titulo": "1ª Sessió Curs 'Adolescència i violència al ciberespai: un fenomen creixent. Pautes de prevenció i intervenció",
+   "url": "https://do.diba.cat/api/dataset/agendageneral_ca/format/json",
+   "hora": "11:00",
+   "lugar": "Videoformació",
+   "notas": [
+    "Sostenibilitat social"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "0d4900ef6ac6",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2027-02-26",
+   "titulo": "2ª Sessió Curs 'Transformació tecnològica i addiccions: noves oportunitats per a la prevenció i el tractament a l'era digital' (Còpia)",
+   "url": "https://do.diba.cat/api/dataset/agendageneral_ca/format/json",
+   "hora": "09:00",
+   "lugar": "Edifici Serradell, Recinte Mundet. Passeig de la Vall Hebron, 171. 08035 Barcelona, Barcelona",
+   "notas": [
+    "Sostenibilitat social"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "4020eed413ab",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2027-02-26",
+   "titulo": "Gestió de les emocions i aprèn a relaxar-te [Manresa]",
+   "url": "https://www.diba.cat/web/teleassistencia/-/gesti%C3%B3-de-les-emocions-i-apr%C3%A8n-a-relaxar-te-manresa-1",
+   "hora": "10:30",
+   "lugar": "Sala de reunions el Casino Pg. Pere III, 27, Manresa, Manresa",
+   "notas": [
+    "Sostenibilitat social",
+    "Des del Servei Local de Teleassistència, dins del Programa de prevenció de riscos i foment de l’envelliment actiu i saludable, es realitzen campanyes preventives amb l’objectiu de fomentar l'autonomia personal i afavorir l'empoderament de les persones grans, així com incorporar h"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "facf19fa896f",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2027-03-02",
+   "titulo": "De la reflexió a l'acció: Laboratori col·laboratiu per al disseny de projectes culturals des de la perspectiva de l'equitat i els drets culturals",
+   "url": "https://www.diba.cat/web/cerc/-/de-la-reflexi%C3%B3-a-l-acci%C3%B3-laboratori-col%C2%B7laboratiu-per-al-disseny-de-projectes-culturals-des-de-la-perspectiva-de-l-equitat-i-els-drets-culturals",
+   "hora": "10:00",
+   "lugar": "Pati Manning (CERC) - c. Montalegre, 7 / Barcelona, Barcelona",
+   "notas": [
+    "Sostenibilitat social",
+    "Aquest taller dona continuïtat a la formació La cultura inclusiva i les seves implicacions en la programació, impulsada per la Diputació de Barcelona, amb la voluntat d'acompanyar les persones participants en el trasllat dels principis de la cultura inclusiva, l'equitat i els dre"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "de91fa87b118",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2027-03-03",
+   "titulo": "2ª Sessió Curs 'Adolescència i violència al ciberespai: un fenomen creixent. Pautes de prevenció i intervenció",
+   "url": "https://do.diba.cat/api/dataset/agendageneral_ca/format/json",
+   "hora": "11:00",
+   "lugar": "Videoformació",
+   "notas": [
+    "Sostenibilitat social"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "c1100dbed0e5",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2027-03-09",
+   "titulo": "La contractació en la cultura municipal. Què hem de saber-ne i com hem de gestionar-la (nivell avançat) - 1a edició",
+   "url": "https://www.diba.cat/web/cerc/-/la-contractaci%C3%B3-en-la-cultura-municipal.-qu%C3%A8-hem-de-saber-ne-i-com-hem-de-gestionar-la-nivell-avan%C3%A7at-1a-edici%C3%B3",
+   "hora": "10:00",
+   "lugar": "Pati Manning (CERC) - c. Montalegre, 7 / Barcelona, Barcelona",
+   "notas": [
+    "Sostenibilitat social",
+    "Aquest curs és el nivell avançat del que s’ha fet anteriorment sobre aquest tema, a través de diverses edicions. Està adreçat a tècnics i tècniques de cultura que necessiten tenir un seguit de nocions econòmiques a l’hora de tirar endavant la seva feina De manera inevitable els p"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "eb1e06819f9d",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2027-03-10",
+   "titulo": "1ª Sessió Curs 'Patologia dual en infants i adolescents: pautes per comprendre i acompanyar en l'àmbit de les addiccions'",
+   "url": "https://do.diba.cat/api/dataset/agendageneral_ca/format/json",
+   "hora": "09:00",
+   "lugar": "Edifici Serradell, Recinte Mundet. Passeig de la Vall Hebron, 171. 08035 Barcelona, Barcelona",
+   "notas": [
+    "Sostenibilitat social"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "9365a42f5f96",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2027-03-10",
+   "titulo": "3ª Sessió Curs 'Adolescència i violència al ciberespai: un fenomen creixent. Pautes de prevenció i intervenció",
+   "url": "https://do.diba.cat/api/dataset/agendageneral_ca/format/json",
+   "hora": "11:00",
+   "lugar": "Videoformació",
+   "notas": [
+    "Sostenibilitat social"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "4e9595950ab6",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2027-03-16",
+   "titulo": "La contractació en la cultura municipal. Què hem de saber-ne i com hem de gestionar-la (nivell avançat) - 2a edició",
+   "url": "https://www.diba.cat/web/cerc/-/la-contractaci%C3%B3-en-la-cultura-municipal.-qu%C3%A8-hem-de-saber-ne-i-com-hem-de-gestionar-la-nivell-avan%C3%A7at-2a-edici%C3%B3",
+   "hora": "10:00",
+   "lugar": "Pati Manning (CERC) - c. Montalegre, 7 / Barcelona, Barcelona",
+   "notas": [
+    "Sostenibilitat social",
+    "Aquest curs és el nivell avançat del que s’ha fet anteriorment sobre aquest tema, a través de diverses edicions. Està adreçat a tècnics i tècniques de cultura que necessiten tenir un seguit de nocions econòmiques a l’hora de tirar endavant la seva feina De manera inevitable els p"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "6a0d319242ca",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2027-03-17",
+   "titulo": "2ª Sessió Curs 'Patologia dual en infants i adolescents: pautes per comprendre i acompanyar en l'àmbit de les addiccions'",
+   "url": "https://do.diba.cat/api/dataset/agendageneral_ca/format/json",
+   "hora": "09:00",
+   "lugar": "Edifici Serradell, Recinte Mundet. Passeig de la Vall Hebron, 171. 08035 Barcelona, Barcelona",
+   "notas": [
+    "Sostenibilitat social"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "bc930f285a03",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2027-03-17",
+   "titulo": "4ª Sessió Curs 'Adolescència i violència al ciberespai: un fenomen creixent. Pautes de prevenció i intervenció",
+   "url": "https://do.diba.cat/api/dataset/agendageneral_ca/format/json",
+   "hora": "09:30",
+   "lugar": "Edifici Serradell, Recinte Mundet. Passeig de la Vall Hebron, 171. 08035 Barcelona, Barcelona",
+   "notas": [
+    "Sostenibilitat social"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "092d3d511537",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2027-03-24",
+   "titulo": "3ª Sessió Curs 'Patologia dual en infants i adolescents: pautes per comprendre i acompanyar en l'àmbit de les addiccions'",
+   "url": "https://do.diba.cat/api/dataset/agendageneral_ca/format/json",
+   "hora": "09:00",
+   "lugar": "Edifici Serradell, Recinte Mundet. Passeig de la Vall Hebron, 171. 08035 Barcelona, Barcelona",
+   "notas": [
+    "Sostenibilitat social"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "f53212390841",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-25T12:37:35+00:00",
+   "visto_ultima_vez": "2026-11-25T12:37:35+00:00"
   }
  ]
 }
