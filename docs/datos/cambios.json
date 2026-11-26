@@ -1,6 +1,26 @@
 [
  {
   "tipo": "alta",
+  "momento": "2026-11-26T09:43:20+00:00",
+  "id": "38605ae0f71d",
+  "fuente": "moncloa",
+  "fecha": "2026-11-26",
+  "hora": "11:00",
+  "persona": "Isabel Rodríguez",
+  "titulo": "Es entrevistada en 'COPE Ciudad Real'."
+ },
+ {
+  "tipo": "baja",
+  "momento": "2026-11-26T09:43:20+00:00",
+  "id": "001fc5e7901e",
+  "fuente": "moncloa",
+  "fecha": "2026-11-26",
+  "hora": "11:00",
+  "persona": "Isabel Rodríguez",
+  "titulo": "Es entrevista en 'COPE Ciudad Real'."
+ },
+ {
+  "tipo": "alta",
   "momento": "2026-11-26T05:56:59+00:00",
   "id": "e70188e3353a",
   "fuente": "generalitat",
@@ -4986,25 +5006,5 @@
   "hora": "12:15",
   "persona": "Alejandro Fernández",
   "titulo": "El presidente del Partido Popular de Cataluña, Alejandro Fernández, atenderá a los medios de comunicación en la plaza del Ayuntamiento de Esplugues de Llobregat."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "3eee7489fc8a",
-  "fuente": "pp",
-  "fecha": "2026-11-24",
-  "hora": "12:30",
-  "persona": "",
-  "titulo": "Alicia García y Carlos García Carbayo intervienen en un acto con mujeres en el que también intervendrán mujeres que representan al sector primario y al tercer sector y en el que estarán presentes los candidatos del PP al Congreso y al Senado por Salamanca."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "d02adcd232d0",
-  "fuente": "pp",
-  "fecha": "2026-11-24",
-  "hora": "12:30",
-  "persona": "",
-  "titulo": "Paco Núñez mantiene un encuentro con empresarios del calzado de la localidad."
  }
 ]
