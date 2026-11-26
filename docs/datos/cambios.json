@@ -1,6 +1,496 @@
 [
  {
   "tipo": "alta",
+  "momento": "2026-11-26T21:50:20+00:00",
+  "id": "2013660222ab",
+  "fuente": "moncloa",
+  "fecha": "2026-11-27",
+  "hora": "08:30",
+  "persona": "Pedro Sánchez",
+  "titulo": "Es entrevistado en el programa 'Hoy por Hoy', de Cadena SER."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T21:50:20+00:00",
+  "id": "aaac4bd1b079",
+  "fuente": "moncloa",
+  "fecha": "2026-11-27",
+  "hora": "12:00",
+  "persona": "Carlos Cuerpo",
+  "titulo": "Participa en la reunión de seguimiento técnico del buque naufragado, en Capitanía Marítima, en València."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T21:50:20+00:00",
+  "id": "bcadef29e9e5",
+  "fuente": "moncloa",
+  "fecha": "2026-11-27",
+  "hora": "10:00",
+  "persona": "Sara Aagesen",
+  "titulo": "Se reúne con operadores de los sectores gasista y petrolero, en la sede del Ministerio."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T21:50:20+00:00",
+  "id": "97a12a480eb0",
+  "fuente": "moncloa",
+  "fecha": "2026-11-27",
+  "hora": "15:00",
+  "persona": "Félix Bolaños",
+  "titulo": "Es entrevistado en el programa 'En línea', de La Séptima."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T21:50:20+00:00",
+  "id": "23c7a2e220ef",
+  "fuente": "moncloa",
+  "fecha": "2026-11-27",
+  "hora": "13:15",
+  "persona": "Óscar López",
+  "titulo": "Es entrevistado en el programa 'El Pulso', de La Séptima."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T21:50:20+00:00",
+  "id": "51719fd4a865",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-27",
+  "hora": "08:30",
+  "persona": "",
+  "titulo": "La Academia de Televisión convoca una rueda de prensa para evaluar el cara a cara y el debate electoral que ha organizado en esta campaña. Interviene la presidenta de la Academia y moderadora de ambos debates, María Casado. Plató A Madrid Content City"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T21:50:20+00:00",
+  "id": "4f7c986cd449",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-27",
+  "hora": "10:00",
+  "persona": "",
+  "titulo": "El coordinador federal de IU, Antonio Maíllo, y los candidatos del Frente Amplio Andaluz Enrique Santiago y Engracia Rivera atienden a los medios antes de iniciar un reparto de publicidad electoral. C/Alcalde Próspero Castaño"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T21:50:20+00:00",
+  "id": "3ca4e897220e",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-27",
+  "hora": "10:30",
+  "persona": "",
+  "titulo": "El vicesecretario general del PP y candidato del PP al Congreso por Sevilla, Juan Bravo, participa en un desayuno informativo. Fundación Cajasol"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T21:50:20+00:00",
+  "id": "a432cffc3366",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-27",
+  "hora": "11:00",
+  "persona": "",
+  "titulo": "El ministro y secretario general del PSOE-M, Óscar López, acude a una mesa informativa junto a los candidatos por Madrid y ministros Margarita Robles, Félix Bolaños y Fernando Grande-Marlaska. Plaza de los Abuelos"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T21:50:20+00:00",
+  "id": "5d2838827268",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-27",
+  "hora": "11:00",
+  "persona": "",
+  "titulo": "La cabeza de lista del PNV al Congreso por Gipuzkoa, Maribel Vaquero, interviene en un acto electoral. Peine del Viento"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T21:50:20+00:00",
+  "id": "4b8eed70137c",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-27",
+  "hora": "12:00",
+  "persona": "",
+  "titulo": "El presidente del Gobierno y candidato socialista, Pedro Sánchez, participa en un acto electoral"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T21:50:20+00:00",
+  "id": "10e756278f22",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-27",
+  "hora": "12:00",
+  "persona": "",
+  "titulo": "El candidato al Congreso por Madrid, Emilio Delgado, atiende a los medios de comunicación. Avenida de Portugal con calle Goya"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T21:50:20+00:00",
+  "id": "af09be29ab0d",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-27",
+  "hora": "12:30",
+  "persona": "",
+  "titulo": "El presidente de Vox y candidato a la Presidencia del Gobierno, Santiago Abascal, atiende a los medios de comunicación. Plaza del Ayuntamiento"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T21:50:20+00:00",
+  "id": "eabcd0f2988f",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-27",
+  "hora": "13:00",
+  "persona": "",
+  "titulo": "El secretario general del PSOE de Canarias, el ministro Ángel Víctor Torres, hace declaraciones sobre vivienda pública. Viviendas de Juan XXIII"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T21:50:20+00:00",
+  "id": "0db5d0132d1c",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-27",
+  "hora": "18:00",
+  "persona": "",
+  "titulo": "El PSOE celebra su acto de cierre de campaña en la Caja Mágica con un acto protagonizado por el presidente del Gobierno y candidato socialista, Pedro Sánchez. Caja Mágica"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T21:50:20+00:00",
+  "id": "7fca87cec38a",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-27",
+  "hora": "18:30",
+  "persona": "",
+  "titulo": "La ministra de Juventud e Infancia, Sira Rego, y la candidata de Unidad del Pueblo Canario (UPC) al Congreso por Santa Cruz de Tenerife, Marisol Collado, participan en el acto de cierre de campaña de la coalición. Plaza de la Madera"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T21:50:20+00:00",
+  "id": "560747868a66",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-27",
+  "hora": "18:30",
+  "persona": "",
+  "titulo": "Acto de cierre de campaña del PSN con la presencia de la candidata al Congreso, Elma Saiz, y la secretaria general del PSN-PSOE, María Chivite. Baluarte"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T21:50:20+00:00",
+  "id": "8cc5621f175e",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-27",
+  "hora": "18:30",
+  "persona": "",
+  "titulo": "El PSPV-PSOE cierra su campaña electoral con un mitin con la secretaria general del partido, la ministra Diana Morant, la cabeza de lista al Congreso por Valencia, Pilar Bernabé, y el ministro de Hacienda, Arcadi España. Plaça de la Vila"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T21:50:20+00:00",
+  "id": "dade00e5ce21",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-27",
+  "hora": "19:00",
+  "persona": "",
+  "titulo": "El líder del PP y candidato a la Presidencia del Gobierno, Alberto Núñez Feijóo, participa en un acto electoral en Barcelona junto al presidente de la Junta de Andalucía y del PP andaluz, Juanma Moreno"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T21:50:20+00:00",
+  "id": "12ad1bc2acc2",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-27",
+  "hora": "19:00",
+  "persona": "",
+  "titulo": "El secretario general del Partido Popular, Miguel Tellado, y el presidente del Partido Popular de la Región de Murcia, Fernando López Miras participan en un mitin de cierre de campaña. Auditorio El Batel"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T21:50:20+00:00",
+  "id": "d6733b2cf8f9",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-27",
+  "hora": "19:00",
+  "persona": "",
+  "titulo": "La candidata de Podemos a la Presidencia del Gobierno en las elecciones generales, Irene Montero, cierra la campaña con un acto en Madrid junto al cofundador y exsecretario general del partido, Pablo Iglesias, y otros dirigentes de la formación morada. C/Hacienda de Pavones, 209"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T21:50:20+00:00",
+  "id": "ea2dd3cfdf06",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-27",
+  "hora": "19:00",
+  "persona": "",
+  "titulo": "La candidata de Frente Amplio a la Presidencia del Gobierno en las elecciones generales, Ada Colau, cierra la campaña con un acto en Madrid junto a los candidatos Emilio Delgado, Ernest Urtasun, Toni Valero y Verónica Martínez Barbero y los ministros Yolanda Díaz, Pablo Bustinduy y Mónica García. C/Cifuentes, 5"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T21:50:20+00:00",
+  "id": "e338e47401fc",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-27",
+  "hora": "19:00",
+  "persona": "",
+  "titulo": "Antonio Maíllo, Enrique Santiago, Engracia Rivera y Ana Aranda celebran el acto de cierre de campaña de Frente Amplio en Andalucía. Plaza Vicente Alexaindre s/n"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T21:50:20+00:00",
+  "id": "d5c2727d8c25",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-27",
+  "hora": "19:00",
+  "persona": "",
+  "titulo": "Acto de final de campaña del PSC en Barcelona, con las intervenciones de su cabeza de lista al Congreso por Barcelona, Jordi Hereu, y el presidente de la Generalitat de Cataluña, Salvador Illa. C/ Tigre, 27"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T21:50:20+00:00",
+  "id": "2b646297f83f",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-27",
+  "hora": "19:00",
+  "persona": "",
+  "titulo": "EH Bildu cierra la campaña electoral con un acto político con las intervenciones de Arnaldo Otegi, secretario general, y Oskar Matute, cabeza de lista al Congreso por Bizkaia. Frontón Labrit"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T21:50:20+00:00",
+  "id": "dc26ef112a09",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-27",
+  "hora": "20:00",
+  "persona": "",
+  "titulo": "Acto de cierre de campaña del PNV, con las intervenciones del presidente del partido, Aitor Esteban, y el lehendakari, Imanol Pradales. Arenal"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T21:50:20+00:00",
+  "id": "ef20048b8799",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-27",
+  "hora": "20:00",
+  "persona": "",
+  "titulo": "La candidata de Coalición Canaria-Primero Canarias al Congreso por Santa Cruz, Cristina Valido, participa en el acto de cierre de campaña de la formación nacionalista en Tenerife. Espacio Mutua Tinerfeña"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T21:50:20+00:00",
+  "id": "5fbd5039173d",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-27",
+  "hora": "20:00",
+  "persona": "",
+  "titulo": "El candidato de Vox a la Presidencia del Gobierno, Santiago Abascal, cierra la campaña electoral de su partido en València. Plaza de Toros, c/ Xàtiva, 28"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T21:50:20+00:00",
+  "id": "05ca64b55d64",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-27",
+  "hora": "23:59",
+  "persona": "",
+  "titulo": "Fin de la campaña electoral"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T21:50:20+00:00",
+  "id": "13a0ba2ce831",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-27",
+  "hora": "09:00",
+  "persona": "",
+  "titulo": "El INE publica el avance del Índice de Precios de Consumo (IPC) de noviembre de 2026"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T21:50:20+00:00",
+  "id": "719cad0b9fde",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-27",
+  "hora": "09:00",
+  "persona": "",
+  "titulo": "El INE publica el avance del (IPC) de noviembre que permite calcular la revalorización de las pensiones para 2027"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T21:50:20+00:00",
+  "id": "385cdde458e8",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-27",
+  "hora": "10:15",
+  "persona": "",
+  "titulo": "Víctimas de los accidentes ferroviarios de Urda (Toledo) y la asociación de afectados de Adamuz (Córdoba) comparecen juntas ante los medios de comunicación y hacen lectura de un comunicado. Hotel Westin Madrid Cuzco. Castellana, 133"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T21:50:20+00:00",
+  "id": "ade077223453",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-27",
+  "hora": null,
+  "persona": "",
+  "titulo": "El jurado popular inicia las deliberaciones sobre el juicio contra el hombre acusado de torturar y matar en Gijón a Susana Sierra, cuyo cadáver apareció en 2025 en un contenedor en la vivienda del procesado. Audiencia"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T21:50:20+00:00",
+  "id": "3723fedbc280",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-27",
+  "hora": "10:00",
+  "persona": "",
+  "titulo": "La jueza de la Audiencia Nacional interroga como testigo a un supuesto confidente en el marco de su investigación sobre la entrada masiva de personas migrantes a Ceuta de los días 30 y 31 de julio. C/ García Gutiérrez s/n"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T21:50:20+00:00",
+  "id": "eb0163a02aa9",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-27",
+  "hora": "10:00",
+  "persona": "",
+  "titulo": "Finaliza el juicio contra el religioso de la escuela Jesuïtes de Casp acusado de abusar de dos alumnas, con la declaración del procesado y las conclusiones de las partes. Audiencia"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T21:50:20+00:00",
+  "id": "c0d80e73a6ce",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-27",
+  "hora": "12:30",
+  "persona": "",
+  "titulo": "Acto conmemorativo del 46 aniversario del atentado terrorista de ETA en la calle Ollerías de Logroño. C/Ollerías con Marqués de Vallejo"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T21:50:20+00:00",
+  "id": "8271e68e5bb2",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-27",
+  "hora": "09:45",
+  "persona": "",
+  "titulo": "La Red Española de Investigación en COVID Persistente (REiCOP) reúne en su 3ª Jornada, que celebra bajo el lema 'De la evidencia al impacto', a investigadores, profesionales sanitarios, representantes institucionales y asociaciones de pacientes. CaixaForum"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T21:50:20+00:00",
+  "id": "98532e09984d",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-27",
+  "hora": "11:15",
+  "persona": "",
+  "titulo": "La ministra de Igualdad y candidata del PSOE al Congreso de los Diputados por Valladolid, Ana Redondo, atiende a los periodistas tras reunirse con miembros de la comunidad gitana. Centro de Iniciativas Ciudadanas Santiago López (calle Pavo Real, 18)"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T21:50:20+00:00",
+  "id": "af28544ed253",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-27",
+  "hora": "12:15",
+  "persona": "",
+  "titulo": "El seleccionador nacional de fútbol, Luis de la Fuente, entrega a la Asociación Española contra el Cáncer de La Rioja el cheque con la recaudación conseguida hasta ahora por las ventas de su libro 'La vida se entrena cada día'. C/Lardero, 11"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T21:50:20+00:00",
+  "id": "2aeac1b319d2",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-27",
+  "hora": "17:00",
+  "persona": "",
+  "titulo": "El comité de la huelga indefinida de la educación pública madrileña convoca una manifestación desde Atocha hasta la Puerta del Sol"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T21:50:20+00:00",
+  "id": "dbded93f5107",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-27",
+  "hora": "17:30",
+  "persona": "",
+  "titulo": "El joven Leo García, referente en la lucha contra la enfermedad de Piel de Mariposa, enciende la iluminación de Navidad en Sevilladentro de un espectáculo inaugural con la actuación de la cantante Niña Pastori. Avda. de la Constitución"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T21:50:20+00:00",
+  "id": "eab89cf55af6",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-27",
+  "hora": "18:30",
+  "persona": "",
+  "titulo": "Encendido del alumbrado de Navidad de Málaga, con la presencia del alcalde, Francisco de la Torre. Inicio de la calle Larios"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T21:50:20+00:00",
+  "id": "f15dd0396d0b",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-27",
+  "hora": "19:30",
+  "persona": "",
+  "titulo": "Melilla dará la bienvenida a la Navidad con un encendido de las luces que incluye la actuación del artista David Bisbal. Plaza de España"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T21:50:20+00:00",
+  "id": "8a3b8f36e6ae",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-27",
+  "hora": "11:30",
+  "persona": "",
+  "titulo": "La actriz Cristina Castaño y la vicepresidenta segunda de AICE, Elena S. Sánchez, anuncian las nominaciones a los premios Feroz 2027. Ayuntamiento"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T21:50:20+00:00",
+  "id": "4f411c044410",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-27",
+  "hora": "12:00",
+  "persona": "",
+  "titulo": "Encuentro con los medios del productor César Benítez, Medalla de Oro de la 32 edición de los Premios Forqué. Asistirá también el presidente de EGEDA, Enrique Cerezo. C/Alcalá, 31"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T21:50:20+00:00",
+  "id": "b22bb2a2ba60",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-27",
+  "hora": "12:30",
+  "persona": "",
+  "titulo": "La Fiscalía General del Estado celebra el encuentro 'Letras que protegen' sobre literatura juvenil y justicia, en el que participan la Fiscal General del Estado, Teresa Peramato; la Fiscal de la Sala de Menores, María Teresa Vicente, y autores de infantil y juvenil como Pedro Mañas y Eloy Moreno. C/ Fortuny, 4"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T21:50:20+00:00",
+  "id": "9ccc0bc116be",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-27",
+  "hora": "16:30",
+  "persona": "",
+  "titulo": "El jurado evalúa la candidatura de Oviedo a Capital Europea de la Cultura 2031. Fábrica de Armas de la Vega"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T21:50:20+00:00",
+  "id": "bcfa5bbef987",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-27",
+  "hora": "20:00",
+  "persona": "",
+  "titulo": "Conciertos de Khea, Maikel Delacalle y Lewis Potter en la primera edición del festival de música urbana Golden Island. Recinto Ferial"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T21:50:20+00:00",
+  "id": "c28b9bcf6980",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-27",
+  "hora": "20:45",
+  "persona": "",
+  "titulo": "El músico neoyorquino Elliott Murphy actúa en Oviedo dentro de su gira. Sala Tribeca Live"
+ },
+ {
+  "tipo": "alta",
   "momento": "2026-11-26T17:54:06+00:00",
   "id": "f7b5c8f4310a",
   "fuente": "psoe_cef",
@@ -4540,495 +5030,5 @@
   "hora": "09:30",
   "persona": "",
   "titulo": "Zones de Governança Educativa. Del pilot a l'impacte educatiu"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:37:35+00:00",
-  "id": "5a96625b818e",
-  "fuente": "diba",
-  "fecha": "2026-11-26",
-  "hora": "12:00",
-  "persona": "",
-  "titulo": "Ple ordinari de la Diputació de Barcelona de novembre de 2026"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:37:35+00:00",
-  "id": "f3ebdeaee38b",
-  "fuente": "diba",
-  "fecha": "2026-11-30",
-  "hora": null,
-  "persona": "",
-  "titulo": "Exposició «Europa, el nostre espai comú» a Vilanova del Vallès"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:37:35+00:00",
-  "id": "f0b2e6f241a9",
-  "fuente": "diba",
-  "fecha": "2026-11-30",
-  "hora": null,
-  "persona": "",
-  "titulo": "Activitat 20261130"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:37:35+00:00",
-  "id": "f611514a1e22",
-  "fuente": "diba",
-  "fecha": "2027-01-28",
-  "hora": "08:00",
-  "persona": "",
-  "titulo": "Arrencada SeTDIBA a l'Ajuntament de la Palma de Cervelló"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:37:35+00:00",
-  "id": "346b617a046c",
-  "fuente": "diba",
-  "fecha": "2026-12-01",
-  "hora": null,
-  "persona": "",
-  "titulo": "V Jornada Municipis actius UE"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:37:35+00:00",
-  "id": "c8f1974bc45a",
-  "fuente": "diba",
-  "fecha": "2027-01-19",
-  "hora": "09:00",
-  "persona": "",
-  "titulo": "34è Fòrum Local d'Educació. Mirem al futur: reptes compartits, respostes col·lectives"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:37:35+00:00",
-  "id": "0c7903371277",
-  "fuente": "diba",
-  "fecha": "2026-11-25",
-  "hora": "09:30",
-  "persona": "",
-  "titulo": "Jornada: Zones de Governança Educativa. Del pilot a l'impacte educatiu"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:37:35+00:00",
-  "id": "68c068fccc51",
-  "fuente": "diba",
-  "fecha": "2026-11-30",
-  "hora": null,
-  "persona": "",
-  "titulo": "Taller SNU"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:37:35+00:00",
-  "id": "025e5bf01922",
-  "fuente": "diba",
-  "fecha": "2026-11-22",
-  "hora": "11:00",
-  "persona": "",
-  "titulo": "Visita exclusiva a les reserves del Museu de Gavà - El museu que no es veu. 25 anys de la XML"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:37:35+00:00",
-  "id": "5829e686b5f8",
-  "fuente": "diba",
-  "fecha": "2026-12-14",
-  "hora": "10:30",
-  "persona": "",
-  "titulo": "Mantenir una ment activa [Viladecavalls]"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:37:35+00:00",
-  "id": "e1306ad193e2",
-  "fuente": "diba",
-  "fecha": "2026-11-22",
-  "hora": "11:00",
-  "persona": "",
-  "titulo": "El museu guardat. Una visita a les sales de reserva. Museu Arxiu Tomàs Balvey - El Museu que no es veu. 25 anys de la XML"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:37:35+00:00",
-  "id": "32d57858875d",
-  "fuente": "diba",
-  "fecha": "2026-11-22",
-  "hora": null,
-  "persona": "",
-  "titulo": "Visita guiada a les reserves del VINSEUM. 25 anys de la XML. El museu que no es veu"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:37:35+00:00",
-  "id": "66f9a74ca12d",
-  "fuente": "diba",
-  "fecha": "2026-12-10",
-  "hora": "17:00",
-  "persona": "",
-  "titulo": "Cervelló: taller per a famílies d’habilitats educatives en el bon ús de les pantalles"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:37:35+00:00",
-  "id": "0034abe840ca",
-  "fuente": "diba",
-  "fecha": "2026-11-22",
-  "hora": "12:00",
-  "persona": "",
-  "titulo": "Visita comentada al taller de restauració tèxtil del Museu Tèxtil"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:37:35+00:00",
-  "id": "e4504c9e7cf8",
-  "fuente": "diba",
-  "fecha": "2026-12-09",
-  "hora": null,
-  "persona": "",
-  "titulo": "Pujalt"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:37:35+00:00",
-  "id": "61a0daa70aae",
-  "fuente": "diba",
-  "fecha": "2026-11-30",
-  "hora": null,
-  "persona": "",
-  "titulo": "Mollet del Vallès"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:37:35+00:00",
-  "id": "1eaeb9bd5d60",
-  "fuente": "diba",
-  "fecha": "2026-11-23",
-  "hora": null,
-  "persona": "",
-  "titulo": "Roca del Vallès"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:37:35+00:00",
-  "id": "684ddf19933b",
-  "fuente": "diba",
-  "fecha": "2027-02-15",
-  "hora": null,
-  "persona": "",
-  "titulo": "Activitat 20270215"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:37:35+00:00",
-  "id": "7cf1135b328c",
-  "fuente": "diba",
-  "fecha": "2026-12-10",
-  "hora": "10:30",
-  "persona": "",
-  "titulo": "Consells pràctics que ens fan la vida més fàcil, mobilitat segura i prevenció de caigudes [Ripollet]"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:37:35+00:00",
-  "id": "c9a94dc71e62",
-  "fuente": "diba",
-  "fecha": "2026-11-22",
-  "hora": "11:00",
-  "persona": "",
-  "titulo": "Visita “Racons amagats a la Casa Alegre de Sagrera”. Museu de Terrassa"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:37:35+00:00",
-  "id": "0cece7835a17",
-  "fuente": "diba",
-  "fecha": "2026-11-22",
-  "hora": "11:00",
-  "persona": "",
-  "titulo": "El Cementiri del Masnou, un museu a l’aire lliure - El museu que no es veu. 25 anys de la XML"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:37:35+00:00",
-  "id": "d2505004daec",
-  "fuente": "diba",
-  "fecha": "2026-11-22",
-  "hora": "11:00",
-  "persona": "",
-  "titulo": "Visita teatralitzada a la reserva del Museu de Sabadell. El museu que no es veu. 25 anys de la XML"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:37:35+00:00",
-  "id": "f24addf25b87",
-  "fuente": "diba",
-  "fecha": "2026-11-22",
-  "hora": "11:00",
-  "persona": "",
-  "titulo": "Visita a la sala de reserva del Museu: armaris de memòria. El museu que no es veu. 25 anys XML"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:37:35+00:00",
-  "id": "45955f80c8fb",
-  "fuente": "diba",
-  "fecha": "2026-12-02",
-  "hora": "11:00",
-  "persona": "",
-  "titulo": "Al teu costat, fem un mon millor [Santpedor]"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:37:35+00:00",
-  "id": "e03e207464f5",
-  "fuente": "diba",
-  "fecha": "2026-11-27",
-  "hora": "10:30",
-  "persona": "",
-  "titulo": "Al teu costat, fem un entorn més segur, prevenció de robatoris i estafes [Manresa]"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:37:35+00:00",
-  "id": "de4ef439bc6d",
-  "fuente": "diba",
-  "fecha": "2026-11-22",
-  "hora": "10:00",
-  "persona": "",
-  "titulo": "Portes obertes i visita guiada a l’església de Reixac. El museu que no es veu - 25 anys XML"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:37:35+00:00",
-  "id": "2a30a89ce029",
-  "fuente": "diba",
-  "fecha": "2026-11-22",
-  "hora": "11:00",
-  "persona": "",
-  "titulo": "Visita guiada a la Cova de les Toixoneres, la casa dels neandertals, les hienes i els rinoceronts. El museu que no es veu - 25 anys de la XML"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:37:35+00:00",
-  "id": "0e8c9539f194",
-  "fuente": "diba",
-  "fecha": "2026-11-24",
-  "hora": "09:00",
-  "persona": "",
-  "titulo": "4ª Sessió:'Adolescència, pantalles i drogues des d'una mirada de gènere. Una aproximació general'"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "1bea1a423fdc",
-  "fuente": "generalitat",
-  "fecha": "2026-11-25",
-  "hora": "09:15",
-  "persona": "Salvador Illa",
-  "titulo": "Recepció als participants al Fòrum Internacional de Traductors de Literatura Catalana."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "2587ab7a0e0e",
-  "fuente": "generalitat",
-  "fecha": "2026-11-25",
-  "hora": "12:00",
-  "persona": "Salvador Illa",
-  "titulo": "Acte amb motiu del Dia Internacional per a l'eliminació de la violència vers les dones."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "628e14357277",
-  "fuente": "generalitat",
-  "fecha": "2026-11-25",
-  "hora": "09:00",
-  "persona": "Raúl Moreno Montaña",
-  "titulo": "El conseller Moreno fa una visita territorial al Vallès Oriental."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "4235e449e3a9",
-  "fuente": "generalitat",
-  "fecha": "2026-11-25",
-  "hora": "09:00",
-  "persona": "Albert Dalmau",
-  "titulo": "El conseller Dalmau visita l'Agroparc d'Ametller Origen a Gelida."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "fa9791e8a760",
-  "fuente": "generalitat",
-  "fecha": "2026-11-25",
-  "hora": "09:00",
-  "persona": "Sílvia Paneque i Sureda",
-  "titulo": "La consellera Paneque inaugura la Fira d'Ocupació TreballemGi."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "78dc127b3242",
-  "fuente": "generalitat",
-  "fecha": "2026-11-25",
-  "hora": "09:50",
-  "persona": "Eva Menor Cantador",
-  "titulo": "La consellera Eva Menor és entrevistada a Televisió de Catalunya."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "5aa4f2f2cf9e",
-  "fuente": "generalitat",
-  "fecha": "2026-11-25",
-  "hora": "10:00",
-  "persona": "Òscar Ordeig i Molist",
-  "titulo": "El conseller Ordeig inaugura la Jornada tècnica PRO-FEM 2026."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "ee4d90e24215",
-  "fuente": "generalitat",
-  "fecha": "2026-11-25",
-  "hora": "10:00",
-  "persona": "Alícia Romero",
-  "titulo": "La consellera Romero fa una visita institucional al Pla d'Urgell i la Segarra."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "05f175627b81",
-  "fuente": "generalitat",
-  "fecha": "2026-11-25",
-  "hora": "10:00",
-  "persona": "Jaume Duch",
-  "titulo": "El conseller Duch fa una visita institucional a les instal·lacions de l'empresa SIRT."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "0d219adbc67c",
-  "fuente": "generalitat",
-  "fecha": "2026-11-25",
-  "hora": "10:30",
-  "persona": "Eva Menor Cantador",
-  "titulo": "La consellera Eva Menor és entrevistada a RAC1."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "f72c5fcd9147",
-  "fuente": "generalitat",
-  "fecha": "2026-11-25",
-  "hora": "10:30",
-  "persona": "Sònia Hernández",
-  "titulo": "La consellera Hernández visita l'exposició 'Vectors. Art digital per pensar el futur'."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "918b025c7038",
-  "fuente": "generalitat",
-  "fecha": "2026-11-25",
-  "hora": "11:30",
-  "persona": "Òscar Ordeig i Molist",
-  "titulo": "El conseller Ordeig assisteix a la Jornada de Joves Relleus 2026."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "630e1bb4e402",
-  "fuente": "generalitat",
-  "fecha": "2026-11-25",
-  "hora": "11:30",
-  "persona": "Núria Montserrat",
-  "titulo": "La consellera Montserrat presideix la Comissió de seguiment del Pla d'enfortiment de la llengua catalana."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "086ff0f933f2",
-  "fuente": "generalitat",
-  "fecha": "2026-11-25",
-  "hora": "11:45",
-  "persona": "Sílvia Paneque i Sureda",
-  "titulo": "La consellera Paneque visita la planta tèxtil de la Fundació Formació i Treball."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "ed20a5313083",
-  "fuente": "generalitat",
-  "fecha": "2026-11-25",
-  "hora": "12:00",
-  "persona": "Raúl Moreno Montaña",
-  "titulo": "El conseller Moreno és entrevistat a Ràdio Teletaxi."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "dd2e9c9d71e3",
-  "fuente": "generalitat",
-  "fecha": "2026-11-25",
-  "hora": "13:00",
-  "persona": "Jaume Duch",
-  "titulo": "El conseller Duch es reuneix amb la presidenta de TALEA Capital Partners, Rosa Cañadas."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "bec82b5a8ef9",
-  "fuente": "generalitat",
-  "fecha": "2026-11-25",
-  "hora": "16:00",
-  "persona": "Ramon Espadaler",
-  "titulo": "El conseller Espadaler es reuneix amb la presidenta del Tribunal d'Instància de Barcelona, Cristina Ferrando."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "9e47fbdbcb99",
-  "fuente": "generalitat",
-  "fecha": "2026-11-25",
-  "hora": "16:00",
-  "persona": "Sílvia Paneque",
-  "titulo": "La consellera Paneque visita les obres d'una nova passarel·la sobre la C-17 a Parets del Vallès."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "76a9d0d9a265",
-  "fuente": "generalitat",
-  "fecha": "2026-11-25",
-  "hora": "16:45",
-  "persona": "Òscar Ordeig i Molist",
-  "titulo": "El conseller Ordeig inaugura la jornada tècnica ASOPROVAC."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "8aa856aaab4a",
-  "fuente": "generalitat",
-  "fecha": "2026-11-25",
-  "hora": "17:30",
-  "persona": "Sònia Hernández",
-  "titulo": "La consellera Hernández visita l'exposició 'L'era Atòmica'."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "e429d3535fdf",
-  "fuente": "generalitat",
-  "fecha": "2026-11-25",
-  "hora": "18:00",
-  "persona": "Jaume Duch",
-  "titulo": "El conseller Duch assisteix a la cimera ministerial de la Unió per la Mediterrània (UpM)."
  }
 ]
