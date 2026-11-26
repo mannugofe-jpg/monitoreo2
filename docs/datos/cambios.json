@@ -1,6 +1,16 @@
 [
  {
   "tipo": "alta",
+  "momento": "2026-11-26T11:55:26+00:00",
+  "id": "77acacbf81fb",
+  "fuente": "ajbcn",
+  "fecha": "2026-11-27",
+  "hora": "12:00",
+  "persona": "",
+  "titulo": "Imatges del muntatge d’un col·legi electoral per al 29N"
+ },
+ {
+  "tipo": "alta",
   "momento": "2026-11-26T09:55:55+00:00",
   "id": "35e1de987675",
   "fuente": "ajbcn",
@@ -4996,15 +5006,5 @@
   "hora": "12:15",
   "persona": "Elías Bendodo",
   "titulo": "El vicesecretario de Política Autonómica, Municipal y Análisis Electoral, Elías Bendodo, interviene junto al presidente de la ciudad autónoma de Ceuta, Juan Jesús Vivas."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "783aae21b033",
-  "fuente": "pp",
-  "fecha": "2026-11-24",
-  "hora": "12:15",
-  "persona": "Alicia García",
-  "titulo": "La portavoz del PP en el Senado, Alicia García, junto al alcalde y presidente del PP de Salamanca, Carlos García Carbayo, hará declaraciones a los medios."
  }
 ]
