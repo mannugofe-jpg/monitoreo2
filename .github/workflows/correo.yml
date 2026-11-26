@@ -1,0 +1,38 @@
+name: Correo diario
+
+on:
+  schedule:
+    # El reloj de GitHub va en UTC y no cambia con el horario de verano, así
+    # que se dispara a las dos horas posibles y el propio script descarta la
+    # que no corresponde. En invierno vale la de 7:30, en verano la de 6:30
+    - cron: "30 6 * * 1-5"
+    - cron: "30 7 * * 1-5"
+  workflow_dispatch:
+    inputs:
+      forzar:
+        description: "Enviar aunque no sean las 8:30 de la mañana"
+        type: boolean
+        default: true
+
+jobs:
+  enviar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Enviar el correo
+        env:
+          CORREO_REMITENTE: ${{ secrets.CORREO_REMITENTE }}
+          CORREO_CLAVE: ${{ secrets.CORREO_CLAVE }}
+          CORREO_DESTINO: ${{ secrets.CORREO_DESTINO }}
+        run: |
+          EXTRA=""
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && \
+             [ "${{ github.event.inputs.forzar }}" = "true" ]; then
+            EXTRA="--forzar"
+          fi
+          python herramientas/correo_diario.py $EXTRA
