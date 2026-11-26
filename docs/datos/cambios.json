@@ -1,6 +1,126 @@
 [
  {
   "tipo": "alta",
+  "momento": "2026-11-26T17:54:06+00:00",
+  "id": "f7b5c8f4310a",
+  "fuente": "psoe_cef",
+  "fecha": "2026-11-27",
+  "hora": "18:00",
+  "persona": "Pedro Sánchez",
+  "titulo": "El secretario general del PSOE, presidente del Gobierno y candidato a la reelección, Pedro Sánchez, interviene en el mitin de cierre de campaña de las Elecciones Generales. Caja Mágica. Camino de Perales 23, Madrid"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T17:54:06+00:00",
+  "id": "6428c37c81a5",
+  "fuente": "psoe_cef",
+  "fecha": "2026-11-27",
+  "hora": "08:30",
+  "persona": "",
+  "titulo": "Es entrevistado en Hoy por Hoy. Cadena SER"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T17:54:06+00:00",
+  "id": "72947009945f",
+  "fuente": "psoe_cef",
+  "fecha": "2026-11-27",
+  "hora": "12:00",
+  "persona": "Pedro Sánchez",
+  "titulo": "Pedro Sánchez: Interviene en un acto de campaña en Plasencia (Cáceres). Recinto ferial Los Berrocales. C. Miguel de Unamuno"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T17:54:06+00:00",
+  "id": "7c1407ffd5cf",
+  "fuente": "psoe_cef",
+  "fecha": "2026-11-27",
+  "hora": "09:00",
+  "persona": "Víctor Gutiérrez",
+  "titulo": "El secretario de Políticas LGTBI y candidato al Congreso por Madrid, Víctor Gutiérrez, participa en Espejo Público de Antena 3"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T17:54:06+00:00",
+  "id": "63f1ba358d29",
+  "fuente": "psoe_cef",
+  "fecha": "2026-11-27",
+  "hora": "09:30",
+  "persona": "Isabel Rodríguez",
+  "titulo": "La secretaria ejecutiva de Vivienda y Agenda Urbana y candidata al Congreso por Ciudad Real, Isabel Rodríguez, atiende a los medios de comunicación durante su visita al proyecto minero El Moto - Abenójar Tungsten, en Abenójar, Ciudad Real"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T17:54:06+00:00",
+  "id": "d857b2056ee6",
+  "fuente": "psoe_cef",
+  "fecha": "2026-11-27",
+  "hora": "18:30",
+  "persona": "Kilian Sánchez",
+  "titulo": "(hora insular). El secretario de Sanidad de la CEF-PSOE y candidato al Senado por La Palma, Kilian Sánchez, interviene en el acto de Fin de Campaña del PSOE-La Palma. Plaza José Mata, Santa Cruz de la Palma"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T17:54:06+00:00",
+  "id": "8e7d9e548c37",
+  "fuente": "psoe_cef",
+  "fecha": "2026-11-27",
+  "hora": "18:30",
+  "persona": "César Mogo",
+  "titulo": "El secretario Exterior de CEF-PSOE y candidato al Senado por Lugo, César Mogo, participa en el cierre de campaña del PSOE en Lugo. Plaza de Castiñeiro"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T17:54:06+00:00",
+  "id": "ed61d96a14d8",
+  "fuente": "psoe_cef",
+  "fecha": "2026-11-27",
+  "hora": "09:00",
+  "persona": "",
+  "titulo": "Es entrevistado en el programa Boulevard de Radio Euskadi"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T17:54:06+00:00",
+  "id": "c12c3908c5a4",
+  "fuente": "psoe_cef",
+  "fecha": "2026-11-27",
+  "hora": "10:00",
+  "persona": "",
+  "titulo": "Es entrevistado en Onda Cero"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T17:54:06+00:00",
+  "id": "1a57af05f1d4",
+  "fuente": "psoe_cef",
+  "fecha": "2026-11-27",
+  "hora": "15:40",
+  "persona": "",
+  "titulo": "Es entrevistado en ETB2"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T17:54:06+00:00",
+  "id": "45d7a7cf8c16",
+  "fuente": "psoe_cef",
+  "fecha": "2026-11-27",
+  "hora": "18:30",
+  "persona": "Patxi López",
+  "titulo": "Patxi López: Participa en el acto central de cierre de campaña de Euskadi. En Vitoria - Gasteiz (Palacio Europa)"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T17:54:06+00:00",
+  "id": "f6232fbee7b4",
+  "fuente": "psoe_cef",
+  "fecha": "2026-11-27",
+  "hora": "11:30",
+  "persona": "Iratxe García",
+  "titulo": "La secretaria para la UE y presidenta del Grupo de la Alianza Progresista de Socialistas y Demócratas en el Parlamento Europeo, Iratxe García, realiza una atención a medios en Aranda de Duero (Burgos). C/ Madrid, 20"
+ },
+ {
+  "tipo": "alta",
   "momento": "2026-11-26T14:17:05+00:00",
   "id": "6bc595dc6c3d",
   "fuente": "parlament",
@@ -4910,125 +5030,5 @@
   "hora": "18:00",
   "persona": "Jaume Duch",
   "titulo": "El conseller Duch assisteix a la cimera ministerial de la Unió per la Mediterrània (UpM)."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "90180c90888d",
-  "fuente": "generalitat",
-  "fecha": "2026-11-25",
-  "hora": "18:00",
-  "persona": "Eva Menor Cantador",
-  "titulo": "La consellera Menor assisteix a la manifestació commemorativa del 25N."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "1900260b6123",
-  "fuente": "generalitat",
-  "fecha": "2026-11-25",
-  "hora": "18:30",
-  "persona": "Sílvia Paneque",
-  "titulo": "La consellera Paneque participa en la segona edició del Premi Fundació Habitatge Social."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "b4c57ee1bd5d",
-  "fuente": "generalitat",
-  "fecha": "2026-11-25",
-  "hora": "19:30",
-  "persona": "Albert Dalmau",
-  "titulo": "El conseller Dalmau clou la primera jornada del XXV Congrés de Directius CEDE."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "42cf3cf752d3",
-  "fuente": "generalitat",
-  "fecha": "2026-11-25",
-  "hora": "19:30",
-  "persona": "Eva Menor Cantador",
-  "titulo": "La consellera Menor assisteix a la presentació de la pel·lícula 'Sucia'."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "5df05bc92fdf",
-  "fuente": "pp",
-  "fecha": "2026-11-24",
-  "hora": "09:00",
-  "persona": "Borja Sémper",
-  "titulo": "El portavoz nacional y de campaña y vicesecretario de Cultura y Deporte, Borja Sémper, es entrevistado en ‘Las Mañanas de RNE’."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "5fc043d9635e",
-  "fuente": "pp",
-  "fecha": "2026-11-24",
-  "hora": "09:00",
-  "persona": "Paloma Martín",
-  "titulo": "La coordinadora de Vivienda del PP, Paloma Martín, participa en el debate electoral a cuatro sobre vivienda en el programa “Herrera en COPE”."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "21a6e3fac104",
-  "fuente": "pp",
-  "fecha": "2026-11-24",
-  "hora": "09:30",
-  "persona": "Álvaro Queipo",
-  "titulo": "El presidente del PP de Asturias y portavoz parlamentario, Álvaro Queipo, participa en la Junta de Portavoces de la JGPA"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "a6416994f169",
-  "fuente": "pp",
-  "fecha": "2026-11-24",
-  "hora": "09:30",
-  "persona": "Sergio Sayas",
-  "titulo": "El presidente del PP de Navarra, Sergio Sayas, realiza una entrevista al Navarra.com El presidente del PP de Navarra, Sergio Sayas, realiza una entrevista al Navarra.com"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "4ab965b14775",
-  "fuente": "pp",
-  "fecha": "2026-11-24",
-  "hora": "10:00",
-  "persona": "Paco Núñez",
-  "titulo": "El presidente del PP-CLM, Paco Núñez, mantiene un encuentro con los responsables de la Asociación de Empresa Familiar de CLM."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "61aebafb09de",
-  "fuente": "pp",
-  "fecha": "2026-11-24",
-  "hora": "10:25",
-  "persona": "Jaime de los Santos",
-  "titulo": "El Vicesecretario Nacional del PP de Igualdad y Educación, Jaime de los Santos; y la candidata al Congreso de los Diputados, Ángela Pumariega; atienden a los medios, antes de participar en un desayuno informativo con representantes de la comunidad educativa asturiana."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "b4bb79753cb1",
-  "fuente": "pp",
-  "fecha": "2026-11-24",
-  "hora": "10:30",
-  "persona": "",
-  "titulo": "Sayas acompaña en la declaración a medios de la coalición UPN-PP."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "d8b443dd93da",
-  "fuente": "pp",
-  "fecha": "2026-11-24",
-  "hora": "11:00",
-  "persona": "",
-  "titulo": "Cuca Gamarra participa en un acto con la Red Vecinal contra la Violencia de Género."
  }
 ]
