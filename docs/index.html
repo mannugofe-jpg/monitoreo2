@@ -57,6 +57,13 @@
   .cancelado .titulo{text-decoration:line-through;opacity:.65}
   a{color:inherit}
   .vacio{padding:50px 0;text-align:center;color:var(--suave)}
+  .aviso{max-width:900px;margin:16px auto 0;padding:11px 14px;border-radius:10px;
+    border:1px solid var(--borde);background:var(--panel);font-size:14px;
+    display:flex;gap:12px;align-items:center;flex-wrap:wrap}
+  .aviso.hay{border-color:var(--acento)}
+  .aviso .texto{flex:1 1 260px}
+  .aviso b{color:var(--acento)}
+  .aviso.quieto{color:var(--suave)}
 </style>
 </head>
 <body>
@@ -73,13 +80,27 @@
     <button id="verCancelados" aria-pressed="false">Ver cancelados</button>
   </div>
 </header>
+<div class="aviso" id="aviso" hidden></div>
 <main id="lista"><div class="vacio">Cargando…</div></main>
 
 <script>
 const DIAS = ["domingo","lunes","martes","miércoles","jueves","viernes","sábado"];
 const MESES = ["enero","febrero","marzo","abril","mayo","junio","julio",
   "agosto","septiembre","octubre","noviembre","diciembre"];
-let ACTOS = [], estado = {q:"", organismo:"", persona:"", tema:"", relevantes:true, cambios:false, cancelados:false};
+let yaCargado = false;
+let ACTOS = [], CAMBIOS = [], ULTIMOS = [], GENERADO = null;
+let estado = {q:"", organismo:"", persona:"", tema:"", relevantes:true,
+              cambios:false, cancelados:false, ultimos:false};
+
+function hace(fecha){
+  const seg = Math.round((Date.now() - fecha.getTime())/1000);
+  if (seg < 90) return "hace un momento";
+  const min = Math.round(seg/60);
+  if (min < 60) return `hace ${min} min`;
+  const hor = Math.round(min/60);
+  if (hor < 24) return `hace ${hor} h`;
+  return fecha.toLocaleString("es-ES");
+}
 
 function fechaLarga(iso){
   const d = new Date(iso + "T12:00:00");
@@ -93,16 +114,79 @@ async function cargar(){
     const r = await fetch("datos/actos.json?v=" + Date.now());
     const d = await r.json();
     ACTOS = d.actos || [];
-    const fecha = new Date(d.generado);
+    GENERADO = new Date(d.generado);
     document.getElementById("meta").textContent =
-      d.total + " actos. Última revisión " + fecha.toLocaleString("es-ES");
-    poblarFiltros();
+      d.total + " actos. Última revisión " + GENERADO.toLocaleString("es-ES");
+
+    try {
+      const rc = await fetch("datos/cambios.json?v=" + Date.now());
+      CAMBIOS = await rc.json();
+    } catch { CAMBIOS = []; }
+
+    if (!yaCargado) poblarFiltros();
+    yaCargado = true;
+    pintarAviso();
     pintar();
   }catch(e){
     document.getElementById("lista").innerHTML =
       '<div class="vacio">Todavía no hay datos. Lanza el recolector.</div>';
     document.getElementById("meta").textContent = "Sin datos";
   }
+}
+
+function pintarAviso(){
+  const caja = document.getElementById("aviso");
+  caja.hidden = false;
+
+  // La última revisión es el grupo de cambios con la marca de tiempo más
+  // reciente. Puede no coincidir con "generado" si esa pasada no cambió nada.
+  const momento = CAMBIOS.length ? CAMBIOS[0].momento : null;
+  const lote = momento ? CAMBIOS.filter(c => c.momento === momento) : [];
+
+  // Solo interesan los cambios de actos que pasan el filtro de relevancia
+  const porId = new Map(ACTOS.map(a => [a.id, a]));
+  const utiles = lote.filter(c => {
+    const a = porId.get(c.id);
+    return a && (a.relevante !== false || !estado.relevantes);
+  });
+  ULTIMOS = utiles.map(c => c.id);
+
+  const n = t => utiles.filter(c => c.tipo === t).length;
+  const altas = n("alta"), mods = n("modificacion"), bajas = n("baja");
+
+  if (!utiles.length){
+    caja.className = "aviso quieto";
+    caja.innerHTML = `<div class="texto">Sin novedades en la última revisión,
+      ${GENERADO ? hace(GENERADO) : ""}.</div>`;
+    estado.ultimos = false;
+    return;
+  }
+
+  const partes = [];
+  if (altas) partes.push(`<b>${altas}</b> ${altas === 1 ? "acto nuevo" : "actos nuevos"}`);
+  if (mods) partes.push(`<b>${mods}</b> ${mods === 1 ? "cambio" : "cambios"}`);
+  if (bajas) partes.push(`<b>${bajas}</b> ${bajas === 1 ? "cancelación" : "cancelaciones"}`);
+
+  // Si el último lote de cambios es anterior a la última pasada, significa
+  // que esa pasada no movió nada. Decirlo, en vez de dar por nuevo lo viejo
+  const cuando = new Date(momento);
+  const reciente = GENERADO && (GENERADO - cuando) < 10 * 60 * 1000;
+
+  caja.className = "aviso hay";
+  caja.innerHTML = `
+    <div class="texto">${reciente
+      ? `En la última revisión, ${hace(cuando)}, ${partes.join(", ")}.`
+      : `Sin novedades en la última revisión, ${GENERADO ? hace(GENERADO) : ""}.
+         Lo último fue ${hace(cuando)}, ${partes.join(", ")}.`}</div>
+    <button id="verUltimos" aria-pressed="${estado.ultimos}">
+      ${estado.ultimos ? "Ver todo" : "Ver solo esos"}</button>`;
+
+  document.getElementById("verUltimos").addEventListener("click", () => {
+    estado.ultimos = !estado.ultimos;
+    if (estado.ultimos) estado.cancelados = true;  // para ver las bajas
+    pintarAviso();
+    pintar();
+  });
 }
 
 function poblarFiltros(){
@@ -128,6 +212,7 @@ function filtrar(){
     if (a.fecha < hoy && !estado.q) return false;
     if (a.estado === "cancelado" && !estado.cancelados) return false;
     if (estado.cambios && !["nuevo","modificado"].includes(a.estado)) return false;
+    if (estado.ultimos && !ULTIMOS.includes(a.id)) return false;
     if (estado.relevantes && a.relevante === false) return false;
     if (estado.tema && !(a.temas || []).includes(estado.tema)) return false;
     if (estado.organismo && a.organismo !== estado.organismo) return false;
@@ -188,6 +273,9 @@ for (const [id, campo] of [["soloRelevantes","relevantes"],["soloCambios","cambi
   });
 }
 cargar();
+// Si dejas la pestaña abierta, se refresca sola cada cinco minutos
+setInterval(() => { if (!document.hidden) cargar(); }, 5 * 60 * 1000);
+document.addEventListener("visibilitychange", () => { if (!document.hidden) cargar(); });
 </script>
 </body>
 </html>
