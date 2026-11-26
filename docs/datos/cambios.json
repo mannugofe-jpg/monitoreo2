@@ -1,6 +1,16 @@
 [
  {
   "tipo": "alta",
+  "momento": "2026-11-26T09:55:55+00:00",
+  "id": "35e1de987675",
+  "fuente": "ajbcn",
+  "fecha": "2026-11-27",
+  "hora": "10:00",
+  "persona": "",
+  "titulo": "Plenari del Consell Municipal. Novembre de 2026"
+ },
+ {
+  "tipo": "alta",
   "momento": "2026-11-26T09:43:20+00:00",
   "id": "38605ae0f71d",
   "fuente": "moncloa",
@@ -4996,15 +5006,5 @@
   "hora": "12:15",
   "persona": "Alicia García",
   "titulo": "La portavoz del PP en el Senado, Alicia García, junto al alcalde y presidente del PP de Salamanca, Carlos García Carbayo, hará declaraciones a los medios."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "3d55410ad67a",
-  "fuente": "pp",
-  "fecha": "2026-11-24",
-  "hora": "12:15",
-  "persona": "Alejandro Fernández",
-  "titulo": "El presidente del Partido Popular de Cataluña, Alejandro Fernández, atenderá a los medios de comunicación en la plaza del Ayuntamiento de Esplugues de Llobregat."
  }
 ]
