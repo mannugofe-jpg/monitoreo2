@@ -1,6 +1,776 @@
 [
  {
   "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "e70188e3353a",
+  "fuente": "generalitat",
+  "fecha": "2026-11-26",
+  "hora": "09:00",
+  "persona": "Salvador Illa",
+  "titulo": "25è Congrés de Directius CEDE."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "297865f89f44",
+  "fuente": "generalitat",
+  "fecha": "2026-11-26",
+  "hora": "20:00",
+  "persona": "Salvador Illa",
+  "titulo": "73ª Edició Premis Ondas 2026."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "836ff3fbe412",
+  "fuente": "generalitat",
+  "fecha": "2026-11-26",
+  "hora": "10:00",
+  "persona": "Jaume Duch",
+  "titulo": "El conseller Duch intervé en la inauguració del IV Fòrum Europeu de Propietat Industrial."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "e636d77322e3",
+  "fuente": "generalitat",
+  "fecha": "2026-11-26",
+  "hora": "11:30",
+  "persona": "Núria Montserrat",
+  "titulo": "La consellera Montserrat participa en la Comissió de Política Lingüística del Consell Interuniversitari de Catalunya."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "240fbbf78066",
+  "fuente": "generalitat",
+  "fecha": "2026-11-26",
+  "hora": "12:00",
+  "persona": "Jaume Duch",
+  "titulo": "El conseller Duch es reuneix amb el viceministre de Desenvolupament de Comunitats i Territoris d'Ucraïna, Oleksii Riabykin."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "4211f83e522e",
+  "fuente": "generalitat",
+  "fecha": "2026-11-26",
+  "hora": "13:00",
+  "persona": "Òscar Ordeig i Molist",
+  "titulo": "El conseller Ordeig visita Grillco."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "b701e1d4349c",
+  "fuente": "generalitat",
+  "fecha": "2026-11-26",
+  "hora": "15:30",
+  "persona": "Ramon Espadaler",
+  "titulo": "El conseller Espadaler inaugura les XXIII Jornades de Dret de Família de Barcelona."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "687dc56182b2",
+  "fuente": "generalitat",
+  "fecha": "2026-11-26",
+  "hora": "17:30",
+  "persona": "Jaume Duch",
+  "titulo": "El conseller Duch es reuneix amb el diplomàtic canadenc Stéphane Dion."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "9f47b0dc9915",
+  "fuente": "generalitat",
+  "fecha": "2026-11-26",
+  "hora": "18:20",
+  "persona": "Olga Pané Mena",
+  "titulo": "La consellera Pané assisteix a la celebració del 50è aniversari de l'Hospital Verge de la Cinta de Tortosa."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "9dd7374844e4",
+  "fuente": "generalitat",
+  "fecha": "2026-11-26",
+  "hora": "18:30",
+  "persona": "",
+  "titulo": "El conseller Vila participa en l'acte 'Vint anys de l'oficialitat de l'occità'."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "00ae0020badf",
+  "fuente": "generalitat",
+  "fecha": "2026-11-26",
+  "hora": "20:00",
+  "persona": "Jaume Duch",
+  "titulo": "El conseller Duch assisteix al Concert del Dia de la Mediterrània 2026."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "cb92c2f40a14",
+  "fuente": "acn",
+  "fecha": "2026-11-26",
+  "hora": "04:00",
+  "persona": "",
+  "titulo": "L'ACN parla amb experts, el sector comercial i consumidors sobre el Black Friday"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "54820223f4e4",
+  "fuente": "acn",
+  "fecha": "2026-11-26",
+  "hora": "04:00",
+  "persona": "",
+  "titulo": "L'ACN visita el nou centre de formació que ha posat en marxa el Gremi d'Empreses Instal·ladores de Tarragona per pal·liar el dèficit de professionals del sector"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "0a0fdd40f23b",
+  "fuente": "acn",
+  "fecha": "2026-11-26",
+  "hora": "04:00",
+  "persona": "",
+  "titulo": "Evolució de les dades de criminalitat durant l'etapa Sánchez a Catalunya"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "41d2c131e5bb",
+  "fuente": "acn",
+  "fecha": "2026-11-26",
+  "hora": "04:30",
+  "persona": "",
+  "titulo": "L'ACN analitza els pressupostos de les campanyes electorals catalanes"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "3193864ea004",
+  "fuente": "acn",
+  "fecha": "2026-11-26",
+  "hora": "05:00",
+  "persona": "",
+  "titulo": "L'ACN analitza quins han estat els convidats estrella als mítings de la campanya catalana"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "7de1abeba768",
+  "fuente": "acn",
+  "fecha": "2026-11-26",
+  "hora": "09:00",
+  "persona": "",
+  "titulo": "Barcelona reuneix els principals líders empresarials del país per celebrar el XXV Congrés de Directius CEDE"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "51f7afe8804d",
+  "fuente": "acn",
+  "fecha": "2026-11-26",
+  "hora": "09:00",
+  "persona": "",
+  "titulo": "Esmorzar informatiu del candidat de Comuns-Front Ampli, Ernest Urtasun, organitzat per Amics del País"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "71f672e83622",
+  "fuente": "acn",
+  "fecha": "2026-11-26",
+  "hora": "09:30",
+  "persona": "",
+  "titulo": "II Congrés Internacional sobre Llengües Minoritàries"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "4c4c1e43f93b",
+  "fuente": "acn",
+  "fecha": "2026-11-26",
+  "hora": "10:00",
+  "persona": "",
+  "titulo": "Celebració del VII Fòrum Carni per abordar els reptes de futur del sector"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "e4b212d67a12",
+  "fuente": "acn",
+  "fecha": "2026-11-26",
+  "hora": "10:00",
+  "persona": "",
+  "titulo": "L'Ajuntament d'Olot fa balanç de la tasca feta des de l'Oficina del Padró de la ciutat"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "4b62b35e2edf",
+  "fuente": "acn",
+  "fecha": "2026-11-26",
+  "hora": "11:00",
+  "persona": "",
+  "titulo": "Recepció dels guanyadors dels Premis Ondas al Palauet Albéniz"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "9a3e486ea9cc",
+  "fuente": "acn",
+  "fecha": "2026-11-26",
+  "hora": "11:00",
+  "persona": "",
+  "titulo": "Presentació de la primera enquesta de mobilitat en bus al Pla d’Urgell"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "ad8525de9602",
+  "fuente": "acn",
+  "fecha": "2026-11-26",
+  "hora": "11:00",
+  "persona": "",
+  "titulo": "Presentació de la programació del REC - Festival Internacional de Cinema de Tarragona"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "03b08a4427fd",
+  "fuente": "acn",
+  "fecha": "2026-11-26",
+  "hora": "12:30",
+  "persona": "",
+  "titulo": "Manifestació a Barcelona per la vaga educativa"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "16ee049bafab",
+  "fuente": "acn",
+  "fecha": "2026-11-26",
+  "hora": "15:00",
+  "persona": "",
+  "titulo": "El cap de llista del PPC, Xavier Garcia Albiol, participa en un dinar-col·loqui al Círculo Ecuestre"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "1af792de5600",
+  "fuente": "acn",
+  "fecha": "2026-11-26",
+  "hora": "17:50",
+  "persona": "",
+  "titulo": "Pimec celebra la novena edició del Lleida Empresa"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "c4fb57e1f993",
+  "fuente": "acn",
+  "fecha": "2026-11-26",
+  "hora": "18:00",
+  "persona": "",
+  "titulo": "Acte electoral del PSC amb el primer secretari del PSC i president de la Generalitat, Salvador Illa, la número dos del PSC al Congrés per Barcelona, Eva Granados, i la ministra d’Inclusió, Seguretat Social i Migracions, Elma Saiz"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "79c31f97dafe",
+  "fuente": "acn",
+  "fecha": "2026-11-26",
+  "hora": "18:30",
+  "persona": "",
+  "titulo": "Acte electoral de tancament de campanya dels Comuns-Front Ampli, a Cornellà, amb Ernest Urtasun"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "e4a2d0cbb214",
+  "fuente": "acn",
+  "fecha": "2026-11-26",
+  "hora": "18:30",
+  "persona": "",
+  "titulo": "Acte d'encesa dels llums de Nadal a Barcelona"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "a0270f29e021",
+  "fuente": "acn",
+  "fecha": "2026-11-26",
+  "hora": "19:00",
+  "persona": "",
+  "titulo": "Acte electoral d’ERC a Rubí, amb Gabriel Rufián i Elisenda Almany"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "8f6aedc683ae",
+  "fuente": "acn",
+  "fecha": "2026-11-26",
+  "hora": "19:00",
+  "persona": "",
+  "titulo": "Declaracions del candidat de Vox, Juan José Aizcorbe, a Terrassa"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "e13642ce84ca",
+  "fuente": "acn",
+  "fecha": "2026-11-26",
+  "hora": "20:00",
+  "persona": "",
+  "titulo": "Acte electoral de Junts a Tarragona, amb Míriam Nogueras, Josep Maria Cruset i Jordi Turull"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "9d02371a5503",
+  "fuente": "pp",
+  "fecha": "2026-11-25",
+  "hora": "09:00",
+  "persona": "Cuca Gamarra",
+  "titulo": "La vicesecretaria de Regeneración Institucional, Cuca Gamarra, atiende a los medios de comunicación antes de su reunión sectorial agraria."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "215d281babf7",
+  "fuente": "pp",
+  "fecha": "2026-11-25",
+  "hora": "09:00",
+  "persona": "Alberto Nadal",
+  "titulo": "El vicesecretario de Economía y Desarrollo Sostenible del Partido Popular, Alberto Nadal, interviene en un desayuno empresarial con representantes de FAGEM, PIMEC Maresme y NEM (Negoci Empresa Mataró). Al finalizar atenderá a los medios de comunicación."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "4aeb1ca6de8c",
+  "fuente": "pp",
+  "fecha": "2026-11-25",
+  "hora": "09:00",
+  "persona": "",
+  "titulo": "a portavoz de campaña del PP y portavoz del Grupo Popular en el Congreso, Ester Muñoz, asiste a la Diputación Permanente."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "824e71b98bde",
+  "fuente": "pp",
+  "fecha": "2026-11-25",
+  "hora": "09:00",
+  "persona": "Fernando López Miras",
+  "titulo": "El presidente del Partido Popular de la Región de Murcia, Fernando López Miras; la cabeza de lista al Congreso, Miriam Guardiola; y la alcaldesa de Murcia, Rebeca Pérez; visitan el mercado de la Fama."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "d0414cb12bb0",
+  "fuente": "pp",
+  "fecha": "2026-11-25",
+  "hora": "10:30",
+  "persona": "Jaime De Los Santos",
+  "titulo": "El vicesecretario de Educación e Igualdad del Partido Popular, Jaime De Los Santos, hace declaraciones a los medios de comunicación antes de visitar el Centro de Innovación en Tecnologías de la Educación de Cantabria junto a la cabeza de lista al Congreso, Isabel Urrutia; y al consejero de Educación del PP, Sergio Silva."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "a3b18b815b19",
+  "fuente": "pp",
+  "fecha": "2026-11-25",
+  "hora": "10:30",
+  "persona": "Sergio Sayas",
+  "titulo": "El presidente del PP de Navarra, Sergio Sayas, ofrece declaraciones a los medios de comunicación."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "3b1d30806717",
+  "fuente": "pp",
+  "fecha": "2026-11-25",
+  "hora": "11:30",
+  "persona": "Elías Bendodo",
+  "titulo": "El vicesecretario de Política Autonómica, Local y Análisis Electoral del PP, Elías Bendodo; y la presidenta del PP de Málaga, Patricia Navarro; atienden a los medios de comunicación en una carpa informativa del Partido Popular."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "0f7ab1b817fd",
+  "fuente": "pp",
+  "fecha": "2026-11-25",
+  "hora": "11:30",
+  "persona": "",
+  "titulo": "Alberto Nadal mantiene una reunión con con Miguel Vicent, presidente de la Federación del Ecosistema Tecnológico de España, y MIquel Martí, ceo de Tech Barcelona; para conocer el proyecto de la Federación del Ecosistema Tecnológico de España y visita al Pier 01 de Tech."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "de1857650865",
+  "fuente": "pp",
+  "fecha": "2026-11-25",
+  "hora": "11:45",
+  "persona": "Paco Núñez",
+  "titulo": "El presidente del PP-CLM, Paco Núñez, visita la explotación agropecuaria Parreño SL."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "4fc0d548458c",
+  "fuente": "pp",
+  "fecha": "2026-11-25",
+  "hora": "12:00",
+  "persona": "Miguel Tellado",
+  "titulo": "El secretario general del Partido Popular, Miguel Tellado; junto al presidente del PP de Córdoba, Adolfo Molina; el portavoz del partido José María Bellido; y los miembros de las candidaturas al Congreso y Senado, participan en un Talking Corner."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "e6d1ac0db80d",
+  "fuente": "pp",
+  "fecha": "2026-11-25",
+  "hora": "12:00",
+  "persona": "Borja Sémper",
+  "titulo": "El portavoz nacional y de campaña del PP y vicesecretario de Cultura y Deporte, Borja Sémper, es entrevistado en La 8 Palencia."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "45964db2be4d",
+  "fuente": "pp",
+  "fecha": "2026-11-25",
+  "hora": "12:00",
+  "persona": "",
+  "titulo": "Sayas participa en la mesa informativa de la coalición UPN-PP."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "fc3f8fd6ead0",
+  "fuente": "pp",
+  "fecha": "2026-11-25",
+  "hora": "12:10",
+  "persona": "Carmen Fúnez",
+  "titulo": "La vicesecretaria Sanidad y Política Social, Carmen Fúnez, es entrevistada en Onda Cero Ciudad Real."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "1bdc4c3f7e57",
+  "fuente": "pp",
+  "fecha": "2026-11-25",
+  "hora": "12:30",
+  "persona": "Ángeles Armisén",
+  "titulo": "Sémper clausura un mitin en el que también intervienen la presidenta del PP de Palencia, Ángeles Armisén; y los cabezas de lista al Congreso y al Senado, Milagros Marcos y Roberto Martín."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "35252a5fb0f9",
+  "fuente": "pp",
+  "fecha": "2026-11-25",
+  "hora": "12:35",
+  "persona": "",
+  "titulo": "Cuca Gamarra es entrevistada en Onda Cero La Rioja."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "ee965453d79a",
+  "fuente": "pp",
+  "fecha": "2026-11-25",
+  "hora": "12:45",
+  "persona": "Juan Bravo",
+  "titulo": "El vicesecretario de Hacienda, Vivienda e Infraestructuras, Juan Bravo, atiende a los medios de comunicación."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "559ad239141d",
+  "fuente": "pp",
+  "fecha": "2026-11-25",
+  "hora": "13:00",
+  "persona": "",
+  "titulo": "Carmen Fúnez es entrevistada en la Cadena SER de Ciudad Real."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "159dd8a6148f",
+  "fuente": "pp",
+  "fecha": "2026-11-25",
+  "hora": "13:00",
+  "persona": "",
+  "titulo": "Cuca Gamarra participa en el debate a 4 de TVR La Rioja."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "a7b21cf91db9",
+  "fuente": "pp",
+  "fecha": "2026-11-25",
+  "hora": "13:00",
+  "persona": "",
+  "titulo": "De los Santos es entrevistado en Ifomo Cantabria."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "9beb3ed191df",
+  "fuente": "pp",
+  "fecha": "2026-11-25",
+  "hora": "13:30",
+  "persona": "",
+  "titulo": "Juan Bravo participa en la mesa-coloquio de Casa Ceuta y Ceutís en Sevilla."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "cbd6fb9dbcbf",
+  "fuente": "pp",
+  "fecha": "2026-11-25",
+  "hora": "14:00",
+  "persona": "",
+  "titulo": "Núñez, junto al alcalde de la ciudad, Manuel Serena, mantiene un encuentro con afiliados y simpatizantes del PP."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "94526b583c21",
+  "fuente": "pp",
+  "fecha": "2026-11-25",
+  "hora": "15:15",
+  "persona": "Alejandro Fernández",
+  "titulo": "El presidente del Partido Popular de Cataluña, Alejandro Fernández, asiste a la comida y coloquio del Círculo Ecuestre, en el que interviene el candidato del PP en la provincia de Barcelona, Xavier García Albiol."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "074f3060923a",
+  "fuente": "pp",
+  "fecha": "2026-11-25",
+  "hora": "16:00",
+  "persona": "",
+  "titulo": "Cuca Gamarra visita el Centro de Participación Activa Zona Sur y el Hogar del Jubilado de la ciudad."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "37d9e31cbbf6",
+  "fuente": "pp",
+  "fecha": "2026-11-25",
+  "hora": "16:00",
+  "persona": "",
+  "titulo": "Carmen Fúnez interviene en un encuentro con asociaciones de mujeres."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "333b9c372f74",
+  "fuente": "pp",
+  "fecha": "2026-11-25",
+  "hora": "16:30",
+  "persona": "",
+  "titulo": "Miguel Tellado clausura un mitin junto al presidente provincial del PP, Erik Domínguez; el candidato al Congreso, Luis Mariano Camacho; y el secretario general y alcalde del municipio, Cristóbal Pérez."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "892eb90821c4",
+  "fuente": "pp",
+  "fecha": "2026-11-25",
+  "hora": "16:30",
+  "persona": "",
+  "titulo": "Núñez y Serena atienden a los medios de comunicación."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "65d47c3d5834",
+  "fuente": "pp",
+  "fecha": "2026-11-25",
+  "hora": "17:00",
+  "persona": "Alberto Nadal",
+  "titulo": "El vicesecretario de Economía y Desarrollo Sostenible del Partido Popular, Alberto Nadal, mantiene una reunión con CEDAC, Consejo de Empresas de Distribución de Alimentos de Cataluña."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "70ae0376ae5c",
+  "fuente": "pp",
+  "fecha": "2026-11-25",
+  "hora": "17:30",
+  "persona": "",
+  "titulo": "De los Santos visita el Centro de Educación Especial de la Fundación Asilo de Torrelavega, así como su centro infantil, junto al portavoz del PP de Torrelavega, Miguel Angel Vargas."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "92dfa70dd00c",
+  "fuente": "pp",
+  "fecha": "2026-11-25",
+  "hora": "18:00",
+  "persona": "",
+  "titulo": "Juan Bravo interviene en el cierre de campaña provincial con el presidente del PP de Andalucía, Juanma Moreno"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "3532f90048d3",
+  "fuente": "pp",
+  "fecha": "2026-11-25",
+  "hora": "18:00",
+  "persona": "Manuel Serrano",
+  "titulo": "Núñez, junto a la candidata al Congreso por Madrid, Cayetana Álvarez de Toledo; el alcalde de Albacete, Manuel Serrano; y el cabeza de lista a las generales por la provincia de Albacete, Francisco Navarro; participan en un acto público."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "02d97887e299",
+  "fuente": "pp",
+  "fecha": "2026-11-25",
+  "hora": "19:00",
+  "persona": "Margarita del Cid",
+  "titulo": "Elías Bendodo, la alcaldesa de Torremolinos y candidata al Senado, Margarita del Cid; y la alcaldesa de Mijas, Ana Carmen Mata; participan en un acto público de campaña con motivo de la inauguración de la nueva sede del PP de Mijas."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "a3ec3b082377",
+  "fuente": "pp",
+  "fecha": "2026-11-25",
+  "hora": "19:00",
+  "persona": "",
+  "titulo": "Carmen Fúnez interviene en un acto junto a la candidata Raquel Jurado y la alcaldesa del municipio, Encarnación Medina."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "d7ade9ff50d3",
+  "fuente": "pp",
+  "fecha": "2026-11-25",
+  "hora": "19:00",
+  "persona": "Ignacio Dancausa",
+  "titulo": "El presidente nacional de Nuevas Generaciones, Ignacio Dancausa; junto al presidente del PP-Aragón, Jorge Azcón; participa en el mitin de Huesca; en el que también interviene a la candidata al Congreso, Ana Alós."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "f38b7df903a5",
+  "fuente": "pp",
+  "fecha": "2026-11-25",
+  "hora": "19:00",
+  "persona": "Alfonso Fernández Mañueco",
+  "titulo": "El presidente del PP de Castilla y León, Alfonso Fernández Mañueco, clausura un acto público, junto a la presidenta provincial del PP, Paloma Sanz; y los cabezas de lista al Senado y al Congreso, Juan José Sanz Vitorio y Pablo Pérez."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "125e5ba18b4e",
+  "fuente": "pp",
+  "fecha": "2026-11-25",
+  "hora": "19:00",
+  "persona": "Alfonso Rueda",
+  "titulo": "El presidente del PPdeG, Alfonso Rueda, participa en un mitin"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "91881d00c513",
+  "fuente": "pp",
+  "fecha": "2026-11-25",
+  "hora": "19:00",
+  "persona": "Isabel Díaz Ayuso",
+  "titulo": "La presidenta del PP de Madrid, Isabel Díaz Ayuso, participa en un mitin con afiliados y simpatizantes en Alcorcón, junto a la candidata al Senado, Inma Sanz. El acto contará también con las intervenciones del portavoz local en el Ayuntamiento y candidato al Congreso, Roberto Marín Vergara; y el presidente de NNGG Madrid, Álvaro Picazo."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "6f79338eb8bf",
+  "fuente": "pp",
+  "fecha": "2026-11-25",
+  "hora": "19:20",
+  "persona": "",
+  "titulo": "Núñez será entrevistado en La Brújula de CLM de Ondacero"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "f7c067833eed",
+  "fuente": "pp",
+  "fecha": "2026-11-25",
+  "hora": "19:30",
+  "persona": "",
+  "titulo": "Ester Muñoz participa en una reunión con alcaldes del Partido Popular."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "4d72d167ea11",
+  "fuente": "pp",
+  "fecha": "2026-11-25",
+  "hora": "19:30",
+  "persona": "Alicia García",
+  "titulo": "La portavoz del PP en el Senado, Alicia García, interviene en un mitin en Candeleda junto al presidente del PP de Ávila y candidato al Senado, Carlos García; y el candidato del PP al Congreso, Héctor Palencia."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "cc84c2d0e5a3",
+  "fuente": "pp",
+  "fecha": "2026-11-25",
+  "hora": "19:30",
+  "persona": "Ángela Pumariega",
+  "titulo": "Álvaro Queipo participa en un acto público con la candidata al Congreso de los Diputados, Ángela Pumariega; y con el alcalde de Castrillón, Eloy Alonso."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "44340a874634",
+  "fuente": "pp",
+  "fecha": "2026-11-25",
+  "hora": "20:00",
+  "persona": "",
+  "titulo": "Cuca Gamarra asiste a la entrega de los Premios Valores de la COPE Rioja"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "ec1b99052aa2",
+  "fuente": "pp",
+  "fecha": "2026-11-25",
+  "hora": "20:00",
+  "persona": "",
+  "titulo": "De los Santos clausura un mitin junto a la presidenta de Cantabria y del PP regional, María José Sáenz de Buruaga."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "57225f856352",
+  "fuente": "pp",
+  "fecha": "2026-11-25",
+  "hora": "21:00",
+  "persona": "José Antonio Martín Buro",
+  "titulo": "Núñez, junto a la candidata número uno a las generales por la provincia de Cuenca, Raquel Oliver; el presidente del PP de Cuenca, José Antonio Martín Buro; y la presidenta del GMPP, Beatriz Jiménez; mantienen un encuentro con interventores y apoderados."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T05:56:59+00:00",
+  "id": "06eaf4450600",
+  "fuente": "pp",
+  "fecha": "2026-11-25",
+  "hora": "22:00",
+  "persona": "Alberto Núñez Feijóo",
+  "titulo": "El presidente del PP y candidato a la Presidencia del Gobierno, Alberto Núñez Feijóo, participa en el ‘debate a cuatro’, que organiza la Academia de Televisión y de las Ciencias y las Artes del Audiovisual."
+ },
+ {
+  "tipo": "alta",
   "momento": "2026-11-25T21:54:31+00:00",
   "id": "220499076bf1",
   "fuente": "infobae_efe",
@@ -4236,775 +5006,5 @@
   "hora": "12:30",
   "persona": "",
   "titulo": "Paco Núñez mantiene un encuentro con empresarios del calzado de la localidad."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "8e5e77ccd1c0",
-  "fuente": "pp",
-  "fecha": "2026-11-24",
-  "hora": "12:45",
-  "persona": "",
-  "titulo": "Presidente del Partido Popular de Castilla y León, Alfonso Fernández Mañueco, clausurará mañana en Palencia, un acto electoral con alcaldesas y mujeres portavoces. En ese acto también intervendrán la Presidenta provincial del PP, Ángeles Armiséns y la cabeza de lista al Congreso Milagros Marcos"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "b798a70ea572",
-  "fuente": "pp",
-  "fecha": "2026-11-24",
-  "hora": "13:00",
-  "persona": "Ignacio Dancausa",
-  "titulo": "El presidente de Nuevas Generaciones, Ignacio Dancausa, realiza una entrevista en Radio Matarraña."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "6705a2870a7d",
-  "fuente": "pp",
-  "fecha": "2026-11-24",
-  "hora": "13:00",
-  "persona": "",
-  "titulo": "Sergio Sayas ofrece declaraciones sobre la A15."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "696dadf45c5d",
-  "fuente": "pp",
-  "fecha": "2026-11-24",
-  "hora": "13:30",
-  "persona": "Dolors Montserrat",
-  "titulo": "La vicepresidenta del Grupo PPE en el Parlamento Europeo, Dolors Montserrat, ofrece una rueda de prensa tras la aprobación en la Eurocámara del paquete farmacéutico europeo, del que ha sido ponente."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "5dbf9b5394bd",
-  "fuente": "pp",
-  "fecha": "2026-11-24",
-  "hora": "16:15",
-  "persona": "",
-  "titulo": "Paco Núñez, junto al alcalde de la ciudad, José Julián Gregorio; mantienen un coloquio con empresarios de la ciudad. Al inicio atenderán a los medios de comunicación."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "0abbd697219e",
-  "fuente": "pp",
-  "fecha": "2026-11-24",
-  "hora": "16:30",
-  "persona": "",
-  "titulo": "Jaime de los Santos es entrevistado en Herrera en COPE, de COPE Asturias"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "3916cb027c08",
-  "fuente": "pp",
-  "fecha": "2026-11-24",
-  "hora": "16:30",
-  "persona": "Alberto Nadal",
-  "titulo": "El vicesecretario de Economía y Desarrollo Sostenible del Partido Popular, Alberto Nadal, interviene en un acto con empresarios, autónomos y PYMES, junto al presidente de Nuevas Generaciones, Ignacio Dancausa."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "dda841ae9381",
-  "fuente": "pp",
-  "fecha": "2026-11-24",
-  "hora": "16:45",
-  "persona": "",
-  "titulo": "Jaime de los Santos se reúne con representantes de la Asociación para la Prevención, Reinserción y Atención a la Mujer Prostituida (APRAMP)."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "538fcc8cf351",
-  "fuente": "pp",
-  "fecha": "2026-11-24",
-  "hora": "17:00",
-  "persona": "Juan Bravo",
-  "titulo": "El vicesecretario de Hacienda, Vivienda e Infraestructuras, Juan Bravo, participa en el encuentro-coloquio con jóvenes “Lideremos”."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "7da844560dea",
-  "fuente": "pp",
-  "fecha": "2026-11-24",
-  "hora": "17:00",
-  "persona": "",
-  "titulo": "Sergio Sayas acude a la carpa informativa de la coalición UPNPP."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "aca3fb7cd6d6",
-  "fuente": "pp",
-  "fecha": "2026-11-24",
-  "hora": "17:20",
-  "persona": "Ester Muñoz",
-  "titulo": "La portavoz de campaña del PP y del Grupo Parlamentario Popular en el Congreso, Ester Muñoz, realiza un paseo por la ciudad junto al expresidente del Gobierno, José María Aznar; y al presidente de la gestora de León, Juan Carlos Suárez-Quiñones."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "6e51c001708f",
-  "fuente": "pp",
-  "fecha": "2026-11-24",
-  "hora": "18:00",
-  "persona": "",
-  "titulo": "Paco Núñez será entrevistado en El Archivo de Talavera."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "e7cf4ac80889",
-  "fuente": "pp",
-  "fecha": "2026-11-24",
-  "hora": "18:15",
-  "persona": "Sofía Acedo",
-  "titulo": "La coordinadora de Igualdad del PP, Sofía Acedo, ofrece declaraciones a los medios acompañada por Jaime de los Santos, antes de asistir junto a una delegación de diputados y senadores a la Manifestación del 25N con motivo del Día Internacional de la Eliminación de la Violencia contra la Mujer, convocada por el Movimiento Feminista de Madrid y el Foro de Madrid."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "68acfd4df68e",
-  "fuente": "pp",
-  "fecha": "2026-11-24",
-  "hora": "18:30",
-  "persona": "Alfonso Fernández Mañueco",
-  "titulo": "Alicia García interviene en un mitin con el presidente del PP de Castilla y León, Alfonso Fernández Mañueco; el presidente del PP de Ávila y candidato al Senado, Carlos García; y el candidato del PP al Congreso, Héctor Palencia."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "2892d8041dce",
-  "fuente": "pp",
-  "fecha": "2026-11-24",
-  "hora": "18:30",
-  "persona": "",
-  "titulo": "Mañueco viajará a Ávila para clausurar un acto electoral junto al Presidente provincial, Carlos García y los cadidatos al Senado y al Congreso, Alicia García y Héctor Palencia."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "3dbfa4353168",
-  "fuente": "pp",
-  "fecha": "2026-11-24",
-  "hora": "18:35",
-  "persona": "",
-  "titulo": "Ester Muñoz interviene en un acto público del PP, José María Aznar y Juan Carlos Suárez-Quiñones."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "9430addf5913",
-  "fuente": "pp",
-  "fecha": "2026-11-24",
-  "hora": "18:45",
-  "persona": "Alfonso Rueda",
-  "titulo": "El presidente del PPdeG, Alfonso Rueda, realiza un paseo por el municipio. Posteriormente, mantendrá un encuentro con representantes de la Asociación de Jubilados y Pensionistas de Barbadás."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "556ab8781606",
-  "fuente": "pp",
-  "fecha": "2026-11-24",
-  "hora": "19:00",
-  "persona": "Miguel Tellado",
-  "titulo": "El secretario general del Partido Popular, Miguel Tellado, participa en un acto de campaña en Sevilla, junto al vicesecretario de Hacienda, Vivienda e Infraestructuras Juan Bravo."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "81c350dc1819",
-  "fuente": "pp",
-  "fecha": "2026-11-24",
-  "hora": "19:00",
-  "persona": "",
-  "titulo": "El presidente del PP de Aragón, participa en un mitin, junto a la candidata al Congreso por Zaragoza, Rocío Dívar."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "aa78e2ea91ee",
-  "fuente": "pp",
-  "fecha": "2026-11-24",
-  "hora": "19:00",
-  "persona": "Javier De Andrés",
-  "titulo": "El presidente del PP del País Vasco, Javier De Andrés, participa en la ofrenda floral y concentración que organiza la Asociación Víctimas del Terrorismo junto con la Asociación Plataforma de Apoyo a las Víctimas del Terrorismo (APAVT), en recuerdo de las víctimas del terrorismo."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "de60563edb2c",
-  "fuente": "pp",
-  "fecha": "2026-11-24",
-  "hora": "19:30",
-  "persona": "Alberto Núñez Feijóo",
-  "titulo": "El presidente del Partido Popular y candidato a la Presidencia del Gobierno, Alberto Núñez Feijóo; y la presidenta de la Comunidad de Madrid y del PP regional, Isabel Díaz Ayuso; clausuran un mitin, en el que también intervendrán la candidata número 2 al Congreso por Madrid, Cayetana Álvarez de Toledo; y el alcalde de la capital, José Luis MartínezAlmeida."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "d78cf48fedc3",
-  "fuente": "pp",
-  "fecha": "2026-11-24",
-  "hora": "20:00",
-  "persona": "",
-  "titulo": "Carmen Fúnez interviene en el mitin del PP junto al presidente provincial del partido Miguel Ángel Valverde; y el alcalde del municipio, Leopoldo Sierra."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "f54ab38a4839",
-  "fuente": "pp",
-  "fecha": "2026-11-24",
-  "hora": "20:00",
-  "persona": "Alfredo Canteli",
-  "titulo": "Álvaro Queipo, los candidatos al Congreso, Ángela Pumariega Mario Arias; y el alcalde de Oviedo, Alfredo Canteli, participan en un acto público"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "7503c095ac6a",
-  "fuente": "pp",
-  "fecha": "2026-11-24",
-  "hora": "20:30",
-  "persona": "Patricia Navarro",
-  "titulo": "Elías Bendodo, junto a la presidenta del PP de Málaga, Patricia Navarro; y el candidato al Senado y alcalde del municipio, Francisco Salado; participan en un acto público."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "6cb27656c9a9",
-  "fuente": "pp",
-  "fecha": "2026-11-24",
-  "hora": "20:30",
-  "persona": "",
-  "titulo": "Cuca Gamarra participa una reunión con afiliados y simpatizantes de la comarca junto al presidente del PP de La Rioja, Gonzalo Capellán."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "cf03a7860346",
-  "fuente": "pp",
-  "fecha": "2026-11-24",
-  "hora": "20:30",
-  "persona": "Alfonso Rueda",
-  "titulo": "El presidente del PPdeG, Alfonso Rueda, participa en un mitin."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "fcf0ad6f50b9",
-  "fuente": "pp",
-  "fecha": "2026-11-24",
-  "hora": "20:30",
-  "persona": "Fernando López Miras",
-  "titulo": "El presidente del Partido Popular de la Región de Murcia, Fernando López Miras; el secretario general del PP de la Región, José Miguel Luengo; la candidata al Congreso, Miriam Guardiola; y el candidato al Senado, Antonio Luengo participan en un mitin electoral en San Javier"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "c20b19fd3211",
-  "fuente": "pp",
-  "fecha": "2026-11-24",
-  "hora": "21:00",
-  "persona": "",
-  "titulo": "Juan Bravo mantiene un encuentro con miembros de Nuevas Generaciones de la provincia."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "1500dda9126d",
-  "fuente": "pp",
-  "fecha": "2026-11-24",
-  "hora": "21:00",
-  "persona": "",
-  "titulo": "Cuca Gamarra participa en el debate a cuatro de La 7 de La Rioja."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "fb042fc8f822",
-  "fuente": "pp",
-  "fecha": "2026-11-24",
-  "hora": "21:15",
-  "persona": "Cuca Gamarra",
-  "titulo": "La vicesecretaria de Regeneración Institucional, Cuca Gamarra, atiende a los medios antes de su reunión sectorial con mujeres por el Día Internacional de la Eliminación de la Violencia contra la Mujer."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T11:40:13+00:00",
-  "id": "0b03bfef5bc4",
-  "fuente": "moncloa",
-  "fecha": "2026-11-24",
-  "hora": "09:00",
-  "persona": "Pedro Sánchez",
-  "titulo": "Es entrevistado en el programa 'Las mañanas de RNE'."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T11:40:13+00:00",
-  "id": "2c29cfc9bb41",
-  "fuente": "moncloa",
-  "fecha": "2026-11-24",
-  "hora": "10:00",
-  "persona": "Pedro Sánchez",
-  "titulo": "Preside la reunión del Consejo de Ministros, que se celebra en el Complejo de la Moncloa."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T11:40:13+00:00",
-  "id": "0e48882312a9",
-  "fuente": "moncloa",
-  "fecha": "2026-11-24",
-  "hora": "10:45",
-  "persona": "Pedro Sánchez",
-  "titulo": "Preside el el acto de entrega de la Encomienda de la Orden del Mérito Civil a Nevenka Fernández, en el Complejo de la Moncloa."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T11:40:13+00:00",
-  "id": "154aec481fc2",
-  "fuente": "moncloa",
-  "fecha": "2026-11-24",
-  "hora": "17:00",
-  "persona": "José Manuel Albares",
-  "titulo": "Se reúne con el alcalde de La Línea de la Concepción (Cádiz), José Juan Franco Rodríguez, en la sede del Ayuntamiento."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T11:40:13+00:00",
-  "id": "c50cddfc684e",
-  "fuente": "moncloa",
-  "fecha": "2026-11-24",
-  "hora": "10:00",
-  "persona": "Margarita Robles",
-  "titulo": "Acompaña a S.M. el Rey, que visita el Centro de Inteligencia y Targeting Aeroespacial y el Mando del Espacio, en la Base Aérea de Torrejón (Madrid)."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T11:40:13+00:00",
-  "id": "0031bbc711ce",
-  "fuente": "moncloa",
-  "fecha": "2026-11-24",
-  "hora": "19:00",
-  "persona": "Margarita Robles",
-  "titulo": "Mantiene una reunión con el jefe de Estado Mayor de la Armada, almirante general Antonio Piñeiro Sánchez, en la sede del Ministerio."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T11:40:13+00:00",
-  "id": "66158107faa6",
-  "fuente": "moncloa",
-  "fecha": "2026-11-24",
-  "hora": "21:30",
-  "persona": "Arcadi España",
-  "titulo": "Es entrevistado en el programa 'La última hora', de La Séptima."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T11:40:13+00:00",
-  "id": "85b852c36166",
-  "fuente": "moncloa",
-  "fecha": "2026-11-24",
-  "hora": "08:00",
-  "persona": "Ángel Víctor Torres",
-  "titulo": "Preside la Comisión Interministerial de Inmigración, en el Complejo de la Moncloa."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T11:40:13+00:00",
-  "id": "9dcd77f9fe33",
-  "fuente": "moncloa",
-  "fecha": "2026-11-24",
-  "hora": "12:30",
-  "persona": "Isabel Rodríguez",
-  "titulo": "Se reúne con la CEO del proyecto Hydnum Steel, Eva Maneiro, en la sede de Llorente y Cuenca, en Madrid."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T11:40:13+00:00",
-  "id": "3ab39a51af3f",
-  "fuente": "moncloa",
-  "fecha": "2026-11-24",
-  "hora": "13:30",
-  "persona": "Pablo Bustinduy",
-  "titulo": "Es entrevistado en el programa 'Al Rojo Vivo', de La Sexta."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T11:40:13+00:00",
-  "id": "ea5e383131bf",
-  "fuente": "moncloa",
-  "fecha": "2026-11-24",
-  "hora": "13:30",
-  "persona": "Ana Redondo",
-  "titulo": "Asiste al pleno del Consejo para la Eliminación de la Discriminación Racial o Étnica (CEDRE), en la sede del Ministerio."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T11:40:13+00:00",
-  "id": "73b274b72529",
-  "fuente": "moncloa",
-  "fecha": "2026-11-25",
-  "hora": "09:00",
-  "persona": "Pedro Sánchez",
-  "titulo": "Es entrevistado en el programa 'La hora de La 1', de TVE."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T11:40:13+00:00",
-  "id": "5729cec3fbfa",
-  "fuente": "moncloa",
-  "fecha": "2026-11-25",
-  "hora": "10:00",
-  "persona": "Carlos Cuerpo",
-  "titulo": "Participa en el acto por el Día Internacional de la Eliminación de la Violencia contra la Mujer, en la subdelegación del Gobierno en Toledo."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T11:40:13+00:00",
-  "id": "ca67be4fa30f",
-  "fuente": "moncloa",
-  "fecha": "2026-11-25",
-  "hora": "19:00",
-  "persona": "Carlos Cuerpo",
-  "titulo": "Preside la entrega de la medalla de oro de la Asociación de técnicos comerciales y economistas del Estado 2026, en la sede del Ministerio de Economía, Comercio y Empresa."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T11:40:13+00:00",
-  "id": "d4422bc2d249",
-  "fuente": "moncloa",
-  "fecha": "2026-11-25",
-  "hora": "18:00",
-  "persona": "José Manuel Albares",
-  "titulo": "Participa en el XI Foro Regional de la Unión por el Mediterráneo (UpM), que se celebra en el Palau de Pedralbes de Barcelona."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T11:40:13+00:00",
-  "id": "b08d12351d2f",
-  "fuente": "moncloa",
-  "fecha": "2026-11-25",
-  "hora": "18:10",
-  "persona": "José Manuel Albares",
-  "titulo": "Recibe a los representantes de los países participantes en el XI Foro Regional de la Unión por el Mediterráneo (UpM), en el Palau de Pedralbes de Barcelona."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T11:40:13+00:00",
-  "id": "d3a7399d3f77",
-  "fuente": "moncloa",
-  "fecha": "2026-11-25",
-  "hora": "18:30",
-  "persona": "José Manuel Albares",
-  "titulo": "Interviene en el segmento de apertura del XI Foro Regional de la Unión por el Mediterráneo (UpM), en el Palau de Pedralbes de Barcelona."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T11:40:13+00:00",
-  "id": "84fd4ed8b90a",
-  "fuente": "moncloa",
-  "fecha": "2026-11-25",
-  "hora": "20:45",
-  "persona": "José Manuel Albares",
-  "titulo": "Participa en la cena de trabajo del XI Foro Regional de la Unión por el Mediterráneo (UpM), en el Palau de Pedralbes de Barcelona."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T11:40:13+00:00",
-  "id": "d96087f26feb",
-  "fuente": "moncloa",
-  "fecha": "2026-11-25",
-  "hora": "11:00",
-  "persona": "Margarita Robles",
-  "titulo": "Acompaña a SS.MM. los Reyes, que visitan la exposición 'Mariana de Austria', junto al presidente federal de la República de Austria, Alexander Van der Bellen, y su esposa Doris Schmidauer, en el Museo Nacional del Prado, en Madrid."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T11:40:13+00:00",
-  "id": "2dece17db232",
-  "fuente": "moncloa",
-  "fecha": "2026-11-25",
-  "hora": "12:45",
-  "persona": "Margarita Robles",
-  "titulo": "Asiste al encuentro de SS.MM. los Reyes con el presidente federal de la República de Austria, Alexander Van der Bellen, en el Palacio de La Zarzuela."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T11:40:13+00:00",
-  "id": "4accc8e75746",
-  "fuente": "moncloa",
-  "fecha": "2026-11-25",
-  "hora": "08:30",
-  "persona": "Jordi Hereu",
-  "titulo": "Es entrevistado en el programa 'Cafè d'idees', de La 2 Cat y Ràdio 4."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T11:40:13+00:00",
-  "id": "d9a65aae6535",
-  "fuente": "moncloa",
-  "fecha": "2026-11-25",
-  "hora": "10:00",
-  "persona": "Luis Planas",
-  "titulo": "Visita la Sociedad Agraria de Transformación (SAT) Daliber, pionera en agricultura ecológica, en Dalías (Almería)."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T11:40:13+00:00",
-  "id": "54463b6617db",
-  "fuente": "moncloa",
-  "fecha": "2026-11-25",
-  "hora": "11:00",
-  "persona": "Luis Planas",
-  "titulo": "Visita un invernadero de pimientos, en Dalías (Almería)."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T11:40:13+00:00",
-  "id": "af1a761fcd0a",
-  "fuente": "moncloa",
-  "fecha": "2026-11-25",
-  "hora": "12:00",
-  "persona": "Luis Planas",
-  "titulo": "Visita la planta desalobradora de la Balsa del Sapo, en Las Norias de Daza, en El Ejido (Almería)."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T11:40:13+00:00",
-  "id": "117c73d6fe57",
-  "fuente": "moncloa",
-  "fecha": "2026-11-25",
-  "hora": "12:30",
-  "persona": "Isabel Rodríguez",
-  "titulo": "Es entrevistada en 'Cadena SER Ciudad Real'."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T11:40:13+00:00",
-  "id": "33d4c62e5d3e",
-  "fuente": "moncloa",
-  "fecha": "2026-11-25",
-  "hora": "13:00",
-  "persona": "Isabel Rodríguez",
-  "titulo": "Es entrevistada en 'Onda Cero Ciudad Real'."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T11:40:13+00:00",
-  "id": "8b894bcdb49c",
-  "fuente": "moncloa",
-  "fecha": "2026-11-25",
-  "hora": "12:00",
-  "persona": "Ana Redondo",
-  "titulo": "Interviene en el acto conmemorativo por el Día Internacional de la Eliminación de la Violencia contra la Mujer, en Teatros Luchana, en Madrid."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T11:40:13+00:00",
-  "id": "7810f7b135e9",
-  "fuente": "acn",
-  "fecha": "2026-11-25",
-  "hora": "04:00",
-  "persona": "",
-  "titulo": "L'ACN fa un repàs de l'evolució demogràfica de Catalunya durant l'etapa Sánchez"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T11:40:13+00:00",
-  "id": "b132a7150604",
-  "fuente": "acn",
-  "fecha": "2026-11-25",
-  "hora": "04:00",
-  "persona": "",
-  "titulo": "L'ACN visita els treballs per permetre l'entrada d'aigua del mar als desguassos de la xarxa de reg del delta de l'Ebre en el marc de la lluita contra la plaga del caragol maçana"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T11:40:13+00:00",
-  "id": "fb24d2e1f785",
-  "fuente": "acn",
-  "fecha": "2026-11-25",
-  "hora": "04:30",
-  "persona": "",
-  "titulo": "L'ACN parla amb el candidat d'Alhora al 29-N sobre el seu programa i les seves expectatives"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T11:40:13+00:00",
-  "id": "cde4559d0b93",
-  "fuente": "acn",
-  "fecha": "2026-11-25",
-  "hora": "04:30",
-  "persona": "",
-  "titulo": "L'ACN parla amb el candidat de Democràcia 21 per Barcelona al 29-N sobre el seu programa i les seves expectatives"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T11:40:13+00:00",
-  "id": "652860be8785",
-  "fuente": "acn",
-  "fecha": "2026-11-25",
-  "hora": "05:00",
-  "persona": "",
-  "titulo": "L'ACN analitza els lemes i els cartells electorals dels principals partits que e spresenten al 29-N"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T11:40:13+00:00",
-  "id": "23395db31646",
-  "fuente": "acn",
-  "fecha": "2026-11-25",
-  "hora": "05:00",
-  "persona": "",
-  "titulo": "L'ACN avança les estrenes cinematogràfiques i en plataformes de la setmana"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T11:40:13+00:00",
-  "id": "ec883214d579",
-  "fuente": "acn",
-  "fecha": "2026-11-25",
-  "hora": "09:45",
-  "persona": "",
-  "titulo": "L’ICAB presenta les dades d’actuacions d’ofici en VIGE i violència masclista dels primers deu mesos del 2026"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T11:40:13+00:00",
-  "id": "91e83d6d192d",
-  "fuente": "acn",
-  "fecha": "2026-11-25",
-  "hora": "10:00",
-  "persona": "",
-  "titulo": "El Teatre Lliure presenta 'EPITAP', de Xavier Bobés Solà"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T11:40:13+00:00",
-  "id": "439d49c26263",
-  "fuente": "acn",
-  "fecha": "2026-11-25",
-  "hora": "10:00",
-  "persona": "",
-  "titulo": "L’Observatori DESCA presenta el primer informe amb dades que demostren la discriminació de la “prioritat nacional” en habitatge"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T11:40:13+00:00",
-  "id": "c8d5db525989",
-  "fuente": "acn",
-  "fecha": "2026-11-25",
-  "hora": "11:00",
-  "persona": "",
-  "titulo": "L’IEC presenta les incorporacions al DIEC del 2026"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T11:40:13+00:00",
-  "id": "cee9e1e2420b",
-  "fuente": "acn",
-  "fecha": "2026-11-25",
-  "hora": "11:00",
-  "persona": "",
-  "titulo": "Atenció als mitjans de CCOO pel 25-N"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T11:40:13+00:00",
-  "id": "db5b2697d606",
-  "fuente": "acn",
-  "fecha": "2026-11-25",
-  "hora": "11:00",
-  "persona": "",
-  "titulo": "La Villarroel presenta l'obra 'El niu'"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T11:40:13+00:00",
-  "id": "f9f438c872c1",
-  "fuente": "acn",
-  "fecha": "2026-11-25",
-  "hora": "11:00",
-  "persona": "",
-  "titulo": "El CCCB presenta l’exposició 'L’era atòmica'"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T11:40:13+00:00",
-  "id": "eec32ff743af",
-  "fuente": "acn",
-  "fecha": "2026-11-25",
-  "hora": "11:00",
-  "persona": "",
-  "titulo": "El president de Junts, Carles Puigdemont, ofereix una roda de premsa a Brussel·les després de l’aplicació definitiva de l’amnistia"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T11:40:13+00:00",
-  "id": "e1453ad7118f",
-  "fuente": "acn",
-  "fecha": "2026-11-25",
-  "hora": "11:30",
-  "persona": "",
-  "titulo": "El Departament d'Agricultura organitza un tast a cegues d'olis per a periodistes i informa de les novetats de la tercera edició dels Premis Nacionals als Millors Olis d’Oliva Verge Extra de Catalunya"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T11:40:13+00:00",
-  "id": "92df2ce554fa",
-  "fuente": "acn",
-  "fecha": "2026-11-25",
-  "hora": "12:00",
-  "persona": "",
-  "titulo": "Acte institucional del 25-N"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T11:40:13+00:00",
-  "id": "107c5311730b",
-  "fuente": "acn",
-  "fecha": "2026-11-25",
-  "hora": "12:15",
-  "persona": "",
-  "titulo": "El president del PPC, Alejandro Fernández, visita Esplugues de Llobregat i fa declaracions"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T11:40:13+00:00",
-  "id": "49a6734c5705",
-  "fuente": "acn",
-  "fecha": "2026-11-25",
-  "hora": "12:30",
-  "persona": "",
-  "titulo": "Presentació dels resultats de l'aplicació Linguatec-IA"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T11:40:13+00:00",
-  "id": "1cb3e62c2a26",
-  "fuente": "acn",
-  "fecha": "2026-11-25",
-  "hora": "12:50",
-  "persona": "",
-  "titulo": "PSC, Junts, ERC, Comuns i CUP convoquen una roda de premsa amb el col·lectiu de Dones Juristes amb motiu del 25-N"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T11:40:13+00:00",
-  "id": "59dbb7cb4bd8",
-  "fuente": "acn",
-  "fecha": "2026-11-25",
-  "hora": "18:30",
-  "persona": "",
-  "titulo": "Manifestació pel 25-N"
  }
 ]
