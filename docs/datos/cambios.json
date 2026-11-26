@@ -1,6 +1,90 @@
 [
  {
   "tipo": "alta",
+  "momento": "2026-11-26T14:17:05+00:00",
+  "id": "6bc595dc6c3d",
+  "fuente": "parlament",
+  "fecha": "2026-11-27",
+  "hora": "09:00",
+  "persona": "Josep Rull",
+  "titulo": "El president, Josep Rull, fa una salutació als estudiants universitaris participants en la National Model United Nations (NMUN) Spain 2026"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-26T14:17:05+00:00",
+  "id": "a2b646fe8296",
+  "fuente": "parlament",
+  "fecha": "2026-11-27",
+  "hora": "18:30",
+  "persona": "Josep Rull",
+  "titulo": "El president, Josep Rull, assisteix i clou l'acte de lliurament del primer guardó Genet d'Honor de la Vila de Guissona"
+ },
+ {
+  "tipo": "modificacion",
+  "momento": "2026-11-26T14:17:05+00:00",
+  "id": "ffe7e4b915fc",
+  "fuente": "diba",
+  "fecha": "2026-12-01",
+  "hora": "17:00",
+  "persona": "",
+  "titulo": "Assajar museus (im)possibles per a patrimonis colonials al Palau Güell",
+  "antes": {
+   "hora": "17:00",
+   "lugar": "Palau Güell. C/ Nou de la Rambla, 3-5. Barcelona, Barcelona"
+  },
+  "despues": {
+   "hora": "17:00",
+   "lugar": "Palau Güell. C/ Nou de la Rambla, 3-5. Barcelona, Barcelona"
+  }
+ },
+ {
+  "tipo": "modificacion",
+  "momento": "2026-11-26T14:17:05+00:00",
+  "id": "817f3d215458",
+  "fuente": "diba",
+  "fecha": "2027-02-23",
+  "hora": "10:00",
+  "persona": "",
+  "titulo": "Espai claustre amb Ingrid Guardiola. La gestió cultural des del nucli a la perifèria. Discursos públics en temps d'hiperconnectivitat",
+  "antes": {
+   "hora": "10:00",
+   "lugar": null
+  },
+  "despues": {
+   "hora": "10:00",
+   "lugar": "Pati Manning (CERC) - c. Montalegre, 7 / Barcelona, Barcelona"
+  }
+ },
+ {
+  "tipo": "modificacion",
+  "momento": "2026-11-26T14:17:05+00:00",
+  "id": "c778446cfdac",
+  "fuente": "diba",
+  "fecha": "2027-02-09",
+  "hora": "10:00",
+  "persona": "",
+  "titulo": "L'ODS 18: Cultura i drets lingüístics. En què consisteix i com poder treballar-lo",
+  "antes": {
+   "hora": "10:00",
+   "lugar": "Videoformació (Plataforma ZOOM)"
+  },
+  "despues": {
+   "hora": "10:00",
+   "lugar": "Videoformació (ZOOM)"
+  }
+ },
+ {
+  "tipo": "baja",
+  "momento": "2026-11-26T14:17:05+00:00",
+  "id": "9f7b981b72a2",
+  "fuente": "ajbcn",
+  "fecha": "2026-11-26",
+  "hora": "13:00",
+  "persona": "",
+  "titulo": "Jaume Collboni rep els guanyadors i guanyadores dels Premis Ondas 2026"
+ },
+ {
+  "tipo": "alta",
   "momento": "2026-11-26T11:55:26+00:00",
   "id": "77acacbf81fb",
   "fuente": "ajbcn",
@@ -4946,65 +5030,5 @@
   "hora": "11:00",
   "persona": "",
   "titulo": "Cuca Gamarra participa en un acto con la Red Vecinal contra la Violencia de Género."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "dcac1893d257",
-  "fuente": "pp",
-  "fecha": "2026-11-24",
-  "hora": "11:00",
-  "persona": "",
-  "titulo": "Queipo participa. junto al candidato al Senado, Silverio Argüelles; y diputados autonómicos en el acto institucional con motivo al Día Internacional de la Eliminación de la Violencia contra las Mujeres"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "c7f1d58f352d",
-  "fuente": "pp",
-  "fecha": "2026-11-24",
-  "hora": "12:00",
-  "persona": "Alma Ezcurra",
-  "titulo": "La vicesecretaria de Coordinación Sectorial, Alma Ezcurra, atiende a los medios, junto al presidente del PP de Aragón, Jorge Azcón; y el cabeza de lista al Congreso por Teruel, Alberto Herrero."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "15dbd95ea0aa",
-  "fuente": "pp",
-  "fecha": "2026-11-24",
-  "hora": "12:00",
-  "persona": "",
-  "titulo": "Cuca Gamarra asiste al acto institucional con motivo del Día Internacional de la Eliminación de la Violencia contra la Mujer."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "f181e222a576",
-  "fuente": "pp",
-  "fecha": "2026-11-24",
-  "hora": "12:00",
-  "persona": "Alberto Nadal",
-  "titulo": "El vicesecretario de Economía y Desarrollo Sostenible del Partido Popular, Alberto Nadal, visita a la planta de biogás en Valderrobres, junto al presidente de Nuevas Generaciones, Ignacio Dancausa."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "79d02dd516e3",
-  "fuente": "pp",
-  "fecha": "2026-11-24",
-  "hora": "12:00",
-  "persona": "",
-  "titulo": "Paco Núñez asiste al acto institucional con motivo del 25-N."
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T12:22:15+00:00",
-  "id": "1aa0bb64da59",
-  "fuente": "pp",
-  "fecha": "2026-11-24",
-  "hora": "12:15",
-  "persona": "Elías Bendodo",
-  "titulo": "El vicesecretario de Política Autonómica, Municipal y Análisis Electoral, Elías Bendodo, interviene junto al presidente de la ciudad autónoma de Ceuta, Juan Jesús Vivas."
  }
 ]
