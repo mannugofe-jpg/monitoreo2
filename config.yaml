@@ -25,7 +25,7 @@ temas:
     - depuradora
     - dessaladora
     - desaladora
-    - agencia catalana de l aigua
+    - ACA
     - transvasament
     - trasvase
   residuos:
@@ -73,6 +73,13 @@ temas:
     - comissio
     - comision informativa
     - junta de portaveus
+  rueda_prensa:
+    - roda de premsa
+    - rueda de prensa
+    - compareixenca
+    - comparecencia
+    - convocatoria de premsa
+    - convocatoria de prensa
 
 fuentes:
   - clave: moncloa
@@ -112,7 +119,7 @@ fuentes:
     url: https://www.acn.cat/previsions
     activa: true
     personas: []
-    temas: [agua, residuos, reciclaje, energia, plenos]
+    temas: [agua, residuos, reciclaje, energia, plenos, rueda_prensa]
 
   # Agenda diaria de EFE. La URL de cada fecha se genera en infobae_efe.py.
   - clave: infobae_efe
@@ -121,7 +128,7 @@ fuentes:
     url: https://www.infobae.com/espana/agencias/
     activa: true
     personas: []
-    temas: [agua, residuos, reciclaje, energia, plenos]
+    temas: [agua, residuos, reciclaje, energia, plenos, rueda_prensa]
 
   # Su web tiene Disallow en el robots.txt, así que no se raspa. Se lee
   # el conjunto de datos abiertos que publican ellos mismos
