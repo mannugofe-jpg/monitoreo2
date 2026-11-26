@@ -73,6 +73,9 @@ temas:
     - comissio
     - comision informativa
     - junta de portaveus
+  # Sin usar a propósito. Una rueda de prensa es un formato, no un asunto,
+  # y marcaba cualquier cosa, desde deporte hasta una ópera. Se deja aquí
+  # definido por si algún día interesa recuperarlo en alguna fuente
   rueda_prensa:
     - roda de premsa
     - rueda de prensa
@@ -119,7 +122,7 @@ fuentes:
     url: https://www.acn.cat/previsions
     activa: true
     personas: []
-    temas: [agua, residuos, reciclaje, energia, plenos, rueda_prensa]
+    temas: [agua, residuos, reciclaje, energia, plenos]
 
   # Agenda diaria de EFE. La URL de cada fecha se genera en infobae_efe.py.
   - clave: infobae_efe
@@ -128,7 +131,7 @@ fuentes:
     url: https://www.infobae.com/espana/agencias/
     activa: true
     personas: []
-    temas: [agua, residuos, reciclaje, energia, plenos, rueda_prensa]
+    temas: [agua, residuos, reciclaje, energia, plenos]
 
   # Su web tiene Disallow en el robots.txt, así que no se raspa. Se lee
   # el conjunto de datos abiertos que publican ellos mismos
@@ -181,7 +184,7 @@ fuentes:
     url: https://www.psoe.es/agenda/
     activa: true
     personas: []
-    temas: [agua, residuos, reciclaje, energia, plenos, rueda_prensa]
+    temas: [agua, residuos, reciclaje, energia, plenos]
 
   - clave: psoe_cef
     nombre: PSOE - Comisión Ejecutiva Federal
@@ -189,7 +192,7 @@ fuentes:
     url: https://www.psoe.es/agenda/
     activa: true
     personas: []
-    temas: [agua, residuos, reciclaje, energia, plenos, rueda_prensa]
+    temas: [agua, residuos, reciclaje, energia, plenos]
 
   - clave: psoe_congreso
     nombre: PSOE - Congreso
@@ -197,7 +200,7 @@ fuentes:
     url: https://www.psoe.es/agenda/
     activa: true
     personas: []
-    temas: [agua, residuos, reciclaje, energia, plenos, rueda_prensa]
+    temas: [agua, residuos, reciclaje, energia, plenos]
 
   - clave: psoe_senado
     nombre: PSOE - Senado
@@ -205,4 +208,4 @@ fuentes:
     url: https://www.psoe.es/agenda/
     activa: true
     personas: []
-    temas: [agua, residuos, reciclaje, energia, plenos, rueda_prensa]
+    temas: [agua, residuos, reciclaje, energia, plenos]
