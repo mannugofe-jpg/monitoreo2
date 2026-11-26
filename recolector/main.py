@@ -32,9 +32,19 @@ def main(argv: list[str] | None = None) -> int:
     p.add_argument("--datos", default=str(DATOS))
     p.add_argument("--purgar-dias", type=int, default=60)
     p.add_argument("--config", default=None)
+    p.add_argument("--solo-reclasificar", action="store_true",
+                   help="aplica los filtros de config.yaml a lo ya guardado "
+                        "y no visita ninguna web")
     args = p.parse_args(argv)
 
     clasificador = Clasificador(args.config) if args.config else Clasificador()
+
+    if args.solo_reclasificar:
+        almacen = Almacen(Path(args.datos))
+        tocados = almacen.reclasificar(clasificador)
+        print(f"Reclasificados {tocados} actos con la configuración actual.")
+        return 0
+
     activas = [c for c in clasificador.claves_activas() if c in FUENTES]
     claves = args.fuente or activas or list(FUENTES)
     desconocidas = [c for c in claves if c not in FUENTES]
@@ -63,6 +73,13 @@ def main(argv: list[str] | None = None) -> int:
     cambios = almacen.fusionar(recolectados, ambito)
     if args.purgar_dias:
         almacen.purgar(args.purgar_dias)
+
+    # Lo guardado de días anteriores conserva la clasificación con la que se
+    # leyó. Se repasa entero para que un cambio en config.yaml se note en
+    # todo, y no solo en lo que se acaba de recoger
+    tocados = almacen.reclasificar(clasificador)
+    if tocados:
+        print(f"Reclasificados {tocados} actos con la configuración actual.")
 
     altas = sum(1 for c in cambios if c["tipo"] == "alta")
     mods = sum(1 for c in cambios if c["tipo"] == "modificacion")

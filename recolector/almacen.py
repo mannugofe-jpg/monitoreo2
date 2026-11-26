@@ -133,6 +133,37 @@ class Almacen:
             encoding="utf-8",
         )
 
+    def reclasificar(self, clasificador) -> int:
+        """Vuelve a aplicar los filtros a todo lo ya guardado.
+
+        Hace falta porque los temas y las personas se graban en cada acto
+        cuando se lee, y muchas fuentes solo publican el día en curso, así
+        que un acto de ayer no se vuelve a leer nunca. Sin esto, un cambio
+        en config.yaml solo afectaría a lo nuevo y convivirían dos
+        criterios distintos en la misma pantalla.
+
+        Solo toca la clasificación. No altera el estado del acto, ni sus
+        marcas de tiempo, ni genera entradas en el histórico de cambios.
+        """
+        actos = list(self.cargar().values())
+        if not actos:
+            return 0
+
+        tocados = 0
+        for acto in actos:
+            # Una fuente retirada de la configuración se deja como estaba,
+            # en vez de darla por irrelevante de golpe
+            if acto.fuente not in clasificador.fuentes:
+                continue
+            antes = (acto.temas, acto.personas_vigiladas, acto.relevante)
+            clasificador.clasificar(acto)
+            if (acto.temas, acto.personas_vigiladas, acto.relevante) != antes:
+                tocados += 1
+
+        if tocados:
+            self._guardar(actos, _ahora())
+        return tocados
+
     def purgar(self, dias_atras: int = 60) -> None:
         """Elimina actos muy antiguos para que el fichero no crezca sin fin."""
         limite = (dt.date.today() - dt.timedelta(days=dias_atras)).isoformat()
