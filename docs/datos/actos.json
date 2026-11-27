@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-26T21:50:20+00:00",
- "total": 643,
+ "generado": "2026-11-27T05:59:46+00:00",
+ "total": 746,
  "actos": [
   {
    "fuente": "diba",
@@ -581,7 +581,7 @@
    "id": "0e8c9539f194",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -1075,7 +1075,7 @@
    "id": "d20475d26b3b",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "pp",
@@ -1198,7 +1198,7 @@
    "id": "f847873e34e2",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -2552,7 +2552,7 @@
    "id": "6d094330d02e",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "psoe_general",
@@ -2634,7 +2634,7 @@
    "id": "2aae6af2d2c2",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -3128,7 +3128,7 @@
    "id": "4f3a0b9b472b",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -4270,7 +4270,7 @@
    "id": "dac502eb522d",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -4292,7 +4292,7 @@
    "id": "0c7903371277",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -4336,7 +4336,7 @@
    "id": "ddbdc7436c4f",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "acn",
@@ -5598,7 +5598,7 @@
    "id": "5f7f025b593d",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -5721,7 +5721,7 @@
    "id": "6825797e46d8",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -7332,7 +7332,7 @@
    "id": "3664ee46c0f7",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "acn",
@@ -7448,7 +7448,7 @@
    "id": "67324c3e1549",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T19:53:15+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "moncloa",
@@ -7467,7 +7467,26 @@
    "id": "b7ac279fcc28",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T19:53:15+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "Juan Bravo",
+   "cargo": "El vicesecretario de Hacienda, Vivienda e Infraestructuras",
+   "fecha": "2026-11-26",
+   "titulo": "El vicesecretario de Hacienda, Vivienda e Infraestructuras, Juan Bravo, es entrevistado en directo en el programa “Despierta Andalucía” de Canal Sur.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "08:30",
+   "lugar": null,
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "31af7059ad03",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -7489,7 +7508,7 @@
    "id": "6e98441652d4",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T21:54:31+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -7510,7 +7529,7 @@
    "id": "3678b43a3285",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -7531,7 +7550,7 @@
    "id": "c3f2ee6bdb6a",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -7552,7 +7571,7 @@
    "id": "14e258d721ff",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -7573,7 +7592,7 @@
    "id": "1d78deb096cd",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -7594,7 +7613,26 @@
    "id": "8fec522e4f8b",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-26",
+   "titulo": "Juan Bravo es entrevistado en el programa “La mañana de Andalucía” de Canal Sur Radio.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "09:00",
+   "lugar": null,
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "3d19e9adf3c4",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "moncloa",
@@ -7613,7 +7651,7 @@
    "id": "f00d9724d0e2",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T19:53:15+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -7635,7 +7673,7 @@
    "id": "ac35a92fdae7",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T21:54:31+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -7657,7 +7695,7 @@
    "id": "704f00bde42e",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T21:54:31+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "acn",
@@ -7717,7 +7755,7 @@
    "id": "220499076bf1",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T21:54:31+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -7738,7 +7776,7 @@
    "id": "09d48ef91f7a",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T21:54:31+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -7760,7 +7798,7 @@
    "id": "0dc37aee8ff9",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T21:54:31+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -7782,7 +7820,7 @@
    "id": "5bad810e3801",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T21:54:31+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -7804,7 +7842,7 @@
    "id": "6999b8303e01",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T21:54:31+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "generalitat",
@@ -7848,7 +7886,45 @@
    "id": "5696d81978e4",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "Paco Núñez",
+   "cargo": "El presidente del PP-CLM",
+   "fecha": "2026-11-26",
+   "titulo": "El presidente del PP-CLM, Paco Núñez; junto al presidente del PP de Cuenca, José Antonio Martín-Buro; la cabeza de lista a las generales por la provincia de Cuenca, Raquel Oliver; y la presidenta del GMPP, Beatriz Jiménez, atienden a los medios de comunicación.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "09:30",
+   "lugar": "Cuenca",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "1d98df57aaeb",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-26",
+   "titulo": "Cuca Gamarra interviene en un desayuno informativo electoral.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "09:30",
+   "lugar": "Logroño",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "0ec43c2a9ebe",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -7870,7 +7946,7 @@
    "id": "11eb61188dbb",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T21:54:31+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -7892,7 +7968,7 @@
    "id": "52f86adf131e",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T21:54:31+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "acn",
@@ -7912,6 +7988,25 @@
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T05:56:59+00:00",
    "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "Ester Muñoz",
+   "cargo": "La portavoz de campaña del PP y portavoz del Grupo Popular en el Congreso",
+   "fecha": "2026-11-26",
+   "titulo": "La portavoz de campaña del PP y portavoz del Grupo Popular en el Congreso, Ester Muñoz, atiende a los medios de comunicación.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "09:50",
+   "lugar": "León",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "bd1e3225fb5a",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "psoe_senado",
@@ -7934,7 +8029,7 @@
    "id": "6302d2b4d404",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T17:09:59+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "moncloa",
@@ -7957,7 +8052,7 @@
    "id": "b3c45dc22c1a",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T19:53:15+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "psoe_senado",
@@ -7978,7 +8073,7 @@
    "id": "1d2c9b407199",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T17:09:59+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "parlament",
@@ -8037,7 +8132,7 @@
    "id": "9c35f81fb417",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T19:53:15+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "generalitat",
@@ -8061,6 +8156,25 @@
    "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
   },
   {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-26",
+   "titulo": "Ester Muñoz mantiene una reunión con la Federación Leonesa de Empresario (FELE) y con el Circulo Empresarial Leonés (CEL).",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "10:00",
+   "lugar": "León",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "2fc5fc99dbc1",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
    "fuente": "infobae_efe",
    "organismo": "Agencia EFE",
    "persona": "",
@@ -8080,7 +8194,7 @@
    "id": "b82afd65c589",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T21:54:31+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -8102,7 +8216,7 @@
    "id": "00412b5fb6b7",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T21:54:31+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -8124,7 +8238,7 @@
    "id": "de6ff3777698",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T21:54:31+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -8146,7 +8260,7 @@
    "id": "db8518d47869",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T21:54:31+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -8168,7 +8282,7 @@
    "id": "508922913610",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T21:54:31+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -8190,7 +8304,7 @@
    "id": "d291e60d4235",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T21:54:31+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -8212,7 +8326,7 @@
    "id": "7c552d909e28",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T21:54:31+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -8234,7 +8348,7 @@
    "id": "a736457c6af0",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T21:54:31+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "acn",
@@ -8275,7 +8389,45 @@
    "id": "0f89319da662",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T21:54:31+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "Alberto Nadal",
+   "cargo": "El vicesecretario de Economía y Desarrollo Sostenible del Partido Popular",
+   "fecha": "2026-11-26",
+   "titulo": "El vicesecretario de Economía y Desarrollo Sostenible del Partido Popular, Alberto Nadal, ¡es entrevistado en el programa The pulse with Francine Lacqua! de Bloomberg TV",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "10:30",
+   "lugar": null,
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "ae2761124bfa",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "Alicia García",
+   "cargo": "La portavoz del PP en el Senado",
+   "fecha": "2026-11-26",
+   "titulo": "La portavoz del PP en el Senado, Alicia García, interviene en un desayuno informativo con el presidente de la Junta de Castilla y León, Alfonso Fernández Mañueco. En el acto también participarán y estarán acompañados por miembros de la candidatura del PP al Congreso y al Senado por Ávila.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "10:30",
+   "lugar": null,
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "12a7c6548093",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "moncloa",
@@ -8294,7 +8446,7 @@
    "id": "9eb62bd332e0",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T19:53:15+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "moncloa",
@@ -8313,7 +8465,7 @@
    "id": "4234acc1c0b2",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T19:53:15+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "psoe_senado",
@@ -8334,7 +8486,7 @@
    "id": "e5481c50fe43",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T17:09:59+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "moncloa",
@@ -8356,7 +8508,7 @@
    "id": "bc3f8cac8f78",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T19:53:15+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -8378,7 +8530,7 @@
    "id": "3251199a2ec1",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T21:54:31+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -8400,7 +8552,7 @@
    "id": "29fb31b0a1ca",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T21:54:31+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -8422,7 +8574,45 @@
    "id": "35e125ba33aa",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T21:54:31+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "Sergio Sayas",
+   "cargo": "El presidente del PP de Navarra",
+   "fecha": "2026-11-26",
+   "titulo": "El presidente del PP de Navarra, Sergio Sayas, asiste a las declaraciones a medios de la coalición UPN-PP.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "10:30",
+   "lugar": "Pamplona",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "54e6c2c4a8c7",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-26",
+   "titulo": "Juan Bravo es el invitado del encuentro informativo de Europa Press Andalucía.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "10:30",
+   "lugar": "Sevilla",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "ecb04ce276bd",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "moncloa",
@@ -8441,7 +8631,7 @@
    "id": "235f49661f39",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T19:53:15+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -8463,7 +8653,7 @@
    "id": "d7fa3dd5fbf9",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T21:54:31+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "moncloa",
@@ -8501,7 +8691,7 @@
    "id": "38605ae0f71d",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T09:43:20+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "moncloa",
@@ -8529,7 +8719,7 @@
    "id": "a7bfe459aa62",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T19:53:15+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -8551,7 +8741,7 @@
    "id": "2a672367c2f9",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T21:54:31+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -8573,7 +8763,7 @@
    "id": "2faf8d6d76c1",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T21:54:31+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "acn",
@@ -8595,6 +8785,25 @@
    "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
   },
   {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-26",
+   "titulo": "Ester Muñoz visita el municipio de Cistierna.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "11:00",
+   "lugar": "Cistierna",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "9bb37d433fbe",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
    "fuente": "infobae_efe",
    "organismo": "Agencia EFE",
    "persona": "",
@@ -8614,7 +8823,7 @@
    "id": "fabed9d2e89f",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T21:54:31+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "acn",
@@ -8655,7 +8864,7 @@
    "id": "4fc6d8562f2b",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T21:54:31+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -8677,7 +8886,7 @@
    "id": "7eacaddf76e2",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T21:54:31+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -8699,7 +8908,7 @@
    "id": "d96742856950",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T21:54:31+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -8721,7 +8930,26 @@
    "id": "8e80bf95f61a",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T21:54:31+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "Alma Ezcurra",
+   "cargo": "La vicesecretaria de Coordinación Sectorial",
+   "fecha": "2026-11-26",
+   "titulo": "La vicesecretaria de Coordinación Sectorial, Alma Ezcurra, visita la mesa informativa del PP en el barrio de Salamanca.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "11:00",
+   "lugar": "Madrid",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "20cf28766a14",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -8743,7 +8971,7 @@
    "id": "ad0d1c6b18f2",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T21:54:31+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -8765,7 +8993,7 @@
    "id": "e30112ce85bf",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T21:54:31+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "acn",
@@ -8806,7 +9034,7 @@
    "id": "445b2d9fffa5",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T21:54:31+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "moncloa",
@@ -8825,7 +9053,7 @@
    "id": "93a4131b75fc",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T19:53:15+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -8847,7 +9075,7 @@
    "id": "145c3910988f",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T21:54:31+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "moncloa",
@@ -8870,7 +9098,26 @@
    "id": "c9849b28b365",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T19:53:15+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "Carmen Fúnez",
+   "cargo": "La vicesecretaria de Sanidad y Política Social",
+   "fecha": "2026-11-26",
+   "titulo": "La vicesecretaria de Sanidad y Política Social, Carmen Fúnez, y el alcalde de Madrid, José Luis Martínez Almeida, atienden a los medios junto a los alcaldes de Ciudad Real, Francisco Cañizares, y de Puertollano, Miguel Ángel Ruiz. Posteriormente realizarán un paseo electoral por el centro de la ciudad",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "11:30",
+   "lugar": "Ciudad Real",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "19d67836812b",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "generalitat",
@@ -8915,7 +9162,7 @@
    "id": "7bb1073aed20",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T21:54:31+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -8937,7 +9184,83 @@
    "id": "8e1eaf30c217",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T21:54:31+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "Elías Bendodo",
+   "cargo": "El vicesecretario de Política Autonómica, Local y Análisis Electoral del PP",
+   "fecha": "2026-11-26",
+   "titulo": "El vicesecretario de Política Autonómica, Local y Análisis Electoral del PP, Elías Bendodo; el presidente del PP andaluz, Juanma Moreno; la presidenta provincial, Patricia Navarro; y la presidenta local y alcaldesa del municipio, Ángeles Muñoz, participan en un acto público con motivo del cierre de campaña de la formación provincial.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "11:30",
+   "lugar": "Marbella",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "e7209650b31d",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "Fernando López Miras",
+   "cargo": "El presidente del Partido Popular de la Región de Murcia",
+   "fecha": "2026-11-26",
+   "titulo": "El presidente del Partido Popular de la Región de Murcia, Fernando López Miras; la cabeza de lista al Congreso, Miriam Guardiola; el cabeza de lista al Senado, Francisco Bernabé; junto al restos de miembros de las candidaturas realizan una valoración de la campaña electoral.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "11:30",
+   "lugar": "Murcia",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "099f68da0043",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-26",
+   "titulo": "Sayas participa en la mesa informativa de la coalición UPNPP.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "11:30",
+   "lugar": "Pamplona",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "6ab61c1880a2",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "Jorge Azcón",
+   "cargo": "El presidente del PP de Aragón",
+   "fecha": "2026-11-26",
+   "titulo": "El presidente del PP de Aragón, Jorge Azcón, y los candidatos al Senado y al Congreso, Emma Buj y Alberto Herrero, respectivamente, hacen balance de campaña en una rueda de prensa",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "11:30",
+   "lugar": "Teruel",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "2f96e0100100",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "generalitat",
@@ -8980,7 +9303,7 @@
    "id": "786cb9b4ccb4",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T21:54:31+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "parlament",
@@ -9040,7 +9363,7 @@
    "id": "5fffe02bf087",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T21:54:31+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -9062,7 +9385,7 @@
    "id": "11cb4fcd835f",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T21:54:31+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -9084,7 +9407,26 @@
    "id": "8a22b69be209",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T21:54:31+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-26",
+   "titulo": "Alma Ezcurra visita la mesa informativa del PP en el distrito de Chamartín.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "12:00",
+   "lugar": "Madrid",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "179a9e465670",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -9106,7 +9448,7 @@
    "id": "c54d3b8d2985",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T21:54:31+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -9129,7 +9471,26 @@
    "id": "5a96625b818e",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "María José Sáenz de Buruaga",
+   "cargo": "La presidenta del PP de Cantabria",
+   "fecha": "2026-11-26",
+   "titulo": "La presidenta del PP de Cantabria, María José Sáenz de Buruaga, interviene en un acto de cierre de campaña, acompañada de la candidata número uno al Congreso de los Diputados, Isabel Urrutia; y de la candidata al Senado y alcaldesa de Santander, Gema Igual.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "12:00",
+   "lugar": "Santander",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "4dcde62bec95",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -9151,7 +9512,45 @@
    "id": "e85498385a68",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T21:54:31+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "Álvaro Queipo",
+   "cargo": "El presidente del PP de Asturias",
+   "fecha": "2026-11-26",
+   "titulo": "El presidente del PP de Asturias, Álvaro Queipo; y la candidata al Congreso de los Diputados, Ángela Pumariega; atienden a los medios de comunicación.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "12:15",
+   "lugar": "Gijón",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "7a99b7408c2a",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-26",
+   "titulo": "Elías Bendodo es entrevistado en Canal Sur Radio.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "12:30",
+   "lugar": null,
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "7544c53c9322",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "moncloa",
@@ -9172,7 +9571,7 @@
    "id": "584a82c8915d",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T19:53:15+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -9194,7 +9593,7 @@
    "id": "623ff6bdfc5c",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T21:54:31+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "acn",
@@ -9216,6 +9615,25 @@
    "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
   },
   {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-26",
+   "titulo": "Cuca Gamarra asiste al acto por el 46 aniversario del atentado de ETA en la calle Ollerías.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "12:30",
+   "lugar": "Logroño",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "17d376b191ae",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
    "fuente": "infobae_efe",
    "organismo": "Agencia EFE",
    "persona": "",
@@ -9235,7 +9653,7 @@
    "id": "ed1d19cba847",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T21:54:31+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -9257,7 +9675,45 @@
    "id": "9bee1f4075d9",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T21:54:31+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-26",
+   "titulo": "Ester Muñoz participa en un encuentro con alcaldes y portavoces del PP de la zona.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "12:30",
+   "lugar": "Riaño",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "ae0a626fb87e",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-26",
+   "titulo": "Alicia García interviene en un acto de campaña junto al alcalde de Sotillo de La Adrada, Juan Pablo Martín; y los candidatos del PP al Congreso y al Senado por Ávila. Posteriormente, darán un paseo electoral.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "12:30",
+   "lugar": "Sotillo de la Adrada",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "42c8998c94aa",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "moncloa",
@@ -9278,7 +9734,26 @@
    "id": "4941bda0f1b2",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T19:53:15+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-26",
+   "titulo": "Alberto Nadal visita el Centro Ocupacional para personas con discapacidad intelectual de, Aspadir, junto a Janette Novo, presidenta del PP de Rivas Vaciamadrid. Atenderá a los medios a su llegada. Lugar: Avenida de la Integración 1",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "12:45",
+   "lugar": "Rivas-Vaciamadrid",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "969dfbc82bff",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "psoe_senado",
@@ -9299,7 +9774,7 @@
    "id": "da0b4900b2ec",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T17:09:59+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "ajbcn",
@@ -9344,6 +9819,44 @@
    "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
   },
   {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "Jaime de los Santos",
+   "cargo": "El vicesecretario de Educación e Igualdad del PP",
+   "fecha": "2026-11-26",
+   "titulo": "El vicesecretario de Educación e Igualdad del PP, Jaime de los Santos, y la presidenta del PP de Carabanchel, Esther Platero, recorren el eje comercial y visitan una mesa informativa del PP de Carabanchel.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "13:00",
+   "lugar": "Carabanchel",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "6bf9cbcec649",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "Miguel Ángel Valverde",
+   "cargo": "el alcalde provincial del PP",
+   "fecha": "2026-11-26",
+   "titulo": "Carmen Fúnez y José Luis Martínez Almeida participan en un mitin electoral junto al presidente del PP de Castilla-La Mancha, Paco Núñez; el alcalde provincial del PP, Miguel Ángel Valverde; y el alcalde de la ciudad, Francisco Cañizares.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "13:00",
+   "lugar": "Ciudad Real",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "4c0cc6492e60",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
    "fuente": "infobae_efe",
    "organismo": "Agencia EFE",
    "persona": "",
@@ -9363,7 +9876,7 @@
    "id": "adc49f525955",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T21:54:31+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "moncloa",
@@ -9384,7 +9897,64 @@
    "id": "ff5db89f33c1",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T19:53:15+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-26",
+   "titulo": "Cuca Gamarra es entrevistada en Radio Rioja-Cadena SER.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "13:15",
+   "lugar": null,
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "7f6422f974df",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-26",
+   "titulo": "Juan Bravo mantiene una reunión “After Work” con jóvenes de la provincia.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "13:30",
+   "lugar": "Sevilla",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "a86f9622f155",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-26",
+   "titulo": "Elías Bendodo participa en un almuerzo con alcaldes y portavoces populares de la Serranía de Ronda.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "14:00",
+   "lugar": "Atajate",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "343424265669",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -9405,7 +9975,7 @@
    "id": "5906a503373b",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T21:54:31+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "moncloa",
@@ -9426,7 +9996,26 @@
    "id": "7dee31e6a1cd",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T19:53:15+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-26",
+   "titulo": "Elías Bendodo es entrevistado en Canal Sur Televisión.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "15:00",
+   "lugar": null,
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "b070e4513e60",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "psoe_senado",
@@ -9447,7 +10036,7 @@
    "id": "cc129f60563d",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T17:09:59+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "acn",
@@ -9490,6 +10079,25 @@
    "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
   },
   {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "Dolors Montserrat",
+   "cargo": "La secretaria general del PP Europeo",
+   "fecha": "2026-11-26",
+   "titulo": "La secretaria general del PP Europeo, Dolors Montserrat, visita la carpa del PP y atiende a los medios de comunicación, junto al presidente del PP provincial, Daniel Ruiz; y la candidata al Congreso, Diana Moya. Después visitará la iluminación y el mercado navideño.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "17:00",
+   "lugar": null,
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "b21f849612bc",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
    "fuente": "moncloa",
    "organismo": "Gobierno de España",
    "persona": "Sira Rego",
@@ -9508,7 +10116,45 @@
    "id": "0aeb1d0e6967",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T19:53:15+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-26",
+   "titulo": "Cuca Gamarra participa en un encuentro con vecinos y en un paseo electoral.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "17:00",
+   "lugar": "Nájera",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "aa63a22900fb",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "Miguel Tellado",
+   "cargo": "El secretario general del PP",
+   "fecha": "2026-11-26",
+   "titulo": "El secretario general del PP, Miguel Tellado; junto al presidedente del PP de la Comuniadad Valenciana, Juanfran Pérez Llorca; intervienen en un acto del PP. Estarán acompañados por el alcalde de Orihuela, José Vegara; la candidata al Senado, Eva Ortiz; y el presidente del PP de la provincia, Toni Pérez.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "17:00",
+   "lugar": "Orihuela",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "b9780ff5a221",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "generalitat",
@@ -9530,6 +10176,44 @@
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T05:56:59+00:00",
    "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "Alfonso Rueda",
+   "cargo": "El presidente del PPdeG",
+   "fecha": "2026-11-26",
+   "titulo": "El presidente del PPdeG, Alfonso Rueda, realiza un paseo por el municipio.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "17:30",
+   "lugar": "Culleredo",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "f31dc867d559",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-26",
+   "titulo": "Núñez visita la localidad.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "17:30",
+   "lugar": "Quintanar de la Orden",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "4d1ff28b1b39",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "acn",
@@ -9569,7 +10253,7 @@
    "id": "73e0ee5abad4",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T17:09:59+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "psoe_senado",
@@ -9591,7 +10275,7 @@
    "id": "305cbf7a3adf",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T17:09:59+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "psoe_senado",
@@ -9612,7 +10296,7 @@
    "id": "b73dfd7f9e54",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T17:09:59+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "ajbcn",
@@ -9655,7 +10339,7 @@
    "id": "a1787b721d90",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T21:54:31+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -9677,7 +10361,7 @@
    "id": "7b18376ab017",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T21:54:31+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -9699,7 +10383,7 @@
    "id": "ee6581e964d0",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T21:54:31+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "acn",
@@ -9740,7 +10424,7 @@
    "id": "b72d225a9d0c",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -9762,7 +10446,7 @@
    "id": "32e9292c856c",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T21:54:31+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -9784,7 +10468,7 @@
    "id": "635db337b97e",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T21:54:31+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -9806,7 +10490,26 @@
    "id": "c06990f22683",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-26",
+   "titulo": "Sayas participa en el correré de la coalición UPN-PP.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "18:00",
+   "lugar": "Tudela",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "fd5fcdd6f8f2",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "moncloa",
@@ -9825,7 +10528,7 @@
    "id": "3b13d3b514b6",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T19:53:15+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -9847,7 +10550,7 @@
    "id": "58f0e38f58bc",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T21:54:31+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "generalitat",
@@ -9890,7 +10593,26 @@
    "id": "7be03cd68219",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T17:09:59+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-26",
+   "titulo": "Carmen Fúnez participa en el acto electoral de cierre de campaña junto al alcalde del municipio, José Lozano.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "18:30",
+   "lugar": "Almodóvar del Campo",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "aac0f969441f",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "generalitat",
@@ -9971,7 +10693,7 @@
    "id": "d9e18407f3c4",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T21:54:31+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "moncloa",
@@ -9993,7 +10715,7 @@
    "id": "7181a15f5669",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T19:53:15+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -10015,7 +10737,7 @@
    "id": "9a6f0e1a6ae0",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T21:54:31+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -10037,7 +10759,7 @@
    "id": "a6a4907904de",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T21:54:31+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "moncloa",
@@ -10058,7 +10780,83 @@
    "id": "5f16f8130d32",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T19:53:15+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-26",
+   "titulo": "El presidente del PP Vasco, Javier De Andrés cierra la campaña electoral del 29N.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "18:30",
+   "lugar": "San Sebastián",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "23e2c1558524",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "Alfonso Fernández Mañueco",
+   "cargo": "El presidente del PP de Castilla y León",
+   "fecha": "2026-11-26",
+   "titulo": "El presidente del PP de Castilla y León, Alfonso Fernández Mañueco, clausura un acto electoral junto al presidente provincial, Conrado Íscar; y los candidatos al Senado y Congreso, Jesús Julio Carnero y María Pardo.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "18:30",
+   "lugar": "Valladolid",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "96832dd72722",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-26",
+   "titulo": "Alicia García hará declaraciones a los medios en el acto de cierre de campaña del Partido Popular, en el que estará acompañada por los miembros de la candidatura del PP al Congreso y al Senado por Ávila.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "18:45",
+   "lugar": "Ávila",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "1d16426fb613",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "Alfonso Rueda",
+   "cargo": "El presidente del PPdeG",
+   "fecha": "2026-11-26",
+   "titulo": "El presidente del PPdeG, Alfonso Rueda, participa en el mitin de cierre de la campaña electoral de A Coruña.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "19:00",
+   "lugar": "A Coruña",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "d240e026d87b",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -10080,7 +10878,7 @@
    "id": "b10eb33416c3",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T21:54:31+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -10102,7 +10900,45 @@
    "id": "b447afdbb435",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T21:54:31+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "Miguel Tellado",
+   "cargo": "El secretario general del Partido Popular",
+   "fecha": "2026-11-26",
+   "titulo": "El secretario general del Partido Popular, Miguel Tellado; junto al presidente del Partido Popular de la Región de Murcia, Fernando López Miras; intervienen en un mitin de cierre de campaña; en el que también participan la presidenta del PP de Cartagena y alcaldesa del municipio, Noelia Arroyo; y el cabeza de lista al Senado, Francisco Bernabé.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "19:00",
+   "lugar": "Cartagena",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "97d2b9abf327",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-26",
+   "titulo": "Ester Muñoz participa en un acto del PP donde cerrará la campaña electoral.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "19:00",
+   "lugar": "León",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "cc20ca7ae123",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -10124,7 +10960,26 @@
    "id": "4cd67a8b5c15",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T21:54:31+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "Isabel Díaz Ayuso",
+   "cargo": "La presidenta del PP de Madrid",
+   "fecha": "2026-11-26",
+   "titulo": "La presidenta del PP de Madrid, Isabel Díaz Ayuso, participa mañana en el mitin de cierre de campaña del PP de Madrid. El acto contará también con las intervenciones de la candidata al Congreso de los Diputados, Cayetana Álvarez de Toledo; el candidato al Senado, Pedro Rollán; y el alcalde de Madrid, José Luis Martínez-Almeida.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "19:00",
+   "lugar": "Madrid",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "332093ae1e5b",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -10146,7 +11001,7 @@
    "id": "7fbf1cd6e1f6",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T21:54:31+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -10168,7 +11023,7 @@
    "id": "c92ddd1892aa",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T21:54:31+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "acn",
@@ -10209,7 +11064,28 @@
    "id": "5d0557a91ca6",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T21:54:31+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-26",
+   "titulo": "Alberto Núñez Feijóo cerrará su último acto de esta campaña junto al presidente de la Junta de Andalucía y del PP andaluz, Juanma Moreno; al candidato número uno al Congreso por Sevilla y vicesecretario del PP, Juan Bravo; y al alcalde de Sevilla, José Luis Sanz.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "19:00",
+   "lugar": "Sevilla",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [
+    "Alberto Núñez Feijóo"
+   ],
+   "relevante": true,
+   "id": "d65b23713dba",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "acn",
@@ -10250,7 +11126,26 @@
    "id": "cdf9f9e99355",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T21:54:31+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "María Guardiola",
+   "cargo": "La presidenta del PP de Extremadura",
+   "fecha": "2026-11-26",
+   "titulo": "La presidenta del PP de Extremadura, María Guardiola, interviene en el acto de cierre de campaña, acompañada por el presidente provincial del PP de Badajoz, Manuel Naharro; y el alcalde de Badajoz, Ignacio Gragera.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "19:30",
+   "lugar": "Badajoz",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "c008b855e846",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "parlament",
@@ -10272,6 +11167,25 @@
    "visto_ultima_vez": "2026-11-26T20:01:15+00:00"
   },
   {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-26",
+   "titulo": "Acto de cierre de campaña con las intervenciones de Queipo y Pumariega.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "19:30",
+   "lugar": "Gijón",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "e8f1f6385bd8",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
    "fuente": "infobae_efe",
    "organismo": "Agencia EFE",
    "persona": "",
@@ -10291,7 +11205,26 @@
    "id": "9bd53a6ed072",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T21:54:31+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "Borja Sémper",
+   "cargo": "El portavoz nacional y de campaña del PP y vicesecretario de Cultura y Deporte",
+   "fecha": "2026-11-26",
+   "titulo": "El portavoz nacional y de campaña del PP y vicesecretario de Cultura y Deporte, Borja Sémper, junto al presidente del PP de Aragón, Jorge Azcón; la alcaldesa de Zaragoza, Natalia Chueca; y la candidata al Congreso, Rocío Dívar; participan en un mitin.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "19:30",
+   "lugar": "Zaragoza",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "4c4bbc3af4e2",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "moncloa",
@@ -10310,7 +11243,7 @@
    "id": "770c9ebce76d",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T19:53:15+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "psoe_senado",
@@ -10331,7 +11264,7 @@
    "id": "a557535a0a16",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T17:09:59+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -10353,7 +11286,7 @@
    "id": "9eb174a11360",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T21:54:31+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "generalitat",
@@ -10377,6 +11310,25 @@
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T05:56:59+00:00",
    "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-26",
+   "titulo": "Cuca Gamarra interviene en el cierre de campaña de Logroño junto al presidente del PP de La Rioja, Gonzalo Capellán; y el alcalde de la ciudad, Conrado Escobar.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "20:00",
+   "lugar": "Logroño",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "f425a117ef76",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "generalitat",
@@ -10419,6 +11371,120 @@
    "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
   },
   {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-26",
+   "titulo": "Núñez asiste a la gala de entrega de los Premios Quijote 2026 que organiza ADEVI.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "20:00",
+   "lugar": "Villarrobledo",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "792146effd99",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "Fulgencio Gil",
+   "cargo": "el presidente del PP de Lorca y alcalde del municipio",
+   "fecha": "2026-11-26",
+   "titulo": "Miguel Tellado y Fernando López Miras intervienen en un mitin de cierre de campaña electoral, junto el presidente del PP de Lorca y alcalde del municipio, Fulgencio Gil; y la candidata al Senado, María Hernández.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "21:00",
+   "lugar": "Lorca",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "0e569f6cf5b6",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-26",
+   "titulo": "Alfonso Rueda participa en el mitin de cierre de campaña electoral de Ourense.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "21:00",
+   "lugar": "Ourense",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "e3a9abd75954",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-26",
+   "titulo": "Alfonso Fernández Mañueco clausura un acto electoral junto al presidente provincial, Carlos García Carbayo; y los cabezas de lista al Congreso y al Senado, Carmen Seguín y Bienvenido de Arriba.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "21:00",
+   "lugar": "Salamanca",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "4430ffcea369",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "Cuca Gamarra",
+   "cargo": "La vicesecretaria de Regeneración Institucional",
+   "fecha": "2026-11-26",
+   "titulo": "La vicesecretaria de Regeneración Institucional, Cuca Gamarra, es entrevistada en Vive La Rioja.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "21:05",
+   "lugar": null,
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "3ae111e92149",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-26",
+   "titulo": "Cuca Gamarra interviene en el acto de cierre de campaña de Calahorra junto a la alcaldesa, Mónica Arceiz.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "21:30",
+   "lugar": "Calahorra",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "991604287dd9",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
    "fuente": "infobae_efe",
    "organismo": "Agencia EFE",
    "persona": "",
@@ -10438,7 +11504,26 @@
    "id": "65ee94d1f9f6",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T21:54:31+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "pp",
+   "organismo": "Partido Popular",
+   "persona": "Rebeca Pérez",
+   "cargo": "la alcaldesa de Murcia",
+   "fecha": "2026-11-26",
+   "titulo": "Miguel Tellado y Fernando López Miras intervienen en un mitin de cierre de campaña electoral, en el que también participan la alcaldesa de Murcia, Rebeca Pérez; y los candidatos al Congreso, Miriam Guardiola y Diego Avilés.",
+   "url": "https://www.pp.es/actualidad/agenda/",
+   "hora": "23:00",
+   "lugar": "Murcia",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "cb3bb08f827f",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "psoe_senado",
@@ -10459,7 +11544,7 @@
    "id": "eda910b12344",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T17:09:59+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "moncloa",
@@ -10478,7 +11563,7 @@
    "id": "4a97d894beb2",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T19:53:15+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -10500,7 +11585,7 @@
    "id": "fbc3b65a7016",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T21:54:31+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -10522,7 +11607,64 @@
    "id": "9ca54fadb072",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T21:54:31+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "acn",
+   "organismo": "Agència Catalana de Notícies",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-27",
+   "titulo": "L'ACN entrevista el cap de l'Àrea de Ciberestafes dels Mossos, Albert Parramon, amb motiu del Black Friday",
+   "url": "https://www.acn.cat/previsions",
+   "hora": "04:00",
+   "lugar": "Barcelona",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "a9019de9e43d",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "acn",
+   "organismo": "Agència Catalana de Notícies",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-27",
+   "titulo": "L'ACN repassa els quilòmetres recorreguts pels candidats catalans durant la campanya del 29-N",
+   "url": "https://www.acn.cat/previsions",
+   "hora": "04:00",
+   "lugar": "Barcelona",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "4cefd1ecfd38",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "acn",
+   "organismo": "Agència Catalana de Notícies",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-27",
+   "titulo": "L'ACN assisteix a la jornada organitzada per Adrinoc per fomentar el relleu agrari a la Garrotxa i a l'Alt Empordà",
+   "url": "https://www.acn.cat/previsions",
+   "hora": "04:00",
+   "lugar": "Sant Ferriol",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "7a487b345c76",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "psoe_cef",
@@ -10541,7 +11683,7 @@
    "id": "6428c37c81a5",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T17:54:06+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "moncloa",
@@ -10560,9 +11702,9 @@
    ],
    "relevante": true,
    "id": "2013660222ab",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -10582,9 +11724,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "51719fd4a865",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "psoe_cef",
@@ -10605,7 +11747,28 @@
    "id": "ed61d96a14d8",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T17:54:06+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "generalitat",
+   "organismo": "Generalitat de Catalunya",
+   "persona": "Eva Menor Cantador",
+   "cargo": "La consellera d'Igualtat i Feminisme",
+   "fecha": "2026-11-27",
+   "titulo": "La consellera Menor visita La Fatarella i Masdenverge, i clou l'acte institucional del 25N a les Terres de l'Ebre.",
+   "url": "https://govern.cat/gov/agenda",
+   "hora": "09:00",
+   "lugar": null,
+   "notas": [
+    "La consellera d'Igualtat i Feminisme, Eva Menor Cantador, farà una visita institucional a l'Ajuntament de La Fatarella i assistirà a la presentació del projecte Som Ruralitats a la mateixa localitat. També visitarà l'Ajuntament de Masdenverge i clourà l'acte institucional del 25N a les Terres de l'E"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "5f159d5962da",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "psoe_cef",
@@ -10626,7 +11789,7 @@
    "id": "7c1407ffd5cf",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T17:54:06+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "parlament",
@@ -10648,6 +11811,48 @@
    "visto_ultima_vez": "2026-11-26T20:01:15+00:00"
   },
   {
+   "fuente": "generalitat",
+   "organismo": "Generalitat de Catalunya",
+   "persona": "Raúl Moreno",
+   "cargo": "El conseller de Drets Socials i Inclusió",
+   "fecha": "2026-11-27",
+   "titulo": "El conseller Moreno presenta el Pla CURA en discapacitat.",
+   "url": "https://govern.cat/gov/agenda",
+   "hora": "09:00",
+   "lugar": "Departament de Drets Socials i Inclusió (pg. del Taulat, 266-270)., Barcelona",
+   "notas": [
+    "El conseller de Drets Socials i Inclusió, Raúl Moreno, presentarà el Pla CURA en discapacitat. L'acompanyaran la secretària d'Afers Socials i Inclusió, Carolina Homar, i la directora general de l'Autonomia Personal i la Discapacitat, Sílvia Subirana."
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "96dc1a29a1f4",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "generalitat",
+   "organismo": "Generalitat de Catalunya",
+   "persona": "Núria Montserrat",
+   "cargo": "La consellera de Recerca i Universitats",
+   "fecha": "2026-11-27",
+   "titulo": "La consellera Montserrat visita diferents universitats i centres de recerca de Florència amb l'alumnat amb millors notes a les proves PAU.",
+   "url": "https://govern.cat/gov/agenda",
+   "hora": "09:00",
+   "lugar": "Florènica",
+   "notas": [
+    "La consellera de Recerca i Universitats, Núria Montserrat, visitarà diferents universitats i centres de recerca ubicats a Florència amb l'alumnat que va obtenir les millors notes a les proves d'accés a la universitats (PAU)."
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "f0fa81e4bcda",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
    "fuente": "infobae_efe",
    "organismo": "Agencia EFE",
    "persona": "",
@@ -10665,9 +11870,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "13a0ba2ce831",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -10687,9 +11892,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "719cad0b9fde",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "psoe_cef",
@@ -10710,7 +11915,26 @@
    "id": "63f1ba358d29",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T17:54:06+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "acn",
+   "organismo": "Agència Catalana de Notícies",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-27",
+   "titulo": "Els candidats per Barcelona a les eleccions generals participen en un debat a Catalunya Ràdio",
+   "url": "https://www.acn.cat/previsions",
+   "hora": "09:30",
+   "lugar": "Barcelona",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "292ca1ec67d0",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -10732,7 +11956,47 @@
    "id": "a368143ae795",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "generalitat",
+   "organismo": "Generalitat de Catalunya",
+   "persona": "Òscar Ordeig i Molist",
+   "cargo": "El conseller d'Agricultura, Ramaderia, Pesca i Alimentació",
+   "fecha": "2026-11-27",
+   "titulo": "El conseller Ordeig i la consellera Menor assisteixen a la presentació del projecte 'Som Ruralitats'.",
+   "url": "https://govern.cat/gov/agenda",
+   "hora": "09:30",
+   "lugar": "Cooperativa Sant Isidre (av. Misericòrdia, 71)., La Fatarella",
+   "notas": [
+    "El conseller d'Agricultura, Ramaderia, Pesca i Alimentació, Òscar Ordeig i Molist, i la consellera d'Igualtat i Feminisme, Eva Menor Cantador, assistiran a la presentació del projecte Som Ruralitats ."
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "d765d14e0f53",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "acn",
+   "organismo": "Agència Catalana de Notícies",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-27",
+   "titulo": "Protecció Civil informa sobre la prova de sirenes del pròxim 3 de desembre",
+   "url": "https://www.acn.cat/previsions",
+   "hora": "09:30",
+   "lugar": "Reus",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "e1f9746fc7ab",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -10752,9 +12016,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "8271e68e5bb2",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "psoe_cef",
@@ -10775,7 +12039,28 @@
    "id": "c12c3908c5a4",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T17:54:06+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "generalitat",
+   "organismo": "Generalitat de Catalunya",
+   "persona": "Ramon Espadaler",
+   "cargo": "El conseller de Justícia i Qualitat Democràtica",
+   "fecha": "2026-11-27",
+   "titulo": "El conseller Espadaler fa una visita a Montellà i Martinet.",
+   "url": "https://govern.cat/gov/agenda",
+   "hora": "10:00",
+   "lugar": null,
+   "notas": [
+    "El conseller de Justícia i Qualitat Democràtica, Ramon Espadaler, farà una visita institucional a Montellà i Martinet. També hi assistiran la delegada del Govern a l'Alt Pirineu i Aran, Sílvia Romero; el director del Memorial Democràtic, Jordi Font, i la directora dels Serveis Territorials de Justíc"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "105ce49b1004",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "ajbcn",
@@ -10796,7 +12081,7 @@
    "id": "35e1de987675",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T09:55:55+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -10816,9 +12101,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "eb0163a02aa9",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -10838,9 +12123,32 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "3723fedbc280",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "generalitat",
+   "organismo": "Generalitat de Catalunya",
+   "persona": "Sílvia Paneque",
+   "cargo": "La consellera de Territori, Habitatge i Transició Ecològica",
+   "fecha": "2026-11-27",
+   "titulo": "La consellera Paneque visita la Fundació La Fageda.",
+   "url": "https://govern.cat/gov/agenda",
+   "hora": "10:00",
+   "lugar": "Mas els Casals, s/n., Santa Pau",
+   "notas": [
+    "La consellera de Territori, Habitatge i Transició Ecològica, Sílvia Paneque, visitarà la Fundació La Fageda a Santa Pau."
+   ],
+   "temas": [],
+   "personas_vigiladas": [
+    "Sílvia Paneque"
+   ],
+   "relevante": true,
+   "id": "caca430fe9ed",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -10860,9 +12168,28 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "4f7c986cd449",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "acn",
+   "organismo": "Agència Catalana de Notícies",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-27",
+   "titulo": "I Jornada de Lideratge Infermer a Tarragona",
+   "url": "https://www.acn.cat/previsions",
+   "hora": "10:00",
+   "lugar": "Tarragona",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "ca7867465594",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "moncloa",
@@ -10881,9 +12208,9 @@
    ],
    "relevante": true,
    "id": "bcadef29e9e5",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -10903,9 +12230,91 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "385cdde458e8",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "generalitat",
+   "organismo": "Generalitat de Catalunya",
+   "persona": "Jaume Duch",
+   "cargo": "El conseller d'Unió Europea i Acció Exterior",
+   "fecha": "2026-11-27",
+   "titulo": "El conseller Duch visita el Centre de Ciència i Tecnologia Forestal de Catalunya (CTFC) i el Hub Forestal.",
+   "url": "https://govern.cat/gov/agenda",
+   "hora": "10:30",
+   "lugar": null,
+   "notas": [
+    "El conseller d'Unió Europea i Acció Exterior, Jaume Duch, visitarà el Centre de Ciència i Tecnologia Forestal de Catalunya (CTFC), a Solsona, i el Hub Forestal, a Olius."
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "d990b5116018",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "generalitat",
+   "organismo": "Generalitat de Catalunya",
+   "persona": "Salvador Illa",
+   "cargo": "El president de la Generalitat",
+   "fecha": "2026-11-27",
+   "titulo": "60è aniversari de la USOC.",
+   "url": "https://govern.cat/gov/agenda",
+   "hora": "10:30",
+   "lugar": "Auditori de la Torre Glòries (av. Diagonal, 211)., Barcelona",
+   "notas": [
+    "El president de la Generalitat, Salvador Illa, participarà al 60à aniversari de la USOC. El cap de l'Executiu farà un parlament. Els mitjans que desitgin cobrir aquest acte cal que s'acreditin enviant un correu a comunicacio@usoc.cat"
+   ],
+   "temas": [],
+   "personas_vigiladas": [
+    "Salvador Illa"
+   ],
+   "relevante": true,
+   "id": "23b526847f19",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "acn",
+   "organismo": "Agència Catalana de Notícies",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-27",
+   "titulo": "La CGT valora els set mesos de vaga a les biblioteques i informa de l'estat de les negociacions",
+   "url": "https://www.acn.cat/previsions",
+   "hora": "10:30",
+   "lugar": "Barcelona",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "cedf6446e55b",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "acn",
+   "organismo": "Agència Catalana de Notícies",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-27",
+   "titulo": "Presentació de la nova temporada de neu al Pirineu de Lleida",
+   "url": "https://www.acn.cat/previsions",
+   "hora": "10:30",
+   "lugar": "Lleida",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "d9eb783bdb69",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -10927,7 +12336,7 @@
    "id": "e03e207464f5",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -10947,9 +12356,49 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "3ca4e897220e",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "acn",
+   "organismo": "Agència Catalana de Notícies",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-27",
+   "titulo": "El conseller d'Exteriors, Jaume Duch, fa una atenció als mitjans sobre la nova Agrupació Europea de Cooperació Territorial entre Catalunya, Occitània i Andorra",
+   "url": "https://www.acn.cat/previsions",
+   "hora": "10:30",
+   "lugar": "Solsona",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "7b0f7d9cac34",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "generalitat",
+   "organismo": "Generalitat de Catalunya",
+   "persona": "Miquel Sàmper",
+   "cargo": "El conseller d'Empresa i Treball",
+   "fecha": "2026-11-27",
+   "titulo": "El conseller Sàmper intervé en el Fòrum Econòmic Catalunya - Llombardia 'Innovar per competir, cooperar per créixer', a Milà.",
+   "url": "https://govern.cat/gov/agenda",
+   "hora": "10:45",
+   "lugar": "Palazzo Giureconsulti (Piazza dei Mercanti, 2)., Milà",
+   "notas": [
+    "El conseller d'Empresa i Treball, Miquel Sàmper, intervindrà en el Fòrum Econòmic Catalunya - Llombardia Innovar per competir, cooperar per créixer , que tindrà lloc a la ciutat italiana de Milà. En concret, participarà en un diàleg amb el conseller de Desenvolupament Econòmic de la Regió de Llombar"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "960f0e9fc5b4",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -10969,9 +12418,28 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "a432cffc3366",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "acn",
+   "organismo": "Agència Catalana de Notícies",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-27",
+   "titulo": "La delegació del govern espanyol a Catalunya presenta el dispositiu de les eleccions generals",
+   "url": "https://www.acn.cat/previsions",
+   "hora": "11:00",
+   "lugar": "Barcelona",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "99a385cb82bb",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -10991,9 +12459,28 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "5d2838827268",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "acn",
+   "organismo": "Agència Catalana de Notícies",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-27",
+   "titulo": "Jornada Anual de l'AEQT",
+   "url": "https://www.acn.cat/previsions",
+   "hora": "11:00",
+   "lugar": "Tarragona",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "73e80711a28e",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -11013,9 +12500,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "98532e09984d",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "psoe_cef",
@@ -11037,7 +12524,66 @@
    "id": "f6232fbee7b4",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T17:54:06+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "generalitat",
+   "organismo": "Generalitat de Catalunya",
+   "persona": "Alícia Romero",
+   "cargo": "La consellera d'Economia i Finances",
+   "fecha": "2026-11-27",
+   "titulo": "La consellera Romero fa una visita institucional a l'Ajuntament de Cornellà.",
+   "url": "https://govern.cat/gov/agenda",
+   "hora": "11:30",
+   "lugar": "Ajuntament de Cornellà de Llobregat (pl. de l'Església, 1)., Cornellà de Llobregat",
+   "notas": [
+    "La consellera d'Economia i Finances, Alícia Romero, serà rebuda per l'alcalde de Cornellà de Llobregat, Antonio Balmón, i altres membres del consistori. Després de signar el llibre d'honor i reunir-se amb els representants municipals, la consellera visitarà diverses zones del municipi acompanyada de"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "2300b6090e13",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "acn",
+   "organismo": "Agència Catalana de Notícies",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-27",
+   "titulo": "Roda de premsa a l'ACN del cap de llista del PSC per Barcelona, Jordi Hereu",
+   "url": "https://www.acn.cat/previsions",
+   "hora": "11:30",
+   "lugar": "Barcelona",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "b0b173c57622",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "acn",
+   "organismo": "Agència Catalana de Notícies",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-27",
+   "titulo": "Acte electoral del PP amb Alberto Núñez Feijóo, Xavier Garcia Albiol i Alejandro Fernández",
+   "url": "https://www.acn.cat/previsions",
+   "hora": "11:30",
+   "lugar": "L'Hospitalet de Llobregat",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "97837b8b2cb8",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -11057,9 +12603,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "8a3b8f36e6ae",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "ajbcn",
@@ -11080,7 +12626,7 @@
    "id": "77acacbf81fb",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T11:55:26+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "psoe_cef",
@@ -11099,7 +12645,47 @@
    "id": "72947009945f",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T17:54:06+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "generalitat",
+   "organismo": "Generalitat de Catalunya",
+   "persona": "Ramon Espadaler",
+   "cargo": "El conseller de Justícia i Qualitat Democràtica",
+   "fecha": "2026-11-27",
+   "titulo": "El conseller Espadaler visita Llívia.",
+   "url": "https://govern.cat/gov/agenda",
+   "hora": "12:00",
+   "lugar": null,
+   "notas": [
+    "El conseller de Justícia i Qualitat Democràtica, Ramon Espadaler, farà una visita institucional a Llívia. També l'acompanyaran la delegada del Govern a l'Alt Pirineu i Aran, Sílvia Romero; el director del Memorial Democràtic, Jordi Font, i la directora dels Serveis Territorials de Justícia i Qualita"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "24846e98f716",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "acn",
+   "organismo": "Agència Catalana de Notícies",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-27",
+   "titulo": "Trobada amb els mitjans de la candidata per Barcelona de Junts, Míriam Nogueras",
+   "url": "https://www.acn.cat/previsions",
+   "hora": "12:00",
+   "lugar": "Barcelona",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "3c15b247cb7c",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "moncloa",
@@ -11118,9 +12704,9 @@
    ],
    "relevante": true,
    "id": "aaac4bd1b079",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -11140,9 +12726,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "4f411c044410",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -11162,9 +12748,28 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "10e756278f22",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "acn",
+   "organismo": "Agència Catalana de Notícies",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-27",
+   "titulo": "Acte electoral del PSOE, amb Pedro Sánchez (seguiment a distància)",
+   "url": "https://www.acn.cat/previsions",
+   "hora": "12:00",
+   "lugar": "Plasencia",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "75d7bae95021",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -11184,9 +12789,47 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "4b8eed70137c",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "acn",
+   "organismo": "Agència Catalana de Notícies",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-27",
+   "titulo": "Concentració en contra de les agressions, amenaces i intimidacions que pateixen els treballadors del transport públic i aparcaments",
+   "url": "https://www.acn.cat/previsions",
+   "hora": "12:00",
+   "lugar": "Tarragona",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "e18f758a9871",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "acn",
+   "organismo": "Agència Catalana de Notícies",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-27",
+   "titulo": "I Congrés Internacional d'Oleoturisme i Gastronomia",
+   "url": "https://www.acn.cat/previsions",
+   "hora": "12:00",
+   "lugar": "Ulldecona",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "a39d66c6b280",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -11206,9 +12849,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "af28544ed253",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -11228,9 +12871,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "c0d80e73a6ce",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -11250,9 +12893,49 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "b22bb2a2ba60",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "generalitat",
+   "organismo": "Generalitat de Catalunya",
+   "persona": "Òscar Ordeig i Molist",
+   "cargo": "El conseller d'Agricultura, Ramaderia, Pesca i Alimentació",
+   "fecha": "2026-11-27",
+   "titulo": "El conseller Ordeig presideix el 1r Congrés Internacional d'Oleoturisme i Gastronomia.",
+   "url": "https://govern.cat/gov/agenda",
+   "hora": "12:30",
+   "lugar": "Museu Natural de les Oliveres Mil·lenàries de l'Arión (JCGF+P3 La Miliana)., Ulldecona",
+   "notas": [
+    "El conseller d'Agricultura, Ramaderia, Pesca i Alimentació, Òscar Ordeig i Molist, presidirà el 1r Congrés Internacional d'Oleoturisme i Gastronomia."
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "437fcefba636",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "acn",
+   "organismo": "Agència Catalana de Notícies",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-27",
+   "titulo": "Declaracions del president d'ERC, Oriol Junqueras",
+   "url": "https://www.acn.cat/previsions",
+   "hora": "12:30",
+   "lugar": "Sant Vicenç dels Horts",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "0f22f2f36f30",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -11272,9 +12955,51 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "af09be29ab0d",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "generalitat",
+   "organismo": "Generalitat de Catalunya",
+   "persona": "Sílvia Paneque",
+   "cargo": "La consellera de Territori, Habitatge i Transició Ecològica",
+   "fecha": "2026-11-27",
+   "titulo": "La consellera Paneque visita les obres de rehabilitació d'habitatges del Pla 50.000 a Sant Joan de les Abadesses.",
+   "url": "https://govern.cat/gov/agenda",
+   "hora": "13:00",
+   "lugar": "Antiga caserna de la Guàrdia Civil (ctra. de Camprodon, s/n)., Sant Joan de les Abadesses",
+   "notas": [
+    "La consellera de Territori, Habitatge i Transició Ecològica, Sílvia Paneque, visitarà les obres de rehabilitació de nou habitatges inclosos en el Pla 50.000 a Sant Joan de les Abadesses."
+   ],
+   "temas": [],
+   "personas_vigiladas": [
+    "Sílvia Paneque"
+   ],
+   "relevante": true,
+   "id": "bfdbe62b2ba8",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "acn",
+   "organismo": "Agència Catalana de Notícies",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-27",
+   "titulo": "La consellera Paneque visita les obres de rehabilitació d'habitatges del Pla 50.000 a Sant Joan de les Abadesses",
+   "url": "https://www.acn.cat/previsions",
+   "hora": "13:00",
+   "lugar": "Sant Joan de les Abadesses",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "6b32dbcc917c",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -11294,9 +13019,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "eabcd0f2988f",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "moncloa",
@@ -11313,9 +13038,30 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "23c7a2e220ef",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "generalitat",
+   "organismo": "Generalitat de Catalunya",
+   "persona": "Olga Pané Mena",
+   "cargo": "La consellera de Salut",
+   "fecha": "2026-11-27",
+   "titulo": "La consellera Pané clou la Jornada del Programa d'activitat física i alimentació saludable (PAAS).",
+   "url": "https://govern.cat/gov/agenda",
+   "hora": "13:50",
+   "lugar": "Auditori de la Universitat Pompeu Fabra. Campus Ciutadella (c. de Ramon Trias Fargas, 25-27) ., Barcelona",
+   "notas": [
+    "La consellera de Salut, Olga Pané Mena, clourà la Jornada del Programa d'activitat física i alimentació saludable (PAAS). A l'acte també hi assistiran el secretari de Salut Pública, Esteve Fernández Muñoz, i el director general de Recerca i Innovació en Salut, Antoni Plasencia Taradach."
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "4a823a14fc6e",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "moncloa",
@@ -11332,9 +13078,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "97a12a480eb0",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "psoe_cef",
@@ -11355,7 +13101,49 @@
    "id": "1a57af05f1d4",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T17:54:06+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "generalitat",
+   "organismo": "Generalitat de Catalunya",
+   "persona": "Sònia Hernández Almodóvar",
+   "cargo": "La consellera de Cultura",
+   "fecha": "2026-11-27",
+   "titulo": "La consellera Hernández fa una visita institucional a Reus.",
+   "url": "https://govern.cat/gov/agenda",
+   "hora": "16:00",
+   "lugar": "Ajuntament de Reus., Reus",
+   "notas": [
+    "La consellera de Cultura, Sònia Hernández Almodóvar, farà una visita institucional a l'Ajuntament de Reus i visitarà el Centre de Lectura de Reus."
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "9e56cda1ae93",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "generalitat",
+   "organismo": "Generalitat de Catalunya",
+   "persona": "Albert Dalmau",
+   "cargo": "El conseller de la Presidència",
+   "fecha": "2026-11-27",
+   "titulo": "El conseller Dalmau fa una visita institucional a Súria.",
+   "url": "https://govern.cat/gov/agenda",
+   "hora": "16:00",
+   "lugar": "C. d'Ernest Solvay, 13., Súria",
+   "notas": [
+    "El conseller de la Presidència, Albert Dalmau, farà una visita institucional a l'Ajuntament de Súria. La delegada territorial del Govern a la Catalunya Central, Èlia Tortolero, i la secretària de Governs Locals, Núria Ventura, l'acompanyaran."
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "937519b83108",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -11375,9 +13163,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "9ccc0bc116be",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -11399,7 +13187,7 @@
    "id": "182249e105f6",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -11419,9 +13207,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "2aeac1b319d2",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -11441,9 +13229,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "dbded93f5107",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "psoe_cef",
@@ -11464,7 +13252,26 @@
    "id": "f7b5c8f4310a",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T17:54:06+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "acn",
+   "organismo": "Agència Catalana de Notícies",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-27",
+   "titulo": "Acte electoral d'ERC, amb Gabriel Rufián, Oriol Junqueras i Elisenda Alamany",
+   "url": "https://www.acn.cat/previsions",
+   "hora": "18:00",
+   "lugar": "L'Hospitalet de Llobregat",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "411d52bbdfd8",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -11484,9 +13291,47 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "0db5d0132d1c",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "acn",
+   "organismo": "Agència Catalana de Notícies",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-27",
+   "titulo": "Acte de tancament de campanya del PSOE, amb Pedro Sánchez",
+   "url": "https://www.acn.cat/previsions",
+   "hora": "18:00",
+   "lugar": "Madrid",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "f09be425908b",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "acn",
+   "organismo": "Agència Catalana de Notícies",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-27",
+   "titulo": "Acte de final de campanya de Front Ampli, amb Ada Colau, Emilio Delgado i Ernest Urtasun",
+   "url": "https://www.acn.cat/previsions",
+   "hora": "18:00",
+   "lugar": "Madrid",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "ec138235d4a8",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "psoe_cef",
@@ -11508,7 +13353,7 @@
    "id": "8e7d9e548c37",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T17:54:06+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "psoe_cef",
@@ -11529,7 +13374,7 @@
    "id": "d857b2056ee6",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T17:54:06+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "psoe_cef",
@@ -11551,7 +13396,7 @@
    "id": "45d7a7cf8c16",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T17:54:06+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -11571,9 +13416,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "8cc5621f175e",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "parlament",
@@ -11612,9 +13457,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "eab89cf55af6",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -11634,9 +13479,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "560747868a66",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -11656,9 +13501,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "7fca87cec38a",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -11678,9 +13523,47 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "d5c2727d8c25",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "acn",
+   "organismo": "Agència Catalana de Notícies",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-27",
+   "titulo": "Acte de tancament de campanya de Junts, amb Míriam Nogueras i Jordi Turull",
+   "url": "https://www.acn.cat/previsions",
+   "hora": "19:00",
+   "lugar": "Barcelona",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "5d9edc3f93a1",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "acn",
+   "organismo": "Agència Catalana de Notícies",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-27",
+   "titulo": "Acte de tancament de campanya del PSC, amb Jordi Hereu i Salvador Illa",
+   "url": "https://www.acn.cat/previsions",
+   "hora": "19:00",
+   "lugar": "Barcelona",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "7fef1b51f31c",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -11700,9 +13583,32 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "12ad1bc2acc2",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "generalitat",
+   "organismo": "Generalitat de Catalunya",
+   "persona": "Sílvia Paneque i Sureda",
+   "cargo": "La consellera de Territori, Habitatge i Transició Ecològica",
+   "fecha": "2026-11-27",
+   "titulo": "La consellera Paneque assisteix a la inauguració de l'exposició 'Fotògrafs gironins'.",
+   "url": "https://govern.cat/gov/agenda",
+   "hora": "19:00",
+   "lugar": "Local de l'AAVV Eixample (c. Maluquer i Salvador, 21)., Girona",
+   "notas": [
+    "La consellera de Territori, Habitatge i Transició Ecològica, Sílvia Paneque i Sureda, assistirà a la inauguració de l'exposició Fotògrafs gironins ."
+   ],
+   "temas": [],
+   "personas_vigiladas": [
+    "Sílvia Paneque"
+   ],
+   "relevante": true,
+   "id": "13411ea11084",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -11722,9 +13628,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "d6733b2cf8f9",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -11744,9 +13650,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "ea2dd3cfdf06",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -11766,9 +13672,28 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "2b646297f83f",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "acn",
+   "organismo": "Agència Catalana de Notícies",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-27",
+   "titulo": "Acte de tancament de campanya d'ERC, amb Gabriel Rufián, Oriol Junqueras i Elisenda Alamany",
+   "url": "https://www.acn.cat/previsions",
+   "hora": "19:00",
+   "lugar": "Sant Andreu de la Barca",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "20d91a147d6f",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -11788,9 +13713,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "dade00e5ce21",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -11810,9 +13735,70 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "e338e47401fc",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "acn",
+   "organismo": "Agència Catalana de Notícies",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-27",
+   "titulo": "Acte de tancament de campanya del PP, amb Alberto Núñez Feijóo (seguiment a distància)",
+   "url": "https://www.acn.cat/previsions",
+   "hora": "19:00",
+   "lugar": "Sevilla",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "c9cda778aaaf",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "generalitat",
+   "organismo": "Generalitat de Catalunya",
+   "persona": "Sílvia Paneque",
+   "cargo": "La consellera de Territori, Habitatge i Transició Ecològica",
+   "fecha": "2026-11-27",
+   "titulo": "La consellera Paneque participa en la Gala del Voluntariat 2026 de Girona.",
+   "url": "https://govern.cat/gov/agenda",
+   "hora": "19:30",
+   "lugar": "Espai Fundació La Caixa (pl. Poeta Marquina, 10)., Girona",
+   "notas": [
+    "La consellera de Territori, Habitatge i Transició Ecològica, Sílvia Paneque, participarà en la Gala del Voluntariat 2026 de Girona."
+   ],
+   "temas": [],
+   "personas_vigiladas": [
+    "Sílvia Paneque"
+   ],
+   "relevante": true,
+   "id": "2c85a2a3c31b",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "acn",
+   "organismo": "Agència Catalana de Notícies",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-27",
+   "titulo": "El cap del llista del PP per Barcelona, Xavier Garcia Albiol, visita Lleida",
+   "url": "https://www.acn.cat/previsions",
+   "hora": "19:30",
+   "lugar": "Lleida",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "c4a0f05169da",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -11832,9 +13818,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "f15dd0396d0b",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -11854,9 +13840,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "bcfa5bbef987",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -11876,9 +13862,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "dc26ef112a09",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -11898,9 +13884,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "ef20048b8799",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -11920,9 +13906,28 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "5fbd5039173d",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
+  },
+  {
+   "fuente": "acn",
+   "organismo": "Agència Catalana de Notícies",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-27",
+   "titulo": "Acte de final de campanya de Vox, amb Santiago Abascal (seguiment a distància)",
+   "url": "https://www.acn.cat/previsions",
+   "hora": "20:00",
+   "lugar": "València",
+   "notas": [],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "061f7cc5279c",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-27T05:59:46+00:00",
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -11942,9 +13947,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "c28b9bcf6980",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -11964,9 +13969,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "05ca64b55d64",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -11986,9 +13991,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "ade077223453",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -12010,7 +14015,7 @@
    "id": "aa9b23e1663b",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -12032,7 +14037,7 @@
    "id": "d10898ae4c94",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -12054,7 +14059,7 @@
    "id": "53d3ca9fb256",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -12076,7 +14081,7 @@
    "id": "f3d81ddb91fa",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -12098,7 +14103,7 @@
    "id": "813d5c402f6f",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -12119,7 +14124,7 @@
    "id": "f0b2e6f241a9",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -12141,7 +14146,7 @@
    "id": "f3ebdeaee38b",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -12163,7 +14168,7 @@
    "id": "68c068fccc51",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -12184,7 +14189,7 @@
    "id": "61a0daa70aae",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -12206,7 +14211,7 @@
    "id": "4359adab284f",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -12228,7 +14233,7 @@
    "id": "5991f62ccf40",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -12250,7 +14255,7 @@
    "id": "ffe7e4b915fc",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -12271,7 +14276,7 @@
    "id": "280809ac516f",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -12292,7 +14297,7 @@
    "id": "346b617a046c",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -12314,7 +14319,7 @@
    "id": "0e394c9f0f73",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -12336,7 +14341,7 @@
    "id": "25f7f793ec0a",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -12358,7 +14363,7 @@
    "id": "45955f80c8fb",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -12379,7 +14384,7 @@
    "id": "0fa58b72fb5a",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -12401,7 +14406,7 @@
    "id": "5275007c1b99",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -12423,7 +14428,7 @@
    "id": "91ca11152e33",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -12445,7 +14450,7 @@
    "id": "2d213d6c2506",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -12467,7 +14472,7 @@
    "id": "169a7be2469c",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -12488,7 +14493,7 @@
    "id": "3f541a2acb2d",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -12510,7 +14515,7 @@
    "id": "356e2070f7c9",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -12532,7 +14537,7 @@
    "id": "ef927a894511",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -12556,7 +14561,7 @@
    "id": "c7305b00b8ef",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -12578,7 +14583,7 @@
    "id": "1f941450c288",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -12600,7 +14605,7 @@
    "id": "472203cb1be1",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -12621,7 +14626,7 @@
    "id": "e4504c9e7cf8",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -12645,7 +14650,7 @@
    "id": "22bf86aaeaf9",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -12669,7 +14674,7 @@
    "id": "7cf1135b328c",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -12691,7 +14696,7 @@
    "id": "66f9a74ca12d",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -12713,7 +14718,7 @@
    "id": "903ee94486e4",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -12735,7 +14740,7 @@
    "id": "cdf3bfaba03d",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -12757,7 +14762,7 @@
    "id": "4062da263ce4",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -12779,7 +14784,7 @@
    "id": "5829e686b5f8",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -12801,7 +14806,7 @@
    "id": "fb35dcda5008",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -12823,7 +14828,7 @@
    "id": "cb838532ea45",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -12845,7 +14850,7 @@
    "id": "2d81996c4b72",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -12866,7 +14871,7 @@
    "id": "b36f6fbdeb43",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -12888,7 +14893,7 @@
    "id": "10a99b6ad8ad",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -12911,7 +14916,7 @@
    "id": "5f9c8552a61d",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -12933,7 +14938,7 @@
    "id": "c8f1974bc45a",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -12954,7 +14959,7 @@
    "id": "70ffa89f71d6",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -12976,7 +14981,7 @@
    "id": "17dfb6367b7e",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -12997,7 +15002,7 @@
    "id": "f611514a1e22",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -13018,7 +15023,7 @@
    "id": "2bbd57228af5",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -13039,7 +15044,7 @@
    "id": "91b7f1d382a3",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -13060,7 +15065,7 @@
    "id": "d9dfeb8f2f1c",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -13084,7 +15089,7 @@
    "id": "511dd75d308b",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -13105,7 +15110,7 @@
    "id": "a20e537ed776",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -13127,7 +15132,7 @@
    "id": "c778446cfdac",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -13148,7 +15153,7 @@
    "id": "da33307454e8",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -13169,7 +15174,7 @@
    "id": "684ddf19933b",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -13190,7 +15195,7 @@
    "id": "52885beeee68",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -13211,7 +15216,7 @@
    "id": "b1b8c2d4f23b",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -13233,7 +15238,7 @@
    "id": "817f3d215458",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -13254,7 +15259,7 @@
    "id": "0d4900ef6ac6",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -13275,7 +15280,7 @@
    "id": "4020eed413ab",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -13297,7 +15302,7 @@
    "id": "facf19fa896f",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -13319,7 +15324,7 @@
    "id": "de91fa87b118",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -13340,7 +15345,7 @@
    "id": "c1100dbed0e5",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -13362,7 +15367,7 @@
    "id": "eb1e06819f9d",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -13383,7 +15388,7 @@
    "id": "9365a42f5f96",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -13404,7 +15409,7 @@
    "id": "4e9595950ab6",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -13426,7 +15431,7 @@
    "id": "6a0d319242ca",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -13447,7 +15452,7 @@
    "id": "bc930f285a03",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -13468,7 +15473,7 @@
    "id": "092d3d511537",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   },
   {
    "fuente": "diba",
@@ -13489,7 +15494,7 @@
    "id": "f53212390841",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+   "visto_ultima_vez": "2026-11-27T05:59:46+00:00"
   }
  ]
 }
