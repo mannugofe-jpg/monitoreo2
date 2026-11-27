@@ -1,6 +1,74 @@
 [
  {
   "tipo": "modificacion",
+  "momento": "2026-11-27T11:54:42+00:00",
+  "id": "23c7a2e220ef",
+  "fuente": "moncloa",
+  "fecha": "2026-11-27",
+  "hora": "12:45",
+  "persona": "Óscar López",
+  "titulo": "Es entrevistado en el programa 'El Pulso', de La Séptima.",
+  "antes": {
+   "hora": "13:15",
+   "lugar": null
+  },
+  "despues": {
+   "hora": "12:45",
+   "lugar": null
+  }
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-27T11:54:42+00:00",
+  "id": "08713db175d6",
+  "fuente": "psoe_cef",
+  "fecha": "2026-11-27",
+  "hora": "10:30",
+  "persona": "",
+  "titulo": "Atención a medios para informar de asuntos de actualidad antes de participar en un reparto electoral en el barrio de Polígono Sur. En la Avenida de El Greco esquina con calle Sinaí. Sevilla"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-27T11:54:42+00:00",
+  "id": "ff5687f30046",
+  "fuente": "psoe_cef",
+  "fecha": "2026-11-27",
+  "hora": "12:30",
+  "persona": "",
+  "titulo": "Entrevista en Canal Sur Radio"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-27T11:54:42+00:00",
+  "id": "c166c456c6f0",
+  "fuente": "psoe_cef",
+  "fecha": "2026-11-27",
+  "hora": "15:00",
+  "persona": "",
+  "titulo": "Entrevista en Canal Sur Televisión"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-27T11:54:42+00:00",
+  "id": "dcfddf52915d",
+  "fuente": "psoe_cef",
+  "fecha": "2026-11-27",
+  "hora": null,
+  "persona": "",
+  "titulo": "18:00. Interviene en el acto de cierre de campaña. Hotel Barceló Sevilla Renacimiento. Av. Álvaro Alonso Barba, s/n."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-27T11:54:42+00:00",
+  "id": "a3890f4578f4",
+  "fuente": "psoe_senado",
+  "fecha": "2026-11-30",
+  "hora": "17:30",
+  "persona": "Alfonso Gil",
+  "titulo": "El secretario general del Grupo Parlamentario Socialista y senador autonómico vasco, Alfonso Gil, asiste al acto de entrega de los Premios Anastasio de Gracia 2026, otorgados por la Fundación Manuel Fernández `Lito¨, un reconocimiento a la labor y el compromiso con los derechos sociales y laborales (Auditorio Nacional, c/Príncipe de Vergara, 146). Madrid"
+ },
+ {
+  "tipo": "modificacion",
   "momento": "2026-11-27T10:03:07+00:00",
   "id": "97a12a480eb0",
   "fuente": "moncloa",
@@ -4986,65 +5054,5 @@
   "hora": "12:30",
   "persona": "",
   "titulo": "La Presidenta del Tribunal Constitucional de Argelia, Leila Asloui, imparte una conferencia bajo el título 'El derecho a un medio ambiente sano y la protección de las personas en la Constitución argelina'. C/Domenico Scarlatti, 6"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T13:13:46+00:00",
-  "id": "63ec4a5a950f",
-  "fuente": "infobae_efe",
-  "fecha": "2026-11-25",
-  "hora": "17:00",
-  "persona": "",
-  "titulo": "Congreso del Colegio Profesional de la Criminología de Madrid en el que su vicedecano, Abel González, pronunciará la conferencia inaugural '¿Quién va a prevenir los delitos del futuro?. El papel de la criminología en la sociedad algorítmica'. Centro de Estudios Financieros. Paseo del General Martínez Campos, 5"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T13:13:46+00:00",
-  "id": "26920b4d8a10",
-  "fuente": "infobae_efe",
-  "fecha": "2026-11-25",
-  "hora": "19:00",
-  "persona": "",
-  "titulo": "Acto de entrega de la IX Edición de los Premios Confilegal, al que asiste la fiscal general del Estado, Teresa Peramato, entre otras autoridades. Hotel Palace"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T13:13:46+00:00",
-  "id": "95f4891cff56",
-  "fuente": "infobae_efe",
-  "fecha": "2026-11-25",
-  "hora": "19:00",
-  "persona": "",
-  "titulo": "Homenaje a las víctimas del terrorismo en la víspera de las XII Jornadas de Concienciación y Sensibilización Social, organizadas por la Asociación Plataforma de Apoyo a las Víctimas del Terrorismo (APAVT), junto con la Asociación Víctimas del Terrorismo (AVT). Alderdi Eder"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T13:13:46+00:00",
-  "id": "64748c8ecf5c",
-  "fuente": "infobae_efe",
-  "fecha": "2026-11-25",
-  "hora": "09:00",
-  "persona": "",
-  "titulo": "El XI Simposium del Observatorio de Catástrofes presenta el 'Barómetro de las Catástrofes en España 2025' y el 'Informe especial sobre Grandes Incendios Forestales en 2026'. De 09:00 a 14:30 horas en el Instituto de la Ingeniería de España. C/General Arrando 38"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T13:13:46+00:00",
-  "id": "591980424503",
-  "fuente": "infobae_efe",
-  "fecha": "2026-11-25",
-  "hora": "09:30",
-  "persona": "",
-  "titulo": "Fundación Naturgy y el Capítulo Español del Club de Roma organizan una nueva sesión de 'Conversaciones entre expertos' para analizar la reciente COP31 organizada en Antalya. Entre los participantes, la directora general de la Oficina Española de Cambio Climático, Elena Pita. Avenida de América, 38"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T13:13:46+00:00",
-  "id": "b101ab0d8c6d",
-  "fuente": "infobae_efe",
-  "fecha": "2026-11-25",
-  "hora": "11:30",
-  "persona": "",
-  "titulo": "Investigadores en cáncer abordarán el aumento de determinados tumores en adultos jóvenes menores de 50 años. FIBES Palacio de Congresos y Exposiciones"
  }
 ]
