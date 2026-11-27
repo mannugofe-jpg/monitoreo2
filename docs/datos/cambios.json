@@ -1,6 +1,36 @@
 [
  {
   "tipo": "alta",
+  "momento": "2026-11-27T15:49:35+00:00",
+  "id": "d435144297cc",
+  "fuente": "parlament",
+  "fecha": "2026-11-28",
+  "hora": "12:00",
+  "persona": "Josep Rull",
+  "titulo": "El president, Josep Rull, assisteix al partit entre les seleccions femenines de futbol de Catalunya i Corea del Sud"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-27T15:49:35+00:00",
+  "id": "ee512a7034ad",
+  "fuente": "parlament",
+  "fecha": "2026-11-28",
+  "hora": "18:00",
+  "persona": "Josep Rull",
+  "titulo": "El president, Josep Rull, assisteix a la celebració del cinquantè aniversari de l'associació La Nostra Dansa"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-27T15:49:35+00:00",
+  "id": "dc2109653e2b",
+  "fuente": "parlament",
+  "fecha": "2026-11-29",
+  "hora": "11:00",
+  "persona": "Josep Rull",
+  "titulo": "El president, Josep Rull, exerceix el seu dret de vot en les eleccions generals"
+ },
+ {
+  "tipo": "alta",
   "momento": "2026-11-27T14:19:12+00:00",
   "id": "e23a39a63fc9",
   "fuente": "generalitat",
@@ -5024,35 +5054,5 @@
   "hora": null,
   "persona": "",
   "titulo": "La candidata de Frente Amplio a la Presidencia del Gobierno, Ada Colau, participa en la manifestación por el 25N en Madrid"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T13:13:46+00:00",
-  "id": "ec0c6589c919",
-  "fuente": "infobae_efe",
-  "fecha": "2026-11-25",
-  "hora": null,
-  "persona": "",
-  "titulo": "La Comisión Europea actualiza su boletín petrolero, que incluye la evolución del precio medio de la gasolina y el gasóleo durante la última semana en los 27 Estados miembros de la Unión Europea"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T13:13:46+00:00",
-  "id": "e2ffd1d1cd2f",
-  "fuente": "infobae_efe",
-  "fecha": "2026-11-25",
-  "hora": null,
-  "persona": "",
-  "titulo": "Ifema acoge la Semana Internacional de la Electrificación y la Descarbonización, que reúne a más de 750 empresas participantes y cuenta con espacios de debate en torno a los grandes retos que plantea la transformación del modelo energético, entre ellos del Instituto Imdea, de Energía, con una jornada sobre IA o energía nuclear"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T13:13:46+00:00",
-  "id": "e5d557ab4ee6",
-  "fuente": "infobae_efe",
-  "fecha": "2026-11-25",
-  "hora": "09:00",
-  "persona": "",
-  "titulo": "El INE publica la estadística de las hipotecas firmadas en septiembre"
  }
 ]
