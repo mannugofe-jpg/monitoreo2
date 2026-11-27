@@ -1,5 +1,51 @@
 [
  {
+  "tipo": "modificacion",
+  "momento": "2026-11-27T10:03:07+00:00",
+  "id": "97a12a480eb0",
+  "fuente": "moncloa",
+  "fecha": "2026-11-27",
+  "hora": "15:45",
+  "persona": "Félix Bolaños",
+  "titulo": "Es entrevistado en el programa 'En línea', de La Séptima.",
+  "antes": {
+   "hora": "15:00",
+   "lugar": null
+  },
+  "despues": {
+   "hora": "15:45",
+   "lugar": null
+  }
+ },
+ {
+  "tipo": "modificacion",
+  "momento": "2026-11-27T10:03:07+00:00",
+  "id": "437fcefba636",
+  "fuente": "generalitat",
+  "fecha": "2026-11-27",
+  "hora": "12:30",
+  "persona": "Òscar Ordeig i Molist",
+  "titulo": "El conseller Ordeig presideix el 1r Congrés Internacional d'Oleoturisme i Gastronomia.",
+  "antes": {
+   "hora": "12:30",
+   "lugar": "Museu Natural de les Oliveres Mil·lenàries de l'Arión (JCGF+P3 La Miliana)., Ulldecona"
+  },
+  "despues": {
+   "hora": "12:30",
+   "lugar": "Museu Natural de les Oliveres Mil·lenàries de l'Arión (JCGF+P3 La Miliana)., Ulldecona"
+  }
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-27T10:03:07+00:00",
+  "id": "f64166dadef7",
+  "fuente": "ajbcn",
+  "fecha": "2026-11-30",
+  "hora": "09:00",
+  "persona": "",
+  "titulo": "Barcelona celebra el Dia Internacional de la Ciutat Educadora 2026 amb un debat sobre el pensament cític, els valors democràtics i la desinformació"
+ },
+ {
   "tipo": "alta",
   "momento": "2026-11-27T05:59:46+00:00",
   "id": "23b526847f19",
@@ -5000,35 +5046,5 @@
   "hora": "11:30",
   "persona": "",
   "titulo": "Investigadores en cáncer abordarán el aumento de determinados tumores en adultos jóvenes menores de 50 años. FIBES Palacio de Congresos y Exposiciones"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T13:13:46+00:00",
-  "id": "97466bfd44a0",
-  "fuente": "infobae_efe",
-  "fecha": "2026-11-25",
-  "hora": "12:00",
-  "persona": "",
-  "titulo": "La ministra de Igualdad; Ana Redondo, preside el acto institucional con motivo del Día Internacional para la Eliminación de la Violencia contra las Mujeres en el que se entregan los XXIII reconocimientos con motivo de esta conmemoración. C/ Luchana, 38"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T13:13:46+00:00",
-  "id": "7475206e9c91",
-  "fuente": "infobae_efe",
-  "fecha": "2026-11-25",
-  "hora": "12:00",
-  "persona": "",
-  "titulo": "La Fundación Conocimiento y Desarrollo (CYD) organiza un debate con representantes de los partidos políticos para conocer sus propuestas para el futuro de la universidad ante las próximas elecciones generales. Fundación Ortega-Marañón. C/Fortuny, 53"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T13:13:46+00:00",
-  "id": "e3ae575ed75c",
-  "fuente": "infobae_efe",
-  "fecha": "2026-11-25",
-  "hora": "13:30",
-  "persona": "",
-  "titulo": "Rueda de prensa en la Academia de Televisión con motivo de 'El debate 2026'. Plató A Content City"
  }
 ]
