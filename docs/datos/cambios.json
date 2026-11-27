@@ -1,6 +1,106 @@
 [
  {
   "tipo": "alta",
+  "momento": "2026-11-27T21:53:09+00:00",
+  "id": "a46fa729164f",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-28",
+  "hora": "11:30",
+  "persona": "",
+  "titulo": "El ministro del Interior, Fernando Grande-Marlaska, visita el Centro Nacional de Difusión de Datos con motivo de las elecciones del 29N. Recinto ferial de IFEMA-Madrid"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-27T21:53:09+00:00",
+  "id": "61c08811d7dc",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-28",
+  "hora": "12:30",
+  "persona": "",
+  "titulo": "La secretaria de Estado de Comunicación, Lydia del Canto, y la subsecretaria del Ministerio del Interior, Susana Crisóstomo, ofrecen una rueda de prensa para presentar los detalles de las elecciones y el dispositivo de difusión de datos. Recinto ferial de IFEMA-Madrid, pabellón 14, puerta E. (Av. del Partenón, 5)"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-27T21:53:09+00:00",
+  "id": "36b711570d5b",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-28",
+  "hora": "12:00",
+  "persona": "",
+  "titulo": "La iniciativa 'Mikel Zabalza Gogoan' organiza un acto de recuerdo al joven detenido por la Guardia Civil en 1985 en San Sebastián y cuyo cuerpo apareció 20 días después en el río Bidasoa. Barrio de Altza"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-27T21:53:09+00:00",
+  "id": "d6d6b1f0955e",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-28",
+  "hora": "10:30",
+  "persona": "",
+  "titulo": "La Diócesis de Coria-Cáceres celebra una jornada de reflexión y sensibilización sobre la trata de personas bajo el lema 'Una sociedad sin trata: dignidad, justicia y esperanza' con participación del obispo de Coria-Cáceres. Chalet de Los Málagas"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-27T21:53:09+00:00",
+  "id": "20d6b020278a",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-28",
+  "hora": "11:00",
+  "persona": "",
+  "titulo": "Recogida de basura marina organizada simultáneamente en diferentes localidades de Gipuzkoa por la red Itsas Zaintza del Barco Museo Ecoactivo Mater, en colaboración con la Diputación Foral del territorio"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-27T21:53:09+00:00",
+  "id": "b3beeea144bd",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-28",
+  "hora": "11:00",
+  "persona": "",
+  "titulo": "El colectivo Xega celebra una jornada con motivo de la reciente aprobación de la ley LGTBI en el Principado. Museo del Pueblo de Asturias"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-27T21:53:09+00:00",
+  "id": "6e98ce633b89",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-28",
+  "hora": "18:00",
+  "persona": "",
+  "titulo": "Las principales asociaciones de víctimas de la dana del 29 de octubre de 2024 y decenas de colectivos sociales de las zonas afectadas celebran una concentración en la plaza de la Virgen de València, frente al Palau de la Generalitat, para \"mantener viva\" la memoria de los 234 fallecidos en las riadas y de los tres trabajadores que perecieron en las labores de limpieza y reconstrucción. Plaza de la Virgen,"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-27T21:53:09+00:00",
+  "id": "a582efb10cf9",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-28",
+  "hora": "10:00",
+  "persona": "",
+  "titulo": "El Ateneo de Badajoz organiza una ruta histórica por las esculturas y monumentos de la ciudad de Badajoz. Pardaleras"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-27T21:53:09+00:00",
+  "id": "942af5b9631a",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-28",
+  "hora": "19:30",
+  "persona": "",
+  "titulo": "Gala de clausura de la séptima edición del Festival Internacional de Cine de Granada-Premios Lorca. Sala Paraninfo del Parque Tecnológico de la Salud (PTS)"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-27T21:53:09+00:00",
+  "id": "387248980f4b",
+  "fuente": "infobae_efe",
+  "fecha": "2026-11-28",
+  "hora": "22:00",
+  "persona": "",
+  "titulo": "Concierto del cantante Sergio Dalma, en su gira 'Ritorno a vía Dalma'. Pabellón Santiago Martín"
+ },
+ {
+  "tipo": "alta",
   "momento": "2026-11-27T19:56:06+00:00",
   "id": "18cf7a3f64a8",
   "fuente": "moncloa",
@@ -4962,105 +5062,5 @@
   "hora": "18:25",
   "persona": "",
   "titulo": "Barcelona acoge una reunión de ministros de Asuntos Exteriores de la Unión por el Mediterráneo (UpM). Palau de Pedralbes"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T13:13:46+00:00",
-  "id": "74c509b18553",
-  "fuente": "infobae_efe",
-  "fecha": "2026-11-25",
-  "hora": null,
-  "persona": "",
-  "titulo": "Último día para votar por correo"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T13:13:46+00:00",
-  "id": "76561bf240a6",
-  "fuente": "infobae_efe",
-  "fecha": "2026-11-25",
-  "hora": "09:00",
-  "persona": "",
-  "titulo": "El presidente de PNV, Aitor Esteban, presenta a los candidatos del partido al Congreso por Bizkaia, Gipuzkoa y Álava, Idoia Sagastizabal, Maribel Vaquero y Gorka Urtaran, en un coloquio en Forum Europa. H.Ercilla"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T13:13:46+00:00",
-  "id": "9ba741a9018e",
-  "fuente": "infobae_efe",
-  "fecha": "2026-11-25",
-  "hora": "10:30",
-  "persona": "",
-  "titulo": "La candidata del Coalición Canaria-Primero Canarias al Congreso por Santa Cruz de Tenerife Cristina Valido expone sus propuestas en un foro organizado por el periódico El Día. Auditorio de Tenerife"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T13:13:46+00:00",
-  "id": "8fdbf8f86e5a",
-  "fuente": "infobae_efe",
-  "fecha": "2026-11-25",
-  "hora": "12:00",
-  "persona": "",
-  "titulo": "El ministro de Hacienda y candidato socialista al Congreso por Valencia, Arcadi España, y el expresident de la Generalitat y embajador de España ante la OCDE, Ximo Puig, imparten la conferencia 'L'oportunitat valenciana, una conversa sobre finançament'. Centre Cultural La Nau, c/ de la Universitat, 2"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T13:13:46+00:00",
-  "id": "34e48861fc53",
-  "fuente": "infobae_efe",
-  "fecha": "2026-11-25",
-  "hora": "14:00",
-  "persona": "",
-  "titulo": "El ministro de la Presidencia, Justicia y Relaciones con las Cortes, Félix Bolaños, la candidata número 1 del PSRM al Congreso, María González Veracruz y el secretario general del PSRM, Francisco Lucas, ofrecen declaraciones a los medios de comunicación. Finca La Batalla"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T13:13:46+00:00",
-  "id": "39e0b1426728",
-  "fuente": "infobae_efe",
-  "fecha": "2026-11-25",
-  "hora": "16:00",
-  "persona": "",
-  "titulo": "La candidatura electoral Compromís-Front Valencià reúne a Mónica Oltra, Àgueda Micó \"y otros referentes feministas\" de las candidaturas al Congreso y el Senado de la lista unitaria de las izquierdas en un acto de campaña con motivo del 25N, previo a la manifestación feminista convocada en València. C/ Guillem de Castro, 73"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T13:13:46+00:00",
-  "id": "18cc7dfe665b",
-  "fuente": "infobae_efe",
-  "fecha": "2026-11-25",
-  "hora": "17:00",
-  "persona": "",
-  "titulo": "Las candidatas del PNV a las Cortes Generales Maribel Vaquero, Idoia Sagastizabal y Saray Zarate graban un podcast con motivo de la celebración del 25N, tras la que acuden a la manifestación convocada en el centro de San Sebastián. Sede central del PNV de Gipuzkoa. Pinu Bidea, 20"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T13:13:46+00:00",
-  "id": "ba5698a7f552",
-  "fuente": "infobae_efe",
-  "fecha": "2026-11-25",
-  "hora": "18:30",
-  "persona": "",
-  "titulo": "El expresidente del Gobierno, José María Aznar y la portavoz de campaña del PP y candidata al Congreso por León, Ester Muñoz, protagonizan un acto de campaña del partido en la capital leonesa. Teatro Nuevo Recreo Industrial"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T13:13:46+00:00",
-  "id": "de41badfbc5a",
-  "fuente": "infobae_efe",
-  "fecha": "2026-11-25",
-  "hora": "19:30",
-  "persona": "",
-  "titulo": "El líder del PP, Alberto Núñez Feijóo, protagoniza un mitin en Madrid junto a la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, y el alcalde de la capital, José Luis Martínz Almeida. Caja Mágica"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T13:13:46+00:00",
-  "id": "206f5b409ad9",
-  "fuente": "infobae_efe",
-  "fecha": "2026-11-25",
-  "hora": "19:00",
-  "persona": "",
-  "titulo": "Adelante Andalucía celebra en Isla Mágica (Sevilla) el acto de cierre de campaña de las elecciones generales del 29 de noviembre. Isla Mágica, Sevilla. Entrada por calle Juan Bautista Muñoz"
  }
 ]
