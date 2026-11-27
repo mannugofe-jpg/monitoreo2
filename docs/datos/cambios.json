@@ -1,6 +1,34 @@
 [
  {
   "tipo": "alta",
+  "momento": "2026-11-27T19:56:06+00:00",
+  "id": "18cf7a3f64a8",
+  "fuente": "moncloa",
+  "fecha": "2026-11-28",
+  "hora": "11:30",
+  "persona": "Fernando Grande-Marlaska",
+  "titulo": "Visita el dispositivo puesto en marcha en el Centro Nacional de Difusión de Datos, en el Pabellón 14 del recinto ferial de IFEMA-Madrid, para difundir la información de las elecciones generales del 29N."
+ },
+ {
+  "tipo": "modificacion",
+  "momento": "2026-11-27T19:56:06+00:00",
+  "id": "dc2109653e2b",
+  "fuente": "parlament",
+  "fecha": "2026-11-29",
+  "hora": "11:00",
+  "persona": "Josep Rull",
+  "titulo": "El president, Josep Rull, exerceix el seu dret de vot en les eleccions generals",
+  "antes": {
+   "hora": "11:00",
+   "lugar": "Escola Lanaspa-Giralt. Terrassa"
+  },
+  "despues": {
+   "hora": "11:00",
+   "lugar": "Terrassa"
+  }
+ },
+ {
+  "tipo": "alta",
   "momento": "2026-11-27T15:49:35+00:00",
   "id": "d435144297cc",
   "fuente": "parlament",
@@ -5034,25 +5062,5 @@
   "hora": "19:00",
   "persona": "",
   "titulo": "Adelante Andalucía celebra en Isla Mágica (Sevilla) el acto de cierre de campaña de las elecciones generales del 29 de noviembre. Isla Mágica, Sevilla. Entrada por calle Juan Bautista Muñoz"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T13:13:46+00:00",
-  "id": "17fbe2517c88",
-  "fuente": "infobae_efe",
-  "fecha": "2026-11-25",
-  "hora": "22:00",
-  "persona": "",
-  "titulo": "Debate electoral entre los candidatos catalanes a las elecciones generales del 29 de noviembre, organizado por TV3 y moderado por la periodista Ariadna Oltra. TV3"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T13:13:46+00:00",
-  "id": "1fc28302a065",
-  "fuente": "infobae_efe",
-  "fecha": "2026-11-25",
-  "hora": null,
-  "persona": "",
-  "titulo": "La candidata de Frente Amplio a la Presidencia del Gobierno, Ada Colau, participa en la manifestación por el 25N en Madrid"
  }
 ]
