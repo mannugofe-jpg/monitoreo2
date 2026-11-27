@@ -1,5 +1,85 @@
 [
  {
+  "tipo": "alta",
+  "momento": "2026-11-27T14:19:12+00:00",
+  "id": "e23a39a63fc9",
+  "fuente": "generalitat",
+  "fecha": "2026-11-27",
+  "hora": "18:10",
+  "persona": "Òscar Ordeig i Molist",
+  "titulo": "El conseller Ordeig assisteix a l'acte de lliurament del primer guardó \"Genet d'Honor de la vila de Guissona\"."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-27T14:19:12+00:00",
+  "id": "c8ff5980ed89",
+  "fuente": "parlament",
+  "fecha": "2026-11-27",
+  "hora": "09:00",
+  "persona": "Josep Rull",
+  "titulo": "El president, Josep Rull, fa una salutació als estudiants universitaris participants en la National Model United Nations Spain 2026"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-27T14:19:12+00:00",
+  "id": "3b7eb037a38a",
+  "fuente": "parlament",
+  "fecha": "2026-11-27",
+  "hora": "18:30",
+  "persona": "Josep Rull",
+  "titulo": "El president, Josep Rull, assisteix a l'acte de lliurament del primer guardó Genet d'Honor de la Vila de Guissona"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-27T14:19:12+00:00",
+  "id": "9f6c3865a128",
+  "fuente": "ajbcn",
+  "fecha": "2026-11-29",
+  "hora": "11:00",
+  "persona": "",
+  "titulo": "Jaume Collboni exerceix el seu dret a vot a les eleccions generals"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-27T14:19:12+00:00",
+  "id": "879e98f4428b",
+  "fuente": "ajbcn",
+  "fecha": "2026-11-30",
+  "hora": "17:30",
+  "persona": "",
+  "titulo": "Jaume Collboni participa en l’acte de retorn de l’Àgora de Serveis Socials de Barcelona"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-27T14:19:12+00:00",
+  "id": "2667f7a34917",
+  "fuente": "ajbcn",
+  "fecha": "2026-11-30",
+  "hora": "18:00",
+  "persona": "",
+  "titulo": "Jordi Valls participa en l’acte central del 25N de l’Eixample"
+ },
+ {
+  "tipo": "baja",
+  "momento": "2026-11-27T14:19:12+00:00",
+  "id": "6bc595dc6c3d",
+  "fuente": "parlament",
+  "fecha": "2026-11-27",
+  "hora": "09:00",
+  "persona": "Josep Rull",
+  "titulo": "El president, Josep Rull, fa una salutació als estudiants universitaris participants en la National Model United Nations (NMUN) Spain 2026"
+ },
+ {
+  "tipo": "baja",
+  "momento": "2026-11-27T14:19:12+00:00",
+  "id": "a2b646fe8296",
+  "fuente": "parlament",
+  "fecha": "2026-11-27",
+  "hora": "18:30",
+  "persona": "Josep Rull",
+  "titulo": "El president, Josep Rull, assisteix i clou l'acte de lliurament del primer guardó Genet d'Honor de la Vila de Guissona"
+ },
+ {
   "tipo": "modificacion",
   "momento": "2026-11-27T11:54:42+00:00",
   "id": "23c7a2e220ef",
@@ -4974,85 +5054,5 @@
   "hora": "09:00",
   "persona": "",
   "titulo": "El INE publica la estadística de las hipotecas firmadas en septiembre"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T13:13:46+00:00",
-  "id": "f24cb9da60be",
-  "fuente": "infobae_efe",
-  "fecha": "2026-11-25",
-  "hora": "10:30",
-  "persona": "",
-  "titulo": "Indra presenta su nuevo plan estratégico, con intervenciones del presidente de Indra Group, Ángel Simón, y el CEO, Josep María Recasens, entre otros ejecutivos. Avenida de Bruselas, 33-35"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T13:13:46+00:00",
-  "id": "23d885cfb607",
-  "fuente": "infobae_efe",
-  "fecha": "2026-11-25",
-  "hora": "11:00",
-  "persona": "",
-  "titulo": "El INE publica el decil de salarios del empleo principal del año 2025, con datos de la encuesta de población activa (EPA)"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T13:13:46+00:00",
-  "id": "e5f001664fc1",
-  "fuente": "infobae_efe",
-  "fecha": "2026-11-25",
-  "hora": "10:30",
-  "persona": "",
-  "titulo": "La presidenta de Redeia, Beatriz Corredor, inaugura el II Encuentro de Impacto, que reunirá a representantes de administraciones públicas, organizaciones sociales y ambientales y entidades para analizar la transformación de los territorios y la colaboración con ellos para contribuir a un desarrollo más sostenible. c/ Almagro, 5"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T13:13:46+00:00",
-  "id": "84a0ea7eec88",
-  "fuente": "infobae_efe",
-  "fecha": "2026-11-25",
-  "hora": "11:00",
-  "persona": "",
-  "titulo": "El presidente de la CEOE, Antonio Garamendi (13.15h), clausura la entrega de los XIII Premios Cepyme, en un acto que será inaugurado por la presidenta de la patronal de las pymes, Ángela de Miguel. Auditorio Banco Santander. Calle Juan Ignacio Luca de Tena 9-11"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T13:13:46+00:00",
-  "id": "a6a6bcd9c9a3",
-  "fuente": "infobae_efe",
-  "fecha": "2026-11-25",
-  "hora": "11:45",
-  "persona": "",
-  "titulo": "La Asociación Española de Asesores Fiscales (Aedaf) presenta el primer informe sobre la situación del estado de los derechos y garantías de los contribuyentes elaborado por el Observatorio Aedaf. ICAM. C/ Serrano, 9-11"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T13:13:46+00:00",
-  "id": "d7a1abbdbd9d",
-  "fuente": "infobae_efe",
-  "fecha": "2026-11-25",
-  "hora": "09:30",
-  "persona": "",
-  "titulo": "La comisaria jefa de la Policía Autonómica, Marisol Conde, y el jefe de prensa de la exconsellera de Interior Salomé Pradas, Héctor González (11.30 h.), declaran como testigos ante la jueza que instruye la causa penal por la gestión de la dana de octubre de 2024. Juzgados"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T13:13:46+00:00",
-  "id": "5c3985d93b04",
-  "fuente": "infobae_efe",
-  "fecha": "2026-11-25",
-  "hora": "10:00",
-  "persona": "",
-  "titulo": "La Audiencia Nacional celebra la quinta jornada del juicio a 17 acusados de una rama del caso 3 % por supuestas irregularidades en adjudicaciones públicas de la Generalitat de Cataluña a un cártel de empresas para proyectos de infraestructuras con las declaraciones de testigos. c/ Génova"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T13:13:46+00:00",
-  "id": "0ae421723b3f",
-  "fuente": "infobae_efe",
-  "fecha": "2026-11-25",
-  "hora": "12:30",
-  "persona": "",
-  "titulo": "La Presidenta del Tribunal Constitucional de Argelia, Leila Asloui, imparte una conferencia bajo el título 'El derecho a un medio ambiente sano y la protección de las personas en la Constitución argelina'. C/Domenico Scarlatti, 6"
  }
 ]
