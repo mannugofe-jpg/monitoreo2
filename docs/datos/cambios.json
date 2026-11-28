@@ -1,6 +1,16 @@
 [
  {
   "tipo": "alta",
+  "momento": "2026-11-28T15:42:35+00:00",
+  "id": "50ec7dfc83a5",
+  "fuente": "psoe_general",
+  "fecha": "2026-11-29",
+  "hora": "10:00",
+  "persona": "",
+  "titulo": "(hora insular)"
+ },
+ {
+  "tipo": "alta",
   "momento": "2026-11-28T08:12:58+00:00",
   "id": "600f70c6251a",
   "fuente": "generalitat",
@@ -5060,15 +5070,5 @@
   "hora": "10:00",
   "persona": "",
   "titulo": "Arranca el juicio en la Audiencia de Barcelona a un religioso que se encargaba de la enfermería de la escuela Jesuites de Casp, acusado de abusar sexualmente y hacer tocamientos a dos menores. Audiencia"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T13:13:46+00:00",
-  "id": "eb92b80c1920",
-  "fuente": "infobae_efe",
-  "fecha": "2026-11-24",
-  "hora": "10:00",
-  "persona": "",
-  "titulo": "La sección cuarta de la Audiencia Provincial de Madrid juzga a cuatro acusados de llevarse un botín de 33.000 euros, 15.000 francos suizos y 35 onzas de oro en el robo perpetrado en marzo de 2024 en un restaurante ecológico. Avenida Santiago de Compostela"
  }
 ]
