@@ -1,6 +1,284 @@
 [
  {
   "tipo": "alta",
+  "momento": "2026-11-28T08:12:58+00:00",
+  "id": "600f70c6251a",
+  "fuente": "generalitat",
+  "fecha": "2026-11-28",
+  "hora": "12:00",
+  "persona": "Berni Álvarez",
+  "titulo": "Els consellers Álvarez i Menor assisteixen al partit de futbol entre la selecció catalana femenina i la de Corea del Sud."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-28T08:12:58+00:00",
+  "id": "c01bb6d5d94b",
+  "fuente": "generalitat",
+  "fecha": "2026-11-28",
+  "hora": "13:00",
+  "persona": "Sílvia Paneque",
+  "titulo": "La consellera Paneque clou l'acte del centenari del Col·legi d'Agents Comercials de Girona."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-28T08:12:58+00:00",
+  "id": "cb9bc766ac84",
+  "fuente": "generalitat",
+  "fecha": "2026-11-28",
+  "hora": "17:00",
+  "persona": "Sílvia Paneque i Sureda",
+  "titulo": "La consellera Paneque assisteix a la commemoració dels 50 anys de l'inici de la campanya de defensa dels Aiguamolls de l'Empordà."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-28T08:12:58+00:00",
+  "id": "415c256e31a6",
+  "fuente": "diba",
+  "fecha": "2026-12-02",
+  "hora": "19:00",
+  "persona": "",
+  "titulo": "Encesa dels llums de Nadal de Can Serra, seu de la Diputació de Barcelona"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-28T08:12:58+00:00",
+  "id": "1f9e52a6dc82",
+  "fuente": "diba",
+  "fecha": "2026-12-14",
+  "hora": "10:00",
+  "persona": "",
+  "titulo": "Equipaments culturals de proximitat. Gestió, licitacions, i operativitat (2a edició)"
+ },
+ {
+  "tipo": "modificacion",
+  "momento": "2026-11-28T08:12:58+00:00",
+  "id": "fb35dcda5008",
+  "fuente": "diba",
+  "fecha": "2026-12-14",
+  "hora": null,
+  "persona": "",
+  "titulo": "Jornada de Polítiques de proximitat i cohesió social als barris",
+  "antes": {
+   "hora": null,
+   "lugar": "Universitat Pompeu Fabra – Campus del Poblenou"
+  },
+  "despues": {
+   "hora": null,
+   "lugar": "Universitat Pompeu Fabra – Campus del Poblenou"
+  }
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-28T08:12:58+00:00",
+  "id": "af009a9c13bb",
+  "fuente": "diba",
+  "fecha": "2026-11-26",
+  "hora": "09:30",
+  "persona": "",
+  "titulo": "Reunió amb les Comarques de l'Oficina Tècnica de Turisme- Agenda Soledad Bravo- esdeveniment"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-28T08:12:58+00:00",
+  "id": "8a5e7a706dce",
+  "fuente": "diba",
+  "fecha": "2026-11-25",
+  "hora": null,
+  "persona": "",
+  "titulo": "Entrevista a Ràdio Barcelona - Cadena SER - Agenda Soledad Bravo- entrevista"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-28T08:12:58+00:00",
+  "id": "feed8850311f",
+  "fuente": "diba",
+  "fecha": "2026-12-01",
+  "hora": "16:30",
+  "persona": "",
+  "titulo": "Taller per a joves Escape Room 'Dones que Transformen' a Balenyà"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-28T08:12:58+00:00",
+  "id": "cb5b120f46ac",
+  "fuente": "diba",
+  "fecha": "2026-11-27",
+  "hora": "12:30",
+  "persona": "",
+  "titulo": "Prèvia reunió Generalitat - Taula món local educació 360"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-28T08:12:58+00:00",
+  "id": "a4e09b276a3f",
+  "fuente": "diba",
+  "fecha": "2026-11-26",
+  "hora": "16:30",
+  "persona": "",
+  "titulo": "Acte Premis Innovació EAPC 2026"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-28T08:12:58+00:00",
+  "id": "bb78fd6d8f85",
+  "fuente": "diba",
+  "fecha": "2026-11-26",
+  "hora": "11:00",
+  "persona": "",
+  "titulo": "Junta de govern"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-28T08:12:58+00:00",
+  "id": "7d4af853e535",
+  "fuente": "diba",
+  "fecha": "2026-11-25",
+  "hora": "09:30",
+  "persona": "",
+  "titulo": "Jornada zones educatives de la FRMP"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-28T08:12:58+00:00",
+  "id": "740c79273d1d",
+  "fuente": "diba",
+  "fecha": "2026-12-02",
+  "hora": "10:30",
+  "persona": "",
+  "titulo": "Coneix el Servei Local de Teleassistència [Martorell]"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-28T08:12:58+00:00",
+  "id": "d0939696a812",
+  "fuente": "diba",
+  "fecha": "2026-11-25",
+  "hora": "10:30",
+  "persona": "",
+  "titulo": "Consells pràctics que ens fan la vida més fàcil, mobilitat segura i prevenció de caigudes [Sant Quintí de Mediona]"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-28T08:12:58+00:00",
+  "id": "c951d825b01c",
+  "fuente": "diba",
+  "fecha": "2027-01-19",
+  "hora": "19:00",
+  "persona": "",
+  "titulo": "Canet de Mar: taller per a famílies d’habilitats educatives en el bon ús de les pantalles"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-28T08:12:58+00:00",
+  "id": "fb43241536f3",
+  "fuente": "diba",
+  "fecha": "2027-02-11",
+  "hora": "17:00",
+  "persona": "",
+  "titulo": "Argentona: taller per a famílies d’habilitats educatives en el bon ús de les pantalles"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-28T08:12:58+00:00",
+  "id": "9d6d67358b46",
+  "fuente": "diba",
+  "fecha": "2027-03-16",
+  "hora": "09:30",
+  "persona": "",
+  "titulo": "4ª Sessió: 'Abordatge de la violència filioparental: addiccions a drogues i a pantalles, joves i les seves famílies'"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-28T08:12:58+00:00",
+  "id": "ea3607df529a",
+  "fuente": "diba",
+  "fecha": "2027-02-11",
+  "hora": "08:00",
+  "persona": "",
+  "titulo": "Arrancada del Gestor d'expedients a l'Ajuntament de Balenyà"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-28T08:12:58+00:00",
+  "id": "903612181139",
+  "fuente": "diba",
+  "fecha": "2026-12-02",
+  "hora": "12:00",
+  "persona": "",
+  "titulo": "Sessió d'Alta SeTDIBA a l'Ajuntament de Balenyà"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-28T08:12:58+00:00",
+  "id": "f5f8466042a6",
+  "fuente": "diba",
+  "fecha": "2027-02-23",
+  "hora": "09:30",
+  "persona": "",
+  "titulo": "1ª Sessió: 'Abordatge de la violència filioparental: addiccions a drogues i a pantalles, joves i les seves famílies'"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-28T08:12:58+00:00",
+  "id": "842e717327f0",
+  "fuente": "diba",
+  "fecha": "2027-03-09",
+  "hora": "09:30",
+  "persona": "",
+  "titulo": "3ª Sessió: 'Abordatge de la violència filioparental: addiccions a drogues i a pantalles, joves i les seves famílies'"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-28T08:12:58+00:00",
+  "id": "f441a5fc66e6",
+  "fuente": "diba",
+  "fecha": "2027-03-02",
+  "hora": "09:30",
+  "persona": "",
+  "titulo": "2ª Sessió: 'Abordatge de la violència filioparental: addiccions a drogues i a pantalles, joves i les seves famílies'"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-28T08:12:58+00:00",
+  "id": "5e34d331c3ee",
+  "fuente": "diba",
+  "fecha": "2026-11-25",
+  "hora": "15:30",
+  "persona": "",
+  "titulo": "Les prioritats de la presidència irlandesa de la UE davant la IA"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-28T08:12:58+00:00",
+  "id": "2b85c231c698",
+  "fuente": "diba",
+  "fecha": "2026-11-28",
+  "hora": null,
+  "persona": "",
+  "titulo": "Visibles + poesiaquina"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-28T08:12:58+00:00",
+  "id": "a9309cfcc6b9",
+  "fuente": "diba",
+  "fecha": "2026-11-26",
+  "hora": null,
+  "persona": "",
+  "titulo": "Curs de lectures ICPS"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-28T08:12:58+00:00",
+  "id": "7f0271eeb858",
+  "fuente": "diba",
+  "fecha": "2026-11-25",
+  "hora": null,
+  "persona": "",
+  "titulo": "Curs claus de gènere per a comandaments"
+ },
+ {
+  "tipo": "alta",
   "momento": "2026-11-28T05:55:34+00:00",
   "id": "9fd6f9f79546",
   "fuente": "acn",
@@ -4792,275 +5070,5 @@
   "hora": "10:00",
   "persona": "",
   "titulo": "La sección cuarta de la Audiencia Provincial de Madrid juzga a cuatro acusados de llevarse un botín de 33.000 euros, 15.000 francos suizos y 35 onzas de oro en el robo perpetrado en marzo de 2024 en un restaurante ecológico. Avenida Santiago de Compostela"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T13:13:46+00:00",
-  "id": "f5f806ac6503",
-  "fuente": "infobae_efe",
-  "fecha": "2026-11-24",
-  "hora": "10:15",
-  "persona": "",
-  "titulo": "El rey, acompañado de la ministra de Defensa, Margarita Robles, visita las instalaciones del Centro de Inteligencia y Targeting Aeroespacial (CINTAER) y del Mando del Espacio (MESPA) del Ejército del Aire y del Espacio en la Base Aérea de Torrejón"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T13:13:46+00:00",
-  "id": "e45af83b1840",
-  "fuente": "infobae_efe",
-  "fecha": "2026-11-24",
-  "hora": "10:30",
-  "persona": "",
-  "titulo": "El juez que investiga el conocido como caso Leire interroga a Cintia Rocho, integrante presuntamente del clan de narcotráfico de los Rocho, quien sostuvo que el exmagistrado José Luis Sáenz de Tejada contactó con ella y le dijo que había que eliminar a Beatriz Biedma, instructora de la causa contra el hermano de Pedro Sánchez. C/García Gutiérrez s/n"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T13:13:46+00:00",
-  "id": "a8b8fd9bf1bc",
-  "fuente": "infobae_efe",
-  "fecha": "2026-11-24",
-  "hora": "08:00",
-  "persona": "",
-  "titulo": "La Comisión Interministerial de Inmigración se reúne con la participación del presidente de Canarias, Fernando Clavijo, para analizar la situación en las islas. Palacio de la Moncloa"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T13:13:46+00:00",
-  "id": "ea71076972c8",
-  "fuente": "infobae_efe",
-  "fecha": "2026-11-24",
-  "hora": "09:00",
-  "persona": "",
-  "titulo": "La Fundación HelpAge International España presenta la guía 'Violencia de género contra mujeres mayores' en una jornada que inaugura la directora general del Imserso, María Teresa Sancho. Sede del Imserso"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T13:13:46+00:00",
-  "id": "f1a584b48578",
-  "fuente": "infobae_efe",
-  "fecha": "2026-11-24",
-  "hora": "09:00",
-  "persona": "",
-  "titulo": "Acto en el Senado por el Día Internacional de la eliminación de la Violencia contra la Mujer. Senado"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T13:13:46+00:00",
-  "id": "cbd924b2659e",
-  "fuente": "infobae_efe",
-  "fecha": "2026-11-24",
-  "hora": "09:30",
-  "persona": "",
-  "titulo": "El Consejo de Ministros aprueba tres decretos para bajar las ratios en las aulas de 0 a 3 años, en segundo ciclo de Infantil y en Bachillerato, frenar la FP 'online' y exigir nuevos requisitos a los centros privados. Moncloa"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T13:13:46+00:00",
-  "id": "86a190b5be52",
-  "fuente": "infobae_efe",
-  "fecha": "2026-11-24",
-  "hora": "10:00",
-  "persona": "",
-  "titulo": "La Fundación Más que ideas y la Asociación Española de Afectados de Cáncer de Pulmón (AEACaP) ponen en marcha el 2 Congreso sobre Cáncer de Pulmón. C/Méndez Álvaro, 30"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T13:13:46+00:00",
-  "id": "ab8412e832f5",
-  "fuente": "infobae_efe",
-  "fecha": "2026-11-24",
-  "hora": "10:00",
-  "persona": "",
-  "titulo": "La tercera edición del congreso Talent Land España reúne en Málaga a algunos de los principales creadores de contenido digital para debatir sobre el futuro de la inteligencia artificial. Palacio de Ferias y Congresos"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T13:13:46+00:00",
-  "id": "f56f5807bc3f",
-  "fuente": "infobae_efe",
-  "fecha": "2026-11-24",
-  "hora": "11:30",
-  "persona": "",
-  "titulo": "El comité de la huelga indefinida de la educación pública madrileña convoca una marcha lenta de vehículos y bicicletas que terminará con una concentración en la Puerta del Sol"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T13:13:46+00:00",
-  "id": "d47dd653700c",
-  "fuente": "infobae_efe",
-  "fecha": "2026-11-24",
-  "hora": "12:00",
-  "persona": "",
-  "titulo": "Comparecencia conjunta del cardenal Joan Josep Omella, hasta ahora arzobispo de Barcelona, y su sucesor en el cargo, el hasta ahora obispo de Girona Octavi Fra Vilà. Carrer Bisbe, 5"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T13:13:46+00:00",
-  "id": "9e76864e0fa0",
-  "fuente": "infobae_efe",
-  "fecha": "2026-11-24",
-  "hora": "11:00",
-  "persona": "",
-  "titulo": "El INE publica el censo anual de población a 1 de enero de 2026"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T13:13:46+00:00",
-  "id": "607b911a03f5",
-  "fuente": "infobae_efe",
-  "fecha": "2026-11-24",
-  "hora": "13:00",
-  "persona": "",
-  "titulo": "La Sociedad Española de Medicina de Familia y Comunitaria (SemFyC) analiza en un encuentro la situación de las bajas por incapacidad temporal (IT). Travesía de Téllez, 4"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T13:13:46+00:00",
-  "id": "dfdf54f96606",
-  "fuente": "infobae_efe",
-  "fecha": "2026-11-24",
-  "hora": "13:30",
-  "persona": "",
-  "titulo": "La ministra de Igualdad, Ana Redondo, asiste al pleno del Consejo para la Eliminación de la Discriminación Racial o Étnica (CEDRE) en la sede del Ministerio"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T13:13:46+00:00",
-  "id": "9bbc42a5eee0",
-  "fuente": "infobae_efe",
-  "fecha": "2026-11-24",
-  "hora": "18:00",
-  "persona": "",
-  "titulo": "La Fundación Secretariado Gitano presenta el evento estatal de la campaña Grandes 2026 que muestra los efectos de la educación para el futuro de niñas y niños gitanos. Paseo de la Florida, 2"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T13:13:46+00:00",
-  "id": "5878c8083c7b",
-  "fuente": "infobae_efe",
-  "fecha": "2026-11-24",
-  "hora": "18:00",
-  "persona": "",
-  "titulo": "Entrega de los Premios Meninas 2026 de la Delegación del Gobierno, con motivo del Día Internacional contra la Violencia de Género. C/Mercaderes, 9"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T13:13:46+00:00",
-  "id": "eed5f6d2a7d3",
-  "fuente": "infobae_efe",
-  "fecha": "2026-11-24",
-  "hora": "07:00",
-  "persona": "",
-  "titulo": "El Colegio Notarial de Cataluña da a conocer el inventario de la herencia del arquitecto Antoni Gaudí, que pasa a ser público al cumplirse los 100 años de su muerte"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T13:13:46+00:00",
-  "id": "08e881700276",
-  "fuente": "infobae_efe",
-  "fecha": "2026-11-24",
-  "hora": "09:30",
-  "persona": "",
-  "titulo": "Las jornadas TIIM (Turismo & Industria Musical) analizan las dinámicas del turismo musical y su importancia en el desarrollo social, cultural y económico. Roig Arena"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T13:13:46+00:00",
-  "id": "fd855f116b75",
-  "fuente": "infobae_efe",
-  "fecha": "2026-11-24",
-  "hora": "10:00",
-  "persona": "",
-  "titulo": "La Universidad de Valladolid acoge el Congreso Internacional sobre el 475 aniversario de la Controversia de Valladolid, que a mediados del siglo VXI debatió sobre los derechos de los indígenas de América. Facultad de Derecho"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T13:13:46+00:00",
-  "id": "f22f3e7040e0",
-  "fuente": "infobae_efe",
-  "fecha": "2026-11-24",
-  "hora": "10:00",
-  "persona": "",
-  "titulo": "Isabel Ordaz, Pere Ponce y Olivia Molina presentan junto a la directora Ainhoa Amestoy el espectáculo 'A puerta cerrada' de Jean-Paul Sartre. Teatros Canal"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T13:13:46+00:00",
-  "id": "482c802bf5ff",
-  "fuente": "infobae_efe",
-  "fecha": "2026-11-24",
-  "hora": "11:00",
-  "persona": "",
-  "titulo": "CaixaForum Madrid presenta la exposición 'Berlanga. Cine, vida y humor'. Paseo del Prado, 36"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T13:13:46+00:00",
-  "id": "dad7135248b3",
-  "fuente": "infobae_efe",
-  "fecha": "2026-11-24",
-  "hora": "11:00",
-  "persona": "",
-  "titulo": "Ficomic presenta la 32 edición de Manga Barcelona, salón del cómic y la cultura japonesa. Centre d'Arts Santa Mònica"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T13:13:46+00:00",
-  "id": "f1bf51d00036",
-  "fuente": "infobae_efe",
-  "fecha": "2026-11-24",
-  "hora": "11:00",
-  "persona": "",
-  "titulo": "El Disseny Hub Barcelona (DHub) acoge la presentación de la programación de la primera Bienal de Artes Digitales, que arranca este martes con la inauguración de la exposición 'Vectors'. DHub"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T13:13:46+00:00",
-  "id": "404a0ae281b6",
-  "fuente": "infobae_efe",
-  "fecha": "2026-11-24",
-  "hora": "11:30",
-  "persona": "",
-  "titulo": "El Espai Inmersa acoge la exposición del artista estadounidense Nathan Sawaya ‘Art of the Brick’, que reproduce famosas obras de arte y otros objetos mediante miles de piezas de Lego. C/ Llull, 119"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T13:13:46+00:00",
-  "id": "99e3707c7541",
-  "fuente": "infobae_efe",
-  "fecha": "2026-11-24",
-  "hora": "11:30",
-  "persona": "",
-  "titulo": "Rueda de prensa del festival Mad Cool para comunicar las novedades de su próxima edición. Nômade Temple – Sala Monopol"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T13:13:46+00:00",
-  "id": "af300b21ab50",
-  "fuente": "infobae_efe",
-  "fecha": "2026-11-24",
-  "hora": "12:00",
-  "persona": "",
-  "titulo": "El Instituto Cervantes recibe el legado en la Caja de las Letras en memoria del poeta mexicano Jaime Sabines. C/ Alcalá, 49"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T13:13:46+00:00",
-  "id": "915024ee263c",
-  "fuente": "infobae_efe",
-  "fecha": "2026-11-24",
-  "hora": "12:00",
-  "persona": "",
-  "titulo": "El Museo Nacional del Prado presenta 'Mariana de Austria'. Museo del Prado"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T13:13:46+00:00",
-  "id": "f774d62bef02",
-  "fuente": "infobae_efe",
-  "fecha": "2026-11-24",
-  "hora": "17:45",
-  "persona": "",
-  "titulo": "La reina Sofía recibe la medalla de la Universidad de Salamanca y entrega el Premio Reina Sofía de Poesía Iberoamericana. Escuelas Mayores de la Universidad de Salamanca"
  }
 ]

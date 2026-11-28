@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-28T05:55:34+00:00",
- "total": 779,
+ "generado": "2026-11-28T08:12:58+00:00",
+ "total": 805,
  "actos": [
   {
    "fuente": "diba",
@@ -261,7 +261,7 @@
    "id": "eb5e27bf532e",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -306,7 +306,7 @@
    "id": "9b550e659e24",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -747,7 +747,7 @@
    "id": "a4e2a675cd84",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -1282,7 +1282,7 @@
    "id": "9af17d70f078",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -1605,7 +1605,7 @@
    "id": "ba0d99e37e9f",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -1750,7 +1750,7 @@
    "id": "37cea3143e1c",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "pp",
@@ -1864,7 +1864,7 @@
    "id": "6d3955fe8c58",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -3597,7 +3597,7 @@
    "id": "84b3d7cc5a84",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "pp",
@@ -4270,7 +4270,7 @@
    "id": "dac502eb522d",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -4292,7 +4292,28 @@
    "id": "0c7903371277",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-25",
+   "titulo": "Jornada zones educatives de la FRMP",
+   "url": "https://do.diba.cat/api/dataset/agendageneral_ca/format/json",
+   "hora": "09:30",
+   "lugar": "Espai Cultural . Pça de Catalunya, 39-41. El Prat de Llobregat",
+   "notas": [
+    "Sostenibilitat social"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "7d4af853e535",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-28T08:12:58+00:00",
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -4336,7 +4357,7 @@
    "id": "ddbdc7436c4f",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "acn",
@@ -4668,6 +4689,30 @@
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:22:15+00:00",
    "visto_ultima_vez": "2026-11-25T21:54:31+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-25",
+   "titulo": "Consells pràctics que ens fan la vida més fàcil, mobilitat segura i prevenció de caigudes [Sant Quintí de Mediona]",
+   "url": "https://www.diba.cat/web/teleassistencia/-/consells-pr%C3%A0ctics-que-ens-fan-la-vida-m%C3%A9s-f%C3%A0cil-mobilitat-segura-i-prevenci%C3%B3-de-caigudes-sant-quint%C3%AD-de-mediona-",
+   "hora": "10:30",
+   "lugar": "Casal Joan Amades C/Lleida, 6, Sant Quintí de Mediona",
+   "notas": [
+    "Sostenibilitat social",
+    "Des del Servei Local de Teleassistència, dins del Programa de prevenció de riscos i foment de l’envelliment actiu i saludable, es realitzen campanyes preventives amb l’objectiu de fomentar l'autonomia personal i afavorir l'empoderament de les persones grans, així com incorporar h"
+   ],
+   "temas": [
+    "agua"
+   ],
+   "personas_vigiladas": [],
+   "relevante": true,
+   "id": "d0939696a812",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-28T08:12:58+00:00",
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -5598,7 +5643,7 @@
    "id": "5f7f025b593d",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -5721,7 +5766,7 @@
    "id": "6825797e46d8",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -5840,7 +5885,7 @@
    "id": "3152e4439fd5",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T17:09:59+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "pp",
@@ -6039,6 +6084,27 @@
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T05:56:59+00:00",
    "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-25",
+   "titulo": "Les prioritats de la presidència irlandesa de la UE davant la IA",
+   "url": "https://do.diba.cat/api/dataset/agendageneral_ca/format/json",
+   "hora": "15:30",
+   "lugar": "Universitat Internacional de Catalunya - Campus Barcelona (Carrer de la Immaculada, 22, Barcelona), Barcelona",
+   "notas": [
+    "Sostenibilitat social"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "5e34d331c3ee",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-28T08:12:58+00:00",
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "generalitat",
@@ -6717,7 +6783,7 @@
    "id": "78673ad02cee",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "pp",
@@ -7245,6 +7311,27 @@
    "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
   },
   {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-25",
+   "titulo": "Curs claus de gènere per a comandaments",
+   "url": "https://do.diba.cat/api/dataset/agendageneral_ca/format/json",
+   "hora": null,
+   "lugar": "La Cuina",
+   "notas": [
+    "Sostenibilitat social"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "7f0271eeb858",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-28T08:12:58+00:00",
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
+  },
+  {
    "fuente": "infobae_efe",
    "organismo": "Agencia EFE",
    "persona": "",
@@ -7332,7 +7419,29 @@
    "id": "3664ee46c0f7",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-25",
+   "titulo": "Entrevista a Ràdio Barcelona - Cadena SER - Agenda Soledad Bravo- entrevista",
+   "url": "https://www.diba.cat/web/agenda/-/entrevista-a-r%C3%A0dio-barcelona-cadena-ser-agenda-soledad-bravo-entrevista",
+   "hora": null,
+   "lugar": "Seu de Ràdio Barcelona Cadena SERCarrer de Casp, 6, Eixample, 08010 Barcelona., Barcelona",
+   "notas": [
+    "Sostenibilitat social",
+    "Atenció d'entrevista periodística sobre la prova pilot iniciada en set establiments turístics del Baix Llobregat i el Barcelonès per implementar el Protocol d’actuació davant les violències masclistes en allotjaments turístics a la província de Barcelona, impulsat per la Diputaci"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "8a5e7a706dce",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-28T08:12:58+00:00",
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "acn",
@@ -7529,7 +7638,7 @@
    "id": "3678b43a3285",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -7550,7 +7659,7 @@
    "id": "c3f2ee6bdb6a",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -7571,7 +7680,7 @@
    "id": "14e258d721ff",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -7592,7 +7701,7 @@
    "id": "1d78deb096cd",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -7613,7 +7722,7 @@
    "id": "8fec522e4f8b",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "pp",
@@ -7886,7 +7995,29 @@
    "id": "5696d81978e4",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-26",
+   "titulo": "Reunió amb les Comarques de l'Oficina Tècnica de Turisme- Agenda Soledad Bravo- esdeveniment",
+   "url": "https://www.diba.cat/web/agenda/-/reuni%C3%B3-amb-les-comarques-de-l-oficina-t%C3%A8cnica-de-turisme-agenda-soledad-bravo-esdeveniment",
+   "hora": "09:30",
+   "lugar": "Ateneu Igualadí. Carrer de Sant Pau, 9, Igualada",
+   "notas": [
+    "Sostenibilitat social",
+    "Trobada trimestral de treball organitzada per l'Oficina Tècnica de Turisme de la Gerència de Serveis de Turisme de la Diputació de Barcelona. Té com a objectiu posar en comú les línies d’actuació, programes i projectes en matèria de turisme a la demarcació de Barcelona."
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "af009a9c13bb",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-28T08:12:58+00:00",
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "pp",
@@ -8092,7 +8223,7 @@
    "id": "64eb6222ee37",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "acn",
@@ -8996,6 +9127,27 @@
    "visto_ultima_vez": "2026-11-27T21:53:09+00:00"
   },
   {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-26",
+   "titulo": "Junta de govern",
+   "url": "https://do.diba.cat/api/dataset/agendageneral_ca/format/json",
+   "hora": "11:00",
+   "lugar": "Sala de Plens de Can Serra",
+   "notas": [
+    "Sostenibilitat social"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "bb78fd6d8f85",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-28T08:12:58+00:00",
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
+  },
+  {
    "fuente": "acn",
    "organismo": "Agència Catalana de Notícies",
    "persona": "",
@@ -9341,7 +9493,7 @@
    "id": "1c2f439b10d6",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T17:09:59+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -9471,7 +9623,7 @@
    "id": "5a96625b818e",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "pp",
@@ -10079,6 +10231,27 @@
    "visto_ultima_vez": "2026-11-26T21:50:20+00:00"
   },
   {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-26",
+   "titulo": "Acte Premis Innovació EAPC 2026",
+   "url": "https://do.diba.cat/api/dataset/agendageneral_ca/format/json",
+   "hora": "16:30",
+   "lugar": "Districte Administratiu de la Generalitat de Catalunya (c. del Foc, 57 Barcelona)",
+   "notas": [
+    "Sostenibilitat social"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "a4e09b276a3f",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-28T08:12:58+00:00",
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
+  },
+  {
    "fuente": "pp",
    "organismo": "Partido Popular",
    "persona": "Dolors Montserrat",
@@ -10424,7 +10597,7 @@
    "id": "b72d225a9d0c",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -10490,7 +10663,7 @@
    "id": "c06990f22683",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "pp",
@@ -11164,7 +11337,7 @@
    "id": "a12319c92856",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "pp",
@@ -11610,6 +11783,27 @@
    "visto_ultima_vez": "2026-11-27T21:53:09+00:00"
   },
   {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-26",
+   "titulo": "Curs de lectures ICPS",
+   "url": "https://do.diba.cat/api/dataset/agendageneral_ca/format/json",
+   "hora": null,
+   "lugar": "La Cuina",
+   "notas": [
+    "Sostenibilitat social"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "a9309cfcc6b9",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-28T08:12:58+00:00",
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
+  },
+  {
    "fuente": "acn",
    "organismo": "Agència Catalana de Notícies",
    "persona": "",
@@ -11683,7 +11877,7 @@
    "id": "6428c37c81a5",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T17:54:06+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "moncloa",
@@ -11704,7 +11898,7 @@
    "id": "2013660222ab",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -11726,7 +11920,7 @@
    "id": "51719fd4a865",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "psoe_cef",
@@ -11747,7 +11941,7 @@
    "id": "ed61d96a14d8",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T17:54:06+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "generalitat",
@@ -11789,7 +11983,7 @@
    "id": "7c1407ffd5cf",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T17:54:06+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "parlament",
@@ -11827,7 +12021,7 @@
    "id": "c8ff5980ed89",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-27T14:19:12+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "generalitat",
@@ -11891,7 +12085,7 @@
    "id": "13a0ba2ce831",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -11913,7 +12107,7 @@
    "id": "719cad0b9fde",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "psoe_cef",
@@ -11934,7 +12128,7 @@
    "id": "63f1ba358d29",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T17:54:06+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "acn",
@@ -11975,7 +12169,7 @@
    "id": "a368143ae795",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "generalitat",
@@ -12037,7 +12231,7 @@
    "id": "8271e68e5bb2",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "psoe_cef",
@@ -12058,7 +12252,7 @@
    "id": "c12c3908c5a4",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T17:54:06+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "generalitat",
@@ -12122,7 +12316,7 @@
    "id": "eb0163a02aa9",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -12144,7 +12338,7 @@
    "id": "3723fedbc280",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "generalitat",
@@ -12189,7 +12383,7 @@
    "id": "4f7c986cd449",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "acn",
@@ -12229,7 +12423,7 @@
    "id": "bcadef29e9e5",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -12251,7 +12445,7 @@
    "id": "385cdde458e8",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "psoe_cef",
@@ -12272,7 +12466,7 @@
    "id": "08713db175d6",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-27T11:54:42+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "generalitat",
@@ -12376,7 +12570,7 @@
    "id": "e03e207464f5",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -12398,7 +12592,7 @@
    "id": "3ca4e897220e",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "acn",
@@ -12460,7 +12654,7 @@
    "id": "a432cffc3366",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "acn",
@@ -12501,7 +12695,7 @@
    "id": "5d2838827268",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "acn",
@@ -12542,7 +12736,7 @@
    "id": "98532e09984d",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "psoe_cef",
@@ -12564,7 +12758,7 @@
    "id": "f6232fbee7b4",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T17:54:06+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "generalitat",
@@ -12645,7 +12839,7 @@
    "id": "8a3b8f36e6ae",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "ajbcn",
@@ -12685,7 +12879,7 @@
    "id": "72947009945f",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T17:54:06+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "generalitat",
@@ -12746,7 +12940,7 @@
    "id": "aaac4bd1b079",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -12768,7 +12962,7 @@
    "id": "4f411c044410",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -12790,7 +12984,7 @@
    "id": "10e756278f22",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "acn",
@@ -12831,7 +13025,7 @@
    "id": "4b8eed70137c",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "acn",
@@ -12891,7 +13085,7 @@
    "id": "af28544ed253",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "psoe_cef",
@@ -12912,7 +13106,7 @@
    "id": "ff5687f30046",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-27T11:54:42+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -12934,7 +13128,7 @@
    "id": "c0d80e73a6ce",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -12956,7 +13150,28 @@
    "id": "b22bb2a2ba60",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-27",
+   "titulo": "Prèvia reunió Generalitat - Taula món local educació 360",
+   "url": "https://do.diba.cat/api/dataset/agendageneral_ca/format/json",
+   "hora": "12:30",
+   "lugar": "Meet",
+   "notas": [
+    "Sostenibilitat social"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "cb5b120f46ac",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-28T08:12:58+00:00",
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "generalitat",
@@ -13018,7 +13233,7 @@
    "id": "af09be29ab0d",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "moncloa",
@@ -13037,7 +13252,7 @@
    "id": "23c7a2e220ef",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "generalitat",
@@ -13101,7 +13316,7 @@
    "id": "eabcd0f2988f",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "generalitat",
@@ -13143,7 +13358,7 @@
    "id": "c166c456c6f0",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-27T11:54:42+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "psoe_cef",
@@ -13164,7 +13379,7 @@
    "id": "1a57af05f1d4",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T17:54:06+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "moncloa",
@@ -13183,7 +13398,7 @@
    "id": "97a12a480eb0",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "generalitat",
@@ -13247,7 +13462,7 @@
    "id": "9ccc0bc116be",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -13269,7 +13484,7 @@
    "id": "182249e105f6",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -13291,7 +13506,7 @@
    "id": "2aeac1b319d2",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -13313,7 +13528,7 @@
    "id": "dbded93f5107",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "psoe_cef",
@@ -13334,7 +13549,7 @@
    "id": "f7b5c8f4310a",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T17:54:06+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "acn",
@@ -13375,7 +13590,7 @@
    "id": "0db5d0132d1c",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "acn",
@@ -13456,7 +13671,7 @@
    "id": "8e7d9e548c37",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T17:54:06+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "psoe_cef",
@@ -13477,7 +13692,7 @@
    "id": "d857b2056ee6",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T17:54:06+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "psoe_cef",
@@ -13499,7 +13714,7 @@
    "id": "45d7a7cf8c16",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T17:54:06+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -13521,7 +13736,7 @@
    "id": "8cc5621f175e",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "parlament",
@@ -13559,7 +13774,7 @@
    "id": "3b7eb037a38a",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-27T14:19:12+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -13581,7 +13796,7 @@
    "id": "eab89cf55af6",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -13603,7 +13818,7 @@
    "id": "560747868a66",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -13625,7 +13840,7 @@
    "id": "7fca87cec38a",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -13647,7 +13862,7 @@
    "id": "d5c2727d8c25",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "acn",
@@ -13707,7 +13922,7 @@
    "id": "12ad1bc2acc2",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "generalitat",
@@ -13752,7 +13967,7 @@
    "id": "d6733b2cf8f9",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -13774,7 +13989,7 @@
    "id": "ea2dd3cfdf06",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -13796,7 +14011,7 @@
    "id": "2b646297f83f",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "acn",
@@ -13837,7 +14052,7 @@
    "id": "dade00e5ce21",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -13859,7 +14074,7 @@
    "id": "e338e47401fc",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "acn",
@@ -13942,7 +14157,7 @@
    "id": "f15dd0396d0b",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -13964,7 +14179,7 @@
    "id": "bcfa5bbef987",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -13986,7 +14201,7 @@
    "id": "dc26ef112a09",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -14008,7 +14223,7 @@
    "id": "ef20048b8799",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -14030,7 +14245,7 @@
    "id": "5fbd5039173d",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "acn",
@@ -14071,7 +14286,7 @@
    "id": "c28b9bcf6980",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -14093,7 +14308,7 @@
    "id": "05ca64b55d64",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "psoe_cef",
@@ -14114,7 +14329,7 @@
    "id": "dcfddf52915d",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-27T11:54:42+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -14136,7 +14351,7 @@
    "id": "ade077223453",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-26T21:50:20+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "acn",
@@ -14153,9 +14368,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "f737c4c0ca1f",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-28T05:55:34+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "acn",
@@ -14172,9 +14387,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "9fd6f9f79546",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-28T05:55:34+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "acn",
@@ -14191,9 +14406,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "1824ed9db5b8",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-28T05:55:34+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -14215,7 +14430,7 @@
    "id": "a582efb10cf9",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-27T21:53:09+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -14237,7 +14452,7 @@
    "id": "d6d6b1f0955e",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-27T21:53:09+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -14259,7 +14474,7 @@
    "id": "b3beeea144bd",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-27T21:53:09+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -14281,7 +14496,7 @@
    "id": "20d6b020278a",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-27T21:53:09+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -14303,7 +14518,7 @@
    "id": "aa9b23e1663b",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "moncloa",
@@ -14324,7 +14539,7 @@
    "id": "18cf7a3f64a8",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-27T19:56:06+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -14346,7 +14561,7 @@
    "id": "a46fa729164f",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-27T21:53:09+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "parlament",
@@ -14365,7 +14580,28 @@
    "id": "d435144297cc",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-27T15:49:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
+  },
+  {
+   "fuente": "generalitat",
+   "organismo": "Generalitat de Catalunya",
+   "persona": "Berni Álvarez",
+   "cargo": "El conseller d'Esports",
+   "fecha": "2026-11-28",
+   "titulo": "Els consellers Álvarez i Menor assisteixen al partit de futbol entre la selecció catalana femenina i la de Corea del Sud.",
+   "url": "https://govern.cat/gov/agenda",
+   "hora": "12:00",
+   "lugar": "Estadi Narcís Sala (c. de Santa Coloma, 39)., Barcelona",
+   "notas": [
+    "El conseller d'Esports, Berni Álvarez, i la consellera d'Igualtat i Feminisme, Eva Menor Cantador, assistiran al partit de futbol entre la selecció catalana femenina i la de Corea del Sud. El secretari general del Departament d'Esports, Abel García, també hi anirà. Prèviament al partit, la conseller"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "600f70c6251a",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-28T08:12:58+00:00",
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "acn",
@@ -14382,9 +14618,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "949fd87c3ee9",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-28T05:55:34+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "acn",
@@ -14401,9 +14637,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "bb6d88107698",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-28T05:55:34+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -14425,7 +14661,7 @@
    "id": "36b711570d5b",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-27T21:53:09+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -14446,7 +14682,30 @@
    "id": "61c08811d7dc",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-27T21:53:09+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
+  },
+  {
+   "fuente": "generalitat",
+   "organismo": "Generalitat de Catalunya",
+   "persona": "Sílvia Paneque",
+   "cargo": "La consellera de Territori, Habitatge i Transició Ecològica",
+   "fecha": "2026-11-28",
+   "titulo": "La consellera Paneque clou l'acte del centenari del Col·legi d'Agents Comercials de Girona.",
+   "url": "https://govern.cat/gov/agenda",
+   "hora": "13:00",
+   "lugar": "C. Nou, 8, principal- primera., Girona",
+   "notas": [
+    "La consellera de Territori, Habitatge i Transició Ecològica, Sílvia Paneque, clourà la celebració del centenari del Col·legi d'Agents Comercials de Girona."
+   ],
+   "temas": [],
+   "personas_vigiladas": [
+    "Sílvia Paneque"
+   ],
+   "relevante": true,
+   "id": "c01bb6d5d94b",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-28T08:12:58+00:00",
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "acn",
@@ -14465,9 +14724,32 @@
    "personas_vigiladas": [],
    "relevante": true,
    "id": "d0e60535da74",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-28T05:55:34+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
+  },
+  {
+   "fuente": "generalitat",
+   "organismo": "Generalitat de Catalunya",
+   "persona": "Sílvia Paneque i Sureda",
+   "cargo": "La consellera de Territori, Habitatge i Transició Ecològica",
+   "fecha": "2026-11-28",
+   "titulo": "La consellera Paneque assisteix a la commemoració dels 50 anys de l'inici de la campanya de defensa dels Aiguamolls de l'Empordà.",
+   "url": "https://govern.cat/gov/agenda",
+   "hora": "17:00",
+   "lugar": "El Cortalet. GIV-6216 (ctra. Sant Pere Pescador-Castelló d'Empúries- km 4,2)., Castelló d'Empúries",
+   "notas": [
+    "La consellera de Territori, Habitatge i Transició Ecològica, Sílvia Paneque i Sureda, acompanyada del secretari de Transició Ecològica, Jordi Sargatal, assistirà a la commemoració dels 50 anys de l'inici de la campanya de defensa dels Aiguamolls de l'Empordà."
+   ],
+   "temas": [],
+   "personas_vigiladas": [
+    "Sílvia Paneque"
+   ],
+   "relevante": true,
+   "id": "cb9bc766ac84",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-28T08:12:58+00:00",
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -14489,7 +14771,7 @@
    "id": "d10898ae4c94",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "parlament",
@@ -14508,7 +14790,7 @@
    "id": "ee512a7034ad",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-27T15:49:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -14530,7 +14812,7 @@
    "id": "6e98ce633b89",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-27T21:53:09+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "acn",
@@ -14547,9 +14829,9 @@
    "personas_vigiladas": [],
    "relevante": false,
    "id": "0228e5a7d119",
-   "estado": "nuevo",
+   "estado": "vigente",
    "visto_primera_vez": "2026-11-28T05:55:34+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -14571,7 +14853,7 @@
    "id": "942af5b9631a",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-27T21:53:09+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "infobae_efe",
@@ -14593,7 +14875,28 @@
    "id": "387248980f4b",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-27T21:53:09+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-11-28",
+   "titulo": "Visibles + poesiaquina",
+   "url": "https://do.diba.cat/api/dataset/agendageneral_ca/format/json",
+   "hora": null,
+   "lugar": "El Pati",
+   "notas": [
+    "Sostenibilitat social"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "2b85c231c698",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-28T08:12:58+00:00",
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "ajbcn",
@@ -14614,7 +14917,7 @@
    "id": "9f6c3865a128",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-27T14:19:12+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "parlament",
@@ -14633,7 +14936,7 @@
    "id": "dc2109653e2b",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-27T15:49:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -14655,7 +14958,7 @@
    "id": "53d3ca9fb256",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -14677,7 +14980,7 @@
    "id": "f3d81ddb91fa",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "ajbcn",
@@ -14698,7 +15001,7 @@
    "id": "f64166dadef7",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-27T10:03:07+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -14720,7 +15023,7 @@
    "id": "813d5c402f6f",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "psoe_senado",
@@ -14742,7 +15045,7 @@
    "id": "a3890f4578f4",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-27T11:54:42+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "ajbcn",
@@ -14763,7 +15066,7 @@
    "id": "879e98f4428b",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-27T14:19:12+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "ajbcn",
@@ -14784,7 +15087,7 @@
    "id": "2667f7a34917",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-27T14:19:12+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -14805,7 +15108,7 @@
    "id": "f0b2e6f241a9",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -14827,7 +15130,7 @@
    "id": "f3ebdeaee38b",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -14849,7 +15152,7 @@
    "id": "68c068fccc51",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -14870,7 +15173,7 @@
    "id": "61a0daa70aae",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -14892,7 +15195,7 @@
    "id": "4359adab284f",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -14914,7 +15217,29 @@
    "id": "5991f62ccf40",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-12-01",
+   "titulo": "Taller per a joves Escape Room 'Dones que Transformen' a Balenyà",
+   "url": "https://www.diba.cat/web/ri/-/taller-per-a-joves-escape-room-dones-que-transformen-balenya",
+   "hora": "16:30",
+   "lugar": "08550 Els Hostalets de Balenyà, Barcelona, Balenyà",
+   "notas": [
+    "Sostenibilitat social",
+    "El Taller 'La Xarxa del Canvi' és una experiència formativa gamificada dinamitzada per Societat i Empresa que combina narrativa, anàlisi crítica i acció transformadora. L’activitat, adreçada a joves d'entre 15 i 20 anys, té com a objectiu principal identificar les desigualtats de"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "feed8850311f",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-28T08:12:58+00:00",
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -14936,7 +15261,7 @@
    "id": "ffe7e4b915fc",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -14957,7 +15282,7 @@
    "id": "280809ac516f",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -14978,7 +15303,7 @@
    "id": "346b617a046c",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -15000,7 +15325,7 @@
    "id": "0e394c9f0f73",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -15022,7 +15347,29 @@
    "id": "25f7f793ec0a",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-12-02",
+   "titulo": "Coneix el Servei Local de Teleassistència [Martorell]",
+   "url": "https://www.diba.cat/web/teleassistencia/-/coneix-el-servei-local-de-teleassist%C3%A8ncia-martorell-1",
+   "hora": "10:30",
+   "lugar": "Biblioteca Francesc Pujols Avda Mancomunitats Comarcals 13, Martorell",
+   "notas": [
+    "Sostenibilitat social",
+    "Des del Servei Local de Teleassistència, dins del Programa de prevenció de riscos i foment de l’envelliment actiu i saludable, es realitzen campanyes preventives amb l’objectiu de fomentar l'autonomia personal i afavorir l'empoderament de les persones grans, així com incorporar h"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "740c79273d1d",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-28T08:12:58+00:00",
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -15044,7 +15391,49 @@
    "id": "45955f80c8fb",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-12-02",
+   "titulo": "Sessió d'Alta SeTDIBA a l'Ajuntament de Balenyà",
+   "url": "https://do.diba.cat/api/dataset/agendageneral_ca/format/json",
+   "hora": "12:00",
+   "lugar": "Ajuntament de Balenyà",
+   "notas": [
+    "Sostenibilitat social"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "903612181139",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-28T08:12:58+00:00",
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-12-02",
+   "titulo": "Encesa dels llums de Nadal de Can Serra, seu de la Diputació de Barcelona",
+   "url": "https://do.diba.cat/api/dataset/agendageneral_ca/format/json",
+   "hora": "19:00",
+   "lugar": "Exterior de Can Serra. Rambla de Catalunya, 126. Barcelona",
+   "notas": [
+    "Sostenibilitat social"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "415c256e31a6",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-28T08:12:58+00:00",
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -15065,7 +15454,7 @@
    "id": "0fa58b72fb5a",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -15087,7 +15476,7 @@
    "id": "5275007c1b99",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -15109,7 +15498,7 @@
    "id": "91ca11152e33",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -15131,7 +15520,7 @@
    "id": "2d213d6c2506",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -15153,7 +15542,7 @@
    "id": "169a7be2469c",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -15174,7 +15563,7 @@
    "id": "3f541a2acb2d",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -15196,7 +15585,7 @@
    "id": "356e2070f7c9",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -15218,7 +15607,7 @@
    "id": "ef927a894511",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -15242,7 +15631,7 @@
    "id": "c7305b00b8ef",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -15264,7 +15653,7 @@
    "id": "1f941450c288",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -15286,7 +15675,7 @@
    "id": "472203cb1be1",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -15307,7 +15696,7 @@
    "id": "e4504c9e7cf8",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -15331,7 +15720,7 @@
    "id": "22bf86aaeaf9",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -15355,7 +15744,7 @@
    "id": "7cf1135b328c",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -15377,7 +15766,7 @@
    "id": "66f9a74ca12d",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -15399,7 +15788,7 @@
    "id": "903ee94486e4",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -15421,7 +15810,7 @@
    "id": "cdf3bfaba03d",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -15443,7 +15832,29 @@
    "id": "4062da263ce4",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2026-12-14",
+   "titulo": "Equipaments culturals de proximitat. Gestió, licitacions, i operativitat (2a edició)",
+   "url": "https://www.diba.cat/web/cerc/-/equipaments-culturals-de-proximitat.-gesti%C3%B3-licitacions-i-operativitat-2a-edici%C3%B3-",
+   "hora": "10:00",
+   "lugar": "Videoformació (ZOOM)",
+   "notas": [
+    "Sostenibilitat social",
+    "Els equipaments culturals de proximitat són un dels eixos principals de les polítiques culturals de molts municipis i un dels punts de connexió ineludibles amb el ciutadà. Es tracta de serveis bàsics que tenen una importància cabdal i que contribueixen a la cohesió cultural i soc"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "1f9e52a6dc82",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-28T08:12:58+00:00",
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -15465,7 +15876,7 @@
    "id": "5829e686b5f8",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -15478,16 +15889,15 @@
    "hora": null,
    "lugar": "Universitat Pompeu Fabra – Campus del Poblenou",
    "notas": [
-    "Sostenibilitat social",
-    "PROGRAMA INSCRIPCIONS"
+    "Sostenibilitat social"
    ],
    "temas": [],
    "personas_vigiladas": [],
    "relevante": false,
    "id": "fb35dcda5008",
-   "estado": "vigente",
+   "estado": "modificado",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -15509,7 +15919,7 @@
    "id": "cb838532ea45",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -15531,7 +15941,7 @@
    "id": "2d81996c4b72",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -15552,7 +15962,7 @@
    "id": "b36f6fbdeb43",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -15574,7 +15984,7 @@
    "id": "10a99b6ad8ad",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -15597,7 +16007,7 @@
    "id": "5f9c8552a61d",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -15619,7 +16029,29 @@
    "id": "c8f1974bc45a",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2027-01-19",
+   "titulo": "Canet de Mar: taller per a famílies d’habilitats educatives en el bon ús de les pantalles",
+   "url": "https://www.diba.cat/web/spott/-/canet-de-mar-taller-per-a-fam%C3%ADlies-d-habilitats-educatives-en-el-bon-%C3%BAs-de-les-pantalles",
+   "hora": "19:00",
+   "lugar": "La Masoveria. Riera Gavarra s/n 08360 Canet de Mar (Barcelona)",
+   "notas": [
+    "Sostenibilitat social",
+    "Espai de reflexió i acompanyament on les famílies obtindran eines i recursos per prevenir i gestionar les situacions problemàtiques derivades de l’ús de les pantalles i proporcionarà pautes bàsiques per aprendre a fer-ne un ús responsable a l'àmbit familiar. Per les inscripcions "
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "c951d825b01c",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-28T08:12:58+00:00",
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -15640,7 +16072,7 @@
    "id": "70ffa89f71d6",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -15662,7 +16094,7 @@
    "id": "17dfb6367b7e",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -15683,7 +16115,7 @@
    "id": "f611514a1e22",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -15704,7 +16136,7 @@
    "id": "2bbd57228af5",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -15725,7 +16157,7 @@
    "id": "91b7f1d382a3",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -15746,7 +16178,7 @@
    "id": "d9dfeb8f2f1c",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -15770,7 +16202,7 @@
    "id": "511dd75d308b",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -15791,7 +16223,7 @@
    "id": "a20e537ed776",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -15813,7 +16245,28 @@
    "id": "c778446cfdac",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2027-02-11",
+   "titulo": "Arrancada del Gestor d'expedients a l'Ajuntament de Balenyà",
+   "url": "https://do.diba.cat/api/dataset/agendageneral_ca/format/json",
+   "hora": "08:00",
+   "lugar": "Ajuntament de Balenyà",
+   "notas": [
+    "Sostenibilitat social"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "ea3607df529a",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-28T08:12:58+00:00",
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -15834,7 +16287,29 @@
    "id": "da33307454e8",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2027-02-11",
+   "titulo": "Argentona: taller per a famílies d’habilitats educatives en el bon ús de les pantalles",
+   "url": "https://www.diba.cat/web/spott/-/argentona-taller-per-a-fam%C3%ADlies-d-habilitats-educatives-en-el-bon-%C3%BAs-de-les-pantalles",
+   "hora": "17:00",
+   "lugar": "Sala d'Actes de l'Ajuntament d'Argentona. C/ Gran, 59, 08310 (Barcelona)",
+   "notas": [
+    "Sostenibilitat social",
+    "Espai de reflexió i acompanyament on les famílies obtindran eines i recursos per prevenir i gestionar les situacions problemàtiques derivades de l’ús de les pantalles i proporcionarà pautes bàsiques per aprendre a fer-ne un ús responsable a l'àmbit familiar. Per les inscripcions "
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "fb43241536f3",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-28T08:12:58+00:00",
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -15855,7 +16330,7 @@
    "id": "684ddf19933b",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -15876,7 +16351,7 @@
    "id": "52885beeee68",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -15897,7 +16372,28 @@
    "id": "b1b8c2d4f23b",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2027-02-23",
+   "titulo": "1ª Sessió: 'Abordatge de la violència filioparental: addiccions a drogues i a pantalles, joves i les seves famílies'",
+   "url": "https://do.diba.cat/api/dataset/agendageneral_ca/format/json",
+   "hora": "09:30",
+   "lugar": "Edifici Serradell, Recinte Mundet. Passeig de la Vall Hebron, 171. 08035 Barcelona, Barcelona",
+   "notas": [
+    "Sostenibilitat social"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "f5f8466042a6",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-28T08:12:58+00:00",
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -15919,7 +16415,7 @@
    "id": "817f3d215458",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -15940,7 +16436,7 @@
    "id": "0d4900ef6ac6",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -15961,7 +16457,7 @@
    "id": "4020eed413ab",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -15983,7 +16479,28 @@
    "id": "facf19fa896f",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2027-03-02",
+   "titulo": "2ª Sessió: 'Abordatge de la violència filioparental: addiccions a drogues i a pantalles, joves i les seves famílies'",
+   "url": "https://do.diba.cat/api/dataset/agendageneral_ca/format/json",
+   "hora": "09:30",
+   "lugar": "Edifici Serradell, Recinte Mundet. Passeig de la Vall Hebron, 171. 08035 Barcelona, Barcelona",
+   "notas": [
+    "Sostenibilitat social"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "f441a5fc66e6",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-28T08:12:58+00:00",
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -16005,7 +16522,7 @@
    "id": "de91fa87b118",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -16026,7 +16543,28 @@
    "id": "c1100dbed0e5",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2027-03-09",
+   "titulo": "3ª Sessió: 'Abordatge de la violència filioparental: addiccions a drogues i a pantalles, joves i les seves famílies'",
+   "url": "https://do.diba.cat/api/dataset/agendageneral_ca/format/json",
+   "hora": "09:30",
+   "lugar": "Edifici Serradell, Recinte Mundet. Passeig de la Vall Hebron, 171. 08035 Barcelona, Barcelona",
+   "notas": [
+    "Sostenibilitat social"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "842e717327f0",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-28T08:12:58+00:00",
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -16048,7 +16586,7 @@
    "id": "eb1e06819f9d",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -16069,7 +16607,7 @@
    "id": "9365a42f5f96",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -16090,7 +16628,28 @@
    "id": "4e9595950ab6",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
+  },
+  {
+   "fuente": "diba",
+   "organismo": "Diputació de Barcelona",
+   "persona": "",
+   "cargo": "",
+   "fecha": "2027-03-16",
+   "titulo": "4ª Sessió: 'Abordatge de la violència filioparental: addiccions a drogues i a pantalles, joves i les seves famílies'",
+   "url": "https://do.diba.cat/api/dataset/agendageneral_ca/format/json",
+   "hora": "09:30",
+   "lugar": "Edifici Serradell, Recinte Mundet. Passeig de la Vall Hebron, 171. 08035 Barcelona, Barcelona",
+   "notas": [
+    "Sostenibilitat social"
+   ],
+   "temas": [],
+   "personas_vigiladas": [],
+   "relevante": false,
+   "id": "9d6d67358b46",
+   "estado": "nuevo",
+   "visto_primera_vez": "2026-11-28T08:12:58+00:00",
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -16112,7 +16671,7 @@
    "id": "6a0d319242ca",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -16133,7 +16692,7 @@
    "id": "bc930f285a03",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -16154,7 +16713,7 @@
    "id": "092d3d511537",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   },
   {
    "fuente": "diba",
@@ -16175,7 +16734,7 @@
    "id": "f53212390841",
    "estado": "vigente",
    "visto_primera_vez": "2026-11-25T12:37:35+00:00",
-   "visto_ultima_vez": "2026-11-28T05:55:34+00:00"
+   "visto_ultima_vez": "2026-11-28T08:12:58+00:00"
   }
  ]
 }
