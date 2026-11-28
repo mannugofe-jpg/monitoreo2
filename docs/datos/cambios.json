@@ -1,6 +1,26 @@
 [
  {
   "tipo": "alta",
+  "momento": "2026-11-28T17:41:02+00:00",
+  "id": "234c785a0ee4",
+  "fuente": "moncloa",
+  "fecha": "2026-11-29",
+  "hora": "22:30",
+  "persona": "Fernando Grande-Marlaska",
+  "titulo": "Comparece en rueda de prensa, junto a la ministra de Inclusión, Seguridad Social y Migraciones y portavoz del Gobierno, para facilitar los datos de los resultados provisionales de las elecciones generales, en el Centro Nacional de Difusión de Datos, en el recinto ferial de IFEMA-Madrid."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-28T17:41:02+00:00",
+  "id": "f096a36980e6",
+  "fuente": "psoe_general",
+  "fecha": "2026-11-29",
+  "hora": "09:30",
+  "persona": "",
+  "titulo": "9:00 a"
+ },
+ {
+  "tipo": "alta",
   "momento": "2026-11-28T15:42:35+00:00",
   "id": "50ec7dfc83a5",
   "fuente": "psoe_general",
@@ -5050,25 +5070,5 @@
   "hora": "09:15",
   "persona": "",
   "titulo": "El exsubsecretario de la Conselleria de Justicia de la Comunitat Valenciana Ricardo García está citado a declarar como investigado por la filtración cortada de una llamada entre la Agencia Estatal de Meteorología (Aemet) y Emergencias de la Generalitat el día de la dana de octubre de 2024. Juzgado de Instrucción 6"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T13:13:46+00:00",
-  "id": "d36bdf123ba8",
-  "fuente": "infobae_efe",
-  "fecha": "2026-11-24",
-  "hora": "10:00",
-  "persona": "",
-  "titulo": "La Audiencia Nacional celebra la cuarta jornada del juicio a 17 acusados de una rama del caso 3 % por supuestas irregularidades en adjudicaciones públicas de la Generalitat de Cataluña a un cártel de empresas para proyectos de infraestructuras con las declaraciones de testigos. C/ Génova"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T13:13:46+00:00",
-  "id": "1a595fa00e9f",
-  "fuente": "infobae_efe",
-  "fecha": "2026-11-24",
-  "hora": "10:00",
-  "persona": "",
-  "titulo": "Arranca el juicio en la Audiencia de Barcelona a un religioso que se encargaba de la enfermería de la escuela Jesuites de Casp, acusado de abusar sexualmente y hacer tocamientos a dos menores. Audiencia"
  }
 ]
