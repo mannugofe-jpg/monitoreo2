@@ -1,6 +1,76 @@
 [
  {
   "tipo": "alta",
+  "momento": "2026-11-28T05:55:34+00:00",
+  "id": "9fd6f9f79546",
+  "fuente": "acn",
+  "fecha": "2026-11-28",
+  "hora": "04:00",
+  "persona": "",
+  "titulo": "Els arqueòlegs de la UdG expliquen a l'ACN els resultats de la represa de les excavacions al poblat iber de la Creueta"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-28T05:55:34+00:00",
+  "id": "1824ed9db5b8",
+  "fuente": "acn",
+  "fecha": "2026-11-28",
+  "hora": "04:00",
+  "persona": "",
+  "titulo": "L'ACN visita l'Ajuntament de Santa Margarida i els Monjos amb motiu de la creació d'una capsa del temps per ser oberta el 2126."
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-28T05:55:34+00:00",
+  "id": "f737c4c0ca1f",
+  "fuente": "acn",
+  "fecha": "2026-11-28",
+  "hora": "04:00",
+  "persona": "",
+  "titulo": "L'ACN analitza les dades d'exportacions de porcí en el primer aniversari del brot de PPA"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-28T05:55:34+00:00",
+  "id": "bb6d88107698",
+  "fuente": "acn",
+  "fecha": "2026-11-28",
+  "hora": "12:00",
+  "persona": "",
+  "titulo": "Jornada extraordinària d’exàmens pràctics del carnet de conduir"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-28T05:55:34+00:00",
+  "id": "949fd87c3ee9",
+  "fuente": "acn",
+  "fecha": "2026-11-28",
+  "hora": "12:00",
+  "persona": "",
+  "titulo": "Festival internacional del Cinema del Vi i el Cava"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-28T05:55:34+00:00",
+  "id": "d0e60535da74",
+  "fuente": "acn",
+  "fecha": "2026-11-28",
+  "hora": "16:00",
+  "persona": "",
+  "titulo": "Manifestació convocada per la plataforma NO AL PLEMCAT als Aiguamolls de l’Empordà"
+ },
+ {
+  "tipo": "alta",
+  "momento": "2026-11-28T05:55:34+00:00",
+  "id": "0228e5a7d119",
+  "fuente": "acn",
+  "fecha": "2026-11-28",
+  "hora": "19:00",
+  "persona": "",
+  "titulo": "Manifestació per demanar la llibertat dels detinguts durant la vaga general que estan empresonats"
+ },
+ {
+  "tipo": "alta",
   "momento": "2026-11-27T21:53:09+00:00",
   "id": "a46fa729164f",
   "fuente": "infobae_efe",
@@ -4992,75 +5062,5 @@
   "hora": "17:45",
   "persona": "",
   "titulo": "La reina Sofía recibe la medalla de la Universidad de Salamanca y entrega el Premio Reina Sofía de Poesía Iberoamericana. Escuelas Mayores de la Universidad de Salamanca"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T13:13:46+00:00",
-  "id": "1755183a183f",
-  "fuente": "infobae_efe",
-  "fecha": "2026-11-24",
-  "hora": "19:00",
-  "persona": "",
-  "titulo": "La Filmoteca de la Región de Murcia proyecta el estreno en España de 'La reina del jueves', un documental del cineasta Orlando R0ojas que repasa la trayectoria artística y personal de la bailarina cubana Rosario Suárez \"Charín\", que asiste a la sesión y dialogará con el público. Filmoteca regional"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T13:13:46+00:00",
-  "id": "387a07c57f50",
-  "fuente": "infobae_efe",
-  "fecha": "2026-11-24",
-  "hora": "19:00",
-  "persona": "",
-  "titulo": "Barcelona acoge la primera gala de premios 7 Caníbales, que este año han distinguido, entre otros, a Asador Etxebarri y al documental 'Gènesi'. C/Rosselló, 515"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T13:13:46+00:00",
-  "id": "a02032161c7a",
-  "fuente": "infobae_efe",
-  "fecha": "2026-11-24",
-  "hora": "20:00",
-  "persona": "",
-  "titulo": "Primer Vertifest Magaluf, festival especializado en series de ficción de corta duración concebidas para ser vistas en teléfonos móviles. C/ Torrenova, 25"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T13:13:46+00:00",
-  "id": "8a29db15bea4",
-  "fuente": "infobae_efe",
-  "fecha": "2026-11-24",
-  "hora": "20:00",
-  "persona": "",
-  "titulo": "El cantante Paco Ibáñez ofrece un concierto con los temas más destacados de su trayectoria y en el que actuará junto a artistas como Joan Manuel Serrat, Maria del Mar Bonet o Amancio Prada. Gran Teatre del Liceu"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T13:13:46+00:00",
-  "id": "0b2dacb882d9",
-  "fuente": "infobae_efe",
-  "fecha": "2026-11-25",
-  "hora": "11:00",
-  "persona": "",
-  "titulo": "El expresidente de la Generalitat Carles Puigdemont ofrece una rueda de prensa desde Bruselas para valorar la aplicación de la amnistía acordada por el Tribunal Supremo. Rue Froissart, 95"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T13:13:46+00:00",
-  "id": "0b7c3478152b",
-  "fuente": "infobae_efe",
-  "fecha": "2026-11-25",
-  "hora": "12:45",
-  "persona": "",
-  "titulo": "Felipe VI mantiene un encuentro con el presidente austriaco Alexander Van der Bellen tras lo que los reyes ofrecerán un almuerzo en su honor y de su esposa. Palacio de la Zarzuela"
- },
- {
-  "tipo": "alta",
-  "momento": "2026-11-25T13:13:46+00:00",
-  "id": "8dd9a5822233",
-  "fuente": "infobae_efe",
-  "fecha": "2026-11-25",
-  "hora": "18:25",
-  "persona": "",
-  "titulo": "Barcelona acoge una reunión de ministros de Asuntos Exteriores de la Unión por el Mediterráneo (UpM). Palau de Pedralbes"
  }
 ]
